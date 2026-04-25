@@ -1,0 +1,15 @@
+{
+  "description": "Print a Scripture + insight to the terminal whenever a prompt is submitted.",
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"${CLAUDE_PLUGIN_ROOT}/scripts/show-devotional.sh\""
+          }
+        ]
+      }
+    ]
+  }
+}

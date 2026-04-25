@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "while-you-wait",
+  "description": "Devotional companionship for Christians using Claude Code.",
+  "owner": {
+    "name": "Matthew Slaughter",
+    "email": "matt@heyslaughter.com"
+  },
+  "plugins": [
+    {
+      "name": "while-you-wait",
+      "description": "Prints a Scripture and theological insight on every prompt submit.",
+      "category": "productivity",
+      "source": ".",
+      "author": {
+        "name": "Matthew Slaughter",
+        "email": "matt@heyslaughter.com"
+      }
+    }
+  ]
+}
