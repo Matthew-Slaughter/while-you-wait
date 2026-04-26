@@ -49,9 +49,12 @@ Translation mix follows the maintainer's preferences (AMP / ESV / NIV / MSG / TP
 ## Layout
 
 ```
-while-you-wait/
-├── .claude-plugin/plugin.json   # plugin manifest
-├── hooks/hooks.json             # registers UserPromptSubmit hook
-├── scripts/show-devotional.sh   # picks a random entry and prints it
-└── data/devotionals.json        # the corpus — edit freely
+while-you-wait/                              # repo root = marketplace
+├── .claude-plugin/marketplace.json          # marketplace manifest
+└── plugins/
+    └── while-you-wait/                      # the plugin itself
+        ├── .claude-plugin/plugin.json       # plugin manifest
+        ├── hooks/hooks.json                 # registers UserPromptSubmit hook
+        ├── scripts/show-devotional.sh       # picks a random entry and prints it
+        └── data/devotionals.json            # the corpus — edit freely
 ```

@@ -11,7 +11,7 @@
       "name": "while-you-wait",
       "description": "Prints a Scripture and theological insight on every prompt submit.",
       "category": "productivity",
-      "source": ".",
+      "source": "./plugins/while-you-wait",
       "author": {
         "name": "Matthew Slaughter",
         "email": "matt@heyslaughter.com"
