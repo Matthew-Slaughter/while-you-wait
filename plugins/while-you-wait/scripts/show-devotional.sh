@@ -25,26 +25,36 @@ if not entries:
     sys.exit(0)
 
 e = random.choice(entries)
-verse = e.get("verse", "").strip()
+kind = e.get("kind", "scripture")
+text = (e.get("text") or e.get("verse") or "").strip()
 ref = e.get("ref", "").strip()
+translation = e.get("translation", "").strip()
 insight = e.get("insight", "").strip()
 voice = e.get("voice", "").strip()
 
-use_color = sys.stdout.isatty() or os.environ.get("CLICOLOR_FORCE")
+use_color = os.environ.get("CLICOLOR_FORCE") or sys.stdout.isatty() or os.environ.get("WHILE_YOU_WAIT_COLOR") == "1"
 if use_color:
-    DIM = "\033[2m"; BOLD = "\033[1m"; CYAN = "\033[36m"; GOLD = "\033[33m"; RESET = "\033[0m"
+    DIM = "\033[2m"; BOLD = "\033[1m"; CYAN = "\033[36m"; GOLD = "\033[33m"; MAGENTA = "\033[35m"; RESET = "\033[0m"
 else:
-    DIM = BOLD = CYAN = GOLD = RESET = ""
+    DIM = BOLD = CYAN = GOLD = MAGENTA = RESET = ""
 
-bar = f"{DIM}─── while you wait ──────────────────────────────{RESET}"
-print(bar)
-print(f"  {GOLD}“{verse}”{RESET}")
-print(f"  {DIM}— {ref}{RESET}")
+label = "scripture" if kind == "scripture" else "quote"
+text_color = GOLD if kind == "scripture" else MAGENTA
+citation = f"{ref} ({translation})" if (kind == "scripture" and translation) else ref
+
+bar_top = f"{DIM}─── while you wait · {label} ───────────────────────{RESET}"
+bar_bot = f"{DIM}──────────────────────────────────────────────────{RESET}"
+
+print(bar_top)
+print(f"  {text_color}“{text}”{RESET}")
+if citation:
+    print(f"  {DIM}— {citation}{RESET}")
 print()
-print(f"  {CYAN}{insight}{RESET}")
-if voice:
-    print(f"  {DIM}({voice}){RESET}")
-print(f"{DIM}──────────────────────────────────────────────────{RESET}")
+if insight:
+    print(f"  {CYAN}{insight}{RESET}")
+if voice and kind != "scripture" and voice not in citation:
+    print(f"  {DIM}— {voice}{RESET}")
+print(bar_bot)
 PY
 )
 
