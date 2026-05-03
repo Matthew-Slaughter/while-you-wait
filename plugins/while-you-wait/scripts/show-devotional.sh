@@ -119,9 +119,10 @@ def wrap_block(s, width, indent="  "):
     return lines
 
 buf = [bar_top]
+buf.append("")  # interior breathing room (top)
 quoted = f"“{text}”"
-for i, line in enumerate(wrap_block(quoted, inner_width)):
-    body = line[2:]  # strip indent we re-add with color
+for line in wrap_block(quoted, inner_width):
+    body = line[2:]
     buf.append(f"  {text_color}{body}{RESET}")
 if citation:
     buf.append(f"  {DIM}— {citation}{RESET}")
@@ -132,13 +133,22 @@ if insight:
         buf.append(f"  {CYAN}{body}{RESET}")
 if voice and kind != "scripture" and voice not in citation:
     buf.append(f"  {DIM}— {voice}{RESET}")
+buf.append("")  # interior breathing room (bottom)
 buf.append(bar_bot)
 
 # CRLF line endings: Claude Code's TUI puts the terminal in non-canonical
-# mode where bare LF moves the cursor down without returning to column 0,
-# which causes our lines to concatenate visually. Leading + trailing blank
-# lines push our banner above the area the TUI redraws (thinking spinner).
-payload = "\r\n\r\n" + "\r\n".join(buf) + "\r\n\r\n"
+# mode where bare LF moves cursor down without returning to column 0,
+# which causes our lines to concatenate visually.
+#
+# Heavy trailing padding (8 blank lines) creates a buffer zone the TUI's
+# thinking-spinner can redraw into without overwriting our actual content.
+# The cost is some vertical screen real estate; the benefit is the banner
+# always renders fully and isn't truncated.
+payload = (
+    "\r\n\r\n"
+    + "\r\n".join(buf)
+    + "\r\n" * 10
+)
 tty.write(payload)
 tty.flush()
 

@@ -1,7 +1,7 @@
 {
-  "description": "Print a Scripture + insight to the terminal at the end of each turn.",
+  "description": "Print a Scripture + insight to the terminal whenever a prompt is submitted.",
   "hooks": {
-    "Stop": [
+    "UserPromptSubmit": [
       {
         "hooks": [
           {
