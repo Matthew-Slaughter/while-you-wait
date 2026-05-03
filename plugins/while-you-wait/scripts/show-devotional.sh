@@ -11,7 +11,7 @@ DATA="$ROOT/data/devotionals.json"
 command -v python3 >/dev/null 2>&1 || exit 0
 
 python3 - "$DATA" <<'PY'
-import json, os, random, subprocess, sys, time
+import json, os, random, shutil, subprocess, sys, textwrap, time
 
 DATA_PATH = sys.argv[1]
 CONFIG_PATH = os.path.expanduser("~/.claude/while-you-wait.json")
@@ -77,18 +77,18 @@ label = "scripture" if kind == "scripture" else "quote"
 text_color = GOLD if kind == "scripture" else MAGENTA
 citation = f"{ref} ({translation})" if (kind == "scripture" and translation) else ref
 
+term_cols = shutil.get_terminal_size((80, 24)).columns
+inner_width = max(40, min(term_cols - 4, 76))
+
 if mode == "minimal":
     bar_top = f"{DIM}─── while you wait · {label} ───{RESET}"
-    bar_bot = f"{DIM}─────────────────────────────────{RESET}"
-    typewriter_budget = 0.0
+    bar_bot = f"{DIM}{'─' * (inner_width + 4)}{RESET}"
 elif mode == "reverent":
-    bar_top = f"{DIM}═══ while you wait · {label} ═══════════════════════{RESET}"
-    bar_bot = f"{DIM}═══════════════════════════════════════════════════{RESET}"
-    typewriter_budget = 0.40
+    bar_top = f"{DIM}═══ while you wait · {label} {'═' * max(3, inner_width - 18 - len(label))}{RESET}"
+    bar_bot = f"{DIM}{'═' * (inner_width + 4)}{RESET}"
 else:  # rich
-    bar_top = f"{DIM}╭─── while you wait · {label} ───────────────────────╮{RESET}"
-    bar_bot = f"{DIM}╰─────────────────────────────────────────────────╯{RESET}"
-    typewriter_budget = 0.10
+    bar_top = f"{DIM}╭─── while you wait · {label} {'─' * max(3, inner_width - 19 - len(label))}╮{RESET}"
+    bar_bot = f"{DIM}╰{'─' * (inner_width + 2)}╯{RESET}"
 
 if cfg["sound"]:
     sf = cfg.get("sound_file", "")
@@ -102,35 +102,41 @@ if cfg["sound"]:
         except Exception:
             pass
 
-def out(s, end="\n"):
-    tty.write(s + end)
-    tty.flush()
+def wrap_block(s, width, indent="  "):
+    if not s:
+        return []
+    lines = []
+    for raw in s.splitlines() or [s]:
+        wrapped = textwrap.wrap(
+            raw, width=width,
+            initial_indent="", subsequent_indent="",
+            break_long_words=False, break_on_hyphens=False,
+        ) or [""]
+        lines.extend(indent + w for w in wrapped)
+    return lines
 
-def typewriter(prefix, body, suffix, total_budget):
-    if total_budget <= 0 or not body:
-        out(prefix + body + suffix)
-        return
-    per_char = total_budget / max(1, len(body))
-    per_char = max(0.001, min(0.020, per_char))
-    tty.write(prefix)
-    tty.flush()
-    for ch in body:
-        tty.write(ch)
-        tty.flush()
-        time.sleep(per_char)
-    tty.write(suffix + "\n")
-    tty.flush()
-
-out(bar_top)
-typewriter(f"  {text_color}“", text, f"”{RESET}", typewriter_budget)
+buf = [bar_top]
+quoted = f"“{text}”"
+for i, line in enumerate(wrap_block(quoted, inner_width)):
+    body = line[2:]  # strip indent we re-add with color
+    buf.append(f"  {text_color}{body}{RESET}")
 if citation:
-    out(f"  {DIM}— {citation}{RESET}")
-out("")
+    buf.append(f"  {DIM}— {citation}{RESET}")
+buf.append("")
 if insight:
-    out(f"  {CYAN}{insight}{RESET}")
+    for line in wrap_block(insight, inner_width):
+        body = line[2:]
+        buf.append(f"  {CYAN}{body}{RESET}")
 if voice and kind != "scripture" and voice not in citation:
-    out(f"  {DIM}— {voice}{RESET}")
-out(bar_bot)
+    buf.append(f"  {DIM}— {voice}{RESET}")
+buf.append(bar_bot)
+
+# CRLF line endings: Claude Code's TUI puts the terminal in non-canonical
+# mode where bare LF moves the cursor down without returning to column 0,
+# which causes our lines to concatenate visually. Leading + trailing blank
+# lines push our banner above the area the TUI redraws (thinking spinner).
+tty.write("\r\n\r\n" + "\r\n".join(buf) + "\r\n\r\n")
+tty.flush()
 PY
 
 exit 0
