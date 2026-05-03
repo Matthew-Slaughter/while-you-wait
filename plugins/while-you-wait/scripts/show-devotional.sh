@@ -1,8 +1,11 @@
 #!/usr/bin/env bash
-# while-you-wait: print a Scripture/quote on prompt submit.
+# while-you-wait: print a Scripture/quote at end of turn.
 # Visible to the user via /dev/tty; not injected as Claude context.
 
 set -u
+
+LOG=/tmp/while-you-wait.log
+echo "[$(date '+%H:%M:%S')] hook fired (pid=$$, tty=$(tty 2>&1))" >> "$LOG"
 
 ROOT="${CLAUDE_PLUGIN_ROOT:-$(cd "$(dirname "$0")/.." && pwd)}"
 DATA="$ROOT/data/devotionals.json"
@@ -135,8 +138,15 @@ buf.append(bar_bot)
 # mode where bare LF moves the cursor down without returning to column 0,
 # which causes our lines to concatenate visually. Leading + trailing blank
 # lines push our banner above the area the TUI redraws (thinking spinner).
-tty.write("\r\n\r\n" + "\r\n".join(buf) + "\r\n\r\n")
+payload = "\r\n\r\n" + "\r\n".join(buf) + "\r\n\r\n"
+tty.write(payload)
 tty.flush()
+
+# Diagnostic: also log what we tried to render and where it went.
+import datetime
+target = "/dev/tty" if tty is not sys.stderr else "stderr"
+with open("/tmp/while-you-wait.log", "a", encoding="utf-8") as logf:
+    logf.write(f"[{datetime.datetime.now().strftime('%H:%M:%S')}] wrote {len(payload)} bytes to {target}\n")
 PY
 
 exit 0
