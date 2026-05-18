@@ -1,7 +1,7 @@
 {
   "name": "while-you-wait",
   "description": "Serves a short Scripture and theological insight each time you submit a prompt — devotional companionship for Christians working in Claude Code.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": {
     "name": "Matthew Slaughter",
     "email": "matt@heyslaughter.com"
