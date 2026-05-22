@@ -1,0 +1,23 @@
+name: validate
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  corpus-and-hook:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Validate corpus
+        run: python3 scripts/validate-corpus.py
+
+      - name: Hook emits valid systemMessage JSON
+        run: |
+          bash plugins/while-you-wait/scripts/show-devotional.sh > /tmp/wyw-out.json
+          python3 -c "import json; d = json.load(open('/tmp/wyw-out.json')); assert isinstance(d.get('systemMessage'), str) and d['systemMessage'], 'no systemMessage'; print('hook OK')"

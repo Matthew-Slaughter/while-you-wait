@@ -18,6 +18,8 @@ A small Claude Code plugin that prints a Scripture or theological quote each tim
 
 A `UserPromptSubmit` hook fires when you press enter on a prompt. The script picks one entry at random from `data/devotionals.json` and emits it as a `systemMessage` — Claude Code renders it to you in the TUI but does **not** add it to Claude's conversation context.
 
+To keep rotation feeling intentional, the last 15 entries shown are tracked in `~/.claude/while-you-wait.state.json` and skipped when picking the next one. Corpus text is stripped of control characters before rendering, and any internal failure (bad config, malformed corpus) degrades to a silent skip — the devotional never blocks or disrupts your prompt.
+
 Dependencies: `bash` and `python3` (both ship with macOS). No network calls, no API keys.
 
 ## Corpus
@@ -115,12 +117,22 @@ Earlier versions wrote directly to `/dev/tty` to render an animated, colored box
 ```
 while-you-wait/                              # repo root = marketplace
 ├── .claude-plugin/marketplace.json          # marketplace manifest
+├── .github/workflows/validate.yml           # CI: corpus + hook checks
+├── scripts/validate-corpus.py               # corpus validator (dev tool)
 └── plugins/
     └── while-you-wait/                      # the plugin itself
         ├── .claude-plugin/plugin.json       # plugin manifest
         ├── hooks/hooks.json                 # registers UserPromptSubmit hook
         ├── scripts/show-devotional.sh       # picks an entry and renders it
         └── data/devotionals.json            # the corpus — edit freely
+```
+
+## Contributing
+
+After editing the corpus, validate it before opening a PR (CI runs the same check):
+
+```bash
+python3 scripts/validate-corpus.py
 ```
 
 ## License
