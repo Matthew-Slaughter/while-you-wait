@@ -2,16 +2,65 @@
 
 A small Claude Code plugin that prints a Scripture or theological quote each time you submit a prompt — devotional companionship for Christians while Claude pontificates.
 
+## Preview
+
+Three border modes, three voices from the corpus. In your terminal these are
+colored — scripture in **gold**, quotes in **magenta**, the insight in **cyan**,
+borders dimmed — but GitHub strips ANSI color from code blocks, so what's below
+is the monochrome shape.
+
+**`minimal`** — single-line top rule, open bottom:
+
 ```
-╭─── while you wait · scripture ─────────────────────────╮
+─── while you wait · scripture ─────────────────────────────────
 
-  "Be still, and know that I am God."
-  — Psalm 46:10 (ESV)
+  “But they who wait for the Lord shall renew their strength;
+  they shall mount up with wings like eagles; they shall run
+  and not be weary; they shall walk and not faint.”
+  — Isaiah 40:31 (ESV)
 
-  Calvin: stillness is not idleness but the soul's posture before
-  sovereignty. While you wait, remember Who runs the universe.
+  Three modes — fly, run, walk — in descending intensity. The
+  hardest may be walking and not fainting. The verbs descend
+  on purpose: ordinary endurance is the climax, not the
+  consolation prize.
 
-╰────────────────────────────────────────────────────────╯
+────────────────────────────────────────────────────────────────
+```
+
+**`rich`** (default) — rounded box:
+
+```
+╭─── while you wait · quote ───────────────────────────────────╮
+
+  “You have made us for yourself, O Lord, and our heart is
+  restless until it rests in you.”
+  — Confessions, I.1
+
+  The opening confession of the entire work — the existential
+  thesis of Christian spirituality. The restlessness is itself
+  the homing signal; what frustrates you about every lesser
+  rest is the very evidence of what you were made for.
+  — Augustine
+
+╰──────────────────────────────────────────────────────────────╯
+```
+
+**`reverent`** — heavier double rule:
+
+```
+═══ while you wait · scripture ═════════════════════════════════
+
+  “And we know that for those who love God all things work
+  together for good, for those who are called according to his
+  purpose.”
+  — Romans 8:28 (ESV)
+
+  All things — including the failing test, the rejected PR,
+  the delayed feature. Providence is not the absence of
+  friction but its repurposing. The 'good' is defined in v.
+  29: conformity to Christ, not comfort in the present.
+
+════════════════════════════════════════════════════════════════
 ```
 
 ## How it works
@@ -71,7 +120,7 @@ Optional config file at `~/.claude/while-you-wait.json`:
 | `width` | `40`–`100` | `64` | Box width in columns |
 
 **Modes** (border style only — no animation in any mode)
-- `minimal` — single-line top border, no closing box
+- `minimal` — single-line top and bottom rules, no box corners
 - `rich` (default) — rounded box border
 - `reverent` — heavier double-line border
 
