@@ -129,11 +129,13 @@ def render(e, cfg):
     insight = clean(e.get("insight", "").strip())
     voice = clean(e.get("voice", "").strip())
 
-    label = "scripture" if kind == "scripture" else "quote"
+    KIND_LABELS = {"scripture": "scripture", "quote": "quote", "creed": "creed", "prayer": "prayer"}
+    label = KIND_LABELS.get(kind, "scripture")
     citation = f"{ref} ({translation})" if (kind == "scripture" and translation) else ref
 
-    DIM = "\033[2m"; CYAN = "\033[36m"; GOLD = "\033[33m"; MAGENTA = "\033[35m"; RESET = "\033[0m"
-    text_color = GOLD if kind == "scripture" else MAGENTA
+    DIM = "\033[2m"; CYAN = "\033[36m"; GOLD = "\033[33m"; MAGENTA = "\033[35m"; BLUE = "\033[34m"; WHITE = "\033[37m"; RESET = "\033[0m"
+    KIND_COLORS = {"scripture": GOLD, "quote": MAGENTA, "creed": BLUE, "prayer": WHITE}
+    text_color = KIND_COLORS.get(kind, GOLD)
 
     if mode == "minimal":
         top_raw = f"─── while you wait · {label} {'─' * max(3, width - 22 - len(label))}"

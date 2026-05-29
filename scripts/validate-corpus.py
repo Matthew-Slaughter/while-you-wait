@@ -13,7 +13,7 @@ import re
 import sys
 
 REQUIRED = {"kind", "text", "ref", "voice", "insight", "themes"}
-VALID_KINDS = {"scripture", "quote"}
+VALID_KINDS = {"scripture", "quote", "creed", "prayer"}
 CTRL = re.compile(r"[\x00-\x08\x0b-\x1f\x7f-\x9f]")  # control chars (allow \t, \n)
 
 DEFAULT_PATH = os.path.join(

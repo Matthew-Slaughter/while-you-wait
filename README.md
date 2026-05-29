@@ -5,9 +5,9 @@ A small Claude Code plugin that prints a Scripture or theological quote each tim
 ## Preview
 
 Three border modes, three voices from the corpus. In your terminal these are
-colored — scripture in **gold**, quotes in **magenta**, the insight in **cyan**,
-borders dimmed — but GitHub strips ANSI color from code blocks, so what's below
-is the monochrome shape.
+colored — scripture in **gold**, quotes in **magenta**, creeds in **blue**,
+prayers in **white**, the insight in **cyan**, borders dimmed — but GitHub
+strips ANSI color from code blocks, so what's below is the monochrome shape.
 
 **`minimal`** — single-line top rule, open bottom:
 
@@ -156,6 +156,34 @@ Or for a theologian quote:
   "themes": ["restlessness"]
 }
 ```
+
+Or for a creed / catechism (added in 0.4.0):
+
+```json
+{
+  "kind": "creed",
+  "text": "What is the chief end of man? Man's chief end is to glorify God, and to enjoy him forever.",
+  "ref": "Westminster Shorter Catechism, Q.1",
+  "voice": "Westminster Shorter Catechism",
+  "insight": "1–2 sentence reflection on its place in Reformed theology",
+  "themes": ["doxology", "chief-end"]
+}
+```
+
+Or for a historic prayer (added in 0.4.0):
+
+```json
+{
+  "kind": "prayer",
+  "text": "Thou Sovereign and Father of mercies, in whom I live and move and have my being...",
+  "ref": "Valley of Vision: The Mover",
+  "voice": "Valley of Vision",
+  "insight": "context and devotional aim",
+  "themes": ["dependence", "providence"]
+}
+```
+
+`kind` may be `scripture`, `quote`, `creed`, or `prayer`. Only scripture requires a `translation` field.
 
 ## A note on what changed in 0.2.0
 
