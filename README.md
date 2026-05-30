@@ -73,12 +73,14 @@ Dependencies: `bash` and `python3` (both ship with macOS). No network calls, no 
 
 ## Corpus
 
-The shipped corpus has ~200 entries:
+The shipped corpus has ~800 entries:
 
-- **Scripture** spanning all 66 books of the Protestant canon (~140 entries)
-- **Theologian quotes** from Patristic to Contemporary voices (~60 entries) — Augustine, Calvin, Luther, Owen, Edwards, Spurgeon, Lewis, Bonhoeffer, Packer, Piper, Keller, Lloyd-Jones, Machen, Athanasius, Anselm, Aquinas, Bavinck, Irenaeus, Polycarp, Tertullian, Cyprian, Bunyan, Watts, Wesley, Newton, Cowper, Sproul, Watson, the Westminster Divines, Chesterton.
+- **Scripture** spanning all 66 books of the Protestant canon (~500 entries; ESV under Crossway fair-use, supplemented with KJV public-domain for OT histories and prophets)
+- **Theologian quotes** from Patristic to Contemporary voices (~300 entries) — Augustine, Athanasius, Aquinas, Anselm, Luther, Calvin, the Puritans (Sibbes, Goodwin, Charnock, Watson, Bunyan, Owen, Manton, Burroughs, Boston, Edwards), the Old Princeton tradition (Hodges, Warfield, Machen, Murray), Dutch Reformed (Kuyper, Bavinck, Berkhof, Vos, Hoekema), 20th-c (Lewis, Lloyd-Jones, Bonhoeffer, Packer, Chesterton, Schaeffer, Stott, Tozer), modern Reformed (Sproul, Piper, Keller, Carson, Ferguson, Vanhoozer, Reeves, Ortlund), devotional women (Elliot, Carmichael, ten Boom, Whitall Smith, Susanna Wesley, Tada), Patristic depth (Chrysostom, Cyprian, Tertullian, Gregory of Nazianzus, Polycarp), hymnwriters (Watts, Wesley, Newton, Toplady, Cowper, Crosby), and the Westminster Divines.
 
-Each entry has a `kind` (`scripture` | `quote`), source citation, and a brief Reformed-evangelical insight.
+The schema also supports two additional kinds — `creed` and `prayer` — for confessional documents and historic prayers; see the Customize section for the schema. None ship in the default corpus yet, but they render in distinct colors when added.
+
+Each entry has a `kind` (`scripture` | `quote` | `creed` | `prayer`), source citation, and a brief Reformed-evangelical insight.
 
 ## Install
 
