@@ -84,7 +84,7 @@ Each entry has a `kind` (`scripture` | `quote` | `creed` | `prayer`), source cit
 
 ## Install
 
-In Claude Code:
+### Claude Code
 
 ```
 /plugin marketplace add Matthew-Slaughter/while-you-wait
@@ -98,6 +98,14 @@ To pull updates later:
 ```
 /plugin marketplace update while-you-wait
 ```
+
+### Codex CLI
+
+A Codex CLI port lives in [`codex/`](./codex). Clone this repo and add a
+`UserPromptSubmit` hook to `~/.codex/config.toml` pointing at
+`codex/scripts/show-devotional.sh`. Full instructions in
+[`codex/README.md`](./codex/README.md). Same corpus, same renderer,
+isolated state.
 
 ## Configure
 

@@ -1,0 +1,17 @@
+# while-you-wait — Codex CLI hook config
+#
+# Append the sections below to your ~/.codex/config.toml (create the file
+# if it doesn't exist), then restart Codex CLI. Replace the command path
+# with the absolute path to the cloned while-you-wait repo on your machine.
+
+# Required: enable the hooks subsystem.
+[features]
+hooks = true
+
+# UserPromptSubmit fires when you press enter on a Codex prompt.
+[[hooks.UserPromptSubmit]]
+
+[[hooks.UserPromptSubmit.hooks]]
+type = "command"
+command = "/ABSOLUTE/PATH/TO/while-you-wait/codex/scripts/show-devotional.sh"
+timeout = 5
