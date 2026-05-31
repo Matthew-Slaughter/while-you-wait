@@ -1,0 +1,62 @@
+{
+  "name": "while-you-wait",
+  "displayName": "while you wait",
+  "description": "Devotional companion for Antigravity — prints a Scripture or theological quote on demand.",
+  "version": "0.1.0",
+  "publisher": "matthew-slaughter",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Matthew-Slaughter/while-you-wait.git"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": ["Other"],
+  "activationEvents": ["onStartupFinished"],
+  "main": "./dist/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "whileYouWait.show",
+        "title": "while you wait: Show Devotional"
+      }
+    ],
+    "configuration": {
+      "title": "while you wait",
+      "properties": {
+        "whileYouWait.autoShowOnStartup": {
+          "type": "boolean",
+          "default": true,
+          "description": "Show a devotional automatically when Antigravity starts."
+        },
+        "whileYouWait.surface": {
+          "type": "string",
+          "enum": ["notification", "outputChannel"],
+          "default": "notification",
+          "description": "Where to render the devotional. 'notification' = toast (compact); 'outputChannel' = persistent panel with full insight text."
+        },
+        "whileYouWait.kinds": {
+          "type": "array",
+          "items": { "type": "string", "enum": ["scripture", "quote", "creed", "prayer"] },
+          "default": ["scripture", "quote", "creed", "prayer"],
+          "description": "Which entry kinds are eligible to be shown."
+        }
+      }
+    }
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run build",
+    "build": "node esbuild.mjs",
+    "watch": "node esbuild.mjs --watch",
+    "package": "npx @vscode/vsce package --no-dependencies",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "@types/vscode": "^1.85.0",
+    "@vscode/vsce": "^3.2.0",
+    "esbuild": "^0.24.0",
+    "typescript": "^5.4.0"
+  }
+}

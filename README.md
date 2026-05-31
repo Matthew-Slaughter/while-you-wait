@@ -107,6 +107,15 @@ A Codex CLI port lives in [`codex/`](./codex). Clone this repo and add a
 [`codex/README.md`](./codex/README.md). Same corpus, same renderer,
 isolated state.
 
+### Antigravity (and other VS Code-based IDEs)
+
+A VS Code extension lives in [`antigravity/`](./antigravity). Build with
+`npm install && npm run package`, then sideload the `.vsix` via Extensions
+→ Install from VSIX. Adds a status-bar button + `while you wait: Show
+Devotional` command. Note: VS Code's stable API doesn't expose a chat-submit
+event, so this version is on-demand rather than automatic. Full
+instructions in [`antigravity/README.md`](./antigravity/README.md).
+
 ## Configure
 
 Optional config file at `~/.claude/while-you-wait.json`:
