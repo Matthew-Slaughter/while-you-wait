@@ -1,0 +1,3710 @@
+[
+ {
+  "id": "scr-gen-002-018",
+  "action": "replace",
+  "entry": {
+   "id": "scr-gen-002-018",
+   "kind": "scripture",
+   "ref": "Genesis 2:18",
+   "translation": "KJV",
+   "text": "And the LORD God said, It is not good that the man should be alone; I will make him an help meet for him.",
+   "voice": "Genesis",
+   "insight": "The first 'not good' in Scripture is human aloneness. The Reformed doctrine of marriage and friendship begins not with romance but with creation — community is structural, not optional.",
+   "themes": [
+    "marriage-and-family",
+    "church",
+    "creation"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-exo-015-002",
+  "action": "replace",
+  "entry": {
+   "id": "scr-exo-015-002",
+   "kind": "scripture",
+   "ref": "Exodus 15:2",
+   "translation": "KJV",
+   "text": "The LORD is my strength and song, and he is become my salvation: he is my God, and I will prepare him an habitation; my father's God, and I will exalt him.",
+   "voice": "Exodus",
+   "insight": "The Song of Moses after the Red Sea. The Lord becomes 'my' salvation in personal possession; corporate deliverance generates personal worship.",
+   "themes": [
+    "salvation",
+    "doxology",
+    "freedom"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-exo-020-002-003",
+  "action": "replace",
+  "entry": {
+   "id": "scr-exo-020-002-003",
+   "kind": "scripture",
+   "ref": "Exodus 20:2-3",
+   "translation": "KJV",
+   "text": "I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage. Thou shalt have no other gods before me.",
+   "voice": "Exodus",
+   "insight": "The first commandment, prefaced by gospel: 'I am the Lord thy God which brought thee out.' Indicative grace before imperative obedience — Reformed catechesis remembers the order.",
+   "themes": [
+    "law",
+    "gospel"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-lev-011-044",
+  "action": "replace",
+  "entry": {
+   "id": "scr-lev-011-044",
+   "kind": "scripture",
+   "ref": "Leviticus 11:44",
+   "translation": "KJV",
+   "text": "For I am the LORD your God: ye shall therefore sanctify yourselves, and ye shall be holy; for I am holy: neither shall ye defile yourselves with any manner of creeping thing that creepeth upon the earth.",
+   "voice": "Leviticus",
+   "insight": "The 'be holy as I am holy' formula Peter quotes (1 Pet 1:16). Reformed sanctification is participation in God's holiness, not approximation of it; the standard is theocentric.",
+   "themes": [
+    "holiness",
+    "sanctification"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-num-014-021",
+  "action": "replace",
+  "entry": {
+   "id": "scr-num-014-021",
+   "kind": "scripture",
+   "ref": "Numbers 14:21",
+   "translation": "KJV",
+   "text": "But as truly as I live, all the earth shall be filled with the glory of the LORD.",
+   "voice": "Numbers",
+   "insight": "God's oath to fill the earth with his glory. Whatever rebellion delays, this verse settles — the consummation is not in question. Reformed eschatology rests on the divine self-assertion.",
+   "themes": [
+    "glory-of-god",
+    "eschatology",
+    "sovereignty"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-deu-008-003",
+  "action": "replace",
+  "entry": {
+   "id": "scr-deu-008-003",
+   "kind": "scripture",
+   "ref": "Deuteronomy 8:3",
+   "translation": "KJV",
+   "text": "And he humbled thee, and suffered thee to hunger, and fed thee with manna, which thou knewest not, neither did thy fathers know; that he might make thee know that man doth not live by bread only, but by every word that proceedeth out of the mouth of the LORD doth man live.",
+   "voice": "Deuteronomy",
+   "insight": "Quoted by Jesus to defeat Satan in the wilderness (Matt 4:4). The wilderness pedagogy — hunger that teaches dependence — is God's classroom for his people then and now.",
+   "themes": [
+    "dependence",
+    "scripture",
+    "providence"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-deu-010-012",
+  "action": "replace",
+  "entry": {
+   "id": "scr-deu-010-012",
+   "kind": "scripture",
+   "ref": "Deuteronomy 10:12",
+   "translation": "KJV",
+   "text": "And now, Israel, what doth the LORD thy God require of thee, but to fear the LORD thy God, to walk in all his ways, and to love him, and to serve the LORD thy God with all thy heart and with all thy soul,",
+   "voice": "Deuteronomy",
+   "insight": "What does God require? Five verbs — fear, walk, love, serve, with all your heart. The Reformed catechetical instinct can answer 'what is required' from this verse.",
+   "themes": [
+    "doctrine",
+    "fear-of-god",
+    "love"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-deu-031-006",
+  "action": "replace",
+  "entry": {
+   "id": "scr-deu-031-006",
+   "kind": "scripture",
+   "ref": "Deuteronomy 31:6",
+   "translation": "KJV",
+   "text": "Be strong and of a good courage, fear not, nor be afraid of them: for the LORD thy God, he it is that doth go with thee; he will not fail thee, nor forsake thee.",
+   "voice": "Deuteronomy",
+   "insight": "Quoted in Hebrews 13:5. 'He will not fail thee, nor forsake thee' is the OT root of NT comfort — and the gospel rests on the same divine reliability.",
+   "themes": [
+    "courage",
+    "presence",
+    "faithfulness"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-exo-013-021",
+  "action": "replace",
+  "entry": {
+   "id": "scr-exo-013-021",
+   "kind": "scripture",
+   "ref": "Exodus 13:21",
+   "translation": "KJV",
+   "text": "And the LORD went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light; to go by day and night:",
+   "voice": "Exodus",
+   "insight": "God's guidance is visible — pillar by day, fire by night. The Reformed instinct: providence is not imperceptible; the means change, the leading does not.",
+   "themes": [
+    "guidance",
+    "presence",
+    "freedom"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-num-021-008-009",
+  "action": "replace",
+  "entry": {
+   "id": "scr-num-021-008-009",
+   "kind": "scripture",
+   "ref": "Numbers 21:8-9",
+   "translation": "KJV",
+   "text": "And the LORD said unto Moses, Make thee a fiery serpent, and set it upon a pole: and it shall come to pass, that every one that is bitten, when he looketh upon it, shall live. And Moses made a serpent of brass, and put it upon a pole, and it came to pass, that if a serpent had bitten any man, when he beheld the serpent of brass, he lived.",
+   "voice": "Numbers",
+   "insight": "Jesus identifies this as a type of his crucifixion (John 3:14). Looking is the verb of salvation — Reformed soteriology often returns to this image: looking, not laboring.",
+   "themes": [
+    "covenant",
+    "christology",
+    "faith"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-deu-007-009",
+  "action": "replace",
+  "entry": {
+   "id": "scr-deu-007-009",
+   "kind": "scripture",
+   "ref": "Deuteronomy 7:9",
+   "translation": "KJV",
+   "text": "Know therefore that the LORD thy God, he is God, the faithful God, which keepeth covenant and mercy with them that love him and keep his commandments to a thousand generations;",
+   "voice": "Deuteronomy",
+   "insight": "Three names for the same God — faithful, covenant-keeper, merciful. Reformed covenant theology lives on this verse: God's faithfulness to a thousand generations is not exaggeration but signature.",
+   "themes": [
+    "faithfulness",
+    "covenant",
+    "mercy"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-jos-001-009-kjv",
+  "action": "replace",
+  "entry": {
+   "id": "scr-jos-001-009-kjv",
+   "kind": "scripture",
+   "ref": "Joshua 1:9",
+   "translation": "KJV",
+   "text": "Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the LORD thy God is with thee whithersoever thou goest.",
+   "voice": "Joshua",
+   "insight": "The triple imperative — be strong, of good courage, not afraid — is grounded in 'the Lord thy God is with thee.' Reformed courage is consequential, not self-generated.",
+   "themes": [
+    "courage",
+    "presence",
+    "faithfulness"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-jos-024-015",
+  "action": "replace",
+  "entry": {
+   "id": "scr-jos-024-015",
+   "kind": "scripture",
+   "ref": "Joshua 24:15",
+   "translation": "KJV",
+   "text": "And if it seem evil unto you to serve the LORD, choose you this day whom ye will serve; whether the gods which your fathers served that were on the other side of the flood, or the gods of the Amorites, in whose land ye dwell: but as for me and my house, we will serve the LORD.",
+   "voice": "Joshua",
+   "insight": "The household commitment is patriarchal in form, theological in substance. Joshua makes the family the unit of covenant — and the Reformed church has imitated that decision.",
+   "themes": [
+    "covenant",
+    "marriage-and-family",
+    "discernment"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-jdg-006-014",
+  "action": "replace",
+  "entry": {
+   "id": "scr-jdg-006-014",
+   "kind": "scripture",
+   "ref": "Judges 6:14",
+   "translation": "KJV",
+   "text": "And the LORD looked upon him, and said, Go in this thy might, and thou shalt save Israel from the hand of the Midianites: have not I sent thee?",
+   "voice": "Judges",
+   "insight": "Gideon, doubting and small, is sent in his own might because it has been made the Lord's. The Reformed instinct: weakness is a credential when God commissions.",
+   "themes": [
+    "dependence",
+    "vocation",
+    "mission"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-rut-002-012",
+  "action": "replace",
+  "entry": {
+   "id": "scr-rut-002-012",
+   "kind": "scripture",
+   "ref": "Ruth 2:12",
+   "translation": "KJV",
+   "text": "The LORD recompense thy work, and a full reward be given thee of the LORD God of Israel, under whose wings thou art come to trust.",
+   "voice": "Ruth",
+   "insight": "Boaz's blessing prefigures the gospel — refuge under God's wings. Reformed compassion theology echoes here: the Lord rewards the trust of those who shelter under him.",
+   "themes": [
+    "salvation",
+    "grace",
+    "faith"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-1sa-002-002",
+  "action": "replace",
+  "entry": {
+   "id": "scr-1sa-002-002",
+   "kind": "scripture",
+   "ref": "1 Samuel 2:2",
+   "translation": "KJV",
+   "text": "There is none holy as the LORD: for there is none beside thee: neither is there any rock like our God.",
+   "voice": "1 Samuel",
+   "insight": "Hannah's song. 'None holy as the Lord' anchors Reformed worship — God's holiness is unique in kind, not degree.",
+   "themes": [
+    "holiness",
+    "doxology",
+    "worship"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-1sa-003-009",
+  "action": "replace",
+  "entry": {
+   "id": "scr-1sa-003-009",
+   "kind": "scripture",
+   "ref": "1 Samuel 3:9",
+   "translation": "KJV",
+   "text": "Therefore Eli said unto Samuel, Go, lie down: and it shall be, if he call thee, that thou shalt say, Speak, LORD; for thy servant heareth. So Samuel went and lay down in his place.",
+   "voice": "1 Samuel",
+   "insight": "Eli teaches Samuel to listen. Reformed prayer takes its first verb from this verse — speaking comes second to hearing.",
+   "themes": [
+    "meditation",
+    "prayer",
+    "discipleship"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-1sa-015-022",
+  "action": "replace",
+  "entry": {
+   "id": "scr-1sa-015-022",
+   "kind": "scripture",
+   "ref": "1 Samuel 15:22",
+   "translation": "KJV",
+   "text": "And Samuel said, Hath the LORD as great delight in burnt offerings and sacrifices, as in obeying the voice of the LORD? Behold, to obey is better than sacrifice, and to hearken than the fat of rams.",
+   "voice": "1 Samuel",
+   "insight": "Saul's lesson before his rejection: ritual without obedience is rebellion. The Reformed preference for ordinary obedience over extraordinary sacrifice has its root here.",
+   "themes": [
+    "obedience",
+    "atonement",
+    "repentance"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-1sa-016-007-kjv",
+  "action": "replace",
+  "entry": {
+   "id": "scr-1sa-016-007-kjv",
+   "kind": "scripture",
+   "ref": "1 Samuel 16:7",
+   "translation": "KJV",
+   "text": "But the LORD said unto Samuel, Look not on his countenance, or on the height of his stature; because I have refused him: for the LORD seeth not as man seeth; for man looketh on the outward appearance, but the LORD looketh on the heart.",
+   "voice": "1 Samuel",
+   "insight": "Samuel anointing David. The Lord's criteria are not visible to the prophet — and the verse explains every surprising commission since. Reformed pastoral discernment learns to look past appearance.",
+   "themes": [
+    "heart",
+    "election",
+    "discernment"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-2sa-022-002-003",
+  "action": "replace",
+  "entry": {
+   "id": "scr-2sa-022-002-003",
+   "kind": "scripture",
+   "ref": "2 Samuel 22:2-3",
+   "translation": "KJV",
+   "text": "And he said, The LORD is my rock, and my fortress, and my deliverer; The God of my rock; in him will I trust: he is my shield, and the horn of my salvation, my high tower, and my refuge, my saviour; thou savest me from violence.",
+   "voice": "2 Samuel",
+   "insight": "David's deliverance song, parallel to Psalm 18. Seven metaphors for God in two verses — rock, fortress, deliverer, shield, horn, tower, refuge. Reformed theology proper learns its names here.",
+   "themes": [
+    "salvation",
+    "theology-proper",
+    "freedom"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; silently truncated range made whole (unlabelled suffix; source begins 'And he said...'), audit H3; LORD restored"
+ },
+ {
+  "id": "scr-2sa-024-024",
+  "action": "replace",
+  "entry": {
+   "id": "scr-2sa-024-024",
+   "kind": "scripture",
+   "ref": "2 Samuel 24:24",
+   "translation": "KJV",
+   "text": "And the king said unto Araunah, Nay; but I will surely buy it of thee at a price: neither will I offer burnt offerings unto the LORD my God of that which doth cost me nothing. So David bought the threshingfloor and the oxen for fifty shekels of silver.",
+   "voice": "2 Samuel",
+   "insight": "David refuses to worship cheaply. The verse is the Reformed instinct against cost-free religion — sacrifice that costs nothing is not sacrifice.",
+   "themes": [
+    "discipleship",
+    "worship",
+    "atonement"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-1ki-018-021",
+  "action": "replace",
+  "entry": {
+   "id": "scr-1ki-018-021",
+   "kind": "scripture",
+   "ref": "1 Kings 18:21",
+   "translation": "KJV",
+   "text": "And Elijah came unto all the people, and said, How long halt ye between two opinions? if the LORD be God, follow him: but if Baal, then follow him. And the people answered him not a word.",
+   "voice": "1 Kings",
+   "insight": "Elijah's prosecutorial question — and the people answer with silence. Reformed conviction: the gospel forces decision; eternal hesitation is a vote against.",
+   "themes": [
+    "discernment",
+    "idolatry",
+    "confession"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-1ki-019-012",
+  "action": "replace",
+  "entry": {
+   "id": "scr-1ki-019-012",
+   "kind": "scripture",
+   "ref": "1 Kings 19:12",
+   "translation": "KJV",
+   "text": "And after the earthquake a fire; but the LORD was not in the fire: and after the fire a still small voice.",
+   "voice": "1 Kings",
+   "insight": "After the wind and earthquake and fire — the still small voice. Reformed pastoral theology cherishes the verse: God's primary speech is not spectacle but Word.",
+   "themes": [
+    "preaching",
+    "presence",
+    "scripture"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-2ki-020-005",
+  "action": "replace",
+  "entry": {
+   "id": "scr-2ki-020-005",
+   "kind": "scripture",
+   "ref": "2 Kings 20:5",
+   "translation": "KJV",
+   "text": "Turn again, and tell Hezekiah the captain of my people, Thus saith the LORD, the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will heal thee: on the third day thou shalt go up unto the house of the LORD.",
+   "voice": "2 Kings",
+   "insight": "Hezekiah's deathbed prayer answered before the prophet leaves. The Lord 'hears' and 'sees' — Reformed pastoral theology says prayer is heard in real time, even when answers tarry.",
+   "themes": [
+    "prayer",
+    "healing",
+    "faithfulness"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-1ch-016-011-kjv",
+  "action": "replace",
+  "entry": {
+   "id": "scr-1ch-016-011-kjv",
+   "kind": "scripture",
+   "ref": "1 Chronicles 16:11",
+   "translation": "KJV",
+   "text": "Seek the LORD and his strength, seek his face continually.",
+   "voice": "1 Chronicles",
+   "insight": "David's psalm at the ark's installation. The doubled 'seek' — strength and face — is the Reformed posture for the believer: continually after both.",
+   "themes": [
+    "prayer",
+    "presence"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-ezr-007-010-kjv",
+  "action": "replace",
+  "entry": {
+   "id": "scr-ezr-007-010-kjv",
+   "kind": "scripture",
+   "ref": "Ezra 7:10",
+   "translation": "KJV",
+   "text": "For Ezra had prepared his heart to seek the law of the LORD, and to do it, and to teach in Israel statutes and judgments.",
+   "voice": "Ezra",
+   "insight": "Ezra's threefold rule for the teacher: to seek, to do, to teach. Reformed exegesis follows this order — study informs life before it informs sermon.",
+   "themes": [
+    "discipleship",
+    "preaching",
+    "faithfulness"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-neh-008-010-kjv",
+  "action": "replace",
+  "entry": {
+   "id": "scr-neh-008-010-kjv",
+   "kind": "scripture",
+   "ref": "Nehemiah 8:10",
+   "translation": "KJV",
+   "text": "Then he said unto them, Go your way, eat the fat, and drink the sweet, and send portions unto them for whom nothing is prepared: for this day is holy unto our Lord: neither be ye sorry; for the joy of the LORD is your strength.",
+   "voice": "Nehemiah",
+   "insight": "Ezra reads the law; the people weep; Nehemiah corrects them — joy in the Lord is your strength. Reformed worship learns: confession leads to celebration, not to permanent grief.",
+   "themes": [
+    "joy",
+    "courage",
+    "scripture"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-job-001-021",
+  "action": "replace",
+  "entry": {
+   "id": "scr-job-001-021",
+   "kind": "scripture",
+   "ref": "Job 1:21",
+   "translation": "KJV",
+   "text": "And said, Naked came I out of my mother's womb, and naked shall I return thither: the LORD gave, and the LORD hath taken away; blessed be the name of the LORD.",
+   "voice": "Job",
+   "insight": "Job's first response to catastrophe. The Reformed read this verse as the gold standard for grief — orthodox, theocentric, blessing-shaped. The Lord gives; the Lord takes; both are praised.",
+   "themes": [
+    "providence",
+    "suffering",
+    "doxology"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-job-038-004",
+  "action": "replace",
+  "entry": {
+   "id": "scr-job-038-004",
+   "kind": "scripture",
+   "ref": "Job 38:4",
+   "translation": "KJV",
+   "text": "Where wast thou when I laid the foundations of the earth? declare, if thou hast understanding.",
+   "voice": "Job",
+   "insight": "God's interrogation begins. Reformed theology proper appeals to Job 38-41 against every modern attempt to question God in the dock — the Creator asks the questions.",
+   "themes": [
+    "theology-proper",
+    "creation",
+    "revelation"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; corpus text prefixed Job 38:1 ('Then the LORD answered Job out of the whirlwind, and said,') to verse 4 while labelled 38:4; replaced with verse 4 alone"
+ },
+ {
+  "id": "scr-isa-001-018",
+  "action": "replace",
+  "entry": {
+   "id": "scr-isa-001-018",
+   "kind": "scripture",
+   "ref": "Isaiah 1:18",
+   "translation": "KJV",
+   "text": "Come now, and let us reason together, saith the LORD: though your sins be as scarlet, they shall be as white as snow; though they be red like crimson, they shall be as wool.",
+   "voice": "Isaiah",
+   "insight": "God's invitation to negotiate forgiveness. The colour transformation — scarlet to snow — is the chemistry of justification: dyed-in cleansed-out. Reformed proclamation borrows this verse for evangelistic invitation.",
+   "themes": [
+    "forgiveness",
+    "justification",
+    "mercy"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-isa-012-002",
+  "action": "replace",
+  "entry": {
+   "id": "scr-isa-012-002",
+   "kind": "scripture",
+   "ref": "Isaiah 12:2",
+   "translation": "KJV",
+   "text": "Behold, God is my salvation; I will trust, and not be afraid: for the LORD JEHOVAH is my strength and my song; he also is become my salvation.",
+   "voice": "Isaiah",
+   "insight": "Isaiah's confidence in the day of salvation. The triple — salvation, strength, song — names the believer's daily posture. Reformed worship sings because the Lord has become both verb and noun of rescue.",
+   "themes": [
+    "salvation",
+    "courage",
+    "doxology"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-isa-030-015",
+  "action": "replace",
+  "entry": {
+   "id": "scr-isa-030-015",
+   "kind": "scripture",
+   "ref": "Isaiah 30:15",
+   "translation": "KJV",
+   "text": "For thus saith the Lord GOD, the Holy One of Israel; In returning and rest shall ye be saved; in quietness and in confidence shall be your strength: and ye would not.",
+   "voice": "Isaiah",
+   "insight": "Four nouns of salvation — returning, rest, quietness, confidence — that Israel refused. Reformed pastoral counsel hears every age of the church refusing these same gifts.",
+   "themes": [
+    "rest",
+    "eschatology",
+    "salvation"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (GOD->God), audit L4"
+ },
+ {
+  "id": "scr-isa-053-006",
+  "action": "replace",
+  "entry": {
+   "id": "scr-isa-053-006",
+   "kind": "scripture",
+   "ref": "Isaiah 53:6",
+   "translation": "KJV",
+   "text": "All we like sheep have gone astray; we have turned every one to his own way; and the LORD hath laid on him the iniquity of us all.",
+   "voice": "Isaiah",
+   "insight": "The atonement verse Reformed theology returns to. The 'all' of human sin meets the 'him' of divine substitution; the burden has been transferred.",
+   "themes": [
+    "atonement",
+    "sin"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-isa-061-001",
+  "action": "replace",
+  "entry": {
+   "id": "scr-isa-061-001",
+   "kind": "scripture",
+   "ref": "Isaiah 61:1",
+   "translation": "KJV",
+   "text": "The Spirit of the Lord GOD is upon me; because the LORD hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound;",
+   "voice": "Isaiah",
+   "insight": "Jesus reads this passage in Nazareth (Luke 4:18). The Spirit-anointing mission has its OT scripture; Reformed missiology cites both verses together.",
+   "themes": [
+    "holy-spirit",
+    "mission",
+    "gospel"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (GOD->God, LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-jer-009-023-024",
+  "action": "replace",
+  "entry": {
+   "id": "scr-jer-009-023-024",
+   "kind": "scripture",
+   "ref": "Jeremiah 9:23-24",
+   "translation": "KJV",
+   "text": "Thus saith the LORD, Let not the wise man glory in his wisdom, neither let the mighty man glory in his might, let not the rich man glory in his riches: But let him that glorieth glory in this, that he understandeth and knoweth me, that I am the LORD which exercise lovingkindness, judgment, and righteousness, in the earth: for in these things I delight, saith the LORD.",
+   "voice": "Jeremiah",
+   "insight": "The three glories denied — wisdom, might, riches — and the one glory permitted: understanding the Lord. Reformed theology's first principle is recognizable here.",
+   "themes": [
+    "knowing-god",
+    "glory-of-god",
+    "humility"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; silently truncated range made whole (unlabelled prefix; source continues 'for in these things I delight saith the...'), audit H3; LORD restored"
+ },
+ {
+  "id": "scr-jer-018-006",
+  "action": "replace",
+  "entry": {
+   "id": "scr-jer-018-006",
+   "kind": "scripture",
+   "ref": "Jeremiah 18:6",
+   "translation": "KJV",
+   "text": "O house of Israel, cannot I do with you as this potter? saith the LORD. Behold, as the clay is in the potter's hand, so are ye in mine hand, O house of Israel.",
+   "voice": "Jeremiah",
+   "insight": "The potter and clay image. Romans 9 will repurpose this — Paul's strongest defense of sovereignty has its OT root here.",
+   "themes": [
+    "sovereignty",
+    "providence",
+    "election"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-jer-023-024",
+  "action": "replace",
+  "entry": {
+   "id": "scr-jer-023-024",
+   "kind": "scripture",
+   "ref": "Jeremiah 23:24",
+   "translation": "KJV",
+   "text": "Can any hide himself in secret places that I shall not see him? saith the LORD. Do not I fill heaven and earth? saith the LORD.",
+   "voice": "Jeremiah",
+   "insight": "Omnipresence stated as God's own question. Reformed theology proper hears this verse against every account of God's limitation; nowhere is unobserved.",
+   "themes": [
+    "presence",
+    "theology-proper"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-jer-031-033",
+  "action": "replace",
+  "entry": {
+   "id": "scr-jer-031-033",
+   "kind": "scripture",
+   "ref": "Jeremiah 31:33",
+   "translation": "KJV",
+   "text": "But this shall be the covenant that I will make with the house of Israel; After those days, saith the LORD, I will put my law in their inward parts, and write it in their hearts; and will be their God, and they shall be my people.",
+   "voice": "Jeremiah",
+   "insight": "The new covenant promise — law internalized, not merely posted. Hebrews 8 will quote this as the Christian covenant's character; the Spirit's work has its prophetic charter here.",
+   "themes": [
+    "covenant",
+    "law",
+    "holy-spirit"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-lam-003-025",
+  "action": "replace",
+  "entry": {
+   "id": "scr-lam-003-025",
+   "kind": "scripture",
+   "ref": "Lamentations 3:25",
+   "translation": "KJV",
+   "text": "The LORD is good unto them that wait for him, to the soul that seeketh him.",
+   "voice": "Lamentations",
+   "insight": "Lamentations' refrain on waiting. After the destruction of Jerusalem, the verse insists the Lord is good to those who wait — a Reformed pastoral comfort in the worst weeks.",
+   "themes": [
+    "waiting",
+    "grace",
+    "hope"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-lam-005-021",
+  "action": "replace",
+  "entry": {
+   "id": "scr-lam-005-021",
+   "kind": "scripture",
+   "ref": "Lamentations 5:21",
+   "translation": "KJV",
+   "text": "Turn thou us unto thee, O LORD, and we shall be turned; renew our days as of old.",
+   "voice": "Lamentations",
+   "insight": "The Lamentation prayer for restoration. Reformed monergism reads it directly — only God can turn the hearts he has scattered; the verse is the asking.",
+   "themes": [
+    "healing",
+    "prayer",
+    "election"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-ezk-016-008",
+  "action": "replace",
+  "entry": {
+   "id": "scr-ezk-016-008",
+   "kind": "scripture",
+   "ref": "Ezekiel 16:8",
+   "translation": "KJV",
+   "text": "Now when I passed by thee, and looked upon thee, behold, thy time was the time of love; and I spread my skirt over thee, and covered thy nakedness: yea, I sware unto thee, and entered into a covenant with thee, saith the Lord GOD, and thou becamest mine.",
+   "voice": "Ezekiel",
+   "insight": "Covenant as marriage. Reformed federal theology reads this verse as God's nuptial commitment — the OT covenants prefigure the Bridegroom Lamb of Revelation.",
+   "themes": [
+    "covenant",
+    "marriage-and-family",
+    "church"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (GOD->God), audit L4"
+ },
+ {
+  "id": "scr-ezk-018-023",
+  "action": "replace",
+  "entry": {
+   "id": "scr-ezk-018-023",
+   "kind": "scripture",
+   "ref": "Ezekiel 18:23",
+   "translation": "KJV",
+   "text": "Have I any pleasure at all that the wicked should die? saith the Lord GOD: and not that he should return from his ways, and live?",
+   "voice": "Ezekiel",
+   "insight": "God's stated reluctance toward judgment. Reformed exegesis takes seriously the divine 'no pleasure' in wickedness — judgment is just but not preferred.",
+   "themes": [
+    "judgment",
+    "guidance",
+    "mercy"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (GOD->God), audit L4"
+ },
+ {
+  "id": "scr-ezk-037-005",
+  "action": "replace",
+  "entry": {
+   "id": "scr-ezk-037-005",
+   "kind": "scripture",
+   "ref": "Ezekiel 37:5",
+   "translation": "KJV",
+   "text": "Thus saith the Lord GOD unto these bones; Behold, I will cause breath to enter into you, and ye shall live:",
+   "voice": "Ezekiel",
+   "insight": "The dry bones vision's central verse. Reformed soteriology — only the Spirit's breath makes the dead live — has its picture here. Regeneration is resurrection language.",
+   "themes": [
+    "regeneration",
+    "holy-spirit",
+    "resurrection"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (GOD->God), audit L4"
+ },
+ {
+  "id": "scr-hos-014-002",
+  "action": "replace",
+  "entry": {
+   "id": "scr-hos-014-002",
+   "kind": "scripture",
+   "ref": "Hosea 14:2",
+   "translation": "KJV",
+   "text": "Take with you words, and turn to the LORD: say unto him, Take away all iniquity, and receive us graciously: so will we render the calves of our lips.",
+   "voice": "Hosea",
+   "insight": "Hosea's altar call. 'Take with you words' is the verse for those who can offer nothing else — repentance has no requirement but bringing the words God has given.",
+   "themes": [
+    "repentance",
+    "eschatology",
+    "prayer"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-jol-002-032",
+  "action": "replace",
+  "entry": {
+   "id": "scr-jol-002-032",
+   "kind": "scripture",
+   "ref": "Joel 2:32",
+   "translation": "KJV",
+   "text": "And it shall come to pass, that whosoever shall call on the name of the LORD shall be delivered: for in mount Zion and in Jerusalem shall be deliverance, as the LORD hath said, and in the remnant whom the LORD shall call.",
+   "voice": "Joel",
+   "insight": "The verse Paul cites in Romans 10:13 — 'whosoever shall call.' The universal offer of salvation has its OT charter; the gospel name to invoke is the Lord's.",
+   "themes": [
+    "salvation",
+    "revelation",
+    "gospel"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-amo-008-011",
+  "action": "replace",
+  "entry": {
+   "id": "scr-amo-008-011",
+   "kind": "scripture",
+   "ref": "Amos 8:11",
+   "translation": "KJV",
+   "text": "Behold, the days come, saith the Lord GOD, that I will send a famine in the land, not a famine of bread, nor a thirst for water, but of hearing the words of the LORD:",
+   "voice": "Amos",
+   "insight": "The worst famine — not bread, but the word. Reformed homiletics reads this verse as a warning to a Western church that has plenty of books and few hearings.",
+   "themes": [
+    "scripture",
+    "providence",
+    "judgment"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (GOD->God, LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-amo-003-007",
+  "action": "replace",
+  "entry": {
+   "id": "scr-amo-003-007",
+   "kind": "scripture",
+   "ref": "Amos 3:7",
+   "translation": "KJV",
+   "text": "Surely the Lord GOD will do nothing, but he revealeth his secret unto his servants the prophets.",
+   "voice": "Amos",
+   "insight": "God reveals his counsel to his prophets. Reformed doctrine of revelation hears here both the priority of God's initiative and the role of human messengers.",
+   "themes": [
+    "revelation",
+    "scripture"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (GOD->God), audit L4"
+ },
+ {
+  "id": "scr-oba-001-021",
+  "action": "replace",
+  "entry": {
+   "id": "scr-oba-001-021",
+   "kind": "scripture",
+   "ref": "Obadiah 1:21",
+   "translation": "KJV",
+   "text": "And saviours shall come up on mount Zion to judge the mount of Esau; and the kingdom shall be the LORD's.",
+   "voice": "Obadiah",
+   "insight": "The kingdom shall be the Lord's. Reformed eschatology cites this verse — the smallest book in the OT closes with the largest claim.",
+   "themes": [
+    "kingdom",
+    "sovereignty",
+    "eschatology"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD's->Lord's), audit L4"
+ },
+ {
+  "id": "scr-jon-001-009",
+  "action": "replace",
+  "entry": {
+   "id": "scr-jon-001-009",
+   "kind": "scripture",
+   "ref": "Jonah 1:9",
+   "translation": "KJV",
+   "text": "And he said unto them, I am an Hebrew; and I fear the LORD, the God of heaven, which hath made the sea and the dry land.",
+   "voice": "Jonah",
+   "insight": "Jonah's witness in transit. Even the fleeing prophet confesses the right doctrine — and the sailors believe before he repents. The verse mocks the messenger and honors the message.",
+   "themes": [
+    "mission",
+    "theology-proper",
+    "scripture"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps"
+ },
+ {
+  "id": "scr-nam-001-003",
+  "action": "replace",
+  "entry": {
+   "id": "scr-nam-001-003",
+   "kind": "scripture",
+   "ref": "Nahum 1:3",
+   "translation": "KJV",
+   "text": "The LORD is slow to anger, and great in power, and will not at all acquit the wicked: the LORD hath his way in the whirlwind and in the storm, and the clouds are the dust of his feet.",
+   "voice": "Nahum",
+   "insight": "Two attributes balanced — slow to anger, great in power. Reformed theology proper refuses to let either eclipse the other; the patience and the wrath are both real.",
+   "themes": [
+    "theology-proper",
+    "waiting",
+    "sovereignty"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-hab-002-014",
+  "action": "replace",
+  "entry": {
+   "id": "scr-hab-002-014",
+   "kind": "scripture",
+   "ref": "Habakkuk 2:14",
+   "translation": "KJV",
+   "text": "For the earth shall be filled with the knowledge of the glory of the LORD, as the waters cover the sea.",
+   "voice": "Habakkuk",
+   "insight": "The promise that knowledge of God's glory will saturate the earth as the waters cover the sea. Reformed missiology rests on this verse — the consummation is universal recognition.",
+   "themes": [
+    "glory-of-god",
+    "mission",
+    "eschatology"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-zep-001-014",
+  "action": "replace",
+  "entry": {
+   "id": "scr-zep-001-014",
+   "kind": "scripture",
+   "ref": "Zephaniah 1:14",
+   "translation": "KJV",
+   "text": "The great day of the LORD is near, it is near, and hasteth greatly, even the voice of the day of the LORD: the mighty man shall cry there bitterly.",
+   "voice": "Zephaniah",
+   "insight": "The day of the Lord — near and hastening. Reformed eschatology takes seriously both the imminence and the inevitability; the verse refuses to let the church be casual about it.",
+   "themes": [
+    "eschatology",
+    "judgment"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-zep-003-009",
+  "action": "replace",
+  "entry": {
+   "id": "scr-zep-003-009",
+   "kind": "scripture",
+   "ref": "Zephaniah 3:9",
+   "translation": "KJV",
+   "text": "For then will I turn to the people a pure language, that they may all call upon the name of the LORD, to serve him with one consent.",
+   "voice": "Zephaniah",
+   "insight": "The reversal of Babel — pure language given to all peoples. Reformed missiology reads this verse as gospel undoing Genesis 11; the Lord re-unifies what sin scattered.",
+   "themes": [
+    "mission",
+    "kingdom",
+    "healing"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-hag-001-005",
+  "action": "replace",
+  "entry": {
+   "id": "scr-hag-001-005",
+   "kind": "scripture",
+   "ref": "Haggai 1:5",
+   "translation": "KJV",
+   "text": "Now therefore thus saith the LORD of hosts; Consider your ways.",
+   "voice": "Haggai",
+   "insight": "Haggai's refrain after seventy years of distracted building. 'Consider your ways' — the Reformed examination of conscience has this verse as its prompt.",
+   "themes": [
+    "confession",
+    "guidance",
+    "repentance"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-mal-001-011",
+  "action": "replace",
+  "entry": {
+   "id": "scr-mal-001-011",
+   "kind": "scripture",
+   "ref": "Malachi 1:11",
+   "translation": "KJV",
+   "text": "For from the rising of the sun even unto the going down of the same my name shall be great among the Gentiles; and in every place incense shall be offered unto my name, and a pure offering: for my name shall be great among the heathen, saith the LORD of hosts.",
+   "voice": "Malachi",
+   "insight": "From sunrise to sunset, the Lord's name shall be great among the nations. Reformed missiology cites this verse — even before the New Covenant, the geographical scope was global.",
+   "themes": [
+    "revelation",
+    "mission",
+    "doxology"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-mal-003-010",
+  "action": "replace",
+  "entry": {
+   "id": "scr-mal-003-010",
+   "kind": "scripture",
+   "ref": "Malachi 3:10",
+   "translation": "KJV",
+   "text": "Bring ye all the tithes into the storehouse, that there may be meat in mine house, and prove me now herewith, saith the LORD of hosts, if I will not open you the windows of heaven, and pour you out a blessing, that there shall not be room enough to receive it.",
+   "voice": "Malachi",
+   "insight": "The Lord's invitation to test him in tithing. Reformed stewardship reads this verse — generous return is the believer's reasoned response to a giving God.",
+   "themes": [
+    "generosity"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "KJV (1769) text verified against two public-domain witnesses, bible-api.com KJV and thiagobodruk/bible en_kjv.json, and BibleGateway KJV where they differed; divine name restored to all caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-exo-014-014",
+  "action": "replace",
+  "entry": {
+   "id": "scr-exo-014-014",
+   "kind": "scripture",
+   "ref": "Exodus 14:14",
+   "translation": "ESV",
+   "text": "The LORD will fight for you, and you have only to be silent.",
+   "voice": "Exodus",
+   "insight": "Israel at the Red Sea: the deliverance is the Lord's, your part is stillness. The verb for 'be silent' (charash) means to keep from speaking, including ceasing your protests and proposals. Strive less, trust more.",
+   "themes": [
+    "providence",
+    "rest"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-lev-019-002",
+  "action": "replace",
+  "entry": {
+   "id": "scr-lev-019-002",
+   "kind": "scripture",
+   "ref": "Leviticus 19:2",
+   "translation": "ESV",
+   "text": "'Speak to all the congregation of the people of Israel and say to them, You shall be holy, for I the LORD your God am holy.'",
+   "voice": "Leviticus",
+   "insight": "Sproul: holiness is the one attribute of God lifted to the third power in Scripture (holy, holy, holy). Imitation flows from imputation — you are not commanded to manufacture holiness but to mirror the Holy One who has set you apart. The 'for' carries the whole logic.",
+   "themes": [
+    "holiness",
+    "sanctification"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (suffix; source begins 'Speak to all the congregation of the people...'); full text restored, 124 chars, audit H3"
+ },
+ {
+  "id": "scr-num-006-024-026",
+  "action": "replace",
+  "entry": {
+   "id": "scr-num-006-024-026",
+   "kind": "scripture",
+   "ref": "Numbers 6:24-26",
+   "translation": "ESV",
+   "text": "The LORD bless you and keep you; the LORD make his face to shine upon you and be gracious to you; the LORD lift up his countenance upon you and give you peace.",
+   "voice": "Numbers",
+   "insight": "The Aaronic blessing was God's chosen way to put His name on His people (v. 27). Three couplets — bless/keep, shine/gracious, lift/peace — each line widening the angle of God's posture toward you. Receive it now, before your next prompt.",
+   "themes": [
+    "grace",
+    "peace"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-deu-006-004-005",
+  "action": "replace",
+  "entry": {
+   "id": "scr-deu-006-004-005",
+   "kind": "scripture",
+   "ref": "Deuteronomy 6:4-5",
+   "translation": "ESV",
+   "text": "'Hear, O Israel: The LORD our God, the LORD is one. You shall love the LORD your God with all your heart and with all your soul and with all your might.'",
+   "voice": "Deuteronomy",
+   "insight": "The Shema. Jesus called this the great commandment (Mark 12:29-30); the unity of God grounds the totality of love — a divided god could only command divided affection. All loves are ordered under this love.",
+   "themes": [
+    "theology-proper",
+    "love-of-god"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-jos-001-009-esv",
+  "action": "replace",
+  "entry": {
+   "id": "scr-jos-001-009-esv",
+   "kind": "scripture",
+   "ref": "Joshua 1:9",
+   "translation": "ESV",
+   "text": "Have I not commanded you? Be strong and courageous. Do not be frightened, and do not be dismayed, for the LORD your God is with you wherever you go.",
+   "voice": "Joshua",
+   "insight": "Courage is grounded not in temperament but in presence. The repeated command — be strong, be courageous — assumes you are not, yet. The 'for' clause is load-bearing: His company, not your composure, is the reason you obey.",
+   "themes": [
+    "courage",
+    "providence"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (suffix; source begins 'Have I not commanded you...'); full text restored, 148 chars, audit H3"
+ },
+ {
+  "id": "scr-rut-001-016-esv",
+  "action": "replace",
+  "entry": {
+   "id": "scr-rut-001-016-esv",
+   "kind": "scripture",
+   "ref": "Ruth 1:16",
+   "translation": "ESV",
+   "text": "But Ruth said, 'Do not urge me to leave you or to return from following you. For where you go I will go, and where you lodge I will lodge. Your people shall be my people, and your God my God.'",
+   "voice": "Ruth",
+   "insight": "Ruth, a Moabitess, joins the covenant people by faith and confession. From her line will come David — and David's greater Son. The book quietly insists that gentile inclusion was always in the plan, not a New Testament afterthought.",
+   "themes": [
+    "covenant",
+    "providence"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (suffix; source begins 'But Ruth said Do not urge me to...'); full text restored, 192 chars, audit H3"
+ },
+ {
+  "id": "scr-1sa-016-007-esv",
+  "action": "replace",
+  "entry": {
+   "id": "scr-1sa-016-007-esv",
+   "kind": "scripture",
+   "ref": "1 Samuel 16:7",
+   "translation": "ESV",
+   "text": "But the LORD said to Samuel, 'Do not look on his appearance or on the height of his stature, because I have rejected him. For the LORD sees not as man sees: man looks on the outward appearance, but the LORD looks on the heart.'",
+   "voice": "1 Samuel",
+   "insight": "The anointing of David. God reads what no resume captures and weighs what no metric measures. Samuel was looking at Eliab's height; the Lord was looking at the runt with the harp. Today's invisible faithfulness is visible to Him.",
+   "themes": [
+    "heart",
+    "providence"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (suffix; source begins 'But the LORD said to Samuel Do not...'); full text restored, 227 chars, audit H3"
+ },
+ {
+  "id": "scr-2sa-022-031",
+  "action": "replace",
+  "entry": {
+   "id": "scr-2sa-022-031",
+   "kind": "scripture",
+   "ref": "2 Samuel 22:31",
+   "translation": "ESV",
+   "text": "This God — his way is perfect; the word of the LORD proves true; he is a shield for all those who take refuge in him.",
+   "voice": "2 Samuel",
+   "insight": "David's song after deliverance. 'Perfect' is tamim — complete, whole, without deficit. The road feels otherwise; the road is not. Confidence rests not on visible smoothness but on hidden integrity. The same word describes the unblemished sacrifices of Leviticus — God's way matches the standard He set for what could be brought to His altar.",
+   "themes": [
+    "providence",
+    "scripture"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-1ki-008-023",
+  "action": "replace",
+  "entry": {
+   "id": "scr-1ki-008-023",
+   "kind": "scripture",
+   "ref": "1 Kings 8:23",
+   "translation": "ESV",
+   "text": "and said, 'O LORD, God of Israel, there is no God like you, in heaven above or on earth beneath, keeping covenant and showing steadfast love to your servants who walk before you with all their heart;'",
+   "voice": "1 Kings",
+   "insight": "Solomon at the temple dedication. Covenant + steadfast love (chesed) — this pairing is the spine of the whole Old Testament. Chesed is loyalty that exceeds obligation, the love that keeps showing up after the relationship has earned the right to end.",
+   "themes": [
+    "covenant",
+    "grace"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (suffix; source begins 'and said O LORD God of Israel...'); full text restored, 200 chars, audit H3"
+ },
+ {
+  "id": "scr-2ki-006-016-esv",
+  "action": "replace",
+  "entry": {
+   "id": "scr-2ki-006-016-esv",
+   "kind": "scripture",
+   "ref": "2 Kings 6:16",
+   "translation": "ESV",
+   "text": "He said, 'Do not be afraid, for those who are with us are more than those who are with them.'",
+   "voice": "2 Kings",
+   "insight": "Elisha to his servant before the unseen chariots of fire are revealed. The visible threat is never the whole accounting. Faith is the sober economics of unseen reinforcements. Elisha's prayer was not for fewer enemies but for opened eyes — the same army was already there both before and after the prayer.",
+   "themes": [
+    "anxiety",
+    "providence"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (suffix; source begins 'He said...'); full text restored, 93 chars, audit H3"
+ },
+ {
+  "id": "scr-1ch-016-011-esv",
+  "action": "replace",
+  "entry": {
+   "id": "scr-1ch-016-011-esv",
+   "kind": "scripture",
+   "ref": "1 Chronicles 16:11",
+   "translation": "ESV",
+   "text": "Seek the LORD and his strength; seek his presence continually!",
+   "voice": "1 Chronicles",
+   "insight": "Continually — not occasionally, not when troubled. The presence is the prize; the strength comes with it. Reverse the order — seek strength first — and you will find neither. The verse refuses transactional prayer; God is not a vending machine for resources but a Father whose company is itself the resource.",
+   "themes": [
+    "prayer",
+    "presence"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-2ch-007-014-esv",
+  "action": "replace",
+  "entry": {
+   "id": "scr-2ch-007-014-esv",
+   "kind": "scripture",
+   "ref": "2 Chronicles 7:14",
+   "translation": "ESV",
+   "text": "if my people who are called by my name humble themselves, and pray and seek my face and turn from their wicked ways, then I will hear from heaven and will forgive their sin and heal their land.",
+   "voice": "2 Chronicles",
+   "insight": "Often misapplied to nations God has not named. The first move is always humility — by His people, called by His name. The Church is the addressee; civic revival, if it comes, comes downstream of ecclesial repentance.",
+   "themes": [
+    "repentance",
+    "prayer"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; verse begins mid-sentence in the ESV; capitalisation restored to the published text (if->If)"
+ },
+ {
+  "id": "scr-ezr-007-010-esv",
+  "action": "replace",
+  "entry": {
+   "id": "scr-ezr-007-010-esv",
+   "kind": "scripture",
+   "ref": "Ezra 7:10",
+   "translation": "ESV",
+   "text": "For Ezra had set his heart to study the Law of the LORD, and to do it and to teach his statutes and rules in Israel.",
+   "voice": "Ezra",
+   "insight": "Three verbs in order: study, do, teach. Inverting the order produces hypocrites and pedants. The teacher who has not first done is selling someone else's blueprint as his own house. Ezra set his heart — the Hebrew suggests deliberate fixing, not casual leaning; right knowing of God begins as a settled choice.",
+   "themes": [
+    "scripture",
+    "discipleship"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (suffix; source begins 'For...'); full text restored, 116 chars, audit H3"
+ },
+ {
+  "id": "scr-neh-008-010-esv",
+  "action": "replace",
+  "entry": {
+   "id": "scr-neh-008-010-esv",
+   "kind": "scripture",
+   "ref": "Nehemiah 8:10",
+   "translation": "ESV",
+   "text": "Then he said to them, 'Go your way. Eat the fat and drink sweet wine and send portions to anyone who has nothing ready, for this day is holy to our Lord. And do not be grieved, for the joy of the LORD is your strength.'",
+   "voice": "Nehemiah",
+   "insight": "Piper: God's joy is yours by union with Christ. The strength does not come from manufactured cheerfulness but from received delight. The genitive is possessive — His joy first, yours second by participation.",
+   "themes": [
+    "joy",
+    "doxology"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (suffix; source begins 'Then he said to them Go your way...'); full text restored, 219 chars, audit H3"
+ },
+ {
+  "id": "scr-est-004-014-esv",
+  "action": "replace",
+  "entry": {
+   "id": "scr-est-004-014-esv",
+   "kind": "scripture",
+   "ref": "Esther 4:14",
+   "translation": "ESV",
+   "text": "For if you keep silent at this time, relief and deliverance will rise for the Jews from another place, but you and your father's house will perish. And who knows whether you have not come to the kingdom for such a time as this?",
+   "voice": "Esther",
+   "insight": "The book never names God; the verse never doubts His timing. Providence works through the placement no one chose. Your present coordinates — role, team, decade — are arguments for, not against, vocational seriousness.",
+   "themes": [
+    "providence",
+    "vocation"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (suffix; source begins 'For if you keep silent at this time...'); full text restored, 227 chars, audit H3"
+ },
+ {
+  "id": "scr-psa-023-001",
+  "action": "replace",
+  "entry": {
+   "id": "scr-psa-023-001",
+   "kind": "scripture",
+   "ref": "Psalm 23:1",
+   "translation": "ESV",
+   "text": "The LORD is my shepherd; I shall not want.",
+   "voice": "Psalms",
+   "insight": "Spurgeon: 'I shall not want' is the conclusion of a syllogism whose premise is the Shepherd. The Shepherd determines the supply, not your shortage. To want is to forget Whose flock you are in.",
+   "themes": [
+    "providence",
+    "faith"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-psa-042-001-002",
+  "action": "replace",
+  "entry": {
+   "id": "scr-psa-042-001-002",
+   "kind": "scripture",
+   "ref": "Psalm 42:1-2",
+   "translation": "ESV",
+   "text": "As a deer pants for flowing streams, so pants my soul for you, O God. My soul thirsts for God, for the living God. When shall I come and appear before God?",
+   "voice": "Psalms",
+   "insight": "The image is desperate, not romantic — a hunted animal collapsing toward water. Spiritual thirst is not weakness to apologize for but evidence of the soul's design. The thirst itself is grace teaching you what you actually need.",
+   "themes": [
+    "hope",
+    "knowing-god"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (prefix; source continues 'When shall I come and appear before God...'); full text restored, 155 chars, audit H3"
+ },
+ {
+  "id": "scr-psa-121-001-002",
+  "action": "replace",
+  "entry": {
+   "id": "scr-psa-121-001-002",
+   "kind": "scripture",
+   "ref": "Psalm 121:1-2",
+   "translation": "ESV",
+   "text": "I lift up my eyes to the hills. From where does my help come? My help comes from the LORD, who made heaven and earth.",
+   "voice": "Psalms",
+   "insight": "A song of ascents, sung walking up to Jerusalem. The hills could be threat (bandits, idol-shrines) or promise (Zion); the question's answer settles which. Help comes not from the hills but from the One who made them — Maker outranks made.",
+   "themes": [
+    "dependence",
+    "providence"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-psa-145-008-009",
+  "action": "replace",
+  "entry": {
+   "id": "scr-psa-145-008-009",
+   "kind": "scripture",
+   "ref": "Psalm 145:8-9",
+   "translation": "ESV",
+   "text": "The LORD is gracious and merciful, slow to anger and abounding in steadfast love. The LORD is good to all, and his mercy is over all that he has made.",
+   "voice": "Psalms",
+   "insight": "David quoting Exodus 34:6-7 — the verse the Old Testament quotes more than any other. God's character is not deduced; it is self-disclosed. 'Over all that he has made' includes the parts of your life you wish He had not.",
+   "themes": [
+    "mercy",
+    "grace"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-psa-027-001",
+  "action": "replace",
+  "entry": {
+   "id": "scr-psa-027-001",
+   "kind": "scripture",
+   "ref": "Psalm 27:1",
+   "translation": "ESV",
+   "text": "The LORD is my light and my salvation; whom shall I fear? The LORD is the stronghold of my life; of whom shall I be afraid?",
+   "voice": "Psalms",
+   "insight": "Two questions, no answers — because none are needed. Fear shrinks in the presence of light; the rhetorical form is itself the cure. Threats sized against the Lord lose their proportion. David asks the question Goliath should have asked first; the giant of fear shrinks the moment its name is spoken in the right pronoun.",
+   "themes": [
+    "anxiety",
+    "salvation"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-psa-103-002",
+  "action": "replace",
+  "entry": {
+   "id": "scr-psa-103-002",
+   "kind": "scripture",
+   "ref": "Psalm 103:2",
+   "translation": "ESV",
+   "text": "Bless the LORD, O my soul, and forget not all his benefits,",
+   "voice": "Psalms",
+   "insight": "The soul preached to, not consulted. Lloyd-Jones: do not listen to yourself; talk to yourself. Begin here — the soul has a memory that needs prompting toward gratitude before it will sing.",
+   "themes": [
+    "doxology",
+    "meditation"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-psa-130-001-002",
+  "action": "replace",
+  "entry": {
+   "id": "scr-psa-130-001-002",
+   "kind": "scripture",
+   "ref": "Psalm 130:1-2",
+   "translation": "ESV",
+   "text": "Out of the depths I cry to you, O LORD! O Lord, hear my voice! Let your ears be attentive to the voice of my pleas for mercy!",
+   "voice": "Psalms",
+   "insight": "Luther's favorite Psalm. The depths are not to be escaped by climbing but spoken from. Cry first; ascend later. The Psalter teaches that the deep is a permitted address from which to write to God.",
+   "themes": [
+    "prayer",
+    "lament"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (prefix; source continues 'Let your ears be attentive to the voice...'); full text restored, 125 chars, audit H3"
+ },
+ {
+  "id": "scr-psa-150-006",
+  "action": "replace",
+  "entry": {
+   "id": "scr-psa-150-006",
+   "kind": "scripture",
+   "ref": "Psalm 150:6",
+   "translation": "ESV",
+   "text": "Let everything that has breath praise the LORD! Praise the LORD!",
+   "voice": "Psalms",
+   "insight": "The Psalter ends in doxology. Whatever you build today, build it toward this telos — a universe of breath returning praise. The lungs that complete this prompt are on loan for that purpose.",
+   "themes": [
+    "worship",
+    "doxology"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (prefix; source continues 'Praise the LORD...'); full text restored, 64 chars, audit H3"
+ },
+ {
+  "id": "scr-psa-034-008",
+  "action": "replace",
+  "entry": {
+   "id": "scr-psa-034-008",
+   "kind": "scripture",
+   "ref": "Psalm 34:8",
+   "translation": "ESV",
+   "text": "Oh, taste and see that the LORD is good! Blessed is the man who takes refuge in him!",
+   "voice": "Psalms",
+   "insight": "Edwards distinguished notional from experiential knowledge. You can know about honey or you can taste it. Don't settle for notional Christianity — the verb is sensory because the reality is. Peter quotes this verse in his first epistle (2:3); the apostolic church preached not just believe-and-see but taste-and-see.",
+   "themes": [
+    "knowing-god",
+    "grace"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (suffix; source begins 'Oh...'); full text restored, 84 chars, audit H3"
+ },
+ {
+  "id": "scr-pro-001-007",
+  "action": "replace",
+  "entry": {
+   "id": "scr-pro-001-007",
+   "kind": "scripture",
+   "ref": "Proverbs 1:7",
+   "translation": "ESV",
+   "text": "The fear of the LORD is the beginning of knowledge; fools despise wisdom and instruction.",
+   "voice": "Proverbs",
+   "insight": "Van Til: there are no brute facts. Every datum, including the one in your terminal, presupposes the God who ordained it. Knowledge severed from reverence is not lower-grade wisdom but a different kind of thing — folly with footnotes.",
+   "themes": [
+    "fear-of-god",
+    "wisdom"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-pro-003-005-006",
+  "action": "replace",
+  "entry": {
+   "id": "scr-pro-003-005-006",
+   "kind": "scripture",
+   "ref": "Proverbs 3:5-6",
+   "translation": "ESV",
+   "text": "Trust in the LORD with all your heart, and do not lean on your own understanding. In all your ways acknowledge him, and he will make straight your paths.",
+   "voice": "Proverbs",
+   "insight": "Trust is not the absence of thought but the refusal to make your own understanding the final court. Submit your reasoning, don't suspend it. The straight paths are His to draw, not yours to engineer.",
+   "themes": [
+    "faith",
+    "guidance"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-pro-009-010",
+  "action": "replace",
+  "entry": {
+   "id": "scr-pro-009-010",
+   "kind": "scripture",
+   "ref": "Proverbs 9:10",
+   "translation": "ESV",
+   "text": "The fear of the LORD is the beginning of wisdom, and the knowledge of the Holy One is insight.",
+   "voice": "Proverbs",
+   "insight": "Knowledge gathers data; insight perceives meaning. Both flow from the same root: the fear of the Lord. Strip the root and you may keep the data, but the meaning slips through your fingers.",
+   "themes": [
+    "wisdom",
+    "fear-of-god"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-pro-016-009",
+  "action": "replace",
+  "entry": {
+   "id": "scr-pro-016-009",
+   "kind": "scripture",
+   "ref": "Proverbs 16:9",
+   "translation": "ESV",
+   "text": "The heart of man plans his way, but the LORD establishes his steps.",
+   "voice": "Proverbs",
+   "insight": "Plan honestly; hold loosely. Calvin: providence is not the denial of human agency but its frame. You write the to-do list; He writes the day. The verse refuses both fatalism (don't bother planning) and autonomy (your plans are sovereign) — the heart plans, the Lord establishes, and faith lives in the conjunction.",
+   "themes": [
+    "providence",
+    "guidance"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-sng-008-007",
+  "action": "replace",
+  "entry": {
+   "id": "scr-sng-008-007",
+   "kind": "scripture",
+   "ref": "Song of Solomon 8:7",
+   "translation": "ESV",
+   "text": "Many waters cannot quench love, neither can floods drown it. If a man offered for love all the wealth of his house, he would be utterly despised.",
+   "voice": "Song of Songs",
+   "insight": "Spurgeon and the Puritans read the Song christologically: the Bridegroom's love is the deepest of which human love is the shadow. Persecution, distance, even apostasy cannot finally drown what He has resolved to keep.",
+   "themes": [
+    "love-of-god",
+    "covenant"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (prefix; source continues 'If a man offered for love all the...'); full text restored, 145 chars, audit H3"
+ },
+ {
+  "id": "scr-isa-006-003",
+  "action": "replace",
+  "entry": {
+   "id": "scr-isa-006-003",
+   "kind": "scripture",
+   "ref": "Isaiah 6:3",
+   "translation": "ESV",
+   "text": "And one called to another and said: 'Holy, holy, holy is the LORD of hosts; the whole earth is full of his glory!'",
+   "voice": "Isaiah",
+   "insight": "The trisagion. Sproul: of all God's attributes, only this one is repeated three times. Holiness is His name as much as His quality — superlative by triple repetition, the Hebrew way of saying maximally so.",
+   "themes": [
+    "holiness",
+    "glory-of-god"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (suffix; source begins 'And one called to another and said...'); full text restored, 114 chars, audit H3"
+ },
+ {
+  "id": "scr-isa-041-010",
+  "action": "replace",
+  "entry": {
+   "id": "scr-isa-041-010",
+   "kind": "scripture",
+   "ref": "Isaiah 41:10",
+   "translation": "ESV",
+   "text": "fear not, for I am with you; be not dismayed, for I am your God; I will strengthen you, I will help you, I will uphold you with my righteous right hand.",
+   "voice": "Isaiah",
+   "insight": "Five 'I will' clauses stacked against your one 'fear not.' The grammar is meant to crowd out the fear by sheer divine commitment. The right hand is not metaphor for vague comfort but the covenanting hand that has signed your name.",
+   "themes": [
+    "anxiety",
+    "presence"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; verse begins mid-sentence in the ESV; capitalisation restored to the published text (fear->Fear)"
+ },
+ {
+  "id": "scr-isa-043-001-002",
+  "action": "replace",
+  "entry": {
+   "id": "scr-isa-043-001-002",
+   "kind": "scripture",
+   "ref": "Isaiah 43:1-2",
+   "translation": "ESV",
+   "text": "But now thus says the LORD, he who created you, O Jacob, he who formed you, O Israel: 'Fear not, for I have redeemed you; I have called you by name, you are mine. When you pass through the waters, I will be with you; and through the rivers, they shall not overwhelm you; when you walk through fire you shall not be burned, and the flame shall not consume you.'",
+   "voice": "Isaiah",
+   "insight": "Three perfects — redeemed, called, possessed — before any imperative is issued. The 'when' is sober: you will pass through waters. The promise is not exemption from depth but accompaniment within it.",
+   "themes": [
+    "redemption",
+    "providence"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (middle (from word 18); source begins 'But now thus says the LORD...'); full text restored, 360 chars, audit H3"
+ },
+ {
+  "id": "scr-isa-040-031",
+  "action": "replace",
+  "entry": {
+   "id": "scr-isa-040-031",
+   "kind": "scripture",
+   "ref": "Isaiah 40:31",
+   "translation": "ESV",
+   "text": "but they who wait for the LORD shall renew their strength; they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not faint.",
+   "voice": "Isaiah",
+   "insight": "Three modes — fly, run, walk — in descending intensity. The hardest may be walking and not fainting. The verbs descend on purpose: ordinary endurance is the climax, not the consolation prize.",
+   "themes": [
+    "waiting",
+    "perseverance"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord, but->But), audit L4"
+ },
+ {
+  "id": "scr-isa-055-008",
+  "action": "replace",
+  "entry": {
+   "id": "scr-isa-055-008",
+   "kind": "scripture",
+   "ref": "Isaiah 55:8",
+   "translation": "ESV",
+   "text": "For my thoughts are not your thoughts, neither are your ways my ways, declares the LORD.",
+   "voice": "Isaiah",
+   "insight": "Often quoted as comfort, originally given as rebuke (vv. 6-7). The remedy for incomprehension is repentance, not protest. The distance between His thoughts and yours is fixed only by your turning. The 'higher ways' speech is meant to shut your mouth, not soothe your bewilderment.",
+   "themes": [
+    "sovereignty",
+    "repentance"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-jer-029-011",
+  "action": "replace",
+  "entry": {
+   "id": "scr-jer-029-011",
+   "kind": "scripture",
+   "ref": "Jeremiah 29:11",
+   "translation": "ESV",
+   "text": "For I know the plans I have for you, declares the LORD, plans for welfare and not for evil, to give you a future and a hope.",
+   "voice": "Jeremiah",
+   "insight": "Spoken to exiles told to settle in Babylon for seventy years. The hope is real; the timeline is the Lord's, not yours. Verses 4-7 instruct them to build, plant, marry — the welfare comes through the long obedience inside exile, not around it.",
+   "themes": [
+    "hope",
+    "providence"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-jer-031-003",
+  "action": "replace",
+  "entry": {
+   "id": "scr-jer-031-003",
+   "kind": "scripture",
+   "ref": "Jeremiah 31:3",
+   "translation": "ESV",
+   "text": "the LORD appeared to him from far away. I have loved you with an everlasting love; therefore I have continued my faithfulness to you.",
+   "voice": "Jeremiah",
+   "insight": "The verb 'loved' is past, the love itself everlasting — Hebrew tense and theological reality cooperating. His faithfulness is not response to yours but extension of His own. Today's grace draws from a love older than time.",
+   "themes": [
+    "love-of-god",
+    "faithfulness"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (suffix; source begins 'the LORD appeared to him from far away...'); full text restored, 133 chars, audit H3"
+ },
+ {
+  "id": "scr-lam-003-022-023",
+  "action": "replace",
+  "entry": {
+   "id": "scr-lam-003-022-023",
+   "kind": "scripture",
+   "ref": "Lamentations 3:22-23",
+   "translation": "ESV",
+   "text": "The steadfast love of the LORD never ceases; his mercies never come to an end; they are new every morning; great is your faithfulness.",
+   "voice": "Lamentations",
+   "insight": "Even on the morning after the worst commit of your career, the mercies are new. Yesterday's failures do not deplete today's grace. Set in a book of ash and ruin, the verse refuses to let despair have the last word.",
+   "themes": [
+    "mercy",
+    "faithfulness"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-dan-003-018",
+  "action": "replace",
+  "entry": {
+   "id": "scr-dan-003-018",
+   "kind": "scripture",
+   "ref": "Daniel 3:18",
+   "translation": "ESV",
+   "text": "But if not, be it known to you, O king, that we will not serve your gods or worship the golden image that you have set up.",
+   "voice": "Daniel",
+   "insight": "Shadrach, Meshach, Abednego: confidence in deliverance is good; obedience without it is purer. The 'but if not' is the heart of faith — the willingness to obey God whether or not He spares you the furnace.",
+   "themes": [
+    "obedience",
+    "faithfulness"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (prefix; source continues 'or worship the golden image that you have...'); full text restored, 122 chars, audit H3"
+ },
+ {
+  "id": "scr-jol-002-013",
+  "action": "replace",
+  "entry": {
+   "id": "scr-jol-002-013",
+   "kind": "scripture",
+   "ref": "Joel 2:13",
+   "translation": "ESV",
+   "text": "and rend your hearts and not your garments. Return to the LORD your God, for he is gracious and merciful, slow to anger, and abounding in steadfast love; and he relents over disaster.",
+   "voice": "Joel",
+   "insight": "The Exodus 34 self-revelation, applied to God's own wayward people. His character is not flexible to your performance. Repentance is not bargaining with an offended deity but coming home to a Father whose disposition is fixed.",
+   "themes": [
+    "repentance",
+    "grace"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (middle (from word 8); source begins 'and rend your hearts and not...'); full text restored, 183 chars, audit H3"
+ },
+ {
+  "id": "scr-oba-001-015",
+  "action": "replace",
+  "entry": {
+   "id": "scr-oba-001-015",
+   "kind": "scripture",
+   "ref": "Obadiah 1:15",
+   "translation": "ESV",
+   "text": "For the day of the LORD is near upon all the nations. As you have done, it shall be done to you; your deeds shall return on your own head.",
+   "voice": "Obadiah",
+   "insight": "The shortest book in the OT, addressed to Edom. The lex talionis of providence: deeds boomerang under God's governance. What you sow into the world circles back, often through agents you would not have chosen.",
+   "themes": [
+    "judgment",
+    "providence"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (suffix; source begins 'For...'); full text restored, 138 chars, audit H3"
+ },
+ {
+  "id": "scr-jon-002-009",
+  "action": "replace",
+  "entry": {
+   "id": "scr-jon-002-009",
+   "kind": "scripture",
+   "ref": "Jonah 2:9",
+   "translation": "ESV",
+   "text": "But I with the voice of thanksgiving will sacrifice to you; what I have vowed I will pay. Salvation belongs to the LORD!",
+   "voice": "Jonah",
+   "insight": "Confessed inside a fish. The whole tradition's soteriology in five English words. Not earned, not seized — belongs. The reluctant prophet finally preaches what the obedient prophet should have said all along.",
+   "themes": [
+    "salvation",
+    "sovereignty"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (suffix; source begins 'But I with the voice of thanksgiving will...'); full text restored, 120 chars, audit H3"
+ },
+ {
+  "id": "scr-mic-006-008",
+  "action": "replace",
+  "entry": {
+   "id": "scr-mic-006-008",
+   "kind": "scripture",
+   "ref": "Micah 6:8",
+   "translation": "ESV",
+   "text": "He has told you, O man, what is good; and what does the LORD require of you but to do justice, and to love kindness, and to walk humbly with your God?",
+   "voice": "Micah",
+   "insight": "Three verbs, no nouns of accomplishment. The good life is action: do, love, walk — not having, achieving, optimizing. The 'with your God' clause is what keeps the first two from collapsing into mere ethics.",
+   "themes": [
+    "judgment",
+    "humility"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-nam-001-007",
+  "action": "replace",
+  "entry": {
+   "id": "scr-nam-001-007",
+   "kind": "scripture",
+   "ref": "Nahum 1:7",
+   "translation": "ESV",
+   "text": "The LORD is good, a stronghold in the day of trouble; he knows those who take refuge in him.",
+   "voice": "Nahum",
+   "insight": "Set in a book of judgment against Nineveh. God's goodness toward His people is not in spite of His judgment but expressed through it. The same fortress that judges Nineveh shelters the trusting.",
+   "themes": [
+    "salvation",
+    "grace"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-hab-003-017-018",
+  "action": "replace",
+  "entry": {
+   "id": "scr-hab-003-017-018",
+   "kind": "scripture",
+   "ref": "Habakkuk 3:17-18",
+   "translation": "ESV",
+   "text": "Though the fig tree should not blossom, nor fruit be on the vines, the produce of the olive fail and the fields yield no food, the flock be cut off from the fold and there be no herd in the stalls, yet I will rejoice in the LORD; I will take joy in the God of my salvation.",
+   "voice": "Habakkuk",
+   "insight": "Joy unhitched from circumstance. The 'yet' is the load-bearing word in the entire prophet — and in mature faith. Habakkuk does not deny the empty branches; he refuses to let them set the affections.",
+   "themes": [
+    "joy",
+    "faith"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; the middle of v17 was replaced by an ellipsis (the only one in the corpus, audit H3); full text restored"
+ },
+ {
+  "id": "scr-zep-003-017",
+  "action": "replace",
+  "entry": {
+   "id": "scr-zep-003-017",
+   "kind": "scripture",
+   "ref": "Zephaniah 3:17",
+   "translation": "ESV",
+   "text": "The LORD your God is in your midst, a mighty one who will save; he will rejoice over you with gladness; he will quiet you by his love; he will exult over you with loud singing.",
+   "voice": "Zephaniah",
+   "insight": "God sings over His people. Most translations soften it; the Hebrew is shouting joy. Let that picture catch you today — the Father whose voice spoke worlds into being uses it to celebrate over you.",
+   "themes": [
+    "love-of-god",
+    "joy"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-hag-002-009",
+  "action": "replace",
+  "entry": {
+   "id": "scr-hag-002-009",
+   "kind": "scripture",
+   "ref": "Haggai 2:9",
+   "translation": "ESV",
+   "text": "The latter glory of this house shall be greater than the former, says the LORD of hosts. And in this place I will give peace, declares the LORD of hosts.",
+   "voice": "Haggai",
+   "insight": "Spoken to discouraged builders of a smaller second temple. The greater glory is not architectural — it walks in as Christ. The eyes that judge by square footage will always undervalue what God is actually doing.",
+   "themes": [
+    "glory-of-god",
+    "hope"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (prefix; source continues 'declares the LORD of hosts...'); full text restored, 153 chars, audit H3"
+ },
+ {
+  "id": "scr-zec-004-006",
+  "action": "replace",
+  "entry": {
+   "id": "scr-zec-004-006",
+   "kind": "scripture",
+   "ref": "Zechariah 4:6",
+   "translation": "ESV",
+   "text": "Then he said to me, 'This is the word of the LORD to Zerubbabel: Not by might, nor by power, but by my Spirit, says the LORD of hosts.'",
+   "voice": "Zechariah",
+   "insight": "To Zerubbabel rebuilding the temple. The means of the work shape the meaning of the work. Spirit-built, Spirit-bearing — kingdom work done by flesh-power produces only flesh-results, however polished. The temple stones knew the difference; so will the souls you serve.",
+   "themes": [
+    "holy-spirit",
+    "humility"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (suffix; source begins 'Then he said to me This is the...'); full text restored, 135 chars, audit H3"
+ },
+ {
+  "id": "scr-mal-003-006",
+  "action": "replace",
+  "entry": {
+   "id": "scr-mal-003-006",
+   "kind": "scripture",
+   "ref": "Malachi 3:6",
+   "translation": "ESV",
+   "text": "'For I the LORD do not change; therefore you, O children of Jacob, are not consumed.'",
+   "voice": "Malachi",
+   "insight": "Divine immutability as pastoral comfort. Bavinck: God's unchangeableness is not metaphysical aloofness but covenantal reliability. Your survival is downstream of His sameness; the unchanging Lord is the reason the changing Jacob is not consumed.",
+   "themes": [
+    "theology-proper",
+    "covenant"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-mrk-008-034",
+  "action": "replace",
+  "entry": {
+   "id": "scr-mrk-008-034",
+   "kind": "scripture",
+   "ref": "Mark 8:34",
+   "translation": "ESV",
+   "text": "And calling the crowd to him with his disciples, he said to them, 'If anyone would come after me, let him deny himself and take up his cross and follow me.'",
+   "voice": "Mark",
+   "insight": "Bonhoeffer: when Christ calls a man, He bids him come and die. The cross precedes the resurrection — for Him and for us. Any discipleship that bypasses self-denial is following someone other than Jesus.",
+   "themes": [
+    "discipleship"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (suffix; source begins 'And calling the crowd to him with his...'); full text restored, 156 chars, audit H3"
+ },
+ {
+  "id": "scr-luk-001-046-047",
+  "action": "replace",
+  "entry": {
+   "id": "scr-luk-001-046-047",
+   "kind": "scripture",
+   "ref": "Luke 1:46-47",
+   "translation": "ESV",
+   "text": "And Mary said, 'My soul magnifies the Lord, and my spirit rejoices in God my Savior,'",
+   "voice": "Luke",
+   "insight": "The Magnificat. Mary's theology — God my Savior, not God my supplier — predates her son's preaching of the same gospel. The Greek megalunei means to enlarge; the soul's job is to make God look as big as He actually is.",
+   "themes": [
+    "salvation",
+    "joy"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (suffix; source begins 'And Mary said...'); full text restored, 85 chars, audit H3"
+ },
+ {
+  "id": "scr-luk-009-023",
+  "action": "replace",
+  "entry": {
+   "id": "scr-luk-009-023",
+   "kind": "scripture",
+   "ref": "Luke 9:23",
+   "translation": "ESV",
+   "text": "And he said to all, 'If anyone would come after me, let him deny himself and take up his cross daily and follow me.'",
+   "voice": "Luke",
+   "insight": "Luke adds 'daily' — the cross is not a one-time crisis but a circadian discipline. Discipleship is not the moment of decision but its renewal each morning before the world has fully woken.",
+   "themes": [
+    "discipleship",
+    "perseverance"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (suffix; source begins 'And he said to all...'); full text restored, 116 chars, audit H3"
+ },
+ {
+  "id": "scr-jhn-014-006",
+  "action": "replace",
+  "entry": {
+   "id": "scr-jhn-014-006",
+   "kind": "scripture",
+   "ref": "John 14:6",
+   "translation": "ESV",
+   "text": "Jesus said to him, 'I am the way, and the truth, and the life. No one comes to the Father except through me.'",
+   "voice": "John",
+   "insight": "Three definite articles. Not a way among ways — the way. Pluralism that asks Jesus to be modest is asking Him to be other than He is; the verse forecloses every politely religious alternative.",
+   "themes": [
+    "christology",
+    "gospel"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (suffix; source begins 'Jesus said to him...'); full text restored, 109 chars, audit H3"
+ },
+ {
+  "id": "scr-jhn-019-030",
+  "action": "replace",
+  "entry": {
+   "id": "scr-jhn-019-030",
+   "kind": "scripture",
+   "ref": "John 19:30",
+   "translation": "ESV",
+   "text": "When Jesus had received the sour wine, he said, 'It is finished,' and he bowed his head and gave up his spirit.",
+   "voice": "John",
+   "insight": "Tetelestai — paid in full. The most important work in history is already done. Your work today is response, not requirement; the receipt was stamped before you woke up. Every Christian effort is debriefed against this verb — finished, not finishing.",
+   "themes": [
+    "atonement",
+    "gospel"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (middle (from word 9); source begins 'When Jesus had received the sour...'); full text restored, 111 chars, audit H3"
+ },
+ {
+  "id": "scr-act-017-028",
+  "action": "replace",
+  "entry": {
+   "id": "scr-act-017-028",
+   "kind": "scripture",
+   "ref": "Acts 17:28",
+   "translation": "ESV",
+   "text": "for \"In him we live and move and have our being\"; as even some of your own poets have said, \"For we are indeed his offspring.\"",
+   "voice": "Acts",
+   "insight": "Paul on Mars Hill, quoting a pagan poet about the true God. All goodness in human culture is anonymous testimony to its source. The unbeliever borrows from the worldview he denies every time he thinks, breathes, or longs.",
+   "themes": [
+    "providence",
+    "presence"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (prefix; source continues 'as even some of your own poets have...'); full text restored, 126 chars, audit H3"
+ },
+ {
+  "id": "scr-rom-001-016",
+  "action": "replace",
+  "entry": {
+   "id": "scr-rom-001-016",
+   "kind": "scripture",
+   "ref": "Romans 1:16",
+   "translation": "ESV",
+   "text": "For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, to the Jew first and also to the Greek.",
+   "voice": "Romans",
+   "insight": "Paul at the rhetorical center of empire. The gospel is power, not advice — dynamis, not didactics. The same word the Greeks used for military force is here used of a message about a crucified Jew.",
+   "themes": [
+    "gospel",
+    "sovereignty"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (prefix; source continues 'to the Jew first and also to the...'); full text restored, 142 chars, audit H3"
+ },
+ {
+  "id": "scr-rom-003-023-024",
+  "action": "replace",
+  "entry": {
+   "id": "scr-rom-003-023-024",
+   "kind": "scripture",
+   "ref": "Romans 3:23-24",
+   "translation": "ESV",
+   "text": "for all have sinned and fall short of the glory of God, and are justified by his grace as a gift, through the redemption that is in Christ Jesus,",
+   "voice": "Romans",
+   "insight": "The diagnosis (all) and the prescription (gift) in two breaths. Universalism in the problem; particularism in the cure. The grammar yokes them together: there is no chasm Paul sees in the human race that he does not also see closed in Christ.",
+   "themes": [
+    "sin",
+    "justification"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; verse begins mid-sentence in the ESV; capitalisation restored to the published text (for->For)"
+ },
+ {
+  "id": "scr-2co-012-009",
+  "action": "replace",
+  "entry": {
+   "id": "scr-2co-012-009",
+   "kind": "scripture",
+   "ref": "2 Corinthians 12:9",
+   "translation": "ESV",
+   "text": "But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.' Therefore I will boast all the more gladly of my weaknesses, so that the power of Christ may rest upon me.",
+   "voice": "2 Corinthians",
+   "insight": "Paul asked three times for the thorn's removal; received instead a deeper grace. The unanswered prayer is sometimes the answered one. Sufficiency is in the present tense — the grace arrives in step with the need, not warehoused ahead of it.",
+   "themes": [
+    "grace",
+    "dependence"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (middle (from word 5); source begins 'But he said to me...'); full text restored, 201 chars, audit H3"
+ },
+ {
+  "id": "scr-gal-002-020",
+  "action": "replace",
+  "entry": {
+   "id": "scr-gal-002-020",
+   "kind": "scripture",
+   "ref": "Galatians 2:20",
+   "translation": "ESV",
+   "text": "I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.",
+   "voice": "Galatians",
+   "insight": "The Christian's autobiography in two sentences. The first 'I' is buried; the second 'I' is borrowed. The verb 'crucified' is perfect tense in Greek — completed action with continuing effect; the death already happened, the dying continues to apply.",
+   "themes": [
+    "union-with-christ",
+    "truth"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (prefix; source continues 'And the life I now live in the...'); full text restored, 200 chars, audit H3"
+ },
+ {
+  "id": "scr-gal-005-022-023",
+  "action": "replace",
+  "entry": {
+   "id": "scr-gal-005-022-023",
+   "kind": "scripture",
+   "ref": "Galatians 5:22-23",
+   "translation": "ESV",
+   "text": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; against such things there is no law.",
+   "voice": "Galatians",
+   "insight": "Singular fruit, plural manifestations. The Spirit grows one cluster, not nine separate ones — and you cannot pick favorites. To prize patience while neglecting self-control is to prefer one petal and reject the flower.",
+   "themes": [
+    "holy-spirit",
+    "sanctification"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (prefix; source continues 'against such things there is no law...'); full text restored, 155 chars, audit H3"
+ },
+ {
+  "id": "scr-gal-006-014",
+  "action": "replace",
+  "entry": {
+   "id": "scr-gal-006-014",
+   "kind": "scripture",
+   "ref": "Galatians 6:14",
+   "translation": "ESV",
+   "text": "But far be it from me to boast except in the cross of our Lord Jesus Christ, by which the world has been crucified to me, and I to the world.",
+   "voice": "Galatians",
+   "insight": "The cross — Roman shame, Jewish curse — turned into Paul's only ground of glory. The most disreputable instrument made our most reputable boast. Every other boast Paul had on his Pharisaic resume he calls dung in Philippians 3; only this one made the cut.",
+   "themes": [
+    "atonement",
+    "courage"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (prefix; source continues 'by which the world has been crucified to...'); full text restored, 141 chars, audit H3"
+ },
+ {
+  "id": "scr-eph-003-017-019",
+  "action": "replace",
+  "entry": {
+   "id": "scr-eph-003-017-019",
+   "kind": "scripture",
+   "ref": "Ephesians 3:17-19",
+   "translation": "ESV",
+   "text": "so that Christ may dwell in your hearts through faith — that you, being rooted and grounded in love, may have strength to comprehend with all the saints what is the breadth and length and height and depth, and to know the love of Christ that surpasses knowledge, that you may be filled with all the fullness of God.",
+   "voice": "Ephesians",
+   "insight": "Paul prays for what he simultaneously calls unknowable — knowing the love that surpasses knowledge. The four dimensions are exhaustive; the love is not. Comprehension here is communal ('with all the saints'), not solitary; you cannot survey this ocean alone.",
+   "themes": [
+    "love-of-god",
+    "knowing-god"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (prefix; source continues 'that you may be filled with all the...'); full text restored, 315 chars, audit H3"
+ },
+ {
+  "id": "scr-eph-006-010",
+  "action": "replace",
+  "entry": {
+   "id": "scr-eph-006-010",
+   "kind": "scripture",
+   "ref": "Ephesians 6:10",
+   "translation": "ESV",
+   "text": "Finally, be strong in the Lord and in the strength of his might.",
+   "voice": "Ephesians",
+   "insight": "Strength commanded but located in another — His might, lent. Owen: the believer's strength is always borrowed. The whole armor passage that follows is divine equipment for a war you fight in someone else's might.",
+   "themes": [
+    "courage",
+    "spiritual-warfare"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (suffix; source begins 'Finally...'); full text restored, 64 chars, audit H3"
+ },
+ {
+  "id": "scr-php-002-005-007",
+  "action": "replace",
+  "entry": {
+   "id": "scr-php-002-005-007",
+   "kind": "scripture",
+   "ref": "Philippians 2:5-7",
+   "translation": "ESV",
+   "text": "Have this mind among yourselves, which is yours in Christ Jesus, who, though he was in the form of God, did not count equality with God a thing to be grasped, but emptied himself, by taking the form of a servant, being born in the likeness of men.",
+   "voice": "Philippians",
+   "insight": "The Carmen Christi — earliest Christian hymn embedded in Paul. Theology by song before theology by treatise. The kenosis (emptying) is not loss of deity but laying aside its prerogatives — the same Person, descending without diminishing.",
+   "themes": [
+    "christology",
+    "humility"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (prefix; source continues 'being born in the likeness of men...'); full text restored, 247 chars, audit H3"
+ },
+ {
+  "id": "scr-php-003-008",
+  "action": "replace",
+  "entry": {
+   "id": "scr-php-003-008",
+   "kind": "scripture",
+   "ref": "Philippians 3:8",
+   "translation": "ESV",
+   "text": "Indeed, I count everything as loss because of the surpassing worth of knowing Christ Jesus my Lord. For his sake I have suffered the loss of all things and count them as rubbish, in order that I may gain Christ",
+   "voice": "Philippians",
+   "insight": "Packer: knowing God is the chief end, the central enterprise of all Christianity. Everything else is bookkeeping. The verb 'count' is accounting language — Paul is doing math, not metaphor. Philippians 3:4-7 lists Paul's resume; v. 8 marks the column 'loss' against every line of it.",
+   "themes": [
+    "knowing-god",
+    "guidance"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (middle (from word 1); source begins 'Indeed...'); full text restored, 210 chars, audit H3"
+ },
+ {
+  "id": "scr-php-004-011",
+  "action": "replace",
+  "entry": {
+   "id": "scr-php-004-011",
+   "kind": "scripture",
+   "ref": "Philippians 4:11",
+   "translation": "ESV",
+   "text": "Not that I am speaking of being in need, for I have learned, in whatever situation I am, to be content.",
+   "voice": "Philippians",
+   "insight": "Burroughs: contentment is a sweet, inward, quiet, gracious frame of spirit, freely submitting to God's wise and fatherly disposal in every condition. The verb 'learned' is participle — ongoing apprenticeship, not graduation, even for Paul.",
+   "themes": [
+    "contentment",
+    "faith"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (suffix; source begins 'Not that I am speaking of being in...'); full text restored, 103 chars, audit H3"
+ },
+ {
+  "id": "scr-1ti-001-015",
+  "action": "replace",
+  "entry": {
+   "id": "scr-1ti-001-015",
+   "kind": "scripture",
+   "ref": "1 Timothy 1:15",
+   "translation": "ESV",
+   "text": "The saying is trustworthy and deserving of full acceptance, that Christ Jesus came into the world to save sinners, of whom I am the foremost.",
+   "voice": "1 Timothy",
+   "insight": "Paul, near the end, says 'foremost' — present tense. Mature sanctification heightens, not lowers, your sense of need for grace. The closer you get to the light, the more dust you see in your own room.",
+   "themes": [
+    "sin",
+    "grace"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (suffix; source begins 'The saying is trustworthy and deserving of full...'); full text restored, 141 chars, audit H3"
+ },
+ {
+  "id": "scr-1ti-006-006",
+  "action": "replace",
+  "entry": {
+   "id": "scr-1ti-006-006",
+   "kind": "scripture",
+   "ref": "1 Timothy 6:6",
+   "translation": "ESV",
+   "text": "But godliness with contentment is great gain,",
+   "voice": "1 Timothy",
+   "insight": "Contentment is not the absence of ambition but the presence of sufficiency. Godliness without it becomes a striving racket. The conjunction is essential: godliness alone can be performance; contentment alone can be apathy; together they are the gain.",
+   "themes": [
+    "contentment",
+    "holiness"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; corpus carried the 2001/2007 ESV wording (corpus 'Now there is great gain in godliness with contentment' vs source 'But godliness with contentment is great gain'); updated to the current 2016 text"
+ },
+ {
+  "id": "scr-2ti-001-007",
+  "action": "replace",
+  "entry": {
+   "id": "scr-2ti-001-007",
+   "kind": "scripture",
+   "ref": "2 Timothy 1:7",
+   "translation": "ESV",
+   "text": "for God gave us a spirit not of fear but of power and love and self-control.",
+   "voice": "2 Timothy",
+   "insight": "The triad: power without love is tyranny; love without self-control is sentimentality; self-control without power is repression. The Spirit grows them in proportion; the absence of any one warps the other two.",
+   "themes": [
+    "anxiety",
+    "holy-spirit"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; verse begins mid-sentence in the ESV; capitalisation restored to the published text (for->For)"
+ },
+ {
+  "id": "scr-tit-002-011-012",
+  "action": "replace",
+  "entry": {
+   "id": "scr-tit-002-011-012",
+   "kind": "scripture",
+   "ref": "Titus 2:11-12",
+   "translation": "ESV",
+   "text": "For the grace of God has appeared, bringing salvation for all people, training us to renounce ungodliness and worldly passions, and to live self-controlled, upright, and godly lives in the present age,",
+   "voice": "Titus",
+   "insight": "Grace is not only saving but pedagogical — it teaches. Sanctification is grace continuing what grace began. The same gift that justifies also disciplines; antinomianism mistakes one half of grace's work for the whole.",
+   "themes": [
+    "grace",
+    "sanctification"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (prefix; source continues 'and worldly passions and to live self-controlled upright...'); full text restored, 201 chars, audit H3"
+ },
+ {
+  "id": "scr-tit-003-005",
+  "action": "replace",
+  "entry": {
+   "id": "scr-tit-003-005",
+   "kind": "scripture",
+   "ref": "Titus 3:5",
+   "translation": "ESV",
+   "text": "he saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit,",
+   "voice": "Titus",
+   "insight": "The negative clause does the heaviest theological lifting. Cancel it, and merit creeps back into the gospel. The 'not because of' is a fence around grace — leave it down and the cattle of legalism wander straight in.",
+   "themes": [
+    "mercy",
+    "salvation"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (prefix; source continues 'by the washing of regeneration and renewal of...'); full text restored, 157 chars, audit H3"
+ },
+ {
+  "id": "scr-phm-001-006",
+  "action": "replace",
+  "entry": {
+   "id": "scr-phm-001-006",
+   "kind": "scripture",
+   "ref": "Philemon 1:6",
+   "translation": "ESV",
+   "text": "and I pray that the sharing of your faith may become effective for the full knowledge of every good thing that is in us for the sake of Christ.",
+   "voice": "Philemon",
+   "insight": "Witnessing deepens the witness's grasp of his own salvation. You learn the gospel by giving it away. The articulation forces precision; explaining grace to another reveals what you yourself half-believed. Paul prays this for Philemon — the runaway slave's owner — knowing reconciliation will preach the gospel back to the one preaching it.",
+   "themes": [
+    "mission",
+    "knowing-god"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (suffix; source begins 'and...'); full text restored, 143 chars, audit H3"
+ },
+ {
+  "id": "scr-heb-012-001-002",
+  "action": "replace",
+  "entry": {
+   "id": "scr-heb-012-001-002",
+   "kind": "scripture",
+   "ref": "Hebrews 12:1-2",
+   "translation": "ESV",
+   "text": "Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us, looking to Jesus, the founder and perfecter of our faith, who for the joy that was set before him endured the cross, despising the shame, and is seated at the right hand of the throne of God.",
+   "voice": "Hebrews",
+   "insight": "Endurance is the long obedience in the same direction. The race is set — not chosen, not invented — set; and the gaze is fixed. Two enemies must be laid aside: weights (not sins, but encumbrances) and sins; both can stop a runner who survives only one.",
+   "themes": [
+    "perseverance",
+    "christology"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (prefix; source continues 'who for the joy that was set before...'); full text restored, 391 chars, audit H3"
+ },
+ {
+  "id": "scr-heb-004-012",
+  "action": "replace",
+  "entry": {
+   "id": "scr-heb-004-012",
+   "kind": "scripture",
+   "ref": "Hebrews 4:12",
+   "translation": "ESV",
+   "text": "For the word of God is living and active, sharper than any two-edged sword, piercing to the division of soul and of spirit, of joints and of marrow, and discerning the thoughts and intentions of the heart.",
+   "voice": "Hebrews",
+   "insight": "Living and active — not preserved data, but operating presence. Scripture reads you while you read it. The cuts it makes are diagnostic before they are therapeutic; you cannot be healed at depths you have not first been opened to.",
+   "themes": [
+    "scripture"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (prefix; source continues 'of joints and of marrow and discerning the...'); full text restored, 205 chars, audit H3"
+ },
+ {
+  "id": "scr-jas-004-006",
+  "action": "replace",
+  "entry": {
+   "id": "scr-jas-004-006",
+   "kind": "scripture",
+   "ref": "James 4:6",
+   "translation": "ESV",
+   "text": "But he gives more grace. Therefore it says, 'God opposes the proud but gives grace to the humble.'",
+   "voice": "James",
+   "insight": "The same God who opposes pride supplies the grace humility requires. The opposition is the precondition of the supply. Grace and pride cannot occupy the same square inch of soul; one always evicts the other.",
+   "themes": [
+    "grace",
+    "humility"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; sentence punctuation altered in the corpus (comma or semicolon changed); restored, quote style follows house convention"
+ },
+ {
+  "id": "scr-jas-004-008",
+  "action": "replace",
+  "entry": {
+   "id": "scr-jas-004-008",
+   "kind": "scripture",
+   "ref": "James 4:8",
+   "translation": "ESV",
+   "text": "Draw near to God, and he will draw near to you. Cleanse your hands, you sinners, and purify your hearts, you double-minded.",
+   "voice": "James",
+   "insight": "Reciprocity, but uneven — your draw-near is staggering steps; His is the running father (Lk. 15:20). The conditional looks like a transaction but is actually an invitation; the Father is already on the porch when the son turns the corner.",
+   "themes": [
+    "knowing-god",
+    "prayer"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (prefix; source continues 'Cleanse your hands you sinners and purify your...'); full text restored, 123 chars, audit H3"
+ },
+ {
+  "id": "scr-1pe-005-007",
+  "action": "replace",
+  "entry": {
+   "id": "scr-1pe-005-007",
+   "kind": "scripture",
+   "ref": "1 Peter 5:7",
+   "translation": "ESV",
+   "text": "casting all your anxieties on him, because he cares for you.",
+   "voice": "1 Peter",
+   "insight": "Piper: God is most glorified in us when we are most satisfied in Him — and anxiety is a confession that we are seeking satisfaction elsewhere. The participle 'casting' modifies the imperative 'humble yourselves' (v. 6); pride and anxiety are siblings, both addressed by the same surrender.",
+   "themes": [
+    "anxiety",
+    "comfort"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; verse begins mid-sentence in the ESV; capitalisation restored to the published text (casting->Casting)"
+ },
+ {
+  "id": "scr-1jn-003-001",
+  "action": "replace",
+  "entry": {
+   "id": "scr-1jn-003-001",
+   "kind": "scripture",
+   "ref": "1 John 3:1",
+   "translation": "ESV",
+   "text": "See what kind of love the Father has given to us, that we should be called children of God; and so we are. The reason why the world does not know us is that it did not know him.",
+   "voice": "1 John",
+   "insight": "Adoption is not a fiction or status upgrade — 'and so we are.' Packer called it the highest privilege the gospel offers, higher even than justification, because it admits us not merely to acquittal but to the family table. Match your sense of belonging to the scale of that love.",
+   "themes": [
+    "adoption",
+    "love-of-god"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (prefix; source continues 'The reason why the world does not know...'); full text restored, 177 chars, audit H3"
+ },
+ {
+  "id": "scr-1jn-004-008",
+  "action": "replace",
+  "entry": {
+   "id": "scr-1jn-004-008",
+   "kind": "scripture",
+   "ref": "1 John 4:8",
+   "translation": "ESV",
+   "text": "Anyone who does not love does not know God, because God is love.",
+   "voice": "1 John",
+   "insight": "Not 'love is god' — that is sentimentality. 'God is love' — that is theology. The order is everything; reverse it and you have made an idol out of an emotion. The verse only makes sense in a Trinitarian frame: love requires a beloved, and God has been loving the Son in the Spirit before creation drew its first breath.",
+   "themes": [
+    "love",
+    "knowing-god"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; corpus carried the 2001/2007 ESV wording (corpus 'Whoever' vs source 'Anyone who'); updated to the current 2016 text"
+ },
+ {
+  "id": "scr-2jn-001-006",
+  "action": "replace",
+  "entry": {
+   "id": "scr-2jn-001-006",
+   "kind": "scripture",
+   "ref": "2 John 1:6",
+   "translation": "ESV",
+   "text": "And this is love, that we walk according to his commandments; this is the commandment, just as you have heard from the beginning, so that you should walk in it.",
+   "voice": "2 John",
+   "insight": "Love defined behaviorally, not affectively. Sentiment without obedience is not love but flattery. John refuses the modern partition between feeling and doing; in his lexicon, love that does not walk does not exist.",
+   "themes": [
+    "love",
+    "obedience"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (prefix; source continues 'this is the commandment just as you have...'); full text restored, 160 chars, audit H3"
+ },
+ {
+  "id": "scr-jud-001-024-025",
+  "action": "replace",
+  "entry": {
+   "id": "scr-jud-001-024-025",
+   "kind": "scripture",
+   "ref": "Jude 1:24-25",
+   "translation": "ESV",
+   "text": "Now to him who is able to keep you from stumbling and to present you blameless before the presence of his glory with great joy, to the only God, our Savior, through Jesus Christ our Lord, be glory, majesty, dominion, and authority, before all time and now and forever. Amen.",
+   "voice": "Jude",
+   "insight": "The doxology after a thunderous letter against false teachers. The keeping is His; the presenting is His; the glory is His. Your perseverance is His project, not yours; the verse leaves no room for the believer to take credit for finishing.",
+   "themes": [
+    "perseverance",
+    "doxology"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (prefix; source continues 'before all time and now and forever Amen...'); full text restored, 274 chars, audit H3"
+ },
+ {
+  "id": "scr-rev-021-003-004",
+  "action": "replace",
+  "entry": {
+   "id": "scr-rev-021-003-004",
+   "kind": "scripture",
+   "ref": "Revelation 21:3-4",
+   "translation": "ESV",
+   "text": "And I heard a loud voice from the throne saying, 'Behold, the dwelling place of God is with man. He will dwell with them, and they will be his people, and God himself will be with them as their God. He will wipe away every tear from their eyes, and death shall be no more, neither shall there be mourning, nor crying, nor pain anymore, for the former things have passed away.'",
+   "voice": "Revelation",
+   "insight": "The covenant refrain ('I will be their God; they shall be my people') reaches its crescendo here. Note the direction: God comes down to dwell, not the saints up to escape. The wiping of tears is intimate — God's own hand on each face — and the canceled list (death, mourning, crying, pain) is exhaustive.",
+   "themes": [
+    "eschatology"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (suffix; source begins 'And I heard a loud voice from the...'); full text restored, 376 chars, audit H3"
+ },
+ {
+  "id": "scr-rev-021-005",
+  "action": "replace",
+  "entry": {
+   "id": "scr-rev-021-005",
+   "kind": "scripture",
+   "ref": "Revelation 21:5",
+   "translation": "ESV",
+   "text": "And he who was seated on the throne said, 'Behold, I am making all things new.' Also he said, 'Write this down, for these words are trustworthy and true.'",
+   "voice": "Revelation",
+   "insight": "Not all new things, but all things new. Your work is not discarded in the new creation — it is purified and brought in (cf. 21:24-26). The verb is present continuous; the renewal has already begun, in you and around you, awaiting only its public unveiling.",
+   "themes": [
+    "eschatology",
+    "hope"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (middle (from word 9); source begins 'And he who was seated on...'); full text restored, 154 chars, audit H3"
+ },
+ {
+  "id": "scr-psa-001-001-002",
+  "action": "replace",
+  "entry": {
+   "id": "scr-psa-001-001-002",
+   "kind": "scripture",
+   "ref": "Psalm 1:1-2",
+   "translation": "ESV",
+   "text": "Blessed is the man who walks not in the counsel of the wicked, nor stands in the way of sinners, nor sits in the seat of scoffers; but his delight is in the law of the LORD, and on his law he meditates day and night.",
+   "voice": "Psalms",
+   "insight": "The Psalter opens not with prayer but with a portrait — the two ways, and which one delights. Meditation 'day and night' is not piety as task but as appetite; the law has become his joy, not his ceiling.",
+   "themes": [
+    "meditation",
+    "scripture",
+    "discipleship"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-psa-013-001-002",
+  "action": "replace",
+  "entry": {
+   "id": "scr-psa-013-001-002",
+   "kind": "scripture",
+   "ref": "Psalm 13:1-2",
+   "translation": "ESV",
+   "text": "How long, O LORD? Will you forget me forever? How long will you hide your face from me? How long must I take counsel in my soul and have sorrow in my heart all the day? How long shall my enemy be exalted over me?",
+   "voice": "Psalms",
+   "insight": "Four 'how long's in two verses — the Spirit-inspired vocabulary of waiting. Lament is not the absence of faith but faith refusing to pretend; the Psalter dignifies the question by including it.",
+   "themes": [
+    "lament",
+    "waiting",
+    "faith"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (prefix; source continues 'How long shall my enemy be exalted over...'); full text restored, 212 chars, audit H3"
+ },
+ {
+  "id": "scr-psa-019-007-008",
+  "action": "replace",
+  "entry": {
+   "id": "scr-psa-019-007-008",
+   "kind": "scripture",
+   "ref": "Psalm 19:7-8",
+   "translation": "ESV",
+   "text": "The law of the LORD is perfect, reviving the soul; the testimony of the LORD is sure, making wise the simple; the precepts of the LORD are right, rejoicing the heart; the commandment of the LORD is pure, enlightening the eyes;",
+   "voice": "Psalms",
+   "insight": "Six titles for Scripture, six attributes, six effects — a stacked grammar of confidence in the Word. The 'simple' aren't dunces; they are the teachable, and the testimony is sure enough to make them wise.",
+   "themes": [
+    "scripture",
+    "wisdom"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-psa-025-004-005",
+  "action": "replace",
+  "entry": {
+   "id": "scr-psa-025-004-005",
+   "kind": "scripture",
+   "ref": "Psalm 25:4-5",
+   "translation": "ESV",
+   "text": "Make me to know your ways, O LORD; teach me your paths. Lead me in your truth and teach me, for you are the God of my salvation; for you I wait all the day long.",
+   "voice": "Psalms",
+   "insight": "Twin requests — knowing the way, and being led in it. Sanctification is not a course you graduate; the verbs 'make me know' and 'lead me' are present-tense for a reason.",
+   "themes": [
+    "sanctification",
+    "guidance",
+    "waiting"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-psa-027-014",
+  "action": "replace",
+  "entry": {
+   "id": "scr-psa-027-014",
+   "kind": "scripture",
+   "ref": "Psalm 27:14",
+   "translation": "ESV",
+   "text": "Wait for the LORD; be strong, and let your heart take courage; wait for the LORD!",
+   "voice": "Psalms",
+   "insight": "The bracket form ('Wait... wait!') is the Psalter's way of underlining. Waiting is not passive in Hebrew (qavah) — it is the taut, expectant strength of a rope under load.",
+   "themes": [
+    "waiting",
+    "courage",
+    "faith"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-psa-032-001-002",
+  "action": "replace",
+  "entry": {
+   "id": "scr-psa-032-001-002",
+   "kind": "scripture",
+   "ref": "Psalm 32:1-2",
+   "translation": "ESV",
+   "text": "Blessed is the one whose transgression is forgiven, whose sin is covered. Blessed is the man against whom the LORD counts no iniquity, and in whose spirit there is no deceit.",
+   "voice": "Psalms",
+   "insight": "Paul quotes this verse to prove justification by faith apart from works (Rom 4:7-8). David's pre-cross experience already knew the imputed righteousness the New Testament would name.",
+   "themes": [
+    "justification",
+    "forgiveness"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-psa-037-004",
+  "action": "replace",
+  "entry": {
+   "id": "scr-psa-037-004",
+   "kind": "scripture",
+   "ref": "Psalm 37:4",
+   "translation": "ESV",
+   "text": "Delight yourself in the LORD, and he will give you the desires of your heart.",
+   "voice": "Psalms",
+   "insight": "Often misread as a wish-granting formula. The delight reshapes the desires; what you ask for after you delight in him is not what you would have asked for before.",
+   "themes": [
+    "beauty",
+    "joy",
+    "sanctification"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-psa-037-007",
+  "action": "replace",
+  "entry": {
+   "id": "scr-psa-037-007",
+   "kind": "scripture",
+   "ref": "Psalm 37:7",
+   "translation": "ESV",
+   "text": "Be still before the LORD and wait patiently for him; fret not yourself over the one who prospers in his way, over the man who carries out evil devices!",
+   "voice": "Psalms",
+   "insight": "Stillness paired with patient waiting — and the temptation named: fretting over the prosperous wicked. The Psalmist diagnoses the modern condition centuries early.",
+   "themes": [
+    "rest",
+    "waiting",
+    "faith"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-psa-040-001-002",
+  "action": "replace",
+  "entry": {
+   "id": "scr-psa-040-001-002",
+   "kind": "scripture",
+   "ref": "Psalm 40:1-2",
+   "translation": "ESV",
+   "text": "I waited patiently for the LORD; he inclined to me and heard my cry. He drew me up from the pit of destruction, out of the miry bog, and set my feet upon a rock, making my steps secure.",
+   "voice": "Psalms",
+   "insight": "The verbs march in order: I waited → he inclined → he drew → he set → he secured. Waiting is the first verb in the gospel sequence, not an interruption of it.",
+   "themes": [
+    "waiting",
+    "salvation",
+    "providence"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-psa-086-011",
+  "action": "replace",
+  "entry": {
+   "id": "scr-psa-086-011",
+   "kind": "scripture",
+   "ref": "Psalm 86:11",
+   "translation": "ESV",
+   "text": "Teach me your way, O LORD, that I may walk in your truth; unite my heart to fear your name.",
+   "voice": "Psalms",
+   "insight": "The third request is the one most modern hearts would skip — 'unite my heart.' Divided affections are the chronic condition; integration is grace, not effort.",
+   "themes": [
+    "sanctification",
+    "fear-of-god",
+    "healing"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-psa-091-001-002",
+  "action": "replace",
+  "entry": {
+   "id": "scr-psa-091-001-002",
+   "kind": "scripture",
+   "ref": "Psalm 91:1-2",
+   "translation": "ESV",
+   "text": "He who dwells in the shelter of the Most High will abide in the shadow of the Almighty. I will say to the LORD, 'My refuge and my fortress, my God, in whom I trust.'",
+   "voice": "Psalms",
+   "insight": "Two names of God in two verses (Most High, Almighty), two postures of the soul (dwell, abide), one confession ('my'). Reformed assurance has always been personal possession of universal truths.",
+   "themes": [
+    "salvation",
+    "faith",
+    "assurance"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-psa-095-006-007",
+  "action": "replace",
+  "entry": {
+   "id": "scr-psa-095-006-007",
+   "kind": "scripture",
+   "ref": "Psalm 95:6-7",
+   "translation": "ESV",
+   "text": "Oh come, let us worship and bow down; let us kneel before the LORD, our Maker! For he is our God, and we are the people of his pasture, and the sheep of his hand. Today, if you hear his voice,",
+   "voice": "Psalms",
+   "insight": "The threefold motion — worship, bow down, kneel — descends in posture as it rises in adoration. Hebrews 3-4 turns this Psalm into a warning: today, if you hear his voice.",
+   "themes": [
+    "worship",
+    "doxology",
+    "covenant"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (prefix; source continues 'Today if you hear his voice...'); full text restored, 192 chars, audit H3"
+ },
+ {
+  "id": "scr-psa-100-003",
+  "action": "replace",
+  "entry": {
+   "id": "scr-psa-100-003",
+   "kind": "scripture",
+   "ref": "Psalm 100:3",
+   "translation": "ESV",
+   "text": "Know that the LORD, he is God! It is he who made us, and we are his; we are his people, and the sheep of his pasture.",
+   "voice": "Psalms",
+   "insight": "Three confessions: Yahweh is God, we did not make ourselves, we belong to him. Bavinck's whole anthropology is contained here — creature, dependent, owned.",
+   "themes": [
+    "anthropology",
+    "creation",
+    "covenant"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-psa-110-001",
+  "action": "replace",
+  "entry": {
+   "id": "scr-psa-110-001",
+   "kind": "scripture",
+   "ref": "Psalm 110:1",
+   "translation": "ESV",
+   "text": "The LORD says to my Lord: 'Sit at my right hand, until I make your enemies your footstool.'",
+   "voice": "Psalms",
+   "insight": "The most-quoted OT verse in the NT. Jesus uses it to silence the Pharisees about his deity (Matt 22:44); the Father seats him at his right hand by name.",
+   "themes": [
+    "christology",
+    "kingdom"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-psa-111-010",
+  "action": "replace",
+  "entry": {
+   "id": "scr-psa-111-010",
+   "kind": "scripture",
+   "ref": "Psalm 111:10",
+   "translation": "ESV",
+   "text": "The fear of the LORD is the beginning of wisdom; all those who practice it have a good understanding. His praise endures forever!",
+   "voice": "Psalms",
+   "insight": "Wisdom does not begin where curiosity begins; it begins where reverence begins. Proverbs 1:7 will echo it — the Hebrew Bible is in agreement against the modern epistemic order.",
+   "themes": [
+    "fear-of-god",
+    "wisdom"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-psa-115-001",
+  "action": "replace",
+  "entry": {
+   "id": "scr-psa-115-001",
+   "kind": "scripture",
+   "ref": "Psalm 115:1",
+   "translation": "ESV",
+   "text": "Not to us, O LORD, not to us, but to your name give glory, for the sake of your steadfast love and your faithfulness!",
+   "voice": "Psalms",
+   "insight": "The double 'not to us' is not modesty but theology. Soli Deo Gloria has its taproot here — even the appearance of self-credit is offensive to grace.",
+   "themes": [
+    "glory-of-god",
+    "humility",
+    "doxology"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-psa-127-001",
+  "action": "replace",
+  "entry": {
+   "id": "scr-psa-127-001",
+   "kind": "scripture",
+   "ref": "Psalm 127:1",
+   "translation": "ESV",
+   "text": "Unless the LORD builds the house, those who build it labor in vain. Unless the LORD watches over the city, the watchman stays awake in vain.",
+   "voice": "Psalms",
+   "insight": "The vocational verse of the Bible. All labor not built on the Lord is vain — and the inverse: labor built on him is not vain, however small it looks. Before any build script runs, ask whose blueprint.",
+   "themes": [
+    "vocation",
+    "providence",
+    "humility"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-psa-131-001-002",
+  "action": "replace",
+  "entry": {
+   "id": "scr-psa-131-001-002",
+   "kind": "scripture",
+   "ref": "Psalm 131:1-2",
+   "translation": "ESV",
+   "text": "O LORD, my heart is not lifted up; my eyes are not raised too high; I do not occupy myself with things too great and too marvelous for me. But I have calmed and quieted my soul, like a weaned child with its mother; like a weaned child is my soul within me.",
+   "voice": "Psalms",
+   "insight": "A weaned child has stopped demanding what the mother had. Spurgeon: deliver me from being knowing where you have called me to be quiet. The shortest road to peace is renouncing greatness.",
+   "themes": [
+    "humility",
+    "rest",
+    "peace"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-psa-138-008",
+  "action": "replace",
+  "entry": {
+   "id": "scr-psa-138-008",
+   "kind": "scripture",
+   "ref": "Psalm 138:8",
+   "translation": "ESV",
+   "text": "The LORD will fulfill his purpose for me; your steadfast love, O LORD, endures forever. Do not forsake the work of your hands.",
+   "voice": "Psalms",
+   "insight": "Sanctification is God's project, not yours. 'Do not forsake the work of your hands' is permitted prayer because you are that work.",
+   "themes": [
+    "providence",
+    "sanctification",
+    "perseverance"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-pro-002-006",
+  "action": "replace",
+  "entry": {
+   "id": "scr-pro-002-006",
+   "kind": "scripture",
+   "ref": "Proverbs 2:6",
+   "translation": "ESV",
+   "text": "For the LORD gives wisdom; from his mouth come knowledge and understanding;",
+   "voice": "Proverbs",
+   "insight": "Epistemology is doxological. Wisdom is gift, not achievement; the seeker's posture is open-handed, not acquisitive.",
+   "themes": [
+    "wisdom",
+    "grace",
+    "knowing-god"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-pro-003-011-012",
+  "action": "replace",
+  "entry": {
+   "id": "scr-pro-003-011-012",
+   "kind": "scripture",
+   "ref": "Proverbs 3:11-12",
+   "translation": "ESV",
+   "text": "My son, do not despise the LORD's discipline or be weary of his reproof, for the LORD reproves him whom he loves, as a father the son in whom he delights.",
+   "voice": "Proverbs",
+   "insight": "Hebrews 12 will quote this to interpret your worst weeks. Discipline is not rejection but proof of sonship; the Father edits because the Father claims.",
+   "themes": [
+    "sanctification",
+    "adoption",
+    "love-of-god"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD's->Lord's, LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-pro-016-003",
+  "action": "replace",
+  "entry": {
+   "id": "scr-pro-016-003",
+   "kind": "scripture",
+   "ref": "Proverbs 16:3",
+   "translation": "ESV",
+   "text": "Commit your work to the LORD, and your plans will be established.",
+   "voice": "Proverbs",
+   "insight": "The vocational verse Proverbs gives the working Christian. Commitment is the first move; establishment is God's response. Before the deploy, the dedication.",
+   "themes": [
+    "vocation",
+    "providence",
+    "faith"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-pro-018-010",
+  "action": "replace",
+  "entry": {
+   "id": "scr-pro-018-010",
+   "kind": "scripture",
+   "ref": "Proverbs 18:10",
+   "translation": "ESV",
+   "text": "The name of the LORD is a strong tower; the righteous man runs into it and is safe.",
+   "voice": "Proverbs",
+   "insight": "Not the believer's strength but the Name's. Refuge is movement toward God, not retreat into self; the verb is 'runs into,' not 'hides under.'",
+   "themes": [
+    "salvation",
+    "revelation",
+    "faith"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-pro-019-021",
+  "action": "replace",
+  "entry": {
+   "id": "scr-pro-019-021",
+   "kind": "scripture",
+   "ref": "Proverbs 19:21",
+   "translation": "ESV",
+   "text": "Many are the plans in the mind of a man, but it is the purpose of the LORD that will stand.",
+   "voice": "Proverbs",
+   "insight": "Sovereignty is the standing column when human planning collapses around it. Roadmaps fail; the Lord's purpose does not.",
+   "themes": [
+    "sovereignty",
+    "providence",
+    "humility"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-pro-020-024",
+  "action": "replace",
+  "entry": {
+   "id": "scr-pro-020-024",
+   "kind": "scripture",
+   "ref": "Proverbs 20:24",
+   "translation": "ESV",
+   "text": "A man's steps are from the LORD; how then can man understand his way?",
+   "voice": "Proverbs",
+   "insight": "Calvin: the agent acts, the Lord directs — both truly. You will not understand your trajectory in real time; you are the walker, not the cartographer.",
+   "themes": [
+    "providence",
+    "guidance",
+    "humility"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-pro-021-001",
+  "action": "replace",
+  "entry": {
+   "id": "scr-pro-021-001",
+   "kind": "scripture",
+   "ref": "Proverbs 21:1",
+   "translation": "ESV",
+   "text": "The king's heart is a stream of water in the hand of the LORD; he turns it wherever he will.",
+   "voice": "Proverbs",
+   "insight": "Even the freest, most consequential decision-makers are downstream of providence. The Reformed doctrine of God's secret will has a proof text here.",
+   "themes": [
+    "sovereignty",
+    "providence"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-mat-004-004",
+  "action": "replace",
+  "entry": {
+   "id": "scr-mat-004-004",
+   "kind": "scripture",
+   "ref": "Matthew 4:4",
+   "translation": "ESV",
+   "text": "But he answered, 'It is written, \"Man shall not live by bread alone, but by every word that comes from the mouth of God.\"'",
+   "voice": "Matthew",
+   "insight": "Jesus quotes Deut 8:3 to define the human creature. The body needs bread; the soul does not negotiate that down. Scripture is daily food, not supplementary reading.",
+   "themes": [
+    "scripture",
+    "dependence",
+    "sanctification"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (suffix; source begins 'But he answered...'); full text restored, 122 chars, audit H3"
+ },
+ {
+  "id": "scr-mat-006-009-010",
+  "action": "replace",
+  "entry": {
+   "id": "scr-mat-006-009-010",
+   "kind": "scripture",
+   "ref": "Matthew 6:9-10",
+   "translation": "ESV",
+   "text": "Pray then like this: 'Our Father in heaven, hallowed be your name. Your kingdom come, your will be done, on earth as it is in heaven.'",
+   "voice": "Matthew",
+   "insight": "The Lord's Prayer puts God's name and reign before our needs. Calvin called it the rule of right prayer — the order is theological before personal, and that is the order the soul most needs to learn.",
+   "themes": [
+    "prayer",
+    "kingdom",
+    "doxology"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (suffix; source begins 'Pray then like this...'); full text restored, 134 chars, audit H3"
+ },
+ {
+  "id": "scr-mrk-001-015",
+  "action": "replace",
+  "entry": {
+   "id": "scr-mrk-001-015",
+   "kind": "scripture",
+   "ref": "Mark 1:15",
+   "translation": "ESV",
+   "text": "and saying, 'The time is fulfilled, and the kingdom of God is at hand; repent and believe in the gospel.'",
+   "voice": "Mark",
+   "insight": "Jesus's first sermon in Mark, and Mark gives no preface. Repentance and belief are the gospel's twin verbs; both are gifts and both are commands.",
+   "themes": [
+    "repentance",
+    "faith",
+    "gospel"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (suffix; source begins 'and saying...'); full text restored, 105 chars, audit H3"
+ },
+ {
+  "id": "scr-mrk-007-006",
+  "action": "replace",
+  "entry": {
+   "id": "scr-mrk-007-006",
+   "kind": "scripture",
+   "ref": "Mark 7:6",
+   "translation": "ESV",
+   "text": "And he said to them, 'Well did Isaiah prophesy of you hypocrites, as it is written, \"This people honors me with their lips, but their heart is far from me;\"'",
+   "voice": "Mark",
+   "insight": "The diagnosis Jesus borrows from Isaiah is timeless: lip-faith with absent hearts. Reformed worship cares fiercely about the heart precisely because the lips can deceive both speaker and hearer.",
+   "themes": [
+    "confession",
+    "worship",
+    "heart"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; sentence punctuation altered in the corpus (comma or semicolon changed); restored, quote style follows house convention"
+ },
+ {
+  "id": "scr-luk-006-038",
+  "action": "replace",
+  "entry": {
+   "id": "scr-luk-006-038",
+   "kind": "scripture",
+   "ref": "Luke 6:38",
+   "translation": "ESV",
+   "text": "give, and it will be given to you. Good measure, pressed down, shaken together, running over, will be put into your lap. For with the measure you use it will be measured back to you.",
+   "voice": "Luke",
+   "insight": "Not transactional but characterological — generous people meet generosity. Prosperity-gospel readings flatten the verse; the measure that comes back may be friendship, mercy, joy, or vindication, not always currency.",
+   "themes": [
+    "generosity",
+    "kingdom"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; verse begins mid-sentence in the ESV; capitalisation restored to the published text (give->Give)"
+ },
+ {
+  "id": "scr-luk-017-021",
+  "action": "replace",
+  "entry": {
+   "id": "scr-luk-017-021",
+   "kind": "scripture",
+   "ref": "Luke 17:21",
+   "translation": "ESV",
+   "text": "nor will they say, \"Look, here it is!\" or \"There!\" for behold, the kingdom of God is in the midst of you.",
+   "voice": "Luke",
+   "insight": "The kingdom is not first a location to find but a presence to recognize. Jesus's hearers were standing in the kingdom asking where it was; the modern condition repeats theirs.",
+   "themes": [
+    "kingdom",
+    "presence"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; verse begins mid-sentence in the ESV; capitalisation restored to the published text (nor->Nor)"
+ },
+ {
+  "id": "scr-luk-022-042",
+  "action": "replace",
+  "entry": {
+   "id": "scr-luk-022-042",
+   "kind": "scripture",
+   "ref": "Luke 22:42",
+   "translation": "ESV",
+   "text": "saying, 'Father, if you are willing, remove this cup from me. Nevertheless, not my will, but yours, be done.'",
+   "voice": "Luke",
+   "insight": "Christ's Gethsemane prayer is the template — honest request, surrendered conclusion. 'Not my will' is the harder clause to mean; he meant it perfectly so we could mean it imperfectly.",
+   "themes": [
+    "prayer",
+    "obedience",
+    "christology"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (suffix; source begins 'saying...'); full text restored, 109 chars, audit H3"
+ },
+ {
+  "id": "scr-jhn-008-032",
+  "action": "replace",
+  "entry": {
+   "id": "scr-jhn-008-032",
+   "kind": "scripture",
+   "ref": "John 8:32",
+   "translation": "ESV",
+   "text": "and you will know the truth, and the truth will set you free.",
+   "voice": "John",
+   "insight": "Often quoted out of context — verse 31 says 'if you abide in my word.' Knowledge of truth is not abstract intellection but discipleship in Christ's words; the freedom comes from the abiding.",
+   "themes": [
+    "truth",
+    "freedom",
+    "discipleship"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; verse begins mid-sentence in the ESV; capitalisation restored to the published text (and->And)"
+ },
+ {
+  "id": "scr-act-003-019",
+  "action": "replace",
+  "entry": {
+   "id": "scr-act-003-019-020",
+   "kind": "scripture",
+   "ref": "Acts 3:19-20",
+   "translation": "ESV",
+   "text": "Repent therefore, and turn back, that your sins may be blotted out, that times of refreshing may come from the presence of the Lord, and that he may send the Christ appointed for you, Jesus,",
+   "voice": "Acts",
+   "insight": "Repentance leads to refreshing. The order matters — the sin must be blotted before the refreshing can flow, and the refreshing comes from the presence, not from circumstance.",
+   "themes": [
+    "repentance",
+    "presence",
+    "healing"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; corpus text ran into the first clause of v20 ('that times of refreshing may come from the presence of the Lord') while labelled 3:19; ref widened to 3:19-20 with the full verse 20, id updated to match"
+ },
+ {
+  "id": "scr-act-009-004",
+  "action": "replace",
+  "entry": {
+   "id": "scr-act-009-004",
+   "kind": "scripture",
+   "ref": "Acts 9:4",
+   "translation": "ESV",
+   "text": "And falling to the ground, he heard a voice saying to him, 'Saul, Saul, why are you persecuting me?'",
+   "voice": "Acts",
+   "insight": "Christ identifies with the persecuted church — 'me,' not 'them.' Union with Christ is not a later theological development; the risen Lord teaches it on the Damascus road.",
+   "themes": [
+    "union-with-christ",
+    "suffering",
+    "regeneration"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; sentence punctuation altered in the corpus (comma or semicolon changed); restored, quote style follows house convention"
+ },
+ {
+  "id": "scr-act-026-018",
+  "action": "replace",
+  "entry": {
+   "id": "scr-act-026-018",
+   "kind": "scripture",
+   "ref": "Acts 26:18",
+   "translation": "ESV",
+   "text": "to open their eyes, so that they may turn from darkness to light and from the power of Satan to God, that they may receive forgiveness of sins and a place among those who are sanctified by faith in me.",
+   "voice": "Acts",
+   "insight": "Christ's commission to Paul packages conversion in five verbs: open, turn, receive, sanctified, in me. Reformed soteriology can be taught from this verse alone — the whole ordo salutis is there in compressed form.",
+   "themes": [
+    "regeneration",
+    "sanctification",
+    "doctrine"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; corpus carried the 2001/2007 ESV wording (corpus '(nothing)' vs source 'who are'); updated to the current 2016 text"
+ },
+ {
+  "id": "scr-rom-005-008",
+  "action": "replace",
+  "entry": {
+   "id": "scr-rom-005-008",
+   "kind": "scripture",
+   "ref": "Romans 5:8",
+   "translation": "ESV",
+   "text": "but God shows his love for us in that while we were still sinners, Christ died for us.",
+   "voice": "Romans",
+   "insight": "The timing matters as much as the act. Christ died for us 'while' — not after we cleaned up. The Reformed wonder at unconditional love has its proof text here.",
+   "themes": [
+    "love-of-god",
+    "atonement",
+    "grace"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; verse begins mid-sentence in the ESV; capitalisation restored to the published text (but->But)"
+ },
+ {
+  "id": "scr-rom-007-024-025",
+  "action": "replace",
+  "entry": {
+   "id": "scr-rom-007-024-025",
+   "kind": "scripture",
+   "ref": "Romans 7:24-25",
+   "translation": "ESV",
+   "text": "Wretched man that I am! Who will deliver me from this body of death? Thanks be to God through Jesus Christ our Lord! So then, I myself serve the law of God with my mind, but with my flesh I serve the law of sin.",
+   "voice": "Romans",
+   "insight": "The cry and the answer in the same breath. The Reformed read this as the believer's ongoing experience — sanctified yet fighting, justified yet groaning, and gratitude punctuates the struggle.",
+   "themes": [
+    "sanctification",
+    "lament",
+    "doxology"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (prefix; source continues 'So then I myself serve the law of...'); full text restored, 211 chars, audit H3"
+ },
+ {
+  "id": "scr-rom-010-009-010",
+  "action": "replace",
+  "entry": {
+   "id": "scr-rom-010-009-010",
+   "kind": "scripture",
+   "ref": "Romans 10:9-10",
+   "translation": "ESV",
+   "text": "because, if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved. For with the heart one believes and is justified, and with the mouth one confesses and is saved.",
+   "voice": "Romans",
+   "insight": "Confession and belief — mouth and heart — held in the same sentence. The Reformed instinct: the inward faith is what justifies, and the outward confession is what the inward faith inevitably produces.",
+   "themes": [
+    "confession",
+    "faith",
+    "salvation"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; verse begins mid-sentence in the ESV; capitalisation restored to the published text (because->Because)"
+ },
+ {
+  "id": "scr-eph-001-003-004",
+  "action": "replace",
+  "entry": {
+   "id": "scr-eph-001-003-004",
+   "kind": "scripture",
+   "ref": "Ephesians 1:3-4",
+   "translation": "ESV",
+   "text": "Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly places, even as he chose us in him before the foundation of the world, that we should be holy and blameless before him. In love",
+   "voice": "Ephesians",
+   "insight": "Election is doxological in Paul's grammar — he can't talk about it without breaking into blessing. 'Before the foundation of the world' rules out any account of grace that makes you the initiator.",
+   "themes": [
+    "election",
+    "grace",
+    "doxology"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (prefix; source continues 'In love...'); full text restored, 258 chars, audit H3"
+ },
+ {
+  "id": "scr-php-002-003-004",
+  "action": "replace",
+  "entry": {
+   "id": "scr-php-002-003-004",
+   "kind": "scripture",
+   "ref": "Philippians 2:3-4",
+   "translation": "ESV",
+   "text": "Do nothing from selfish ambition or conceit, but in humility count others more significant than yourselves. Let each of you look not only to his own interests, but also to the interests of others.",
+   "voice": "Philippians",
+   "insight": "Humility is not low self-image but accurate other-image. Paul does not ask you to think less of yourself; he asks you to consider others more.",
+   "themes": [
+    "humility",
+    "love"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; corpus carried the 2001/2007 ESV wording (corpus 'rivalry' vs source 'selfish ambition'); updated to the current 2016 text"
+ },
+ {
+  "id": "scr-1ti-002-005-006",
+  "action": "replace",
+  "entry": {
+   "id": "scr-1ti-002-005-006",
+   "kind": "scripture",
+   "ref": "1 Timothy 2:5-6",
+   "translation": "ESV",
+   "text": "For there is one God, and there is one mediator between God and men, the man Christ Jesus, who gave himself as a ransom for all, which is the testimony given at the proper time.",
+   "voice": "1 Timothy",
+   "insight": "An early creedal fragment Paul appears to quote. Reformed exclusivism rests here — one God, one mediator, one ransom. The arithmetic of salvation forbids any second route.",
+   "themes": [
+    "christology",
+    "gospel",
+    "atonement"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; corpus carried the 2001/2007 ESV wording (corpus 'to be testified to' vs source 'which is the testimony given'); updated to the current 2016 text"
+ },
+ {
+  "id": "scr-heb-001-001-003",
+  "action": "replace",
+  "entry": {
+   "id": "scr-heb-001-001-003",
+   "kind": "scripture",
+   "ref": "Hebrews 1:1-3a",
+   "translation": "ESV",
+   "text": "Long ago, at many times and in many ways, God spoke to our fathers by the prophets, but in these last days he has spoken to us by his Son, whom he appointed the heir of all things, through whom also he created the world. He is the radiance of the glory of God and the exact imprint of his nature, and he upholds the universe by the word of his power.",
+   "voice": "Hebrews",
+   "insight": "The grandest opening in the NT. The prophets were chapters; the Son is the whole book. He is heir, creator, radiance, imprint, sustainer — five titles in two sentences, and Reformed Christology has been reading them ever since.",
+   "themes": [
+    "christology",
+    "revelation",
+    "sovereignty"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; the corpus stops at the sentence boundary 'word of his power.' and omits the rest of v3; the whole passage is 440 chars (> 420 cap), so the ref is labelled 1:1-3a per policy and the text kept to that clause boundary"
+ },
+ {
+  "id": "scr-1jn-004-010",
+  "action": "replace",
+  "entry": {
+   "id": "scr-1jn-004-010",
+   "kind": "scripture",
+   "ref": "1 John 4:10",
+   "translation": "ESV",
+   "text": "In this is love, not that we have loved God but that he loved us and sent his Son to be the propitiation for our sins.",
+   "voice": "1 John",
+   "insight": "Love is defined by direction. Not our reach upward but his descent toward us — and the technical term 'propitiation' (hilasmos) names the appeasing of wrath by sacrifice. Reformed atonement honors this word.",
+   "themes": [
+    "love-of-god",
+    "atonement"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; corpus carried the 2001/2007 ESV wording (corpus '(nothing)' vs source 'have'); updated to the current 2016 text"
+ },
+ {
+  "id": "scr-gen-015-006",
+  "action": "replace",
+  "entry": {
+   "id": "scr-gen-015-006",
+   "kind": "scripture",
+   "ref": "Genesis 15:6",
+   "translation": "ESV",
+   "text": "And he believed the LORD, and he counted it to him as righteousness.",
+   "voice": "Genesis",
+   "insight": "The verse Paul cites three times to ground justification by faith (Rom 4:3, 9, 22). Abraham is justified by faith before circumcision, before the law — the chronology defends sola fide.",
+   "themes": [
+    "justification",
+    "faith",
+    "covenant"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-exo-034-006",
+  "action": "replace",
+  "entry": {
+   "id": "scr-exo-034-006",
+   "kind": "scripture",
+   "ref": "Exodus 34:6",
+   "translation": "ESV",
+   "text": "The LORD passed before him and proclaimed, 'The LORD, the LORD, a God merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness,'",
+   "voice": "Exodus",
+   "insight": "God's self-revelation to Moses on Sinai — the most-quoted verse about God's character in the OT. Mercy and grace come first; truth and judgment come last. Reformed theology proper memorizes this order.",
+   "themes": [
+    "mercy",
+    "grace",
+    "theology-proper"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; partial verse shipped under a whole-verse ref (suffix; source begins 'The LORD passed before him and proclaimed...'); full text restored, 158 chars, audit H3"
+ },
+ {
+  "id": "scr-lev-019-018",
+  "action": "replace",
+  "entry": {
+   "id": "scr-lev-019-018",
+   "kind": "scripture",
+   "ref": "Leviticus 19:18",
+   "translation": "ESV",
+   "text": "You shall not take vengeance or bear a grudge against the sons of your own people, but you shall love your neighbor as yourself: I am the LORD.",
+   "voice": "Leviticus",
+   "insight": "Quoted by Jesus as the second great commandment. Long before the Gospels, Israel's law required love of neighbor — and the Reformed read the OT and NT as one moral universe.",
+   "themes": [
+    "love",
+    "law"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-deu-029-029",
+  "action": "replace",
+  "entry": {
+   "id": "scr-deu-029-029",
+   "kind": "scripture",
+   "ref": "Deuteronomy 29:29",
+   "translation": "ESV",
+   "text": "'The secret things belong to the LORD our God, but the things that are revealed belong to us and to our children forever, that we may do all the words of this law.'",
+   "voice": "Deuteronomy",
+   "insight": "The Reformed verse on the hidden and revealed will of God. We are responsible for what is revealed; we leave the secret things to him. Every doctrine of providence respects this line.",
+   "themes": [
+    "providence",
+    "incarnation",
+    "revelation"
+   ],
+   "added": "0.4.1"
+  },
+  "evidence": "ESV (2016 Permanent Text) fetched from biblegateway.com/passage/?version=ESV on 2026-09-25, verse numbers, headings, footnote and cross-reference markers stripped, small-caps LORD/I AM rendered in caps; small-caps divine name restored to caps (LORD->Lord), audit L4"
+ },
+ {
+  "id": "scr-mat-005-008",
+  "action": "edit",
+  "fields": {
+   "insight": "Kierkegaard's line 'purity of heart is to will one thing' is the title of his discourse on James 4:8, but it names what this beatitude blesses: the vision of God is granted not to the cleverest but to the undivided. Every competing affection blurs the lens."
+  },
+  "evidence": "audit M6: Purity of Heart is a discourse on James 4:8 ('purify your hearts, ye double-minded'), not on Matt 5:8; attribution corrected, sub-quote is the book's title"
+ },
+ {
+  "id": "scr-hab-002-004",
+  "action": "edit",
+  "fields": {
+   "insight": "'The just shall live by his faith' — the Reformation's text in its original setting, a prophet told to wait for a vision that tarries. The New Testament quotes it three times (Rom 1:17, Gal 3:11, Heb 10:38), and Luther's whole theology grew from it."
+  },
+  "evidence": "audit M6: Hebrews is not Pauline; reworded to 'the New Testament quotes it three times'"
+ },
+ {
+  "id": "scr-mal-004-002",
+  "action": "edit",
+  "fields": {
+   "insight": "The Sun of righteousness rising with healing in his wings. Reformed Christology hears Christ's coming announced in solar terms; Zechariah's song picks up the image when it greets 'the dayspring from on high' (Luke 1:78)."
+  },
+  "evidence": "audit M6: not 'the last messianic prophecy of the OT' (4:5-6 follows); replaced with the Luke 1:78 echo, a standard cross-reference"
+ },
+ {
+  "id": "scr-luk-018-013",
+  "action": "edit",
+  "fields": {
+   "insight": "Seven words of prayer (six in Greek), and the man goes home justified. The tax collector brings no record, only a plea, and his verb is the language of atonement: mercy sought at the mercy seat rather than earned."
+  },
+  "evidence": "audit M6: ESV has seven words, Greek six; fabricated Luther sub-quote removed"
+ },
+ {
+  "id": "scr-psa-119-071",
+  "action": "edit",
+  "fields": {
+   "insight": "A verse only saints can write, and only afterward. Affliction is reframed retrospectively as classroom: the statutes were not new, but the sufferer's ear was. Sanctification often arrives by subtraction."
+  },
+  "evidence": "audit M6: unsourced Edwards sub-quote removed"
+ },
+ {
+  "id": "scr-psa-019-001",
+  "action": "edit",
+  "fields": {
+   "insight": "The cosmos preaches a sermon no one can quite tune out; even resistance is a kind of hearing. Calvin called creation the theatre of God's glory: the heavens do not argue for their Maker, they declare him, and craftsmanship is the same sermon in miniature."
+  },
+  "evidence": "audit M6: apocryphal Kepler wording removed; Calvin's 'theatre of God's glory' is Institutes 1.5.8 / 1.14.20"
+ },
+ {
+  "id": "scr-psa-063-001",
+  "action": "edit",
+  "fields": {
+   "insight": "The doubled thirst, soul and flesh, means the longing is not a compartment of the religious self but the whole person reaching for God. A dry and weary land is not the obstacle to this prayer; it is its occasion."
+  },
+  "evidence": "audit M6: unsourced claim that Augustine read his Confessions out of this verse removed"
+ },
+ {
+  "id": "scr-mat-010-028",
+  "action": "edit",
+  "fields": {
+   "insight": "Two fears, the wrong one and the right one. The fear of God does not add to our anxieties; it displaces them, because the One who can destroy is also the One who counts sparrows and numbers hairs (vv. 29-31)."
+  },
+  "evidence": "audit M6: unsourced Bonhoeffer claim removed; replaced with the verse's own context"
+ },
+ {
+  "id": "scr-rom-008-037",
+  "action": "edit",
+  "fields": {
+   "insight": "'More than conquerors' renders one rare verb, hypernikao: not surviving opposition but exceeding it. The victory is stacked on Christ's, which is why it comes 'through him who loved us' and not through us."
+  },
+  "evidence": "audit M6: hypernikao is rare, not a Pauline coinage (it occurs in earlier Greek); claim corrected"
+ }
+]

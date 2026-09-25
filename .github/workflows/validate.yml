@@ -14,10 +14,56 @@ jobs:
         with:
           python-version: "3.x"
 
+      - name: Unit tests (renderer, wrapper, validator)
+        run: python3 -m unittest discover -s tests -v
+
       - name: Validate corpus
         run: python3 scripts/validate-corpus.py
 
-      - name: Hook emits valid systemMessage JSON
+      - name: Fetch repository-style witness sources
+        run: bash scripts/fetch-sources.sh
+
+      - name: Verify every witness against its source (URL sources are fetched on demand)
+        run: python3 scripts/verify-witness.py plugins/while-you-wait/data/devotionals.json --fetch
+
+      - name: Hook emits exactly {"systemMessage": <non-empty str>}
         run: |
-          bash plugins/while-you-wait/scripts/show-devotional.sh > /tmp/wyw-out.json
-          python3 -c "import json; d = json.load(open('/tmp/wyw-out.json')); assert isinstance(d.get('systemMessage'), str) and d['systemMessage'], 'no systemMessage'; print('hook OK')"
+          bash plugins/while-you-wait/scripts/show-devotional.sh </dev/null > /tmp/wyw-out.json
+          python3 - <<'PY'
+          import json
+          raw = open('/tmp/wyw-out.json', encoding='utf-8').read()
+          d = json.loads(raw)
+          assert isinstance(d, dict), 'hook output is not a JSON object'
+          assert list(d) == ['systemMessage'], f'unexpected keys: {sorted(d)}'
+          assert isinstance(d['systemMessage'], str) and d['systemMessage'].strip(), 'empty systemMessage'
+          for k in ('additionalContext', 'decision', 'updatedInput', 'hookSpecificOutput'):
+              assert k not in d, f'forbidden key {k}'
+          print('hook OK')
+          PY
+
+      - name: Wrapper emits nothing when the renderer prints garbage
+        run: |
+          set -e
+          STUB="$(mktemp -d)"
+          mkdir -p "$STUB/scripts" "$STUB/data"
+          cp plugins/while-you-wait/scripts/show-devotional.sh "$STUB/scripts/"
+          cp plugins/while-you-wait/data/devotionals.json "$STUB/data/"
+          for body in \
+            'print("HELLO CONTEXT"); import sys; sys.exit(3)' \
+            'raise RuntimeError("boom")' \
+            'print("{\"systemMessage\": \"x\", \"additionalContext\": \"pwned\"}")' \
+            'print("{\"decision\": \"block\", \"reason\": \"no\"}")' \
+            'print("not json at all")' \
+            'print("{\"systemMessage\": \"\"}")' \
+            'print("{\"systemMessage\": \"a\"}{\"systemMessage\": \"b\"}")' \
+            'import sys; sys.stdout.write("HELLO CONTEXT\n" + "{\"systemMessage\": \"ok\"}")' ; do
+            printf '%s\n' "$body" > "$STUB/scripts/render_devotional.py"
+            OUT="$(CLAUDE_PLUGIN_ROOT="$STUB" bash "$STUB/scripts/show-devotional.sh" </dev/null)"
+            RC=$?
+            if [ -n "$OUT" ] || [ "$RC" -ne 0 ]; then
+              echo "FAIL: wrapper emitted output or non-zero exit for stub: $body"
+              echo "stdout: $OUT"; echo "rc: $RC"
+              exit 1
+            fi
+          done
+          echo "negative wrapper tests OK"

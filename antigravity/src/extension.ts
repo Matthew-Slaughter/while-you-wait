@@ -1,6 +1,7 @@
 import * as vscode from "vscode";
 import corpusData from "../../plugins/while-you-wait/data/devotionals.json";
 import {
+  ALL_KINDS,
   Entry,
   entryKey,
   pickEntry,
@@ -20,12 +21,7 @@ export function activate(context: vscode.ExtensionContext) {
 
   const show = async () => {
     try {
-      const allowedKinds = cfg().get<string[]>("kinds") ?? [
-        "scripture",
-        "quote",
-        "creed",
-        "prayer",
-      ];
+      const allowedKinds = cfg().get<string[]>("kinds") ?? ALL_KINDS;
       const eligible = corpus.filter((e) =>
         allowedKinds.includes(e.kind),
       );

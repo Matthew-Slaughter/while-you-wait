@@ -1,0 +1,16 @@
+[
+ {
+  "id": "q-stephen-charnock-0003",
+  "action": "edit",
+  "fields": {
+   "witness": {
+    "voice": "Stephen Charnock",
+    "work": "The Existence and Attributes of God",
+    "source": "https://archive.org/details/discoursesuponex02char_0",
+    "path": "archive/charnock_existence_attributes_v2_1854.txt",
+    "quote": "Goodness is the brightness and loveliness of our majestical Creator"
+   }
+  },
+  "evidence": "witness.quote re-anchored on the entry text (pre-1700 patch anchored on a neighbouring sentence)"
+ }
+]

@@ -1,0 +1,1549 @@
+[
+  {
+    "id": "q-jonathan-edwards-0001",
+    "action": "edit",
+    "evidence": "Resolutions 5 exact; CCEL Works vol. 1 (Memoirs, Resolutions)",
+    "fields": {
+      "source": "primary",
+      "witness": {
+        "voice": "Jonathan Edwards",
+        "work": "Resolutions (1722-23)",
+        "source": "https://ccel.org/ccel/s/edwards/works1/cache/works1.txt",
+        "path": "works1.txt",
+        "quote": "Resolved, never to lose one moment of time, but to improve it"
+      }
+    }
+  },
+  {
+    "id": "q-jonathan-edwards-0002",
+    "action": "edit",
+    "evidence": "Resolutions 6 exact; CCEL Works vol. 1",
+    "fields": {
+      "source": "primary",
+      "witness": {
+        "voice": "Jonathan Edwards",
+        "work": "Resolutions (1722-23)",
+        "source": "https://ccel.org/ccel/s/edwards/works1/cache/works1.txt",
+        "path": "works1.txt",
+        "quote": "Resolved, to live with all my might, while I do live."
+      }
+    }
+  },
+  {
+    "id": "q-jonathan-edwards-0003",
+    "action": "edit",
+    "evidence": "Religious Affections Part I doctrine statement, exact; CCEL text",
+    "fields": {
+      "source": "primary",
+      "witness": {
+        "voice": "Jonathan Edwards",
+        "work": "A Treatise Concerning Religious Affections (1746), Part I",
+        "source": "https://ccel.org/ccel/s/edwards/affections/cache/affections.txt",
+        "path": "affections.txt",
+        "quote": "True religion, in great part, consists in holy affections."
+      },
+      "ref": "Religious Affections (1746), Part I"
+    }
+  },
+  {
+    "id": "q-jonathan-edwards-0004",
+    "action": "edit",
+    "evidence": "Works vol. 1 (CCEL) ch. 2 §7: 'all that is ever spoken of in the Scripture as a[n] ultimate end of God's works, is included in that one phrase, the glory of God' — exact bar CCEL's 'a' for 'an'",
+    "fields": {
+      "source": "primary",
+      "ref": "The End for Which God Created the World (1765), ch. 2 §7",
+      "witness": {
+        "voice": "Jonathan Edwards",
+        "work": "The End for Which God Created the World",
+        "source": "https://ccel.org/ccel/s/edwards/works1/cache/works1.txt",
+        "path": "works1.txt",
+        "quote": "It appears that all that is ever spoken of in the Scripture"
+      }
+    }
+  },
+  {
+    "id": "q-jonathan-edwards-0005",
+    "action": "edit",
+    "evidence": "Religious Affections Part I §1 exact",
+    "fields": {
+      "source": "primary",
+      "witness": {
+        "voice": "Jonathan Edwards",
+        "work": "Religious Affections (1746), Part I",
+        "source": "https://ccel.org/ccel/s/edwards/affections/cache/affections.txt",
+        "path": "affections.txt",
+        "quote": "The affections are no other than the more vigorous and sensible exercises"
+      }
+    }
+  },
+  {
+    "id": "q-jonathan-edwards-0006",
+    "action": "edit",
+    "evidence": "Religious Affections Part III sign XII exact",
+    "fields": {
+      "source": "primary",
+      "witness": {
+        "voice": "Jonathan Edwards",
+        "work": "Religious Affections (1746), Part III, Sign XII",
+        "source": "https://ccel.org/ccel/s/edwards/affections/cache/affections.txt",
+        "path": "affections.txt",
+        "quote": "Christian practice or a holy life is a great and distinguishing sign"
+      }
+    }
+  },
+  {
+    "id": "q-jonathan-edwards-0008",
+    "action": "edit",
+    "evidence": "Personal Narrative (CCEL Works vol. 1): shipped text elides the quoted verse and drops Edwards's commas; restored to the two exact sentences",
+    "fields": {
+      "source": "primary",
+      "text": "The first instance, that I remember, of that sort of inward, sweet delight in God and divine things, that I have lived much in since, was on reading those words, 1 Tim. i. 17. ... As I read the words, there came into my soul, and was as it were diffused through it, a sense of the glory of the Divine Being.",
+      "witness": {
+        "voice": "Jonathan Edwards",
+        "work": "Personal Narrative",
+        "source": "https://ccel.org/ccel/s/edwards/works1/cache/works1.txt",
+        "path": "works1.txt",
+        "quote": "The first instance, that I remember, of that sort of inward, sweet"
+      }
+    }
+  },
+  {
+    "id": "q-jonathan-edwards-0010",
+    "action": "edit",
+    "evidence": "The Excellency of Christ (Works vol. 1): shipped text was a composite of the doctrine and three heads; replaced with the doctrine sentence and first head verbatim",
+    "fields": {
+      "source": "primary",
+      "text": "There is an admirable conjunction of diverse excellencies in Jesus Christ. ... There do meet in Jesus Christ infinite highness and infinite condescension. Christ, as he is God, is infinitely great and high above all.",
+      "ref": "The Excellency of Christ (1736; pub. 1738), doctrine and head 1",
+      "witness": {
+        "voice": "Jonathan Edwards",
+        "work": "The Excellency of Christ",
+        "source": "https://ccel.org/ccel/s/edwards/works1/cache/works1.txt",
+        "path": "works1.txt",
+        "quote": "There is an admirable conjunction of diverse excellencies in Jesus Christ. ..."
+      }
+    }
+  },
+  {
+    "id": "q-jonathan-edwards-0007",
+    "action": "replace",
+    "evidence": "only 'Heaven is a world of love' was verbatim; replaced with the exact sentences from Lecture XVI, Charity and Its Fruits (1852 ed., archive.org charityitsfruits00edwa)",
+    "entry": {
+      "id": "q-jonathan-edwards-0007",
+      "kind": "quote",
+      "ref": "Charity and Its Fruits (1738; pub. 1852), Lecture XVI, 'Heaven, a World of Love'",
+      "text": "And this renders heaven a world of love; for God is the fountain of love, as the sun is the fountain of light. And therefore the glorious presence of God in heaven, fills heaven with love, as the sun, placed in the midst of the visible heavens in a clear day, fills the world with light.",
+      "voice": "Jonathan Edwards",
+      "insight": "Heaven is not lovely because its inhabitants are; it is lovely because God is there, and love pours from him the way light pours from the sun. Whatever else eternity holds, it holds that.",
+      "witness": {
+        "voice": "Jonathan Edwards",
+        "work": "Charity and Its Fruits",
+        "source": "https://archive.org/download/charityitsfruits00edwa/charityitsfruits00edwa_djvu.txt",
+        "path": "charityitsfruits00edwa_djvu.txt",
+        "quote": "And this renders heaven a world of love; for God is the"
+      },
+      "source": "primary",
+      "themes": [
+        "heaven",
+        "love-of-god",
+        "eschatology"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-jonathan-edwards-0009",
+    "action": "replace",
+    "evidence": "shipped clauses not in the text; replaced with the doctrine statement of Lecture I (1852 ed., archive.org charityitsfruits00edwa)",
+    "entry": {
+      "id": "q-jonathan-edwards-0009",
+      "kind": "quote",
+      "ref": "Charity and Its Fruits (1738; pub. 1852), Lecture I, doctrine",
+      "text": "That all the virtue that is saving, and that distinguishes true Christians from others, is summed up in Christian love.",
+      "voice": "Jonathan Edwards",
+      "insight": "Edwards does not rank love among the virtues; he says the saving virtues are all love wearing different clothes. Where love is absent, the rest is performance.",
+      "witness": {
+        "voice": "Jonathan Edwards",
+        "work": "Charity and Its Fruits",
+        "source": "https://archive.org/download/charityitsfruits00edwa/charityitsfruits00edwa_djvu.txt",
+        "path": "charityitsfruits00edwa_djvu.txt",
+        "quote": "That all the virtue that is saving, and that distinguishes true Christians"
+      },
+      "source": "primary",
+      "themes": [
+        "love",
+        "sanctification",
+        "heart"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-susanna-wesley-0001",
+    "action": "replace",
+    "evidence": "misattributed: not Susanna Wesley; the words are Richard Alleine's covenant (1663) as reprinted in John Wesley's Directions for Renewing Our Covenant with God (1780); shipped wording was the 1936 Book of Offices form. Verbatim from the 1794 printing (archive.org BIM)",
+    "entry": {
+      "id": "q-john-wesley-0001",
+      "kind": "quote",
+      "ref": "Directions for Renewing Our Covenant with God (1780), after Richard Alleine (1663)",
+      "text": "I put myself wholly into thy hands: put me to what thou wilt, rank me with whom thou wilt; put me to doing, put me to suffering, let me be employed for thee, or laid aside for thee, exalted for thee, or trodden under foot for thee; let me be full, let me be empty, let me have all things, let me have nothing, I freely and heartily resign all to thy pleasure and disposal.",
+      "voice": "John Wesley",
+      "insight": "Wesley put Alleine's words in his people's mouths every New Year. The hard clause is 'laid aside for thee': surrender that includes even usefulness, and calls it freely resigned.",
+      "witness": {
+        "voice": "John Wesley",
+        "work": "Directions for Renewing Our Covenant with God",
+        "source": "https://archive.org/download/bim_eighteenth-century_directions-for-renewing-_wesley-john_1794/bim_eighteenth-century_directions-for-renewing-_wesley-john_1794_djvu.txt",
+        "path": "bim_eighteenth-century_directions-for-renewing-_wesley-john_1794_djvu.txt",
+        "quote": "I put myself wholly into thy hands: put me to what thou"
+      },
+      "source": "primary",
+      "themes": [
+        "humility",
+        "vocation",
+        "obedience"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-susanna-wesley-0002",
+    "action": "edit",
+    "evidence": "letter of 8 June 1725 as printed in Adam Clarke, Memoirs of the Wesley Family (1846 ed., archive.org memoirsofwesleyf00clar): shipped text dropped the 'in short, whatever increases the strength and authority of your body over your mind' clause and altered punctuation",
+    "fields": {
+      "source": "primary",
+      "text": "Whatever weakens your reason, impairs the tenderness of your conscience, obscures your sense of God, or takes off the relish of spiritual things; in short, whatever increases the strength and authority of your body over your mind, that thing is sin to you, however innocent it may be in itself.",
+      "ref": "Letter to John Wesley, 8 June 1725 (in Adam Clarke, Memoirs of the Wesley Family)",
+      "witness": {
+        "voice": "Susanna Wesley",
+        "work": "Letter to John Wesley, 8 June 1725",
+        "source": "https://archive.org/download/memoirsofwesleyf00clar/memoirsofwesleyf00clar_djvu.txt",
+        "path": "memoirsofwesleyf00clar_djvu.txt",
+        "quote": "Whatever weakens your reason, impairs the tenderness of your conscience, obscures your"
+      }
+    }
+  },
+  {
+    "id": "q-isaac-watts-0001",
+    "action": "edit",
+    "evidence": "hymnary.org representative text, stanza 4 exact",
+    "fields": {
+      "source": "primary",
+      "witness": {
+        "voice": "Isaac Watts",
+        "work": "When I Survey the Wondrous Cross (1707)",
+        "source": "https://hymnary.org/text/when_i_survey_the_wondrous_cross_watts",
+        "path": "when_i_survey_the_wondrous_cross_watts",
+        "quote": "Were the whole realm of nature mine, that were a present far"
+      }
+    }
+  },
+  {
+    "id": "q-charles-wesley-0001",
+    "action": "edit",
+    "evidence": "hymnary.org representative text stanza 1: shipped text replaced Wesley's two questions with a dash; punctuation restored",
+    "fields": {
+      "source": "primary",
+      "text": "And can it be that I should gain an interest in the Saviour's blood? Died he for me, who caused his pain? For me, who him to death pursued?",
+      "witness": {
+        "voice": "Charles Wesley",
+        "work": "And Can It Be (1738)",
+        "source": "https://hymnary.org/text/and_can_it_be_that_i_should_gain",
+        "path": "and_can_it_be_that_i_should_gain",
+        "quote": "And can it be that I should gain an interest in the"
+      }
+    }
+  },
+  {
+    "id": "q-robert-robinson-0001",
+    "action": "edit",
+    "evidence": "hymnary.org representative text: stanza 1 lines 1-4 and stanza 3 lines 1-2 exact (two stanzas joined, as shipped)",
+    "fields": {
+      "source": "primary",
+      "witness": {
+        "voice": "Robert Robinson",
+        "work": "Come, Thou Fount of Every Blessing (1758)",
+        "source": "https://hymnary.org/text/come_thou_fount_of_every_blessing",
+        "path": "come_thou_fount_of_every_blessing",
+        "quote": "Come, thou Fount of every blessing, tune my heart to sing thy"
+      }
+    }
+  },
+  {
+    "id": "q-augustus-toplady-0001",
+    "action": "edit",
+    "evidence": "hymnary.org representative text stanza 1 exact (1776 text)",
+    "fields": {
+      "source": "primary",
+      "witness": {
+        "voice": "Augustus Toplady",
+        "work": "Rock of Ages (1776)",
+        "source": "https://hymnary.org/text/rock_of_ages_cleft_for_me_let_me_hide",
+        "path": "rock_of_ages_cleft_for_me_let_me_hide",
+        "quote": "Rock of Ages, cleft for me, let me hide myself in thee;"
+      }
+    }
+  },
+  {
+    "id": "q-john-newton-0001",
+    "action": "edit",
+    "evidence": "Olney Hymns (1779) Book I no. 41 stanza 1; hymnary.org representative text agrees",
+    "fields": {
+      "source": "primary",
+      "witness": {
+        "voice": "John Newton",
+        "work": "Olney Hymns (1779), 'Amazing grace'",
+        "source": "https://hymnary.org/text/amazing_grace_how_sweet_the_sound",
+        "path": "amazing_grace_how_sweet_the_sound",
+        "quote": "Amazing grace, how sweet the sound, that saved a wretch like me."
+      }
+    }
+  },
+  {
+    "id": "q-william-cowper-0001",
+    "action": "edit",
+    "evidence": "hymnary.org representative text stanza 1 exact",
+    "fields": {
+      "source": "primary",
+      "witness": {
+        "voice": "William Cowper",
+        "work": "Olney Hymns (1779), 'Praise for the fountain opened'",
+        "source": "https://hymnary.org/text/there_is_a_fountain_filled_with_blood_dr",
+        "path": "there_is_a_fountain_filled_with_blood_dr",
+        "quote": "There is a fountain filled with blood drawn from Immanuel's veins, and"
+      }
+    }
+  },
+  {
+    "id": "q-frederick-faber-0001",
+    "action": "edit",
+    "evidence": "Faber, Hymns (1867 ed., archive.org fred00fabe) 'Come to Jesus': original reads 'measures of man's mind'; two stanzas joined, elision now marked",
+    "fields": {
+      "source": "primary",
+      "text": "There's a wideness in God's mercy, like the wideness of the sea; there's a kindness in His justice which is more than liberty. ... For the love of God is broader than the measures of man's mind.",
+      "ref": "Hymns (1862), 'Come to Jesus' (There's a wideness in God's mercy)",
+      "witness": {
+        "voice": "Frederick Faber",
+        "work": "Hymns",
+        "source": "https://archive.org/download/fred00fabe/fred00fabe_djvu.txt",
+        "path": "fred00fabe_djvu.txt",
+        "quote": "There's a wideness in God's mercy, like the wideness of the sea;"
+      }
+    }
+  },
+  {
+    "id": "q-fanny-crosby-0001",
+    "action": "edit",
+    "evidence": "hymnary.org representative text stanza 1 exact",
+    "fields": {
+      "source": "primary",
+      "witness": {
+        "voice": "Fanny Crosby",
+        "work": "Blessed Assurance (1873)",
+        "source": "https://hymnary.org/text/blessed_assurance_jesus_is_mine",
+        "path": "blessed_assurance_jesus_is_mine",
+        "quote": "Blessed assurance, Jesus is mine! O what a foretaste of glory divine!"
+      }
+    }
+  },
+  {
+    "id": "q-horatio-spafford-0001",
+    "action": "edit",
+    "evidence": "hymnary.org representative text stanza 1 exact (commas around 'like a river' as in the 1876 Gospel Hymns printing)",
+    "fields": {
+      "source": "primary",
+      "witness": {
+        "voice": "Horatio Spafford",
+        "work": "It Is Well with My Soul (1873)",
+        "source": "https://hymnary.org/text/when_peace_like_a_river_attendeth_my_way",
+        "path": "when_peace_like_a_river_attendeth_my_way",
+        "quote": "When peace, like a river, attendeth my way, when sorrows like sea"
+      }
+    }
+  },
+  {
+    "id": "q-charles-spurgeon-0001",
+    "action": "replace",
+    "evidence": "shipped line is a modern compression with no source; replaced with Spurgeon's own words from None But Jesus, NPSP #361, 17 Feb 1861 (spurgeon.org archive text)",
+    "entry": {
+      "id": "q-charles-spurgeon-0001",
+      "kind": "quote",
+      "ref": "None But Jesus, NPSP #361, 17 February 1861",
+      "text": "Mark, thy faith has nothing to do with anything within thyself; the object of thy faith is nothing within thee, but a something without thee. Believe on him, then, who on yonder tree with nailed hands and feet pours out his life for sinners.",
+      "voice": "Charles Spurgeon",
+      "insight": "Faith saves by what it holds, not by how hard it holds. Spurgeon points the trembling believer away from the quality of his grip to the Christ who is gripped.",
+      "witness": {
+        "voice": "Charles Spurgeon",
+        "work": "None But Jesus (Sermon 361)",
+        "source": "https://archive.spurgeon.org/sermons/0361.php",
+        "path": "sermons/0361.php",
+        "quote": "Mark, thy faith has nothing to do with anything within thyself; the"
+      },
+      "source": "primary",
+      "themes": [
+        "faith",
+        "christology",
+        "justification"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-charles-spurgeon-0002",
+    "action": "replace",
+    "evidence": "fabricated ('kiss the wave', Spurgeon Library list of quotes he never said); replaced with Morning and Evening, 7 October morning, verbatim from CCEL",
+    "entry": {
+      "id": "q-charles-spurgeon-0002",
+      "kind": "quote",
+      "ref": "Morning and Evening, October 7 (morning)",
+      "text": "It is a poor faith which can only trust God when friends are true, the body full of health, and the business profitable; but that is true faith which holds by the Lord's faithfulness when friends are gone, when the body is sick, when spirits are depressed, and the light of our Father's countenance is hidden.",
+      "voice": "Charles Spurgeon",
+      "insight": "Fair-weather faith is never tested, so it is never proved. Spurgeon locates true faith where the props are gone and only the Lord's faithfulness is left to hold.",
+      "witness": {
+        "voice": "Charles Spurgeon",
+        "work": "Morning and Evening",
+        "source": "https://ccel.org/ccel/s/spurgeon/morneve/cache/morneve.txt",
+        "path": "morneve.txt",
+        "quote": "It is a poor faith which can only trust God when friends"
+      },
+      "source": "primary",
+      "themes": [
+        "faith",
+        "suffering",
+        "faithfulness"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-charles-spurgeon-0003",
+    "action": "replace",
+    "evidence": "misattributed: 'trust his heart' is the Babbie Mason / Eddie Carswell song (1989); Spurgeon's genuine line is from A Happy Christian, MTP #736 (1867), spurgeon.org text",
+    "entry": {
+      "id": "q-charles-spurgeon-0003",
+      "kind": "quote",
+      "ref": "A Happy Christian, MTP #736 (1867)",
+      "text": "The worldling blesses God while he gives him plenty, but the Christian blesses him when he smites him: he believes him to be too wise to err and too good to be unkind; he trusts him where he cannot trace him, looks up to him in the darkest hour, and believes that all is well.",
+      "voice": "Charles Spurgeon",
+      "insight": "The line people remember is the middle one: trust him where you cannot trace him. Spurgeon frames it with a harder test, blessing God under the rod, not only under the plenty.",
+      "witness": {
+        "voice": "Charles Spurgeon",
+        "work": "A Happy Christian (Sermon 736)",
+        "source": "https://www.spurgeon.org/resource-library/sermons/a-happy-christian/",
+        "path": "a-happy-christian",
+        "quote": "The worldling blesses God while he gives him plenty, but the Christian"
+      },
+      "source": "primary",
+      "themes": [
+        "faith",
+        "providence",
+        "suffering"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-charles-spurgeon-0004",
+    "action": "replace",
+    "evidence": "fabricated ('right and almost right'; unlocatable in any Spurgeon work); replaced with Morning and Evening, 5 January morning, verbatim from CCEL",
+    "entry": {
+      "id": "q-charles-spurgeon-0004",
+      "kind": "quote",
+      "ref": "Morning and Evening, January 5 (morning)",
+      "text": "In judgment, in action, in hearing, in teaching, in association, we must discern between the precious and the vile, and maintain the great distinction which the Lord made upon the world's first day.",
+      "voice": "Charles Spurgeon",
+      "insight": "Spurgeon takes the first day's dividing of light from darkness as a standing pattern. Discernment is not a mood but a practice, exercised in what we hear, teach, and keep company with.",
+      "witness": {
+        "voice": "Charles Spurgeon",
+        "work": "Morning and Evening",
+        "source": "https://ccel.org/ccel/s/spurgeon/morneve/cache/morneve.txt",
+        "path": "morneve.txt",
+        "quote": "In judgment, in action, in hearing, in teaching, in association, we must"
+      },
+      "source": "primary",
+      "themes": [
+        "discernment",
+        "holiness",
+        "wisdom"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-charles-spurgeon-0005",
+    "action": "replace",
+    "evidence": "the 'slender nerve' line is Martin Tupper's verse (Proverbial Philosophy), which Spurgeon quotes at the close of The Ravens' Cry; replaced with Spurgeon's own sentence from the same sermon, MTP #672, 14 Jan 1866 (spurgeon.org text)",
+    "entry": {
+      "id": "q-charles-spurgeon-0005",
+      "kind": "quote",
+      "ref": "The Ravens' Cry, MTP #672, 14 January 1866",
+      "text": "True prayer is the trading of the heart with God, and the heart never comes into spiritual commerce with the ports of heaven until God the Holy Ghost puts wind into the sails and speeds the ship into its haven.",
+      "voice": "Charles Spurgeon",
+      "insight": "Prayer, for Spurgeon, is not words read but a heart doing business with God, and even that commerce waits on the Spirit's wind. The picture keeps prayer humble and keeps it moving.",
+      "witness": {
+        "voice": "Charles Spurgeon",
+        "work": "The Ravens' Cry (Sermon 672)",
+        "source": "https://www.spurgeon.org/resource-library/sermons/the-ravens-cry/",
+        "path": "the-ravens-cry",
+        "quote": "True prayer is the trading of the heart with God, and the"
+      },
+      "source": "primary",
+      "themes": [
+        "prayer",
+        "holy-spirit",
+        "dependence"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-charles-spurgeon-0006",
+    "action": "replace",
+    "evidence": "fabricated (not in Morning and Evening for 11 August or anywhere); replaced with Morning and Evening, 18 May evening, verbatim from CCEL",
+    "entry": {
+      "id": "q-charles-spurgeon-0006",
+      "kind": "quote",
+      "ref": "Morning and Evening, May 18 (evening)",
+      "text": "If he can sing in a dungeon, how sweetly will he sing in heaven! If he can praise the Lord in the fires, how will he extol him before the eternal throne! If evil be good to him now, what will the overflowing goodness of God be to him then?",
+      "voice": "Charles Spurgeon",
+      "insight": "Spurgeon reasons from the dungeon to the throne: a praise that survives the fires is only a rehearsal. The Christian's best things come last, so his worst things come first.",
+      "witness": {
+        "voice": "Charles Spurgeon",
+        "work": "Morning and Evening",
+        "source": "https://ccel.org/ccel/s/spurgeon/morneve/cache/morneve.txt",
+        "path": "morneve.txt",
+        "quote": "If he can sing in a dungeon, how sweetly will he sing"
+      },
+      "source": "primary",
+      "themes": [
+        "heaven",
+        "worship",
+        "hope"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-charles-spurgeon-0007",
+    "action": "replace",
+    "evidence": "fabricated (no hit on spurgeon.org, CCEL or the web); replaced with Morning and Evening, 27 June evening, verbatim from CCEL",
+    "entry": {
+      "id": "q-charles-spurgeon-0007",
+      "kind": "quote",
+      "ref": "Morning and Evening, June 27 (evening)",
+      "text": "Beloved, it is not office, it is earnestness; it is not position, it is grace which will enable us to glorify God. God is most surely glorified in that cobbler's stall, where the godly worker, as he plies the awl, sings of the Saviour's love, aye, glorified far more than in many a prebendal stall where official religiousness performs its scanty duties.",
+      "voice": "Charles Spurgeon",
+      "insight": "God's glory is not confined to pulpits. Spurgeon sets the singing cobbler above the salaried cleric, because what glorifies God is grace at work, not rank.",
+      "witness": {
+        "voice": "Charles Spurgeon",
+        "work": "Morning and Evening",
+        "source": "https://ccel.org/ccel/s/spurgeon/morneve/cache/morneve.txt",
+        "path": "morneve.txt",
+        "quote": "Beloved, it is not office, it is earnestness; it is not position,"
+      },
+      "source": "primary",
+      "themes": [
+        "glory-of-god",
+        "vocation",
+        "grace"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-charles-spurgeon-0008",
+    "action": "replace",
+    "evidence": "'marrow of all theology' is not Spurgeon's; NPSP #207 lacks the wording. Replaced with his exposition of 'Salvation is of the Lord' in Salvation of the Lord, NPSP #131, 10 May 1857 (spurgeon.org archive text)",
+    "entry": {
+      "id": "q-charles-spurgeon-0008",
+      "kind": "quote",
+      "ref": "Salvation of the Lord, NPSP #131, 10 May 1857",
+      "text": "We are to understand by this, that the whole of the work whereby men are saved from their natural estate of sin and ruin, and are translated into the kingdom of God and made heirs of eternal happiness, is of God, and of him only.",
+      "voice": "Charles Spurgeon",
+      "insight": "Spurgeon's whole soteriology sits in that last clause: of God, and of him only. Plan, purchase, and application are one work with one author.",
+      "witness": {
+        "voice": "Charles Spurgeon",
+        "work": "Salvation of the Lord (Sermon 131)",
+        "source": "https://archive.spurgeon.org/sermons/0131.php",
+        "path": "sermons/0131.php",
+        "quote": "We are to understand by this, that the whole of the work"
+      },
+      "source": "primary",
+      "themes": [
+        "sovereignty",
+        "salvation",
+        "election"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-charles-spurgeon-0009",
+    "action": "replace",
+    "evidence": "wording differed and date was wrong (1879); replaced with verbatim text from Salvation to the Uttermost, NPSP #84, 8 June 1856 (spurgeon.org archive text)",
+    "entry": {
+      "id": "q-charles-spurgeon-0009",
+      "kind": "quote",
+      "ref": "Salvation to the Uttermost, NPSP #84, 8 June 1856",
+      "text": "Christ is a Saviour: how far is he able to save? He is a Physician: to what extent will his skill reach to heal diseases? What a noble answer the text gives! \"He is able to save to the uttermost.\" Now, I will certainly affirm, and no one can deny it, that no one here knows how far the uttermost is.",
+      "voice": "Charles Spurgeon",
+      "insight": "Spurgeon refuses to measure the uttermost, because no one can. However far a sinner has gone, Christ's reach is further, and he lives to make intercession.",
+      "witness": {
+        "voice": "Charles Spurgeon",
+        "work": "Salvation to the Uttermost (Sermon 84)",
+        "source": "https://archive.spurgeon.org/sermons/0084.php",
+        "path": "sermons/0084.php",
+        "quote": "Christ is a Saviour: how far is he able to save? He"
+      },
+      "source": "primary",
+      "themes": [
+        "salvation",
+        "christology",
+        "hope"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-hannah-whitall-smith-0001",
+    "action": "replace",
+    "evidence": "shipped line not in the book; nearest genuine wording is ch. 15 (not ch. 6), CCEL full text; replaced verbatim (clause list ends at a semicolon in the original)",
+    "entry": {
+      "id": "q-hannah-whitall-smith-0001",
+      "kind": "quote",
+      "ref": "The Christian's Secret of a Happy Life (1875), ch. 15",
+      "text": "Meekness and quietness of spirit become in time the characteristics of the daily life; a submissive acceptance of the will of God, as it comes in the hourly events of each day; pliability in the hands of God to do or to suffer all the good pleasure of His will; sweetness under provocation; calmness in the midst of turmoil and bustle.",
+      "voice": "Hannah Whitall Smith",
+      "insight": "Smith names the fruit of a surrendered life in ordinary terms: quiet, pliable, sweet under provocation. The test of consecration is the hourly events, not the crisis moment.",
+      "witness": {
+        "voice": "Hannah Whitall Smith",
+        "work": "The Christian's Secret of a Happy Life",
+        "source": "https://ccel.org/ccel/s/smith_hw/secret/cache/secret.txt",
+        "path": "secret.txt",
+        "quote": "Meekness and quietness of spirit become in time the characteristics of the"
+      },
+      "source": "primary",
+      "themes": [
+        "obedience",
+        "rest",
+        "sanctification"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-hannah-whitall-smith-0002",
+    "action": "replace",
+    "evidence": "paraphrase; replaced with her own summary from ch. 4 'How to Enter In' (CCEL full text)",
+    "entry": {
+      "id": "q-hannah-whitall-smith-0002",
+      "kind": "quote",
+      "ref": "The Christian's Secret of a Happy Life (1875), ch. 4",
+      "text": "To sum up, then: in order to enter into this blessed interior life of rest and triumph, you have two steps to take: first, entire abandonment; and second, absolute faith.",
+      "voice": "Hannah Whitall Smith",
+      "insight": "Two steps, and neither is a technique: give yourself up, and believe God. Smith's whole book is an argument that the second is as much a duty as the first.",
+      "witness": {
+        "voice": "Hannah Whitall Smith",
+        "work": "The Christian's Secret of a Happy Life",
+        "source": "https://ccel.org/ccel/s/smith_hw/secret/cache/secret.txt",
+        "path": "secret.txt",
+        "quote": "To sum up, then: in order to enter into this blessed interior"
+      },
+      "source": "primary",
+      "themes": [
+        "faith",
+        "holiness",
+        "rest"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-hannah-whitall-smith-0003",
+    "action": "replace",
+    "evidence": "fabricated (absent from The God of All Comfort, CCEL full text); replaced with the opening of ch. 17 'God Is Enough', verbatim",
+    "entry": {
+      "id": "q-hannah-whitall-smith-0003",
+      "kind": "quote",
+      "ref": "The God of All Comfort (1906), ch. 17",
+      "text": "The last and greatest lesson that the soul has to learn is the fact that God, and God alone, is enough for all its needs. This is the lesson that all His dealings with us are meant to teach; and this is the crowning discovery of our whole Christian life. God is enough!",
+      "voice": "Hannah Whitall Smith",
+      "insight": "Smith ends her book where the psalmist begins: God alone. Every providence, kind or hard, is teaching the same one sentence, and it is the last lesson because it is the hardest to believe.",
+      "witness": {
+        "voice": "Hannah Whitall Smith",
+        "work": "The God of All Comfort",
+        "source": "https://ccel.org/ccel/s/smith_hw/comfort/cache/comfort.txt",
+        "path": "comfort.txt",
+        "quote": "The last and greatest lesson that the soul has to learn is"
+      },
+      "source": "primary",
+      "themes": [
+        "contentment",
+        "rest",
+        "knowing-god"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-j-gresham-machen-0001",
+    "action": "replace",
+    "evidence": "shipped sentence is not in Christianity and Liberalism (archive.org full text grep); replaced with the genuine sentence from ch. 2 'Doctrine'",
+    "entry": {
+      "id": "q-j-gresham-machen-0001",
+      "kind": "quote",
+      "ref": "Christianity and Liberalism (1923), ch. 2",
+      "text": "Christianity for Paul was not only a life, but also a doctrine, and logically the doctrine came first.",
+      "voice": "J. Gresham Machen",
+      "insight": "Machen's target was the slogan that Christianity is a life, not a doctrine. His answer is order, not opposition: the life is real, and it grows out of something believed.",
+      "witness": {
+        "voice": "J. Gresham Machen",
+        "work": "Christianity and Liberalism",
+        "source": "https://archive.org/download/christianitylibe0000mach/christianitylibe0000mach_djvu.txt",
+        "path": "christianitylibe0000mach_djvu.txt",
+        "quote": "Christianity for Paul was not only a life, but also a doctrine,"
+      },
+      "source": "primary",
+      "themes": [
+        "doctrine",
+        "gospel",
+        "truth"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-j-gresham-machen-0002",
+    "action": "edit",
+    "evidence": "Christianity and Liberalism ch. 7 'The Church', exact (archive.org full text)",
+    "fields": {
+      "source": "primary",
+      "witness": {
+        "voice": "J. Gresham Machen",
+        "work": "Christianity and Liberalism",
+        "source": "https://archive.org/download/christianitylibe0000mach/christianitylibe0000mach_djvu.txt",
+        "path": "christianitylibe0000mach_djvu.txt",
+        "quote": "The plain fact is that liberalism, whether it be true or false,"
+      }
+    }
+  },
+  {
+    "id": "q-j-gresham-machen-0004",
+    "action": "replace",
+    "evidence": "'founded upon news' was a gloss; replaced with the exact ch. 2 sentences (archive.org full text); first word capitalised at the excerpt boundary",
+    "entry": {
+      "id": "q-j-gresham-machen-0004",
+      "kind": "quote",
+      "ref": "Christianity and Liberalism (1923), ch. 2",
+      "text": "The Christian movement at its inception was not just a way of life in the modern sense, but a way of life founded upon a message. It was based, not upon mere feeling, not upon a mere program of work, but upon an account of facts. In other words it was based upon doctrine.",
+      "voice": "J. Gresham Machen",
+      "insight": "Before it was an ethic or a programme, Christianity was a report of things that had happened. Machen's point still cuts: remove the facts and what is left is advice.",
+      "witness": {
+        "voice": "J. Gresham Machen",
+        "work": "Christianity and Liberalism",
+        "source": "https://archive.org/download/christianitylibe0000mach/christianitylibe0000mach_djvu.txt",
+        "path": "christianitylibe0000mach_djvu.txt",
+        "quote": "The Christian movement at its inception was not just a way of"
+      },
+      "source": "primary",
+      "themes": [
+        "gospel",
+        "doctrine",
+        "resurrection"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-j-gresham-machen-0003",
+    "action": "replace",
+    "evidence": "'recognition of a fact' is not Machen's; replaced with the genuine sentences from What Is Faith? ch. 7 'Faith and Works' (archive.org full text)",
+    "entry": {
+      "id": "q-j-gresham-machen-0003",
+      "kind": "quote",
+      "ref": "What Is Faith? (1925), ch. 7",
+      "text": "Faith is the acceptance of a gift at the hands of Christ. We cannot accept the gift without knowing certain things about the gift and about the giver. But we might know all those things and still not accept the gift.",
+      "voice": "J. Gresham Machen",
+      "insight": "Machen holds knowledge and trust together without collapsing them. You cannot receive a gift you know nothing about, and you can know everything about it and still refuse it.",
+      "witness": {
+        "voice": "J. Gresham Machen",
+        "work": "What Is Faith?",
+        "source": "https://archive.org/download/whatisfaith0000mach/whatisfaith0000mach_djvu.txt",
+        "path": "whatisfaith0000mach_djvu.txt",
+        "quote": "Faith is the acceptance of a gift at the hands of Christ."
+      },
+      "source": "primary",
+      "themes": [
+        "faith",
+        "doctrine",
+        "grace"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-j-gresham-machen-0005",
+    "action": "replace",
+    "evidence": "paraphrase; replaced with exact sentences from The Origin of Paul's Religion ch. 1 (archive.org full text)",
+    "entry": {
+      "id": "q-j-gresham-machen-0005",
+      "kind": "quote",
+      "ref": "The Origin of Paul's Religion (1921), ch. 1",
+      "text": "The religion of Paul was rooted altogether in the redeeming work of Jesus Christ. Jesus for Paul was primarily not a Revealer, but a Saviour.",
+      "voice": "J. Gresham Machen",
+      "insight": "The liberal Jesus was a teacher; Paul's Jesus was a rescuer. Machen's whole argument turns on that difference, because a religion of redemption cannot be derived from a religion of ideas.",
+      "witness": {
+        "voice": "J. Gresham Machen",
+        "work": "The Origin of Paul's Religion",
+        "source": "https://archive.org/download/originofpaulsrel00machrich/originofpaulsrel00machrich_djvu.txt",
+        "path": "originofpaulsrel00machrich_djvu.txt",
+        "quote": "The religion of Paul was rooted altogether in the redeeming work of"
+      },
+      "source": "primary",
+      "themes": [
+        "christology",
+        "redemption",
+        "gospel"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-bb-warfield-0001",
+    "action": "edit",
+    "evidence": "wrong book: the line is from Calvin as a Theologian and Calvinism To-day (1909), not The Plan of Salvation (full-text grep of both); text restored to the exact sentences (archive.org full text)",
+    "fields": {
+      "source": "primary",
+      "text": "The Calvinist in a word is the man who sees God; he has caught sight of the ineffable Vision, and he will not let it fade a moment from his eyes. God in nature, God in history, God in grace; everywhere he sees God in his mighty stepping, everywhere he feels the working of his mighty arm, the throbbing of his mighty heart.",
+      "ref": "Calvin as a Theologian and Calvinism To-day (1909)",
+      "witness": {
+        "voice": "B.B. Warfield",
+        "work": "Calvin as a Theologian and Calvinism To-day",
+        "source": "https://archive.org/download/calvin-as-a-theologian-and-calvinism-to-day/Calvin%20as%20a%20Theologian%20and%20Calvinism%20To-day_djvu.txt",
+        "path": "Calvin as a Theologian and Calvinism To-day_djvu.txt",
+        "quote": "The Calvinist in a word is the man who sees God; he"
+      }
+    }
+  },
+  {
+    "id": "q-bb-warfield-0002",
+    "action": "replace",
+    "evidence": "shipped wording is a modern summary; replaced with the exact sentences from Calvin as a Theologian and Calvinism To-day (1909), archive.org full text",
+    "entry": {
+      "id": "q-bb-warfield-0002",
+      "kind": "quote",
+      "ref": "Calvin as a Theologian and Calvinism To-day (1909)",
+      "text": "For what is Calvinism but the thetical expression of religion, conceived as absolute dependence on God? Wherever we find religion in its purity, therefore, there Calvinism is implicit.",
+      "voice": "B.B. Warfield",
+      "insight": "Warfield's claim is not that Calvinists are the best Christians but that Calvinism is what religion looks like when dependence on God is taken all the way down.",
+      "witness": {
+        "voice": "B.B. Warfield",
+        "work": "Calvin as a Theologian and Calvinism To-day",
+        "source": "https://archive.org/download/calvin-as-a-theologian-and-calvinism-to-day/Calvin%20as%20a%20Theologian%20and%20Calvinism%20To-day_djvu.txt",
+        "path": "Calvin as a Theologian and Calvinism To-day_djvu.txt",
+        "quote": "For what is Calvinism but the thetical expression of religion, conceived as"
+      },
+      "source": "primary",
+      "themes": [
+        "doctrine",
+        "dependence",
+        "sovereignty"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-bb-warfield-0003",
+    "action": "replace",
+    "evidence": "shipped text trimmed Warfield's ISBE sentence; replaced with the exact definition from his article 'Inspiration', International Standard Bible Encyclopaedia (1915) vol. 3 (archive.org bibleencyclopedi03orruoft)",
+    "entry": {
+      "id": "q-bb-warfield-0003",
+      "kind": "quote",
+      "ref": "'Inspiration', International Standard Bible Encyclopaedia (1915), vol. 3",
+      "text": "Inspiration is, therefore, usually defined as a supernatural influence exerted on the sacred writers by the Spirit of God, by virtue of which their writings are given Divine trustworthiness.",
+      "voice": "B.B. Warfield",
+      "insight": "Warfield's definition is modest in form and total in reach: the influence is God's, the writers are still writers, and the result is a book that can be trusted as God's.",
+      "witness": {
+        "voice": "B.B. Warfield",
+        "work": "Inspiration (ISBE 1915)",
+        "source": "https://archive.org/download/bibleencyclopedi03orruoft/bibleencyclopedi03orruoft_djvu.txt",
+        "path": "bibleencyclopedi03orruoft_djvu.txt",
+        "quote": "Inspiration is, therefore, usually defined as a supernatural influence exerted on the"
+      },
+      "source": "primary",
+      "themes": [
+        "scripture",
+        "revelation",
+        "holy-spirit"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-bb-warfield-0004",
+    "action": "replace",
+    "evidence": "'religion of salvation by grace' is in neither cited work (grep); replaced with Warfield's own three-part description from Calvin as a Theologian and Calvinism To-day (1909), archive.org full text",
+    "entry": {
+      "id": "q-bb-warfield-0004",
+      "kind": "quote",
+      "ref": "Calvin as a Theologian and Calvinism To-day (1909)",
+      "text": "The Calvinist is the man who sees God behind all phenomena and in all that occurs recognizes the hand of God, working out his will; who makes the attitude of the soul to God in prayer its permanent attitude in all its life-activities; and who casts himself on the grace of God alone, excluding every trace of dependence on self from the whole work of his salvation.",
+      "voice": "B.B. Warfield",
+      "insight": "Three marks, and the third carries the weight: grace alone, with self excluded from the whole of salvation. Warfield ties the doctrine of grace to the posture of prayer.",
+      "witness": {
+        "voice": "B.B. Warfield",
+        "work": "Calvin as a Theologian and Calvinism To-day",
+        "source": "https://archive.org/download/calvin-as-a-theologian-and-calvinism-to-day/Calvin%20as%20a%20Theologian%20and%20Calvinism%20To-day_djvu.txt",
+        "path": "Calvin as a Theologian and Calvinism To-day_djvu.txt",
+        "quote": "The Calvinist is the man who sees God behind all phenomena and"
+      },
+      "source": "primary",
+      "themes": [
+        "grace",
+        "salvation",
+        "prayer"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-bb-warfield-0005",
+    "action": "drop",
+    "evidence": "ref itself admits 'paraphrasing his argument'; no verbatim Warfield sentence located"
+  },
+  {
+    "id": "q-bb-warfield-0006",
+    "action": "drop",
+    "evidence": "ref itself admits 'summary of argument'; Perfectionism not available in full text and no verbatim sentence located"
+  },
+  {
+    "id": "q-geerhardus-vos-0003",
+    "action": "replace",
+    "evidence": "fabricated (zero hits in Grace and Glory, archive.org full text); replaced with a verbatim sentence from sermon II, 'Hungering and Thirsting after Righteousness'",
+    "entry": {
+      "id": "q-geerhardus-vos-0003",
+      "kind": "quote",
+      "ref": "Grace and Glory (1922), 'Hungering and Thirsting after Righteousness'",
+      "text": "To be a child of God and a disciple of Jesus means to hold in one's hand the treasures of eternity.",
+      "voice": "Geerhardus Vos",
+      "insight": "Vos reads the beatitudes as promises of the infinite to the empty-handed. Sonship is not a status to grow into; it already puts eternity in the hand of the poor in spirit.",
+      "witness": {
+        "voice": "Geerhardus Vos",
+        "work": "Grace and Glory",
+        "source": "https://archive.org/download/graceglorysermon00vosg/graceglorysermon00vosg_djvu.txt",
+        "path": "graceglorysermon00vosg_djvu.txt",
+        "quote": "To be a child of God and a disciple of Jesus means"
+      },
+      "source": "primary",
+      "themes": [
+        "adoption",
+        "eternity",
+        "kingdom"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-geerhardus-vos-0004",
+    "action": "replace",
+    "evidence": "paraphrase; replaced with Vos's own statement of the kingdom's two stages from ch. 5 (archive.org full text, 1903 ed.)",
+    "entry": {
+      "id": "q-geerhardus-vos-0004",
+      "kind": "quote",
+      "ref": "The Teaching of Jesus Concerning the Kingdom of God and the Church (1903), ch. 5",
+      "text": "The difference between the two stages of its coming does not lie in that the one is brought about by forces already present in the human world, whereas the other has to be accomplished by the introduction of new miraculous forces from above. It is a difference merely in the mode of operation and revelation of the supernatural common to both stages.",
+      "voice": "Geerhardus Vos",
+      "insight": "The kingdom now and the kingdom then are one supernatural work in two modes. Vos will not let the present stage be naturalised or the future stage be the only real one.",
+      "witness": {
+        "voice": "Geerhardus Vos",
+        "work": "The Teaching of Jesus Concerning the Kingdom of God and the Church",
+        "source": "https://archive.org/download/teachingofjesusc02vosg/teachingofjesusc02vosg_djvu.txt",
+        "path": "teachingofjesusc02vosg_djvu.txt",
+        "quote": "The difference between the two stages of its coming does not lie"
+      },
+      "source": "primary",
+      "themes": [
+        "kingdom",
+        "eschatology",
+        "sovereignty"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-herman-bavinck-0001",
+    "action": "drop",
+    "evidence": "a recurring Bavinck formula ('grace restores nature'), not a sentence; no verbatim source located and the English Reformed Dogmatics is not available in full text"
+  },
+  {
+    "id": "q-herman-bavinck-0002",
+    "action": "edit",
+    "evidence": "auditor verified against Reformed Dogmatics II:29 (Bolt ed.); the translation is not available to this pass in full text, so source is set on the auditor's check",
+    "fields": {
+      "source": "primary",
+      "ref": "Reformed Dogmatics, II:29"
+    }
+  },
+  {
+    "id": "q-herman-bavinck-0003",
+    "action": "replace",
+    "evidence": "paraphrase (RD not available in full text); replaced with a verbatim sentence from Bavinck's Stone Lectures, The Philosophy of Revelation (1909), archive.org full text",
+    "entry": {
+      "id": "q-herman-bavinck-0003",
+      "kind": "quote",
+      "ref": "The Philosophy of Revelation (1909), Lecture I",
+      "text": "The world itself rests on revelation; revelation is the presupposition, the foundation, the secret of all that exists in all its forms.",
+      "voice": "Herman Bavinck",
+      "insight": "Bavinck widens revelation from a doctrine about Scripture to the ground of everything. Nothing exists that is not first spoken; theology begins by admitting that.",
+      "witness": {
+        "voice": "Herman Bavinck",
+        "work": "The Philosophy of Revelation",
+        "source": "https://archive.org/download/philosophyrevel00bavigoog/philosophyrevel00bavigoog_djvu.txt",
+        "path": "philosophyrevel00bavigoog_djvu.txt",
+        "quote": "The world itself rests on revelation; revelation is the presupposition, the foundation,"
+      },
+      "source": "primary",
+      "themes": [
+        "revelation",
+        "creation",
+        "doctrine"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-herman-bavinck-0004",
+    "action": "drop",
+    "evidence": "auditor's note: RD II:260 reads 'the heart and center of the whole revelation of God' (close, not verbatim); the Bolt translation is not available in full text to fix it"
+  },
+  {
+    "id": "q-herman-bavinck-0005",
+    "action": "replace",
+    "evidence": "'not two messages but one' not found; replaced with a verbatim sentence from The Philosophy of Revelation (1909), Lecture VIII, archive.org full text",
+    "entry": {
+      "id": "q-herman-bavinck-0005",
+      "kind": "quote",
+      "ref": "The Philosophy of Revelation (1909), Lecture VIII",
+      "text": "Christianity is not the religion of Jesus, still less Jesus-worship, but Christ-religion.",
+      "voice": "Herman Bavinck",
+      "insight": "Other religions can outlive their founders because the founder was only the first believer. Bavinck's point is that Jesus is not the first Christian but the object of the faith.",
+      "witness": {
+        "voice": "Herman Bavinck",
+        "work": "The Philosophy of Revelation",
+        "source": "https://archive.org/download/philosophyrevel00bavigoog/philosophyrevel00bavigoog_djvu.txt",
+        "path": "philosophyrevel00bavigoog_djvu.txt",
+        "quote": "Christianity is not the religion of Jesus, still less Jesus-worship, but Christ-religion."
+      },
+      "source": "primary",
+      "themes": [
+        "christology",
+        "gospel",
+        "worship"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-herman-bavinck-0006",
+    "action": "replace",
+    "evidence": "wording not found in RD IV; replaced with a verbatim sentence from The Philosophy of Revelation (1909), Lecture VIII, archive.org full text",
+    "entry": {
+      "id": "q-herman-bavinck-0006",
+      "kind": "quote",
+      "ref": "The Philosophy of Revelation (1909), Lecture VIII",
+      "text": "Christianity is religion alone, and therefore the pure religion, the full and complete, indissoluble and eternal, fellowship of God and man.",
+      "voice": "Herman Bavinck",
+      "insight": "Bavinck defines Christianity not by its doctrines or its culture but by what it is: fellowship with God, whole and permanent. Everything else in the faith serves that.",
+      "witness": {
+        "voice": "Herman Bavinck",
+        "work": "The Philosophy of Revelation",
+        "source": "https://archive.org/download/philosophyrevel00bavigoog/philosophyrevel00bavigoog_djvu.txt",
+        "path": "philosophyrevel00bavigoog_djvu.txt",
+        "quote": "Christianity is religion alone, and therefore the pure religion, the full and"
+      },
+      "source": "primary",
+      "themes": [
+        "knowing-god",
+        "doctrine",
+        "union-with-christ"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-herman-bavinck-0007",
+    "action": "replace",
+    "evidence": "ref itself admits 'paraphrasing his argument'; replaced with a verbatim sentence from The Philosophy of Revelation (1909), Lecture I, archive.org full text",
+    "entry": {
+      "id": "q-herman-bavinck-0007",
+      "kind": "quote",
+      "ref": "The Philosophy of Revelation (1909), Lecture I",
+      "text": "In every moment of time beats the pulse of eternity; every point in space is filled with the omnipresence of God; the finite is supported by the infinite, all becoming is rooted in being.",
+      "voice": "Herman Bavinck",
+      "insight": "Bavinck's creation doctrine in one line: nothing stands on its own. Time, space, and change are held up from outside themselves, which is why the world can be trusted and cannot be worshipped.",
+      "witness": {
+        "voice": "Herman Bavinck",
+        "work": "The Philosophy of Revelation",
+        "source": "https://archive.org/download/philosophyrevel00bavigoog/philosophyrevel00bavigoog_djvu.txt",
+        "path": "philosophyrevel00bavigoog_djvu.txt",
+        "quote": "In every moment of time beats the pulse of eternity; every point"
+      },
+      "source": "primary",
+      "themes": [
+        "creation",
+        "theology-proper",
+        "presence"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-thomas-boston-0001",
+    "action": "replace",
+    "evidence": "paraphrase; replaced with Boston's own opening of State I (1818 printing, archive.org full text); the fourth head follows in the original",
+    "entry": {
+      "id": "q-thomas-boston-0001",
+      "kind": "quote",
+      "ref": "Human Nature in its Fourfold State (1720), State I, opening",
+      "text": "There are four things very necessary to be known by all that would see heaven. First, What man was in the state of innocence, as God made him. Secondly, What he is in the state of corrupt nature, as he hath unmade himself. Thirdly, What he must be in the state of grace, as created in Christ Jesus unto good works, if ever he be made a partaker of the inheritance of the saints in light.",
+      "voice": "Thomas Boston",
+      "insight": "Boston's map of the soul has four countries, and every reader is standing in one of them. The book's force is that it will not let you read about the states without asking which is yours.",
+      "witness": {
+        "voice": "Thomas Boston",
+        "work": "Human Nature in its Fourfold State",
+        "source": "https://archive.org/download/humannaturefour00bostiala/humannaturefour00bostiala_djvu.txt",
+        "path": "humannaturefour00bostiala_djvu.txt",
+        "quote": "There are four things very necessary to be known by all that"
+      },
+      "source": "primary",
+      "themes": [
+        "anthropology",
+        "sin",
+        "grace"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-thomas-boston-0002",
+    "action": "replace",
+    "evidence": "paraphrase; replaced with Boston's verbatim address to the unregenerate, State II Head II (1818 printing, archive.org full text)",
+    "entry": {
+      "id": "q-thomas-boston-0002",
+      "kind": "quote",
+      "ref": "Human Nature in its Fourfold State (1720), State II, Head II, application",
+      "text": "O ye children of wrath, your state is wretched, for ye have lost God, and that is an unspeakable loss. Ye are \"without God in the world,\" Eph. ii. 12. Whatever ye may call yours, ye cannot call God yours.",
+      "voice": "Thomas Boston",
+      "insight": "Boston will not soften the natural man's condition to make the gospel gentler; he sharpens it so the gospel is needed. The loss is not comfort or morality but God himself.",
+      "witness": {
+        "voice": "Thomas Boston",
+        "work": "Human Nature in its Fourfold State",
+        "source": "https://archive.org/download/humannaturefour00bostiala/humannaturefour00bostiala_djvu.txt",
+        "path": "humannaturefour00bostiala_djvu.txt",
+        "quote": "O ye children of wrath, your state is wretched, for ye have"
+      },
+      "source": "primary",
+      "themes": [
+        "sin",
+        "judgment",
+        "regeneration"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-thomas-boston-0003",
+    "action": "replace",
+    "evidence": "paraphrase; replaced with Boston's first two propositions on Eccl. 7:13, verbatim from the 1839 printing (archive.org crookinlotordisp00bost_0); proposition labels omitted between the two sentences",
+    "entry": {
+      "id": "q-thomas-boston-0003",
+      "kind": "quote",
+      "ref": "The Crook in the Lot (1737), Propositions I and II",
+      "text": "Whatsoever crook there is in one's lot, it is of God's making. What God sees meet to mar, no one shall be able to mend in his lot.",
+      "voice": "Thomas Boston",
+      "insight": "The bend in your circumstances was not an accident God is now managing; he made it. Boston's comfort is severe and steady: what he has bent on purpose, no one else can straighten.",
+      "witness": {
+        "voice": "Thomas Boston",
+        "work": "The Crook in the Lot",
+        "source": "https://archive.org/download/crookinlotordisp00bost_0/crookinlotordisp00bost_0_djvu.txt",
+        "path": "crookinlotordisp00bost_0_djvu.txt",
+        "quote": "Whatsoever crook there is in one's lot, it is of God's making."
+      },
+      "source": "primary",
+      "themes": [
+        "providence",
+        "suffering",
+        "contentment"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-charles-hodge-0001",
+    "action": "edit",
+    "evidence": "Systematic Theology vol. 1, Introduction ch. I §4 exact (CCEL)",
+    "fields": {
+      "source": "primary",
+      "witness": {
+        "voice": "Charles Hodge",
+        "work": "Systematic Theology, vol. 1",
+        "source": "https://ccel.org/ccel/s/hodge/theology1/cache/theology1.txt",
+        "path": "theology1.txt",
+        "quote": "The Bible is to the theologian what nature is to the man"
+      },
+      "ref": "Systematic Theology (1872), vol. 1, Introduction, ch. 1 §4"
+    }
+  },
+  {
+    "id": "q-charles-hodge-0002",
+    "action": "replace",
+    "evidence": "fabricated (no trace); replaced with verbatim sentences from Systematic Theology vol. 1, Part I ch. VI 'The Trinity' §1 (CCEL full text)",
+    "entry": {
+      "id": "q-charles-hodge-0002",
+      "kind": "quote",
+      "ref": "Systematic Theology (1872), vol. 1, Part I, ch. 6 §1",
+      "text": "The design of all the revelations contained in the Word of God is the salvation of men. Truth is in order to holiness. God does not make known his being and attributes to teach men science, but to bring them to the saving knowledge of Himself.",
+      "voice": "Charles Hodge",
+      "insight": "Hodge's rule for reading doctrine: truth is in order to holiness. God reveals himself to save, not to inform, so a theology that leaves the heart untouched has missed its purpose.",
+      "witness": {
+        "voice": "Charles Hodge",
+        "work": "Systematic Theology, vol. 1",
+        "source": "https://ccel.org/ccel/s/hodge/theology1/cache/theology1.txt",
+        "path": "theology1.txt",
+        "quote": "The design of all the revelations contained in the Word of God"
+      },
+      "source": "primary",
+      "themes": [
+        "doctrine",
+        "revelation",
+        "holiness"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-charles-hodge-0003",
+    "action": "replace",
+    "evidence": "paraphrase; replaced with Hodge's definition of 'vicarious', Systematic Theology vol. 2, Part III ch. VI §3 (CCEL full text)",
+    "entry": {
+      "id": "q-charles-hodge-0003",
+      "kind": "quote",
+      "ref": "Systematic Theology (1872), vol. 2, Part III, ch. 6 §3",
+      "text": "When, therefore, it is said that the sufferings of Christ were vicarious, the meaning is that He suffered in the place of sinners. He was their substitute. He assumed their obligation to satisfy justice.",
+      "voice": "Charles Hodge",
+      "insight": "Three short sentences carry the whole Reformed doctrine of the cross. In the place of, instead of, on behalf of: Christ took the obligation that was ours and discharged it.",
+      "witness": {
+        "voice": "Charles Hodge",
+        "work": "Systematic Theology, vol. 2",
+        "source": "https://ccel.org/ccel/s/hodge/theology2/cache/theology2.txt",
+        "path": "theology2.txt",
+        "quote": "When, therefore, it is said that the sufferings of Christ were vicarious,"
+      },
+      "source": "primary",
+      "themes": [
+        "atonement",
+        "justification",
+        "christology"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-charles-hodge-0004",
+    "action": "replace",
+    "evidence": "fabricated (306-page PDF grep negative); replaced with a verbatim sentence from The Way of Life ch. VI 'Faith' (archive.org wayoflife01hodg full text)",
+    "entry": {
+      "id": "q-charles-hodge-0004",
+      "kind": "quote",
+      "ref": "The Way of Life (1841), ch. 6, 'Faith'",
+      "text": "This faith is the living head of all right affections and of all holy living; without it all religion is a dull formality, a slavish drudgery, or at best a rationalistic homage.",
+      "voice": "Charles Hodge",
+      "insight": "Hodge diagnoses three counterfeits of religion, formality, drudgery, and polite deference, and traces each to one missing thing. Faith is not one grace among others; it is the head of them all.",
+      "witness": {
+        "voice": "Charles Hodge",
+        "work": "The Way of Life",
+        "source": "https://archive.org/download/wayoflife01hodg/wayoflife01hodg_djvu.txt",
+        "path": "wayoflife01hodg_djvu.txt",
+        "quote": "This faith is the living head of all right affections and of"
+      },
+      "source": "primary",
+      "themes": [
+        "faith",
+        "heart",
+        "discipleship"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-charles-hodge-0005",
+    "action": "replace",
+    "evidence": "paraphrase; replaced with Hodge's verbatim sentence, Systematic Theology vol. 3, Part III ch. XVIII 'Sanctification' §1 (CCEL full text)",
+    "entry": {
+      "id": "q-charles-hodge-0005",
+      "kind": "quote",
+      "ref": "Systematic Theology (1872), vol. 3, Part III, ch. 18 §1",
+      "text": "As, however, the effects produced transcend the efficiency of our fallen nature, and are due to the agency of the Spirit, sanctification does not cease to be supernatural, or a work of grace, because the soul is active and cooperating in the process.",
+      "voice": "Charles Hodge",
+      "insight": "Hodge keeps both hands on the rope: the believer works, and the work is still grace. Effort does not make sanctification natural, because the results outrun what fallen nature can produce.",
+      "witness": {
+        "voice": "Charles Hodge",
+        "work": "Systematic Theology, vol. 3",
+        "source": "https://ccel.org/ccel/s/hodge/theology3/cache/theology3.txt",
+        "path": "theology3.txt",
+        "quote": "As, however, the effects produced transcend the efficiency of our fallen nature,"
+      },
+      "source": "primary",
+      "themes": [
+        "sanctification",
+        "holy-spirit",
+        "grace"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-aa-hodge-0001",
+    "action": "replace",
+    "evidence": "paraphrase; replaced with A.A. Hodge's verbatim definition, Outlines of Theology (1879 ed.) ch. XXXII 'Sanctification' Q. 5 (archive.org full text)",
+    "entry": {
+      "id": "q-aa-hodge-0001",
+      "kind": "quote",
+      "ref": "Outlines of Theology (1860; rev. 1879), ch. 32, Q. 5",
+      "text": "Sanctification is the sustaining and developing work of the Holy Ghost, bringing all the faculties of the soul more and more perfectly under the purifying and regulating influence of the implanted principle of spiritual life.",
+      "voice": "A.A. Hodge",
+      "insight": "Regeneration plants the life; sanctification is the same Spirit keeping it alive and spreading its rule through every faculty. Growth in holiness is God's work carried on, not man's work begun.",
+      "witness": {
+        "voice": "A.A. Hodge",
+        "work": "Outlines of Theology",
+        "source": "https://archive.org/download/outlinesoftheolo00hodguoft/outlinesoftheolo00hodguoft_djvu.txt",
+        "path": "outlinesoftheolo00hodguoft_djvu.txt",
+        "quote": "Sanctification is the sustaining and developing work of the Holy Ghost, bringing"
+      },
+      "source": "primary",
+      "themes": [
+        "sanctification",
+        "holy-spirit",
+        "regeneration"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-aa-hodge-0002",
+    "action": "replace",
+    "evidence": "misattributed: not in A.A. Hodge's Confession commentary (484 pp. grep); the real line is Charles Hodge, Princeton Sermons (1879), 'That Christ may dwell in your hearts by faith', 5 Nov 1865 (archive.org full text). Re-voiced with a new id; Charles Hodge now 6 entries",
+    "entry": {
+      "id": "q-charles-hodge-0006",
+      "kind": "quote",
+      "ref": "Princeton Sermons (1879), 'That Christ may dwell in your hearts by faith' (Eph. 3:17), 5 November 1865",
+      "text": "It is to faith as to the eye of the soul, that he reveals himself; and it is through faith that he exerts that constant influence over us, which is intended and expressed by his dwelling in us.",
+      "voice": "Charles Hodge",
+      "insight": "Faith does not make the light; it is the organ that receives it. Hodge reads Christ's indwelling as a relation kept alive by continual believing, not a possession secured once.",
+      "witness": {
+        "voice": "Charles Hodge",
+        "work": "Princeton Sermons",
+        "source": "https://archive.org/download/princetonsermons00hodg/princetonsermons00hodg_djvu.txt",
+        "path": "princetonsermons00hodg_djvu.txt",
+        "quote": "It is to faith as to the eye of the soul, that"
+      },
+      "source": "primary",
+      "themes": [
+        "faith",
+        "union-with-christ",
+        "presence"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-abraham-kuyper-0001",
+    "action": "edit",
+    "evidence": "shipped text was the popular paraphrase; replaced with James Bratt's translation of the 1880 inaugural (Abraham Kuyper: A Centennial Reader, 1998, p. 488), as quoted with that citation on Wikiquote and Wikipedia; the Dutch original (Souvereiniteit in eigen kring) is the 1880 work",
+    "fields": {
+      "source": "primary",
+      "text": "Oh, no single piece of our mental world is to be hermetically sealed off from the rest, and there is not a square inch in the whole domain of our human existence over which Christ, who is Sovereign over all, does not cry: 'Mine!'",
+      "ref": "Souvereiniteit in eigen kring (1880), trans. J. Bratt, Abraham Kuyper: A Centennial Reader (1998), p. 488",
+      "witness": {
+        "voice": "Abraham Kuyper",
+        "work": "Sphere Sovereignty (1880)",
+        "source": "https://en.wikiquote.org/wiki/Abraham_Kuyper",
+        "path": "wiki/Abraham_Kuyper",
+        "quote": "Oh, no single piece of our mental world is to be hermetically"
+      }
+    }
+  },
+  {
+    "id": "q-abraham-kuyper-0002",
+    "action": "replace",
+    "evidence": "textbook definition, not Kuyper's sentence; replaced with his own statement from Lectures on Calvinism, Lecture III 'Calvinism and Politics' (1899 English text, archive.org full text)",
+    "entry": {
+      "id": "q-abraham-kuyper-0002",
+      "kind": "quote",
+      "ref": "Lectures on Calvinism (1898), Lecture III, 'Calvinism and Politics'",
+      "text": "In this independent character a special higher authority is of necessity involved and this highest authority we intentionally call sovereignty in the individual social spheres, in order that it may be sharply and decidedly expressed that these different developments of social life have nothing above themselves but God, and that the State cannot intrude here, and has nothing to command in their domain.",
+      "voice": "Abraham Kuyper",
+      "insight": "Family, trade, science, art: each answers to God directly, not through the state. Kuyper's doctrine is a fence around the state as much as a charter for everything else.",
+      "witness": {
+        "voice": "Abraham Kuyper",
+        "work": "Lectures on Calvinism",
+        "source": "https://archive.org/download/LecturesOnCalvinism/LecturesOnCalvinism-AbrahamKuyper_djvu.txt",
+        "path": "LecturesOnCalvinism-AbrahamKuyper_djvu.txt",
+        "quote": "In this independent character a special higher authority is of necessity involved"
+      },
+      "source": "primary",
+      "themes": [
+        "common-grace",
+        "vocation",
+        "sovereignty"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-abraham-kuyper-0003",
+    "action": "replace",
+    "evidence": "shipped sentence not in the Preface (CCEL); replaced with Kuyper's own sentence from meditation 86, 'I in them and thou in me' (1918 de Vries translation, archive.org tobenearuntogod00kuyp; OCR punctuation normalised: a comma at 'God, to live' and a comma for the dash)",
+    "entry": {
+      "id": "q-abraham-kuyper-0003",
+      "kind": "quote",
+      "ref": "To Be Near Unto God (1908; trans. 1918), meditation 86",
+      "text": "To be near unto God, in sacred confidence to feel oneself to be close by God, to live here on earth in nearness to God through faith, and once, after death, to serve God eternally in the Fatherhouse above, that is and remains the end and aim.",
+      "voice": "Abraham Kuyper",
+      "insight": "Kuyper will not let union with Christ become an end in itself. The Mediator exists to bring us near to God, and nearness to God is the whole point, here by faith and hereafter by sight.",
+      "witness": {
+        "voice": "Abraham Kuyper",
+        "work": "To Be Near Unto God",
+        "source": "https://archive.org/download/tobenearuntogod00kuyp/tobenearuntogod00kuyp_djvu.txt",
+        "path": "tobenearuntogod00kuyp_djvu.txt",
+        "quote": "To be near unto God, in sacred confidence to feel oneself to"
+      },
+      "source": "primary",
+      "themes": [
+        "presence",
+        "union-with-christ",
+        "heaven"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-abraham-kuyper-0004",
+    "action": "replace",
+    "evidence": "paraphrase; replaced with Kuyper's exact definition of theology's object, Encyclopedia of Sacred Theology (1898 trans.), Div. II ch. V 'Theology in the Organism of Science' §83 (archive.org full text)",
+    "entry": {
+      "id": "q-abraham-kuyper-0004",
+      "kind": "quote",
+      "ref": "Encyclopedia of Sacred Theology (1894; trans. 1898), Div. II, ch. 5 §83",
+      "text": "To us, indeed, not the unknown Essence of God but the ectypal revelation (revelatio ectypa) which has been made known, is the object of Theology.",
+      "voice": "Abraham Kuyper",
+      "insight": "Theology does not study God as he is in himself, which no one can, but God as he has shown himself. Kuyper's restraint is the ground of theology's confidence: its object has been given.",
+      "witness": {
+        "voice": "Abraham Kuyper",
+        "work": "Encyclopedia of Sacred Theology",
+        "source": "https://archive.org/download/sacredtheology0000abra/sacredtheology0000abra_djvu.txt",
+        "path": "sacredtheology0000abra_djvu.txt",
+        "quote": "To us, indeed, not the unknown Essence of God but the ectypal"
+      },
+      "source": "primary",
+      "themes": [
+        "revelation",
+        "doctrine",
+        "knowing-god"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-abraham-kuyper-0005",
+    "action": "replace",
+    "evidence": "paraphrase of the untranslated Gemeene Gratie; replaced with Kuyper's own definition from Lectures on Calvinism, Lecture I 'Calvinism a Life-System' (1899 English text, archive.org); initial clause capitalised at the excerpt boundary",
+    "entry": {
+      "id": "q-abraham-kuyper-0005",
+      "kind": "quote",
+      "ref": "Lectures on Calvinism (1898), Lecture I, 'Calvinism a Life-System'",
+      "text": "There is a particular grace which works Salvation, and also a common grace by which God, maintaining the life of the world, relaxes the curse which rests upon it, arrests its process of corruption, and thus allows the untrammelled development of our life in which to glorify Himself as Creator.",
+      "voice": "Abraham Kuyper",
+      "insight": "Common grace does not save anyone; it keeps the world from rotting so that life can go on and God can be glorified as Creator in it. Culture is a gift of that restraint, not a rival to salvation.",
+      "witness": {
+        "voice": "Abraham Kuyper",
+        "work": "Lectures on Calvinism",
+        "source": "https://archive.org/download/LecturesOnCalvinism/LecturesOnCalvinism-AbrahamKuyper_djvu.txt",
+        "path": "LecturesOnCalvinism-AbrahamKuyper_djvu.txt",
+        "quote": "There is a particular grace which works Salvation, and also a common"
+      },
+      "source": "primary",
+      "themes": [
+        "common-grace",
+        "creation",
+        "glory-of-god"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-gk-chesterton-0001",
+    "action": "drop",
+    "evidence": "duplicate of #779 (What's Wrong with the World I.5) in weaker, paraphrased wording and with no locator"
+  },
+  {
+    "id": "q-gk-chesterton-0002",
+    "action": "edit",
+    "evidence": "shipped text stitched the opening sentence to a popular summary ('never pull it down until you know why it was put up') that is not Chesterton's wording; restored to the exact opening sentences of 'The Drift from Domesticity' (archive.org thingwhyiamcatho00ches_0 full text)",
+    "fields": {
+      "source": "primary",
+      "text": "In the matter of reforming things, as distinct from deforming them, there is one plain and simple principle; a principle which will probably be called a paradox. There exists in such a case a certain institution or law; let us say, for the sake of simplicity, a fence or gate erected across a road.",
+      "witness": {
+        "voice": "G.K. Chesterton",
+        "work": "The Thing (1929)",
+        "source": "https://archive.org/download/thingwhyiamcatho00ches_0/thingwhyiamcatho00ches_0_djvu.txt",
+        "path": "thingwhyiamcatho00ches_0_djvu.txt",
+        "quote": "In the matter of reforming things, as distinct from deforming them, there"
+      }
+    }
+  },
+  {
+    "id": "q-gk-chesterton-0003",
+    "action": "edit",
+    "evidence": "Gutenberg #1717 text, Part I ch. 5: punctuation restored to Chesterton's two sentences",
+    "fields": {
+      "source": "primary",
+      "text": "The Christian ideal has not been tried and found wanting. It has been found difficult; and left untried.",
+      "witness": {
+        "voice": "G.K. Chesterton",
+        "work": "What's Wrong with the World (1910)",
+        "source": "https://www.gutenberg.org/cache/epub/1717/pg1717.txt",
+        "path": "pg1717.txt",
+        "quote": "The Christian ideal has not been tried and found wanting. It has"
+      }
+    }
+  },
+  {
+    "id": "q-gk-chesterton-0004",
+    "action": "drop",
+    "evidence": "the sentence is not in Heretics ch. 17 'On the Wit of Whistler' (Gutenberg #470 full text), nor in Orthodoxy, What's Wrong with the World, or The Thing; unlocated"
+  },
+  {
+    "id": "scr-psa-131-001-002",
+    "action": "edit",
+    "evidence": "insight carried a garbled 'Spurgeon' sub-quote; rewritten without it",
+    "fields": {
+      "insight": "A weaned child has stopped demanding what it once could not do without, and rests against the same mother. The psalm's peace comes from letting go of things too great, not from getting them."
+    }
+  },
+  {
+    "id": "scr-rom-008-032",
+    "action": "edit",
+    "evidence": "insight claimed 'Spurgeon called this verse the believer's logic' with no source; rewritten without the claim",
+    "fields": {
+      "insight": "Paul argues from the greater to the lesser: the Father who gave up his Son will not withhold anything smaller. Every lesser gift is guaranteed by the one already given at Calvary."
+    }
+  },
+  {
+    "id": "scr-deu-033-027",
+    "action": "edit",
+    "evidence": "insight claimed 'Spurgeon preached this verse often' with no source; rewritten without the claim",
+    "fields": {
+      "insight": "Moses' blessing puts God both ahead of his people as refuge and beneath them as support. The arms that hold you up are everlasting, so they do not tire before you do."
+    }
+  }
+]

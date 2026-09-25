@@ -1,0 +1,20 @@
+[
+ {
+  "id": "q-martin-luther-0002",
+  "action": "edit",
+  "fields": {
+   "text": "I am conquered by the Holy Scriptures quoted by me, and my conscience is bound in the word of God: I can not and will not recant any thing, since it is unsafe and dangerous to do any thing against the conscience.",
+   "ref": "Diet of Worms, 18 April 1521 (tr. Philip Schaff, History of the Christian Church, vol. VII, §55)",
+   "insight": "The famous \"Here I stand, I can do no other\" is carved on his monument, but the earliest reports do not contain it; what they do contain is this: a conscience bound to the Word, not to itself. Bind yours to the same anchor and it will hold when the room turns against you.",
+   "source": "primary",
+   "witness": {
+    "voice": "Martin Luther",
+    "work": "Speech at the Diet of Worms (1521), in Schaff, History of the Christian Church VII.55",
+    "source": "https://ccel.org/ccel/schaff/hcc7/cache/hcc7.txt",
+    "path": "web/hcc7.txt",
+    "quote": "I can not and will not recant any thing, since it is unsafe and dangerous"
+   }
+  },
+  "evidence": "Owner decision 2026-09-25: trim the disputed 'Here I stand' clause. Text is Schaff's public-domain rendering of the attested portion (CCEL hcc7, §55); Schaff's own 'Note on Luther's sentence' records the dispute (Burkhardt 1869 vs Köstlin 1874)."
+ }
+]

@@ -1,0 +1,1526 @@
+[
+  {
+    "id": "q-augustine-0001",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified (well-known text)"
+  },
+  {
+    "id": "q-augustine-0002",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified (well-known text)"
+  },
+  {
+    "id": "q-augustine-0003",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified (well-known text)"
+  },
+  {
+    "id": "q-augustine-0006",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified (well-known text)"
+  },
+  {
+    "id": "q-augustine-0007",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified (well-known text)"
+  },
+  {
+    "id": "q-augustine-0008",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified (well-known text)"
+  },
+  {
+    "id": "q-augustine-0009",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified (well-known text)"
+  },
+  {
+    "id": "q-augustine-0010",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified (well-known text)"
+  },
+  {
+    "id": "q-augustine-0004",
+    "action": "edit",
+    "fields": {
+      "ref": "Sermon 43, §1 (Credo ut intelligas)",
+      "source": "primary"
+    },
+    "evidence": "M5: audit located the line in Sermon 43 §1, not §7 (PL 38:254)"
+  },
+  {
+    "id": "q-augustine-0005",
+    "action": "edit",
+    "fields": {
+      "text": "For to believe what you please, and not to believe what you please, is to believe yourselves, and not the gospel.",
+      "ref": "Contra Faustum, XVII.3 (NPNF1 vol. 4)",
+      "source": "primary",
+      "witness": {
+        "voice": "Augustine",
+        "work": "Contra Faustum",
+        "source": "https://ccel.org/ccel/schaff/npnf104",
+        "path": "ccel/schaff/npnf104.txt",
+        "quote": "For to believe what you please, and not to believe what you"
+      }
+    },
+    "evidence": "audit: corpus wording was the popular loose rendering; replaced with the NPNF (Stothert) sentence, grep of CCEL npnf104"
+  },
+  {
+    "id": "q-thomas-aquinas-0004",
+    "action": "replace",
+    "entry": {
+      "id": "q-augustine-0011",
+      "kind": "quote",
+      "ref": "On Christian Doctrine, III.10.16 (NPNF1 vol. 2)",
+      "text": "I mean by charity that affection of the mind which aims at the enjoyment of God for His own sake, and the enjoyment of one's self and one's neighbor in subordination to God; by lust I mean that affection of the mind which aims at enjoying one's self and one's neighbor, and other corporeal things, without reference to God.",
+      "voice": "Augustine",
+      "insight": "Augustine's rule for reading Scripture: whatever does not build up this love of God for his own sake is being misread. The line between charity and lust is not the object loved but whether God is the end or left out.",
+      "witness": {
+        "voice": "Augustine",
+        "work": "On Christian Doctrine",
+        "source": "https://ccel.org/ccel/schaff/npnf102",
+        "path": "ccel/schaff/npnf102.txt",
+        "quote": "I mean by charity that affection of the mind which aims at"
+      },
+      "source": "primary",
+      "themes": [
+        "love-of-god",
+        "love",
+        "scripture"
+      ],
+      "added": "0.5.0"
+    },
+    "evidence": "H2: misattributed to Aquinas ST II-II.27.2; the definition is Augustine, De Doctr. Chr. III.10.16. Re-voiced to Augustine with the NPNF (Shaw) text verbatim; new id q-augustine-0011 (Augustine now 11 quotes, cap 15)"
+  },
+  {
+    "id": "q-athanasius-0002",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified (well-known text)"
+  },
+  {
+    "id": "q-athanasius-0003",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified (well-known text)"
+  },
+  {
+    "id": "q-athanasius-0004",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified (well-known text)"
+  },
+  {
+    "id": "q-athanasius-0001",
+    "action": "edit",
+    "fields": {
+      "text": "For He was made man that we might be made God; and He manifested Himself by a body that we might receive the idea of the unseen Father; and He endured the insolence of men that we might inherit immortality.",
+      "ref": "On the Incarnation, §54 (NPNF2 vol. 4)",
+      "source": "primary",
+      "insight": "Athanasius' great exchange, in his own words rather than Irenaeus'. Not deification in the pagan sense but adoption and immortality by union with the incarnate Son: he stoops so that we can stand.",
+      "witness": {
+        "voice": "Athanasius",
+        "work": "On the Incarnation",
+        "source": "https://ccel.org/ccel/schaff/npnf204",
+        "path": "ccel/schaff/npnf204.txt",
+        "quote": "For He was made man that we might be made God"
+      }
+    },
+    "evidence": "H2: shipped wording was Irenaeus (Adv. Haer. V pref.); replaced with Athanasius' actual §54 sentence from the NPNF (Robertson) text, grep of CCEL npnf204"
+  },
+  {
+    "id": "q-irenaeus-of-lyons-0001",
+    "action": "edit",
+    "fields": {
+      "text": "For the glory of God is a living man; and the life of man consists in beholding God.",
+      "ref": "Against Heresies, IV.20.7 (ANF vol. 1)",
+      "source": "primary",
+      "insight": "Often half-quoted as humanism. The whole sentence locates a man's life in beholding God: anthropology under theology, not over it. To be alive apart from the vision of God is, in Irenaeus' grammar, a contradiction.",
+      "witness": {
+        "voice": "Irenaeus of Lyons",
+        "work": "Against Heresies",
+        "source": "https://ccel.org/ccel/schaff/anf01",
+        "path": "ccel/schaff/anf01.txt",
+        "quote": "For the glory of God is a living man; and the life"
+      }
+    },
+    "evidence": "H2/paraphrase: 'fully alive' is a 20th-c. gloss; replaced with the ANF (Roberts-Rambaut) rendering of gloria Dei vivens homo, grep of CCEL anf01"
+  },
+  {
+    "id": "q-tertullian-0001",
+    "action": "edit",
+    "fields": {
+      "text": "The oftener we are mown down by you, the more in number we grow; the blood of Christians is seed.",
+      "ref": "Apology, 50 (ANF vol. 3)",
+      "source": "primary",
+      "insight": "Roman persecution was meant to extinguish the church; it propagated it. What evil intends to bury, providence sows. The image is agricultural: the grave is not a tomb but a furrow.",
+      "witness": {
+        "voice": "Tertullian",
+        "work": "Apology",
+        "source": "https://ccel.org/ccel/schaff/anf03",
+        "path": "ccel/schaff/anf03.txt",
+        "quote": "The oftener we are mown down by you, the more in number"
+      }
+    },
+    "evidence": "H2/paraphrase: 'blood of the martyrs is the seed of the Church' is the popular paraphrase of semen est sanguis Christianorum; replaced with the ANF sentence, grep of CCEL anf03"
+  },
+  {
+    "id": "q-tertullian-0002",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified (well-known text)"
+  },
+  {
+    "id": "q-tertullian-0004",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified (well-known text)"
+  },
+  {
+    "id": "q-tertullian-0003",
+    "action": "edit",
+    "fields": {
+      "text": "But God is the hearer not of the voice, but of the heart, just as He is its inspector.",
+      "ref": "On Prayer (c. 198), ch. 17 (ANF vol. 3)",
+      "source": "primary",
+      "insight": "Tertullian is telling a congregation to pray with subdued voices. The point is not that God is hard of hearing but that he listens somewhere else entirely, and the heart is the only instrument he judges by.",
+      "witness": {
+        "voice": "Tertullian",
+        "work": "On Prayer",
+        "source": "https://ccel.org/ccel/schaff/anf03",
+        "path": "ccel/schaff/anf03.txt",
+        "quote": "But God is the hearer not of the voice, but of the"
+      }
+    },
+    "evidence": "M5 + paraphrase: shipped text was modern wording and cited §1; the genuine line is De oratione ch. 17, ANF text verbatim, grep of CCEL anf03"
+  },
+  {
+    "id": "q-cyprian-of-carthage-0001",
+    "action": "edit",
+    "fields": {
+      "text": "He can no longer have God for his Father, who has not the Church for his mother.",
+      "ref": "On the Unity of the Church (251), §6 (ANF vol. 5)",
+      "source": "primary",
+      "witness": {
+        "voice": "Cyprian of Carthage",
+        "work": "On the Unity of the Church",
+        "source": "https://ccel.org/ccel/schaff/anf05",
+        "path": "ccel/schaff/anf05.txt",
+        "quote": "He can no longer have God for his Father, who has not"
+      }
+    },
+    "evidence": "audit verified; text aligned to the ANF (Wallis) sentence verbatim, grep of CCEL anf05; duplicate #722 dropped"
+  },
+  {
+    "id": "q-cyprian-of-carthage-0002",
+    "action": "drop",
+    "evidence": "M3: duplicate of q-cyprian-of-carthage-0001 (same De unitate 6 line); the kept entry now carries the ANF verbatim text and witness"
+  },
+  {
+    "id": "q-cyprian-of-carthage-0003",
+    "action": "replace",
+    "entry": {
+      "id": "q-cyprian-of-carthage-0003",
+      "kind": "quote",
+      "ref": "On the Lord's Prayer (252), §4 (ANF vol. 5)",
+      "text": "And when we meet together with the brethren in one place, and celebrate divine sacrifices with God's priest, we ought to be mindful of modesty and discipline--not to throw abroad our prayers indiscriminately, with unsubdued voices, nor to cast to God with tumultuous wordiness a petition that ought to be commended to God by modesty; for God is the hearer, not of the voice, but of the heart.",
+      "voice": "Cyprian of Carthage",
+      "insight": "Cyprian on how a congregation should pray: quietly, because the audience is God and not the room. Loud, wordy prayer is aimed at the wrong hearer; the one who actually listens is reading the heart.",
+      "witness": {
+        "voice": "Cyprian of Carthage",
+        "work": "On the Lord's Prayer",
+        "source": "https://ccel.org/ccel/schaff/anf05",
+        "path": "ccel/schaff/anf05.txt",
+        "quote": "And when we meet together with the brethren in one place, and"
+      },
+      "source": "primary",
+      "themes": [
+        "prayer",
+        "worship",
+        "heart"
+      ],
+      "added": "0.5.0"
+    },
+    "evidence": "H1: shipped text ('speak to him often, and answer him with our affection') has no trace in Treatise IV; replaced with the ANF sentence from §4 verbatim, grep of CCEL anf05"
+  },
+  {
+    "id": "q-cyprian-of-carthage-0004",
+    "action": "edit",
+    "fields": {
+      "text": "That in the meantime we die, we are passing over to immortality by death; nor can eternal life follow, unless it should befall us to depart from this life. That is not an ending, but a transit, and, this journey of time being traversed, a passage to eternity.",
+      "ref": "On the Mortality (252), §22 (ANF vol. 5)",
+      "source": "primary",
+      "insight": "Cyprian wrote this during the plague that bears his name, to Christians who were dying alongside their pagan neighbours. Death is real and not final; for the believer it is a crossing, and the fear of it is a fear of arriving home.",
+      "witness": {
+        "voice": "Cyprian of Carthage",
+        "work": "On the Mortality",
+        "source": "https://ccel.org/ccel/schaff/anf05",
+        "path": "ccel/schaff/anf05.txt",
+        "quote": "That in the meantime we die, we are passing over to immortality"
+      }
+    },
+    "evidence": "paraphrase: second shipped sentence was a modern gloss; replaced with the two ANF sentences from §22 verbatim, grep of CCEL anf05"
+  },
+  {
+    "id": "q-polycarp-of-smyrna-0001",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified (well-known text; Mart. Pol. 9.3)"
+  },
+  {
+    "id": "q-basil-the-great-0001",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified (well-known text; Homily 6, I will pull down my barns)"
+  },
+  {
+    "id": "q-gregory-of-nazianzus-0002",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified (Or. 27 §3)"
+  },
+  {
+    "id": "q-gregory-of-nazianzus-0001",
+    "action": "replace",
+    "entry": {
+      "id": "q-gregory-of-nazianzus-0001",
+      "kind": "quote",
+      "ref": "Fifth Theological Oration (Oration 31), §10 (NPNF2 vol. 7)",
+      "text": "What then? Is the Spirit God? Most certainly. Well then, is He Consubstantial? Yes, if He is God.",
+      "voice": "Gregory of Nazianzus",
+      "insight": "Gregory said this at Constantinople in 380 when calling the Spirit God was still dangerous. The syllogism is short because the stakes were not: if the Spirit is God, he is worshipped, and the Trinity is not a hierarchy.",
+      "witness": {
+        "voice": "Gregory of Nazianzus",
+        "work": "Fifth Theological Oration",
+        "source": "https://ccel.org/ccel/schaff/npnf207",
+        "path": "ccel/schaff/npnf207.txt",
+        "quote": "What then? Is the Spirit God? Most certainly. Well then, is He"
+      },
+      "source": "primary",
+      "themes": [
+        "trinity",
+        "holy-spirit",
+        "doctrine"
+      ],
+      "added": "0.5.0"
+    },
+    "evidence": "paraphrase: neither shipped clause is in Or. 31; replaced with the famous §10 exchange from the NPNF (Browne-Swallow) text verbatim, grep of CCEL npnf207. M6: insight no longer claims Gregory is the only Father besides John titled Theologian"
+  },
+  {
+    "id": "q-john-chrysostom-0001",
+    "action": "edit",
+    "fields": {
+      "ref": "Last words, AD 407 (Palladius, Dialogue on the Life of Chrysostom, 11)",
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified (well-known text, reported by Palladius); duplicate #720 dropped"
+  },
+  {
+    "id": "q-john-chrysostom-0004",
+    "action": "drop",
+    "evidence": "M3: duplicate of q-john-chrysostom-0001 (same deathbed doxology, weaker 'attributed' citation)"
+  },
+  {
+    "id": "q-john-chrysostom-0002",
+    "action": "replace",
+    "entry": {
+      "id": "q-john-chrysostom-0002",
+      "kind": "quote",
+      "ref": "Homilies on the Gospel of Matthew, Homily 19 §4, on Matt 6:9 (NPNF1 vol. 10)",
+      "text": "For he who calls God Father, by him both remission of sins, and taking away of punishment, and righteousness, and sanctification, and redemption, and adoption, and inheritance, and brotherhood with the Only-Begotten, and the supply of the Spirit, are acknowledged in this single title.",
+      "voice": "John Chrysostom",
+      "insight": "Chrysostom on the first word of the Lord's Prayer. Before you ask for anything, the address itself has already confessed the whole gospel; no one can honestly say 'Father' who has not been given all of this.",
+      "witness": {
+        "voice": "John Chrysostom",
+        "work": "Homilies on the Gospel of Matthew",
+        "source": "https://ccel.org/ccel/schaff/npnf110",
+        "path": "ccel/schaff/npnf110.txt",
+        "quote": "For he who calls God Father, by him both remission of sins,"
+      },
+      "source": "primary",
+      "themes": [
+        "prayer",
+        "adoption",
+        "gospel"
+      ],
+      "added": "0.5.0"
+    },
+    "evidence": "unlocated: shipped text is a floating internet quote not found in Hom. Matt 51; replaced with a verbatim sentence from Hom. Matt 19 §4 (NPNF, Prevost-Riddle), grep of CCEL npnf110"
+  },
+  {
+    "id": "q-john-chrysostom-0003",
+    "action": "replace",
+    "entry": {
+      "id": "q-john-chrysostom-0003",
+      "kind": "quote",
+      "ref": "Homily Against Publishing the Errors of the Brethren, §6 (NPNF1 vol. 9)",
+      "text": "Prayer is a strong piece of armour and a great security.",
+      "voice": "John Chrysostom",
+      "insight": "Chrysostom had just retold how the three young men in the furnace and Isaac praying for barren Rebekah got what nature could not give. Armour is for people under attack; prayer is what the weak actually have.",
+      "witness": {
+        "voice": "John Chrysostom",
+        "work": "Homily Against Publishing the Errors of the Brethren",
+        "source": "https://ccel.org/ccel/schaff/npnf109",
+        "path": "ccel/schaff/npnf109.txt",
+        "quote": "Prayer is a strong piece of armour and a great security."
+      },
+      "source": "primary",
+      "themes": [
+        "prayer",
+        "dependence",
+        "spiritual-warfare"
+      ],
+      "added": "0.5.0"
+    },
+    "evidence": "H1: shipped four-clause catalogue has no trace in any Chrysostom text; replaced with a verbatim sentence from NPNF1 vol. 9 (Homily against publishing the errors of the brethren, §6), grep of CCEL npnf109"
+  },
+  {
+    "id": "q-john-chrysostom-0005",
+    "action": "replace",
+    "entry": {
+      "id": "q-john-chrysostom-0005",
+      "kind": "quote",
+      "ref": "Homilies on the Gospel of John, Homily 11, on John 1:14 (NPNF1 vol. 14)",
+      "text": "For He became Son of man, who was God's own Son, in order that He might make the sons of men to be children of God.",
+      "voice": "John Chrysostom",
+      "insight": "Chrysostom on 'the Word became flesh'. The Son did not need the descent; we needed it. The high, when it joins the low, loses none of its honour and lifts the other out of its lowness.",
+      "witness": {
+        "voice": "John Chrysostom",
+        "work": "Homilies on the Gospel of John",
+        "source": "https://ccel.org/ccel/schaff/npnf114",
+        "path": "ccel/schaff/npnf114.txt",
+        "quote": "in order that He might make the sons of men to be children of God"
+      },
+      "source": "primary",
+      "themes": [
+        "incarnation",
+        "adoption",
+        "christology"
+      ],
+      "added": "0.5.0"
+    },
+    "evidence": "paraphrase: shipped wording modern; replaced with the verbatim NPNF sentence from Hom. John 11 (the text has a footnote marker between 'own' and 'Son' in the CCEL file), grep of CCEL npnf114"
+  },
+  {
+    "id": "q-anselm-of-canterbury-0001",
+    "action": "drop",
+    "evidence": "M3: duplicate of q-anselm-of-canterbury-0003 (Proslogion 1); kept the entry with the fuller citation and text"
+  },
+  {
+    "id": "q-anselm-of-canterbury-0002",
+    "action": "drop",
+    "evidence": "M3: duplicate of q-anselm-of-canterbury-0004 (Cur Deus Homo I.21); kept the entry with the fuller citation"
+  },
+  {
+    "id": "q-anselm-of-canterbury-0003",
+    "action": "edit",
+    "fields": {
+      "text": "For I do not seek to understand that I may believe, but I believe in order to understand. For this also I believe,--that unless I believed, I should not understand.",
+      "ref": "Proslogion (1078), ch. 1 (Deane trans.)",
+      "source": "primary",
+      "witness": {
+        "voice": "Anselm of Canterbury",
+        "work": "Proslogion",
+        "source": "https://ccel.org/ccel/anselm/basic_works",
+        "path": "ccel/anselm/basic_works.txt",
+        "quote": "For I do not seek to understand that I may believe, but"
+      }
+    },
+    "evidence": "audit verified; text aligned to Deane's translation verbatim (CCEL anselm/basic_works)"
+  },
+  {
+    "id": "q-anselm-of-canterbury-0004",
+    "action": "edit",
+    "fields": {
+      "text": "You have not as yet estimated the great burden of sin.",
+      "ref": "Cur Deus Homo (1098), I.21 (Vose trans.)",
+      "source": "primary",
+      "witness": {
+        "voice": "Anselm of Canterbury",
+        "work": "Cur Deus Homo",
+        "source": "https://ccel.org/ccel/anselm/basic_works",
+        "path": "ccel/anselm/basic_works.txt",
+        "quote": "You have not as yet estimated the great burden of sin."
+      }
+    },
+    "evidence": "audit verified; text aligned to the Vose translation verbatim (CCEL anselm/basic_works)"
+  },
+  {
+    "id": "q-anselm-of-canterbury-0006",
+    "action": "edit",
+    "fields": {
+      "text": "Teach me to seek thee, and reveal thyself to me, when I seek thee, for I cannot seek thee, except thou teach me, nor find thee, except thou reveal thyself.",
+      "ref": "Proslogion (1078), ch. 1 (Deane trans.)",
+      "source": "primary",
+      "insight": "Anselm's opening prayer before the argument begins. Seeking God is itself a gift; the prayer asks for exactly what only the one being asked can give.",
+      "witness": {
+        "voice": "Anselm of Canterbury",
+        "work": "Proslogion",
+        "source": "https://ccel.org/ccel/anselm/basic_works",
+        "path": "ccel/anselm/basic_works.txt",
+        "quote": "Teach me to seek thee, and reveal thyself to me, when I"
+      }
+    },
+    "evidence": "audit verified; text aligned to Deane verbatim and insight no longer calls a quotation 'the verse' (M7)"
+  },
+  {
+    "id": "q-anselm-of-canterbury-0005",
+    "action": "replace",
+    "entry": {
+      "id": "q-anselm-of-canterbury-0005",
+      "kind": "quote",
+      "ref": "Cur Deus Homo (1098), II.6 (Vose trans.)",
+      "text": "If it be necessary, therefore, as it appears, that the heavenly kingdom be made up of men, and this cannot be effected unless the aforesaid satisfaction be made, which none but God can make and none but man ought to make, it is necessary for the God-man to make it.",
+      "voice": "Anselm of Canterbury",
+      "insight": "Anselm's whole argument in one sentence: the debt is man's, the resources are God's, so the payer must be both. The incarnation is not a lovely idea but the only way the books balance, and that is good news.",
+      "witness": {
+        "voice": "Anselm of Canterbury",
+        "work": "Cur Deus Homo",
+        "source": "https://ccel.org/ccel/anselm/basic_works",
+        "path": "ccel/anselm/basic_works.txt",
+        "quote": "If it be necessary, therefore, as it appears, that the heavenly kingdom"
+      },
+      "source": "primary",
+      "themes": [
+        "atonement",
+        "incarnation",
+        "christology"
+      ],
+      "added": "0.5.0"
+    },
+    "evidence": "paraphrase: ref itself said 'summary of argument'; replaced with the actual II.6 conclusion in Vose's translation verbatim (CCEL anselm/basic_works)"
+  },
+  {
+    "id": "q-anselm-of-canterbury-0007",
+    "action": "drop",
+    "evidence": "paraphrase of the Proslogion preface; Deane's actual sentence runs well past 420 chars and cannot be cut without altering it; dropped"
+  },
+  {
+    "id": "q-thomas-aquinas-0001",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified"
+  },
+  {
+    "id": "q-thomas-aquinas-0002",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified"
+  },
+  {
+    "id": "q-thomas-aquinas-0003",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified"
+  },
+  {
+    "id": "q-thomas-aquinas-0005",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified"
+  },
+  {
+    "id": "q-thomas-aquinas-0006",
+    "action": "replace",
+    "entry": {
+      "id": "q-thomas-aquinas-0006",
+      "kind": "quote",
+      "ref": "Summa Contra Gentiles, III.37 §9 (Bourke trans.)",
+      "text": "From this, that is also clear by way of induction, which was proved above by rational arguments, namely, that man's ultimate felicity consists only in the contemplation of God.",
+      "voice": "Thomas Aquinas",
+      "insight": "Aquinas closes a long elimination: happiness is not in wealth, body, pleasure, moral action, art or prudence. Only the vision of God is an end and not a means, which is why the catechism can say 'enjoy him for ever'.",
+      "witness": {
+        "voice": "Thomas Aquinas",
+        "work": "Summa Contra Gentiles",
+        "source": "https://isidore.co/aquinas/english/ContraGentiles3a.htm",
+        "path": "isidore/ContraGentiles3a.htm",
+        "quote": "From this, that is also clear by way of induction, which was"
+      },
+      "source": "primary",
+      "themes": [
+        "contentment",
+        "knowing-god",
+        "eschatology"
+      ],
+      "added": "0.5.0"
+    },
+    "evidence": "paraphrase: replaced with the chapter's concluding sentence in Bourke's standard translation verbatim (isidore.co full text of SCG III)"
+  },
+  {
+    "id": "q-john-calvin-0001",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified"
+  },
+  {
+    "id": "q-john-calvin-0003",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified"
+  },
+  {
+    "id": "q-john-calvin-0004",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified"
+  },
+  {
+    "id": "q-john-calvin-0005",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified"
+  },
+  {
+    "id": "q-john-calvin-0006",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified"
+  },
+  {
+    "id": "q-john-calvin-0007",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified"
+  },
+  {
+    "id": "q-john-calvin-0008",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified"
+  },
+  {
+    "id": "q-john-calvin-0010",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified"
+  },
+  {
+    "id": "q-john-calvin-0009",
+    "action": "edit",
+    "fields": {
+      "source": "primary",
+      "insight": "Calvin names justification the hinge on which religion turns (praecipuum cardinem). Luther had said much the same in the Smalcald Articles (1537), a year after the first Institutes; the Reformers did not tire of it."
+    },
+    "evidence": "M6: the shipped insight said Luther agreed 'nine years before Calvin's Institutes'; the Smalcald Articles (1537) post-date the 1536 Institutes"
+  },
+  {
+    "id": "q-john-calvin-0002",
+    "action": "edit",
+    "fields": {
+      "text": "Hence we may infer, that the human mind is, so to speak, a perpetual forge of idols.",
+      "ref": "Institutes, I.11.8 (Beveridge trans.)",
+      "source": "primary",
+      "insight": "Idols are not relics; they are products, and the mind manufactures them by default. The forge does not need your permission, only your inattention, and Calvin has Rachel's stolen household gods in view.",
+      "witness": {
+        "voice": "John Calvin",
+        "work": "Institutes",
+        "source": "https://ccel.org/ccel/calvin/institutes",
+        "path": "ccel/calvin/institutes.txt",
+        "quote": "Hence we may infer, that the human mind is, so to speak,"
+      }
+    },
+    "evidence": "H2: Calvin says hominis ingenium (mind), not 'heart'; text replaced with Beveridge's sentence verbatim (CCEL calvin/institutes)"
+  },
+  {
+    "id": "q-martin-luther-0001",
+    "action": "edit",
+    "fields": {
+      "ref": "Ninety-Five Theses (1517), Thesis 1",
+      "source": "primary"
+    },
+    "evidence": "audit verified (LW 31 wording); duplicate #601 dropped"
+  },
+  {
+    "id": "q-martin-luther-0010",
+    "action": "drop",
+    "evidence": "M3: duplicate of q-martin-luther-0001 (Thesis 1, 'variant translation')"
+  },
+  {
+    "id": "q-martin-luther-0005",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified"
+  },
+  {
+    "id": "q-martin-luther-0006",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified"
+  },
+  {
+    "id": "q-martin-luther-0008",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified"
+  },
+  {
+    "id": "q-martin-luther-0009",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified"
+  },
+  {
+    "id": "q-martin-luther-0004",
+    "action": "edit",
+    "fields": {
+      "text": "Thus the human will is, as it were, a beast between the two. If God sit thereon, it wills and goes where God will: as the Psalm saith, \"I am become as it were a beast before thee, and I am continually with thee.\" (Ps. lxxiii. 22-23.) If Satan sit thereon, it wills and goes as Satan will.",
+      "ref": "The Bondage of the Will (1525), Part II, Sect. XXIV (Cole trans.; WA 18:635)",
+      "source": "primary",
+      "witness": {
+        "voice": "Martin Luther",
+        "work": "The Bondage of the Will",
+        "source": "https://ccel.org/ccel/luther/bondage",
+        "path": "ccel/luther/bondage.txt",
+        "quote": "Thus the human will is, as it were, a beast between the"
+      }
+    },
+    "evidence": "audit: '§25' is not a real division; text aligned to Henry Cole's public-domain translation verbatim (first three sentences of the passage, to stay under 420 chars) and located to its section in the CCEL text (luther/bondage)"
+  },
+  {
+    "id": "q-martin-luther-0003",
+    "action": "replace",
+    "entry": {
+      "id": "q-martin-luther-0003",
+      "kind": "quote",
+      "ref": "Commentary on Galatians (1535), on 1:3 (Graebner trans.)",
+      "text": "The article of justification must be sounded in our ears incessantly because the frailty of our flesh will not permit us to take hold of it perfectly and to believe it with all our heart.",
+      "voice": "Martin Luther",
+      "insight": "The famous 'article on which the church stands or falls' is a 17th-century Lutheran slogan, not Luther's sentence. This is what he actually wrote: justification needs repeating not because it is complicated but because we keep letting go of it.",
+      "witness": {
+        "voice": "Martin Luther",
+        "work": "Commentary on Galatians",
+        "source": "https://ccel.org/ccel/luther/galatians",
+        "path": "ccel/luther/galatians.txt",
+        "quote": "The article of justification must be sounded in our ears incessantly because"
+      },
+      "source": "primary",
+      "themes": [
+        "justification",
+        "doctrine",
+        "preaching"
+      ],
+      "added": "0.5.0"
+    },
+    "evidence": "H2: maxim first attested Meisner 1615 / Alsted 1618; replaced with a genuine Luther sentence on the article of justification, verbatim from the Graebner text (CCEL luther/galatians)"
+  },
+  {
+    "id": "q-martin-luther-0007",
+    "action": "replace",
+    "entry": {
+      "id": "q-martin-luther-0007",
+      "kind": "quote",
+      "ref": "Commentary on Galatians (1535), on 2:20 (Graebner trans.)",
+      "text": "He found in me no right mind and no good will. But the good Lord had mercy upon me. Out of pure kindness He loved me, loved me so that He gave Himself for me, that I should be free from the Law, from sin, devil, and death.",
+      "voice": "Martin Luther",
+      "insight": "Luther putting Paul's 'who loved me and gave himself for me' into the first person. Christ began, not we: the love came before there was anything in the sinner to love, and it set him free from everything that had a claim on him.",
+      "witness": {
+        "voice": "Martin Luther",
+        "work": "Commentary on Galatians",
+        "source": "https://ccel.org/ccel/luther/galatians",
+        "path": "ccel/luther/galatians.txt",
+        "quote": "He found in me no right mind and no good will. But"
+      },
+      "source": "primary",
+      "themes": [
+        "love-of-god",
+        "justification",
+        "freedom"
+      ],
+      "added": "0.5.0"
+    },
+    "evidence": "H1: shipped text absent from the 1535 Galatians; replaced with Luther's own comment on 2:20 verbatim from the Graebner text (CCEL luther/galatians)"
+  },
+  {
+    "id": "q-richard-sibbes-0001",
+    "action": "edit",
+    "fields": {
+      "text": "We love to wander from ourselves and to be strangers at home, till God bruiseth us by one cross or other, and then we bethink ourselves, and come home to ourselves with the prodigal.",
+      "ref": "The Bruised Reed (1630), ch. 1",
+      "source": "primary",
+      "insight": "Sibbes on why bruising comes before conversion: we will not come home to ourselves until a cross drives us there. The crushed conscience is not Christ's project to discard but the road by which the prodigal comes back.",
+      "witness": {
+        "voice": "Richard Sibbes",
+        "work": "The Bruised Reed",
+        "source": "https://www.digitalpuritan.net/Digital%20Puritan%20Resources/Sibbes,%20Richard/%5BRS%5D%20The%20Bruised%20Reed.pdf",
+        "path": "digitalpuritan/sibbes_bruised_reed_1878.txt",
+        "quote": "We love to wander from ourselves and to be strangers at home,"
+      }
+    },
+    "evidence": "paraphrase: second shipped sentence not in the book; replaced with a verbatim sentence from the same chapter (1878 Nisbet ed. text; the printed sentence ends with the citation 'Luke xv. 17', omitted here)"
+  },
+  {
+    "id": "q-richard-sibbes-0002",
+    "action": "edit",
+    "fields": {
+      "ref": "The Bruised Reed (1630), ch. 2",
+      "source": "primary",
+      "insight": "Sibbes lays this down as a ground for pressing conviction hard: if there is more mercy in Christ than sin in us, thorough dealing with sin carries no danger. The arithmetic is in mercy's favour.",
+      "witness": {
+        "voice": "Richard Sibbes",
+        "work": "The Bruised Reed",
+        "source": "https://www.digitalpuritan.net/Digital%20Puritan%20Resources/Sibbes,%20Richard/%5BRS%5D%20The%20Bruised%20Reed.pdf",
+        "path": "digitalpuritan/sibbes_bruised_reed_1878.txt",
+        "quote": "more mercy in Christ than sin in us"
+      }
+    },
+    "evidence": "M5: the line is in ch. 2, not ch. 1; verbatim clause confirmed in the 1878 text; insight no longer calls a quotation a 'verse' (M7)"
+  },
+  {
+    "id": "q-richard-sibbes-0003",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified (ch. 2, exact)"
+  },
+  {
+    "id": "q-richard-sibbes-0004",
+    "action": "edit",
+    "fields": {
+      "text": "Christ's course is first to wound, then to heal. No sound, whole soul shall ever enter into heaven.",
+      "ref": "The Bruised Reed (1630), ch. 2",
+      "source": "primary",
+      "insight": "Sibbes on the order of grace's work, written to steady people who feel themselves bruised. Comfort that bypasses the wound bypasses the soul; nobody arrives in heaven unbroken.",
+      "witness": {
+        "voice": "Richard Sibbes",
+        "work": "The Bruised Reed",
+        "source": "https://www.digitalpuritan.net/Digital%20Puritan%20Resources/Sibbes,%20Richard/%5BRS%5D%20The%20Bruised%20Reed.pdf",
+        "path": "digitalpuritan/sibbes_bruised_reed_1878.txt",
+        "quote": "Christ's course is first to wound, then to heal. No sound, whole"
+      }
+    },
+    "evidence": "unlocated -> located: the 1878 text reads 'Christ's course is first to wound, then to heal. No sound, whole soul shall ever enter into heaven' (ch. 2 in the Banner numbering); text aligned to it verbatim; second shipped sentence was not Sibbes"
+  },
+  {
+    "id": "q-thomas-goodwin-0001",
+    "action": "edit",
+    "fields": {
+      "text": "The drift of this discourse is therefore to ascertain poor souls, that his heart, in respect of pity and compassion, remains the same it was on earth; that he intercedes there with the same heart he did here below; and that he is as meek, as gentle, as easy to be entreated, as tender in his bowels.",
+      "ref": "The Heart of Christ in Heaven Towards Sinners on Earth (1651), Part I",
+      "source": "primary",
+      "insight": "Goodwin states his whole thesis here: the ascension did not change Christ's affections. The exalted Lord is not less tender than the incarnate one; the throne did not freeze the face that wept at Lazarus' tomb.",
+      "witness": {
+        "voice": "Thomas Goodwin",
+        "work": "The Heart of Christ in Heaven Towards Sinners on Earth",
+        "source": "https://archive.org/details/worksofthomasgoo04good",
+        "path": "archive/goodwin_works_v4_1862.txt",
+        "quote": "The drift of this discourse is therefore to ascertain poor souls, that"
+      }
+    },
+    "evidence": "paraphrase: replaced with Goodwin's own thesis sentence (Works vol. 4, Nichol 1862, p. 95), verbatim; the sentence is cut at the semicolon after 'bowels', where the printed sentence continues"
+  },
+  {
+    "id": "q-thomas-goodwin-0002",
+    "action": "edit",
+    "fields": {
+      "text": "In all miseries and distresses you may be sure to know where to have a friend to help and pity you, even in heaven, Christ; one whose nature, office, interest, relation, all, do engage him to your succour.",
+      "ref": "The Heart of Christ in Heaven Towards Sinners on Earth (1651), Part III, Use 4",
+      "source": "primary",
+      "insight": "Goodwin's closing application: you may find human friends shut up their bowels toward you, but there is one in heaven whose very office binds him to pity. Go and bemoan yourself to him.",
+      "witness": {
+        "voice": "Thomas Goodwin",
+        "work": "The Heart of Christ in Heaven Towards Sinners on Earth",
+        "source": "https://archive.org/details/worksofthomasgoo04good",
+        "path": "archive/goodwin_works_v4_1862.txt",
+        "quote": "In all miseries and distresses you may be sure to know where"
+      }
+    },
+    "evidence": "paraphrase: replaced with a verbatim sentence from Part III, Use 4 (Works vol. 4, Nichol 1862); cut at the semicolon after 'succour', where the printed sentence continues"
+  },
+  {
+    "id": "q-thomas-goodwin-0003",
+    "action": "replace",
+    "entry": {
+      "id": "q-thomas-goodwin-0003",
+      "kind": "quote",
+      "ref": "Christ Set Forth (1642), Sect. III, ch. 4",
+      "text": "So as by the same law, what he did for us is reckoned or imputed to us, as if we ourselves had done it; and what was done to him, tending to our justification and salvation, is reckoned as done to us.",
+      "voice": "Thomas Goodwin",
+      "insight": "Goodwin on Christ as a public person, the second Adam. Imputation runs both ways on the same law: his obedience is counted as ours, and his death and rising are counted as having happened to us.",
+      "witness": {
+        "voice": "Thomas Goodwin",
+        "work": "Christ Set Forth",
+        "source": "https://archive.org/details/worksofthomasgoo04good",
+        "path": "archive/goodwin_works_v4_1862.txt",
+        "quote": "So as by the same law, what he did for us is"
+      },
+      "source": "primary",
+      "themes": [
+        "justification",
+        "union-with-christ",
+        "christology"
+      ],
+      "added": "0.5.0"
+    },
+    "evidence": "H1: 'robe loaned/given' is a modern composite; replaced with a verbatim sentence on imputation from Christ Set Forth (Works vol. 4, Nichol 1862)"
+  },
+  {
+    "id": "q-thomas-goodwin-0004",
+    "action": "replace",
+    "entry": {
+      "id": "q-thomas-goodwin-0004",
+      "kind": "quote",
+      "ref": "The Knowledge of God the Father, and His Son Jesus Christ (1651), Book III, on 1 Cor 8:6",
+      "text": "As to the person of the Trinity, it must not be the Father; it was no way proper for him, that was the fountain of the persons, and of the whole creation, to undertake any office whatever, and so not to become this Lord, which is an office under God, as the text expressly affirmeth.",
+      "voice": "Thomas Goodwin",
+      "insight": "Goodwin asks which divine person was fit to become the 'one Lord' of 1 Corinthians 8:6, and rules out the Father because he is the fountain of the persons. Equality of persons and the Father's primacy, both held at once.",
+      "witness": {
+        "voice": "Thomas Goodwin",
+        "work": "The Knowledge of God the Father",
+        "source": "https://archive.org/details/worksofthomasgoo04good",
+        "path": "archive/goodwin_works_v4_1862.txt",
+        "quote": "As to the person of the Trinity, it must not be the"
+      },
+      "source": "primary",
+      "themes": [
+        "trinity",
+        "theology-proper",
+        "christology"
+      ],
+      "added": "0.5.0"
+    },
+    "evidence": "paraphrase: 'fountain of Deity' is not in Goodwin; replaced with his actual 'fountain of the persons' sentence verbatim (Works vol. 4, Nichol 1862, Book III)"
+  },
+  {
+    "id": "q-stephen-charnock-0001",
+    "action": "edit",
+    "fields": {
+      "text": "Though God be so inaccessible that we cannot know him perfectly, yet he is so much in the light, that we cannot be totally ignorant of him; as he cannot be comprehended in his essence, he cannot be unknown in his existence; it is as easy by reason to understand that he is, as it is difficult to know what he is.",
+      "ref": "The Existence and Attributes of God (1682), Discourse I",
+      "source": "primary",
+      "witness": {
+        "voice": "Stephen Charnock",
+        "work": "The Existence and Attributes of God",
+        "source": "https://www.gutenberg.org/ebooks/53527",
+        "path": "gutenberg/pg53527.txt",
+        "quote": "we cannot be totally ignorant of him; as he cannot be comprehended in his essence"
+      }
+    },
+    "evidence": "paraphrase: replaced with Charnock's own sentence from Discourse I verbatim (Gutenberg 53527; initial 'though' capitalised, the printed clause follows 'It is a folly; for')"
+  },
+  {
+    "id": "q-stephen-charnock-0002",
+    "action": "edit",
+    "fields": {
+      "text": "He cannot raze out the thoughts of a Deity, though he endeavors to blot those characters of God in his soul.",
+      "ref": "The Existence and Attributes of God (1682), Discourse I, on Ps 14:1",
+      "source": "primary",
+      "insight": "Charnock on the fool who says in his heart there is no God: he wishes there were none and hopes there is none, but cannot scrub the knowledge out. Atheism is suppression of what is engraved, not absence of it.",
+      "witness": {
+        "voice": "Stephen Charnock",
+        "work": "The Existence and Attributes of God",
+        "source": "https://www.gutenberg.org/ebooks/53527",
+        "path": "gutenberg/pg53527.txt",
+        "quote": "He cannot raze out the thoughts of a Deity, though he endeavors"
+      }
+    },
+    "evidence": "paraphrase: shipped wording not in Discourse I; replaced with the genuine 'raze out the thoughts of a Deity' sentence verbatim (Gutenberg 53527)"
+  },
+  {
+    "id": "q-stephen-charnock-0003",
+    "action": "edit",
+    "fields": {
+      "text": "Goodness is the brightness and loveliness of our majestical Creator.",
+      "ref": "The Existence and Attributes of God (1682), Discourse XII, On the Goodness of God",
+      "source": "primary",
+      "insight": "Charnock notes that even the Romans put Optimus before Maximus. Greatness without goodness would be a turbulent sea, an affrighting monster; God is not the means to a separate happiness but the loveliness itself.",
+      "witness": {
+        "voice": "Stephen Charnock",
+        "work": "The Existence and Attributes of God",
+        "source": "https://archive.org/details/discoursesuponex02char_0",
+        "path": "archive/charnock_existence_attributes_v2_1854.txt",
+        "quote": "To fancy a God without it, is to fancy a miserable, scanty, narrow-hearted, savage God"
+      }
+    },
+    "evidence": "unlocated -> replaced with a verbatim sentence from Discourse XII (1854 ed., archive.org OCR; the scan hyphenates 'love-liness' at a line break)"
+  },
+  {
+    "id": "q-stephen-charnock-0004",
+    "action": "edit",
+    "fields": {
+      "text": "As sincerity is the lustre of every grace in a Christian, so is purity the splendor of every attribute in the Godhead.",
+      "ref": "The Existence and Attributes of God (1682), Discourse XI, On the Holiness of God",
+      "source": "primary",
+      "insight": "Charnock on the attribute that adorns all the others: power is God's arm, omniscience his eye, mercy his bowels, but holiness is his beauty. His justice is a holy justice; his wisdom a holy wisdom.",
+      "witness": {
+        "voice": "Stephen Charnock",
+        "work": "The Existence and Attributes of God",
+        "source": "https://archive.org/details/discoursesuponex02char_0",
+        "path": "archive/charnock_existence_attributes_v2_1854.txt",
+        "quote": "As sincerity is the lustre of every grace in a Christian"
+      }
+    },
+    "evidence": "unlocated -> replaced with a verbatim sentence from Discourse XI (1854 ed., archive.org OCR reads 'im the Godhead' for 'in')"
+  },
+  {
+    "id": "q-john-owen-0001",
+    "action": "edit",
+    "fields": {
+      "ref": "The Mortification of Sin (1656), ch. 2",
+      "source": "primary",
+      "witness": {
+        "voice": "John Owen",
+        "work": "The Mortification of Sin",
+        "source": "https://ccel.org/ccel/owen/mort",
+        "path": "ccel/owen/mort.txt",
+        "quote": "Be killing sin or it will be killing you."
+      }
+    },
+    "evidence": "audit verified; located to ch. 2 in the CCEL text (owen/mort)"
+  },
+  {
+    "id": "q-john-owen-0002",
+    "action": "edit",
+    "fields": {
+      "ref": "The Mortification of Sin (1656), ch. 7",
+      "source": "primary",
+      "witness": {
+        "voice": "John Owen",
+        "work": "The Mortification of Sin",
+        "source": "https://ccel.org/ccel/owen/mort",
+        "path": "ccel/owen/mort.txt",
+        "quote": "There is no death of sin without the death of Christ."
+      }
+    },
+    "evidence": "M5: the line is in ch. 7, not I.2; verbatim confirmed in CCEL owen/mort"
+  },
+  {
+    "id": "q-john-owen-0003",
+    "action": "edit",
+    "fields": {
+      "text": "A man may easier see without eyes, speak without a tongue, than truly mortify one sin without the Spirit.",
+      "ref": "The Mortification of Sin (1656), ch. 7",
+      "source": "primary",
+      "insight": "Owen's point against every self-help programme for sin: the Spirit alone mortifies, and every means without him is empty. The question is not how hard you fight but whether the Spirit of Christ is in you.",
+      "themes": [
+        "holy-spirit",
+        "sanctification",
+        "dependence"
+      ],
+      "witness": {
+        "voice": "John Owen",
+        "work": "The Mortification of Sin",
+        "source": "https://ccel.org/ccel/owen/mort",
+        "path": "ccel/owen/mort.txt",
+        "quote": "A man may easier see without eyes, speak without a tongue, than"
+      }
+    },
+    "evidence": "unlocated -> located: the shipped 'without the sun' line was a conflation; the genuine sentence is Mortification ch. 7, verbatim from CCEL owen/mort; ref, insight and themes corrected accordingly"
+  },
+  {
+    "id": "q-john-owen-0004",
+    "action": "edit",
+    "fields": {
+      "ref": "The Mortification of Sin (1656), ch. 14",
+      "source": "primary",
+      "witness": {
+        "voice": "John Owen",
+        "work": "The Mortification of Sin",
+        "source": "https://ccel.org/ccel/owen/mort",
+        "path": "ccel/owen/mort.txt",
+        "quote": "Set faith at work on Christ for the killing of thy sin."
+      }
+    },
+    "evidence": "M5: ch. 14, not 7; verbatim confirmed in CCEL owen/mort"
+  },
+  {
+    "id": "q-john-owen-0008",
+    "action": "edit",
+    "fields": {
+      "text": "Indwelling sin always abides whilst we are in this world; therefore it is always to be mortified.",
+      "ref": "The Mortification of Sin (1656), ch. 2",
+      "source": "primary",
+      "witness": {
+        "voice": "John Owen",
+        "work": "The Mortification of Sin",
+        "source": "https://ccel.org/ccel/owen/mort",
+        "path": "ccel/owen/mort.txt",
+        "quote": "Indwelling sin always abides whilst we are in this world; therefore it"
+      }
+    },
+    "evidence": "M5: ch. 2, not 1; 'while' corrected to Owen's 'whilst' (CCEL owen/mort)"
+  },
+  {
+    "id": "q-john-owen-0005",
+    "action": "edit",
+    "fields": {
+      "text": "Let us assure ourselves there is no better way for our healing and deliverance, yea, no other way but this alone, -- namely, the obtaining a fresh view of the glory of Christ by faith, and a steady abiding therein.",
+      "ref": "The Glory of Christ (1684), ch. 13",
+      "source": "primary",
+      "insight": "Owen prescribing for spiritual decay: coldness, deadness, an unreadiness for grace. The remedy is not more effort but a fresh sight of Christ, since the beholding itself does the transforming (2 Cor 3:18).",
+      "witness": {
+        "voice": "John Owen",
+        "work": "The Glory of Christ",
+        "source": "https://ccel.org/ccel/owen/glory",
+        "path": "ccel/owen/glory.txt",
+        "quote": "Let us assure ourselves there is no better way for our healing"
+      }
+    },
+    "evidence": "paraphrase: replaced with Owen's own sentence verbatim, located in ch. 13 of the CCEL text (owen/glory)"
+  },
+  {
+    "id": "q-john-owen-0006",
+    "action": "replace",
+    "entry": {
+      "id": "q-john-owen-0006",
+      "kind": "quote",
+      "ref": "The Death of Death in the Death of Christ (1647), Book I, ch. 3",
+      "text": "Whatsoever is required for a complete and perfect saving of his peculiar people from their sins was intended by his coming. To say that he did but in part or in some regard effect the work of salvation, is of ill report to Christian ears.",
+      "voice": "John Owen",
+      "insight": "Owen on 'he shall save his people from their sins'. The cross was not a door left ajar for those who might walk through; it was the saving of a people, and any account that leaves the outcome uncertain has misread the intention.",
+      "witness": {
+        "voice": "John Owen",
+        "work": "The Death of Death in the Death of Christ",
+        "source": "https://ccel.org/ccel/owen/deathofdeath",
+        "path": "ccel/owen/deathofdeath.txt",
+        "quote": "Whatsoever is required for a complete and perfect saving of his peculiar"
+      },
+      "source": "primary",
+      "themes": [
+        "atonement",
+        "election",
+        "salvation"
+      ],
+      "added": "0.5.0"
+    },
+    "evidence": "paraphrase: the 'possible vs certain' formula is Packer's 1959 essay, not Owen; replaced with two verbatim sentences from Book I ch. 3 (CCEL owen/deathofdeath)"
+  },
+  {
+    "id": "q-john-owen-0007",
+    "action": "edit",
+    "fields": {
+      "text": "To be spiritually minded is the great distinguishing character of true believers from all unregenerate persons.",
+      "ref": "The Grace and Duty of Being Spiritually Minded (1681), ch. 1",
+      "source": "primary",
+      "insight": "Owen's first remark on Romans 8:6. The frame of the mind is not a mood but a mark: those who are carnally minded are, on the apostle's terms, unregenerate, and the inward bent of the thoughts is itself a moral state.",
+      "witness": {
+        "voice": "John Owen",
+        "work": "The Grace and Duty of Being Spiritually Minded",
+        "source": "https://archive.org/details/gracedutyof00owen",
+        "path": "archive/owen_spiritually_minded_1843.txt",
+        "quote": "character of true believers from all unregenerate persons"
+      }
+    },
+    "evidence": "unlocated -> the shipped second sentence is not in the book; replaced with a verbatim sentence from ch. 1 (1843 Carter ed., archive.org OCR hyphenates 'distinguish-ing')"
+  },
+  {
+    "id": "q-john-owen-0009",
+    "action": "drop",
+    "evidence": "unlocated after a real search: not in the CCEL/Goold Pneumatologia text (grep 'received', 'from above', 'John iii. 27' all negative); dropped"
+  },
+  {
+    "id": "q-john-owen-0010",
+    "action": "edit",
+    "fields": {
+      "text": "Consider, hence, his eternal, free, unchangeable love. Were the love of Christ unto us but the love of a mere man, though never so excellent, innocent, and glorious, it must have a beginning, it must have an ending, and perhaps be fruitless.",
+      "ref": "Communion with God (1657), Part II, ch. 3, Digression 1",
+      "source": "primary",
+      "insight": "Owen's argument for the deity of Christ from the kind of love we need: a merely human love, however excellent, has a beginning and an ending. Christ's love is fixed by what he is, not by how we feel about ourselves.",
+      "witness": {
+        "voice": "John Owen",
+        "work": "Communion with God",
+        "source": "https://ccel.org/ccel/owen/communion",
+        "path": "ccel/owen/communion.txt",
+        "quote": "Consider, hence, his eternal, free, unchangeable love. Were the love of Christ"
+      }
+    },
+    "evidence": "paraphrase: shipped wording modern; replaced with a verbatim sentence from the Digression on the excellency of Christ in Part II (CCEL owen/communion)"
+  },
+  {
+    "id": "q-thomas-watson-0003",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified (exact definition)"
+  },
+  {
+    "id": "q-thomas-watson-0001",
+    "action": "edit",
+    "fields": {
+      "text": "Sanctification is the first fruit of the Spirit; it is heaven begun in the soul.",
+      "ref": "A Body of Divinity (1692), 'Sanctification'",
+      "source": "primary",
+      "insight": "Watson on why holiness is not a tax on happiness. Sanctification and glory differ only in degree; the one is glory in the seed, the other sanctification in the flower, so heaven has already started in a sanctified life.",
+      "witness": {
+        "voice": "Thomas Watson",
+        "work": "A Body of Divinity",
+        "source": "https://ccel.org/ccel/watson/divinity",
+        "path": "ccel/watson/divinity.txt",
+        "quote": "Sanctification is the first fruit of the Spirit; it is heaven begun"
+      }
+    },
+    "evidence": "paraphrase: the shipped triad is in no Watson text ('tradition'); replaced with a verbatim sentence from the Body of Divinity (CCEL watson/divinity); ref no longer 'tradition'"
+  },
+  {
+    "id": "q-thomas-watson-0002",
+    "action": "edit",
+    "fields": {
+      "text": "The Book of God has no errata in it; it is a beam of the Sun of Righteousness, a crystal stream flowing from the fountain of life.",
+      "ref": "A Body of Divinity (1692), 'The Scriptures'",
+      "source": "primary",
+      "insight": "Watson on the purity of Scripture: laws of men have their flaws, but this book has no errata. The three images say why it can be trusted, light from Christ, water from the source, nothing added along the way.",
+      "witness": {
+        "voice": "Thomas Watson",
+        "work": "A Body of Divinity",
+        "source": "https://ccel.org/ccel/watson/divinity",
+        "path": "ccel/watson/divinity.txt",
+        "quote": "The Book of God has no errata in it; it is a"
+      }
+    },
+    "evidence": "H1: the four-part formula is a modern composite; replaced with a verbatim Watson sentence on Scripture (CCEL watson/divinity)"
+  },
+  {
+    "id": "q-thomas-watson-0004",
+    "action": "edit",
+    "fields": {
+      "text": "That which is by some called chance is nothing else but the result of providence.",
+      "ref": "All Things for Good (1663), 'Inferences from the proposition'",
+      "source": "primary",
+      "insight": "Watson reading Ezekiel's wheels: the eyes in the wheels are God's providence and the moving of them is his hand. Chance is not a category in the believer's account of his hardships, only providence not yet understood.",
+      "witness": {
+        "voice": "Thomas Watson",
+        "work": "All Things for Good",
+        "source": "https://ccel.org/ccel/watson/cordial",
+        "path": "ccel/watson/cordial.txt",
+        "quote": "That which is by some called chance is nothing else but the"
+      }
+    },
+    "evidence": "paraphrase: shipped wording not in Watson; replaced with a verbatim sentence from A Divine Cordial / All Things for Good (CCEL watson/cordial)"
+  },
+  {
+    "id": "q-john-bunyan-0001",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified (shepherd boy's song)"
+  },
+  {
+    "id": "q-john-bunyan-0002",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified"
+  },
+  {
+    "id": "q-john-bunyan-0003",
+    "action": "edit",
+    "fields": {
+      "source": "primary"
+    },
+    "evidence": "audit Appendix A: verified"
+  },
+  {
+    "id": "q-john-bunyan-0004",
+    "action": "edit",
+    "fields": {
+      "text": "I also saw, moreover, that it was not my good frame of heart that made my righteousness better, nor yet my bad frame that made my righteousness worse; for my righteousness was Jesus Christ Himself, the same yesterday, and to-day, and for ever (Heb. 13.8).",
+      "ref": "Grace Abounding to the Chief of Sinners (1666), §229",
+      "source": "primary",
+      "insight": "Bunyan in the field, when the sentence 'Thy righteousness is in heaven' fell on him. Assurance stopped depending on the weather of his heart, because the righteousness that counted was a person who does not change.",
+      "witness": {
+        "voice": "John Bunyan",
+        "work": "Grace Abounding to the Chief of Sinners",
+        "source": "https://ccel.org/ccel/bunyan/grace",
+        "path": "ccel/bunyan/grace.txt",
+        "quote": "I also saw, moreover, that it was not my good frame of"
+      }
+    },
+    "evidence": "unlocated -> the shipped sentence is not in Grace Abounding; replaced with §229 verbatim (CCEL bunyan/grace)"
+  },
+  {
+    "id": "q-john-bunyan-0005",
+    "action": "edit",
+    "fields": {
+      "text": "Then he arose and entered Mansoul, he and all his servants. The elders of Mansoul did also go dancing before him till he came to the castle-gates.",
+      "ref": "The Holy War (1682), Emmanuel's entry into Mansoul",
+      "source": "primary",
+      "insight": "Bunyan's second allegory at its turning point: the Prince who besieged the town now rides into it in golden armour while its elders dance. Regeneration is a conquest from outside; the heart is taken, and then it rejoices.",
+      "witness": {
+        "voice": "John Bunyan",
+        "work": "The Holy War",
+        "source": "https://ccel.org/ccel/bunyan/holy_war",
+        "path": "ccel/bunyan/holy_war.txt",
+        "quote": "Then he arose and entered Mansoul, he and all his servants. The"
+      }
+    },
+    "evidence": "paraphrase: replaced with the verbatim sentences describing Emmanuel's entry (CCEL bunyan/holy_war)"
+  },
+  {
+    "id": "q-thomas-manton-0001",
+    "action": "replace",
+    "entry": {
+      "id": "q-thomas-manton-0001",
+      "kind": "quote",
+      "ref": "Sermons on Psalm 119, Sermon XI (on v. 10)",
+      "text": "The Psalmist had in the former verse directed the young man to diligence and attention unto the word; but the word doth nothing unless we join prayer; and therefore now he gives an example in his own person.",
+      "voice": "Thomas Manton",
+      "insight": "Manton moving from verse 9 to verse 10 of Psalm 119: attention to the Word is commanded, and then David immediately prays. Scripture and prayer are not two devotions but two halves of one conversation.",
+      "witness": {
+        "voice": "Thomas Manton",
+        "work": "Sermons on Psalm 119",
+        "source": "https://archive.org/details/completeworksoft06mant",
+        "path": "archive/manton_works_v6_1872.txt",
+        "quote": "but the word doth nothing unless we join prayer"
+      },
+      "source": "primary",
+      "themes": [
+        "scripture",
+        "prayer",
+        "worship"
+      ],
+      "added": "0.5.0"
+    },
+    "evidence": "H1: shipped text not in the Psalm 119 sermons (the maxim is Jerome); replaced with a verbatim sentence from Sermon XI (Works vol. 6, Nisbet 1872, archive.org OCR)"
+  },
+  {
+    "id": "q-thomas-manton-0002",
+    "action": "replace",
+    "entry": {
+      "id": "q-thomas-manton-0002",
+      "kind": "quote",
+      "ref": "Sermons on John 17, Sermon I",
+      "text": "This prayer is a standing monument of Christ's affection to the church; it did not pass away with the external sound, or as soon as Christ ascended into heaven, and sat at the right hand of the Father; it retaineth a perpetual efficacy; the virtue remaineth, though the words be over.",
+      "voice": "Thomas Manton",
+      "insight": "Manton on the high-priestly prayer as a copy of Christ's continual intercession. Like the word of creation, the prayer keeps its force as if newly spoken; the Son is still praying his people home.",
+      "witness": {
+        "voice": "Thomas Manton",
+        "work": "Sermons on John 17",
+        "source": "https://archive.org/details/completeworksoft10mantuoft",
+        "path": "archive/manton_works_v10_1872.txt",
+        "quote": "This prayer is a standing monument of Christ's affection to the church"
+      },
+      "source": "primary",
+      "themes": [
+        "prayer",
+        "perseverance",
+        "christology"
+      ],
+      "added": "0.5.0"
+    },
+    "evidence": "paraphrase: replaced with a verbatim sentence from Sermon I on John 17 (Works vol. 10, Nisbet 1872, archive.org OCR splits 'per petual' at a line break)"
+  },
+  {
+    "id": "q-thomas-manton-0003",
+    "action": "replace",
+    "entry": {
+      "id": "q-thomas-manton-0003",
+      "kind": "quote",
+      "ref": "Sermons on John 17, Sermon I",
+      "text": "Out of the whole, learn to see Christ in the word, to use Christ in prayer; he is the golden pipe by which our prayers ascend, and the influences of heaven are conveyed to us.",
+      "voice": "Thomas Manton",
+      "insight": "Manton's summary of Christ's mediation: he speaks to us in the word and for us in prayer. Nothing goes up and nothing comes down except through him; the comforts of providence and conscience have their one channel.",
+      "witness": {
+        "voice": "Thomas Manton",
+        "work": "Sermons on John 17",
+        "source": "https://archive.org/details/completeworksoft10mantuoft",
+        "path": "archive/manton_works_v10_1872.txt",
+        "quote": "Out of the whole, learn to see Christ in the word, to"
+      },
+      "source": "primary",
+      "themes": [
+        "christology",
+        "prayer",
+        "comfort"
+      ],
+      "added": "0.5.0"
+    },
+    "evidence": "H1: Manton's Works contain no sermon on Psalm 23; replaced with a verbatim sentence from Sermon I on John 17 (Works vol. 10, Nisbet 1872); the printed sentence continues with the citation '1 Cor. viii. 6'"
+  },
+  {
+    "id": "q-jeremiah-burroughs-0001",
+    "action": "edit",
+    "fields": {
+      "source": "primary",
+      "witness": {
+        "voice": "Jeremiah Burroughs",
+        "work": "The Rare Jewel of Christian Contentment",
+        "source": "https://archive.org/details/JerimiahBurroughsTheRareJewelOfChristianContentment",
+        "path": "archive/burroughs_rare_jewel.txt",
+        "quote": "Christian contentment is that sweet, inward, quiet, gracious frame of spirit, which"
+      }
+    },
+    "evidence": "audit verified; definition confirmed verbatim against the archive.org text"
+  },
+  {
+    "id": "q-jeremiah-burroughs-0002",
+    "action": "edit",
+    "fields": {
+      "text": "Contentment in every condition is a great art, a spiritual mystery. It is to be learned, and to be learned as a mystery.",
+      "ref": "The Rare Jewel of Christian Contentment (1648), ch. 1",
+      "source": "primary",
+      "insight": "Burroughs on Paul's 'I have learned'. Contentment is not a temperament some are born with but a skill the Spirit teaches, and it is taught as a mystery, which is why the easygoing and the anxious start in the same place.",
+      "witness": {
+        "voice": "Jeremiah Burroughs",
+        "work": "The Rare Jewel of Christian Contentment",
+        "source": "https://archive.org/details/JerimiahBurroughsTheRareJewelOfChristianContentment",
+        "path": "archive/burroughs_rare_jewel.txt",
+        "quote": "in every condition is a great art, a spiritual mystery. It is to be learned"
+      }
+    },
+    "evidence": "paraphrase: shipped sentence not in the book; replaced with Burroughs' verbatim sentences from ch. 1 (archive.org text; its OCR garbles the first word as 'ContentmQnt')"
+  },
+  {
+    "id": "q-jeremiah-burroughs-0003",
+    "action": "edit",
+    "fields": {
+      "text": "If God gives me an understanding of himself, and faith, and humility, and love, and patience, and such graces of his Spirit, he gives me them for ever, if he gives me himself, and his Christ, and his promises, and his covenant, he gives me them for ever.",
+      "ref": "The Rare Jewel of Christian Contentment (1648), 'How Christ teaches contentment'",
+      "source": "primary",
+      "insight": "Burroughs on why the covenant settles the heart: outward things are lent on no such tenure, but what God gives of himself he gives for ever. Who am I, he asks, that the sun should always shine on me?",
+      "witness": {
+        "voice": "Jeremiah Burroughs",
+        "work": "The Rare Jewel of Christian Contentment",
+        "source": "https://archive.org/details/JerimiahBurroughsTheRareJewelOfChristianContentment",
+        "path": "archive/burroughs_rare_jewel.txt",
+        "quote": "If God gives me an understanding of himself, and faith, and humility,"
+      }
+    },
+    "evidence": "paraphrase: the promise/providence antithesis is not in the text; replaced with a verbatim sentence on the covenant (archive.org text)"
+  },
+  {
+    "id": "q-thomas-boston-0001",
+    "action": "edit",
+    "fields": {
+      "text": "There are four things very necessary to be known by all that would see heaven.",
+      "ref": "Human Nature in its Fourfold State (1720), State I, opening",
+      "source": "primary",
+      "insight": "Boston's opening sentence, and then the four: what man was in innocence, what he is in corrupt nature, what he must be in grace, and what he shall be for ever. The believer's whole story runs between the second state and the fourth.",
+      "witness": {
+        "voice": "Thomas Boston",
+        "work": "Human Nature in its Fourfold State",
+        "source": "https://archive.org/details/humannaturein00bost",
+        "path": "archive/boston_fourfold_state_1811.txt",
+        "quote": "There are four things very necessary to be known by all that"
+      }
+    },
+    "evidence": "paraphrase: replaced with Boston's actual opening sentence verbatim (1811 ed., archive.org OCR)"
+  },
+  {
+    "id": "q-thomas-boston-0002",
+    "action": "edit",
+    "fields": {
+      "text": "Every natural man's heart and life is a mass of darkness, disorder, and confusion; how refined soever he appear in the sight of men.",
+      "ref": "Human Nature in its Fourfold State (1720), State II, Head I, 'Of the Corruption of the Understanding'",
+      "source": "primary",
+      "insight": "Boston's second evidence that the natural mind is dark. Refinement in the sight of men is not the measure; the cure, he says, comes only from the blood and Spirit of Christ, whose eye-salve alone can make us see.",
+      "witness": {
+        "voice": "Thomas Boston",
+        "work": "Human Nature in its Fourfold State",
+        "source": "https://archive.org/details/humannaturein00bost",
+        "path": "archive/boston_fourfold_state_1811.txt",
+        "quote": "Every natural man's heart and life is a mass of darkness, disorder,"
+      }
+    },
+    "evidence": "paraphrase: shipped 'hand of providence / hand of grace' sentence not in the book; replaced with a verbatim sentence from State II (1811 ed., archive.org OCR)"
+  },
+  {
+    "id": "q-thomas-boston-0003",
+    "action": "edit",
+    "fields": {
+      "text": "Whatever crook there is in our lot, it is of God's making.",
+      "ref": "The Crook in the Lot (1737), Head I",
+      "source": "primary",
+      "insight": "Boston's first head on Ecclesiastes 7:13, 'Consider the work of God'. The bend in your circumstances is not a failure of God's straightening but his deliberate work, and seeing it so is the beginning of a Christian deportment under it.",
+      "witness": {
+        "voice": "Thomas Boston",
+        "work": "The Crook in the Lot",
+        "source": "https://ccel.org/ccel/boston/crook",
+        "path": "ccel/boston/crook.txt",
+        "quote": "Whatever crook there is in our lot, it is of God's making."
+      }
+    },
+    "evidence": "paraphrase: replaced with Boston's own first doctrinal head verbatim (CCEL boston/crook)"
+  },
+  {
+    "id": "q-westminster-divines-0001",
+    "action": "edit",
+    "fields": {
+      "text": "Man's chief end is to glorify God, and to enjoy him for ever.",
+      "ref": "Westminster Shorter Catechism (1647), Q. 1",
+      "source": "primary",
+      "witness": {
+        "voice": "Westminster Divines",
+        "work": "Westminster Shorter Catechism",
+        "source": "https://github.com/NonlinearFruit/Creeds.json",
+        "path": "Creeds.json/creeds/westminster_shorter_catechism.json",
+        "quote": "Man's chief end is to glorify God, and to enjoy him for ever."
+      }
+    },
+    "evidence": "M6: confessional text was misquoted; replaced with the verbatim answer to Q. 1 (sources/Creeds.json)"
+  }
+]

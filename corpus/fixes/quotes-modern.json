@@ -1,0 +1,2688 @@
+[
+  {
+    "id": "q-john-piper-0001",
+    "action": "edit",
+    "evidence": "verbatim in Desiring God ch. 10 p. 288 (desiringgod.org PDF); capital 'Him' as printed; ref made specific",
+    "fields": {
+      "ref": "Desiring God (1986; 2003 rev. ed.), ch. 10",
+      "text": "God is most glorified in us when we are most satisfied in Him.",
+      "source": "primary",
+      "witness": {
+        "voice": "John Piper",
+        "work": "Desiring God",
+        "source": "https://cdn.desiringgod.org/pdf/books_bdg/bdg.pdf",
+        "path": "https://cdn.desiringgod.org/pdf/books_bdg/bdg.pdf#page=288",
+        "quote": "God is most glorified in us when we are most satisfied in Him"
+      }
+    }
+  },
+  {
+    "id": "q-john-piper-0002",
+    "action": "replace",
+    "evidence": "L6: 'Don't waste your life.' is the book title; replaced with a verbatim sentence from the Preface p. 10 (desiringgod.org PDF)",
+    "entry": {
+      "id": "q-john-piper-0002",
+      "kind": "quote",
+      "ref": "Don't Waste Your Life (2003), Preface",
+      "text": "Some of you will die in the service of Christ. That will not be a tragedy. Treasuring life above Christ is a tragedy.",
+      "voice": "John Piper",
+      "insight": "Piper wrote this to students before they had chosen a career. The tragedy he fears is not a short life but a safe one that valued itself above Christ. Death in his service is loss only by the world's arithmetic.",
+      "witness": {
+        "voice": "John Piper",
+        "work": "Don't Waste Your Life",
+        "source": "https://cdn.desiringgod.org/pdf/books_dwyl/dwyl_full.pdf",
+        "path": "https://cdn.desiringgod.org/pdf/books_dwyl/dwyl_full.pdf#page=10",
+        "quote": "Some of you will die in the service of Christ"
+      },
+      "source": "primary",
+      "themes": [
+        "vocation",
+        "discipleship",
+        "death"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-john-piper-0003",
+    "action": "edit",
+    "evidence": "verbatim, Introduction 'How I Became a Christian Hedonist' p. 18 (not Preface); desiringgod.org PDF",
+    "fields": {
+      "ref": "Desiring God (1986; 2003 rev. ed.), Introduction",
+      "text": "The chief end of man is to glorify God by enjoying Him forever.",
+      "source": "primary",
+      "witness": {
+        "voice": "John Piper",
+        "work": "Desiring God",
+        "source": "https://cdn.desiringgod.org/pdf/books_bdg/bdg.pdf",
+        "path": "https://cdn.desiringgod.org/pdf/books_bdg/bdg.pdf#page=18",
+        "quote": "The chief end of man is to glorify God by enjoying Him forever"
+      }
+    }
+  },
+  {
+    "id": "q-john-piper-0004",
+    "action": "replace",
+    "evidence": "shipped second sentence ('It is our highest duty') not in source and book was wrong (Future Grace); real wording is Desiring God ch. 2 p. 73, desiringgod.org PDF",
+    "entry": {
+      "id": "q-john-piper-0004",
+      "kind": "quote",
+      "ref": "Desiring God (1986; 2003 rev. ed.), ch. 2",
+      "text": "The pursuit of joy in God is not optional. It is not an \"extra\" that a person might grow into after he comes to faith.",
+      "voice": "John Piper",
+      "insight": "Piper's Christian Hedonism stated as a rule of conversion, not a bonus for the mature. Joy in God is what a new heart wants; a believer who has stopped pursuing it is not merely flat but disobedient.",
+      "witness": {
+        "voice": "John Piper",
+        "work": "Desiring God",
+        "source": "https://cdn.desiringgod.org/pdf/books_bdg/bdg.pdf",
+        "path": "https://cdn.desiringgod.org/pdf/books_bdg/bdg.pdf#page=73",
+        "quote": "The pursuit of joy in God is not optional"
+      },
+      "source": "primary",
+      "themes": [
+        "joy",
+        "regeneration",
+        "sanctification"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-john-piper-0005",
+    "action": "replace",
+    "evidence": "H1: 'paid professional only if the gospel is a paid profession' is fabricated (no trace in the book); replaced with the book's own ch. 1 opening lines, desiringgod.org PDF p. 1",
+    "entry": {
+      "id": "q-john-piper-0005",
+      "kind": "quote",
+      "ref": "Brothers, We Are Not Professionals (2002; 2013 rev. ed.), ch. 1",
+      "text": "The mentality of the professional is not the mentality of the prophet. It is not the mentality of the slave of Christ. Professionalism has nothing to do with the essence and heart of the Christian ministry.",
+      "voice": "John Piper",
+      "insight": "Piper's opening salvo against the managerial pastorate. A slave of Christ takes orders, a prophet takes risks; a professional protects a career. He is not against competence, only against letting it define the office.",
+      "witness": {
+        "voice": "John Piper",
+        "work": "Brothers, We Are Not Professionals",
+        "source": "https://document.desiringgod.org/brothers-we-are-not-professionals-en.pdf",
+        "path": "https://document.desiringgod.org/brothers-we-are-not-professionals-en.pdf#page=1",
+        "quote": "The mentality of the professional is not the mentality of the prophet"
+      },
+      "source": "primary",
+      "themes": [
+        "leadership",
+        "vocation",
+        "preaching"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-john-piper-0006",
+    "action": "edit",
+    "evidence": "verbatim, ch. 1 opening paragraph (2022 4th ed. p. 3), desiringgod.org PDF",
+    "fields": {
+      "ref": "Let the Nations Be Glad! (1993), ch. 1",
+      "source": "primary",
+      "witness": {
+        "voice": "John Piper",
+        "work": "Let the Nations Be Glad!",
+        "source": "https://document.desiringgod.org/let-the-nations-be-glad-en.pdf",
+        "path": "https://document.desiringgod.org/let-the-nations-be-glad-en.pdf#page=3",
+        "quote": "Missions exists because worship doesn't"
+      }
+    }
+  },
+  {
+    "id": "q-john-piper-0007",
+    "action": "replace",
+    "evidence": "shipped text is a paraphrase with no source sentence; replaced with verbatim ch. 10 p. 94, desiringgod.org PDF",
+    "entry": {
+      "id": "q-john-piper-0007",
+      "kind": "quote",
+      "ref": "Coronavirus and Christ (2020), ch. 10",
+      "text": "God himself came into the world in Jesus Christ to rescue people from his own just judgment (Rom. 5:9). That is what the cross of Christ means.",
+      "voice": "John Piper",
+      "insight": "Written in the first weeks of the pandemic, when the question was whether God was in the disaster at all. Piper's answer is the cross: the Judge who sends the storm is the God who came in person to rescue us from his own verdict.",
+      "witness": {
+        "voice": "John Piper",
+        "work": "Coronavirus and Christ",
+        "source": "https://document.desiringgod.org/coronavirus-and-christ-en.pdf",
+        "path": "https://document.desiringgod.org/coronavirus-and-christ-en.pdf#page=94",
+        "quote": "God himself came into the world in Jesus Christ to rescue"
+      },
+      "source": "primary",
+      "themes": [
+        "atonement",
+        "judgment",
+        "suffering"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-john-piper-0008",
+    "action": "replace",
+    "evidence": "shipped text is a paraphrase; replaced with verbatim ch. 4 p. 56 (46 words), desiringgod.org PDF",
+    "entry": {
+      "id": "q-john-piper-0008",
+      "kind": "quote",
+      "ref": "Spectacular Sins (2008), ch. 4",
+      "text": "So when I say that everything that exists—including evil—is ordained by an infinitely holy and all-wise God to make the glory of Christ shine more brightly, I mean that, one way or the other, God sees to it that all things serve to glorify his Son.",
+      "voice": "John Piper",
+      "insight": "Piper refuses the escape hatch of a God who merely permits. Whether he causes or allows, he does so on purpose, and the purpose is the glory of the Son. That is the only frame in which a spectacular sin can end in praise.",
+      "witness": {
+        "voice": "John Piper",
+        "work": "Spectacular Sins",
+        "source": "https://document.desiringgod.org/spectacular-sins-en.pdf",
+        "path": "https://document.desiringgod.org/spectacular-sins-en.pdf#page=56",
+        "quote": "So when I say that everything that exists—including evil—is ordained"
+      },
+      "source": "primary",
+      "themes": [
+        "sovereignty",
+        "providence",
+        "glory-of-god"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-john-piper-0009",
+    "action": "replace",
+    "evidence": "shipped text is a paraphrase ('irrevocable' etc. absent); replaced with verbatim Conclusion p. 184 (source begins 'Therefore, God has...'; leading 'Therefore,' omitted), desiringgod.org PDF",
+    "entry": {
+      "id": "q-john-piper-0009",
+      "kind": "quote",
+      "ref": "The Future of Justification (2007), Conclusion",
+      "text": "God has not ordained that living the Christian life should be the basis of our hope that God is for us. That basis is the death and righteousness of Christ, counted as ours through faith alone.",
+      "voice": "John Piper",
+      "insight": "Piper's closing line against N. T. Wright puts the whole dispute in pastoral terms. If your obedience is the ground of your hope, your hope will fluctuate with your obedience; if Christ's righteousness is, it holds.",
+      "witness": {
+        "voice": "John Piper",
+        "work": "The Future of Justification",
+        "source": "https://cdn.desiringgod.org/pdf/books_bfj/books_bfj.pdf",
+        "path": "https://cdn.desiringgod.org/pdf/books_bfj/books_bfj.pdf#page=184",
+        "quote": "God has not ordained that living the Christian life should be the basis"
+      },
+      "source": "primary",
+      "themes": [
+        "justification",
+        "assurance",
+        "faith"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-john-piper-0010",
+    "action": "replace",
+    "evidence": "shipped text is a paraphrase; real wording is conviction 3 in the Introduction p. 28, desiringgod.org PDF",
+    "entry": {
+      "id": "q-john-piper-0010",
+      "kind": "quote",
+      "ref": "Desiring God (1986; 2003 rev. ed.), Introduction",
+      "text": "The deepest and most enduring happiness is found only in God. Not from God, but in God.",
+      "voice": "John Piper",
+      "insight": "The third of Piper's five convictions, and the one that separates Christian Hedonism from the prosperity gospel. Gifts from God can be enjoyed and lost; God himself is the happiness that does not run out.",
+      "witness": {
+        "voice": "John Piper",
+        "work": "Desiring God",
+        "source": "https://cdn.desiringgod.org/pdf/books_bdg/bdg.pdf",
+        "path": "https://cdn.desiringgod.org/pdf/books_bdg/bdg.pdf#page=28",
+        "quote": "The deepest and most enduring happiness is found only in God"
+      },
+      "source": "primary",
+      "themes": [
+        "joy",
+        "knowing-god",
+        "heart"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-dietrich-bonhoeffer-0001",
+    "action": "edit",
+    "evidence": "verbatim, Fuller tr. ch. 4 'Discipleship and the Cross'; archive.org FTS hit in costofdisciplesh0000diet",
+    "fields": {
+      "ref": "The Cost of Discipleship (1937; tr. Fuller 1959), ch. 4",
+      "source": "primary",
+      "witness": {
+        "voice": "Dietrich Bonhoeffer",
+        "work": "The Cost of Discipleship",
+        "source": "https://archive.org/details/costofdisciplesh0000diet",
+        "path": "https://archive.org/details/costofdisciplesh0000diet",
+        "quote": "When Christ calls a man, he bids him come and die"
+      }
+    }
+  },
+  {
+    "id": "q-dietrich-bonhoeffer-0002",
+    "action": "edit",
+    "evidence": "verbatim opening of ch. 1 'Costly Grace' (Fuller: 'our Church', 'to-day'); archive.org FTS hits bwb_KT-241-897 (1959) and costofdisciplesh0000bonh_a2o9 (1949)",
+    "fields": {
+      "ref": "The Cost of Discipleship (1937; tr. Fuller 1959), ch. 1",
+      "text": "Cheap grace is the deadly enemy of our Church. We are fighting to-day for costly grace.",
+      "source": "primary",
+      "witness": {
+        "voice": "Dietrich Bonhoeffer",
+        "work": "The Cost of Discipleship",
+        "source": "https://archive.org/details/bwb_KT-241-897",
+        "path": "https://archive.org/details/bwb_KT-241-897",
+        "quote": "Cheap grace is the deadly enemy of our Church"
+      }
+    }
+  },
+  {
+    "id": "q-dietrich-bonhoeffer-0003",
+    "action": "edit",
+    "evidence": "verbatim, Doberstein tr. ch. 1 'Community'; archive.org FTS hit lifetogether0000unse_c7z9 (1954)",
+    "fields": {
+      "ref": "Life Together (1939; tr. Doberstein 1954), ch. 1",
+      "source": "primary",
+      "witness": {
+        "voice": "Dietrich Bonhoeffer",
+        "work": "Life Together",
+        "source": "https://archive.org/details/lifetogether0000unse_c7z9",
+        "path": "https://archive.org/details/lifetogether0000unse_c7z9",
+        "quote": "Christianity means community through Jesus Christ and in Jesus Christ"
+      }
+    }
+  },
+  {
+    "id": "q-dietrich-bonhoeffer-0004",
+    "action": "edit",
+    "evidence": "shipped text dropped 'Christian' and reads 'honest, earnest, and sacrificial'; corrected to Doberstein wording, archive.org FTS hits lifetogether0000unse_c7z9 / lifetogether0000diet_t3p5",
+    "fields": {
+      "ref": "Life Together (1939; tr. Doberstein 1954), ch. 1",
+      "text": "He who loves his dream of a community more than the Christian community itself becomes a destroyer of the latter, even though his personal intentions may be ever so honest and earnest and sacrificial.",
+      "source": "primary",
+      "witness": {
+        "voice": "Dietrich Bonhoeffer",
+        "work": "Life Together",
+        "source": "https://archive.org/details/lifetogether0000unse_c7z9",
+        "path": "https://archive.org/details/lifetogether0000unse_c7z9",
+        "quote": "He who loves his dream of a community more than the Christian community"
+      }
+    }
+  },
+  {
+    "id": "q-dietrich-bonhoeffer-0005",
+    "action": "edit",
+    "evidence": "verbatim, ch. 1 'Costly Grace'; archive.org FTS hits bwb_KT-241-897, costofdisciplesh0000diet",
+    "fields": {
+      "ref": "The Cost of Discipleship (1937; tr. Fuller 1959), ch. 1",
+      "source": "primary",
+      "witness": {
+        "voice": "Dietrich Bonhoeffer",
+        "work": "The Cost of Discipleship",
+        "source": "https://archive.org/details/bwb_KT-241-897",
+        "path": "https://archive.org/details/bwb_KT-241-897",
+        "quote": "Cheap grace is grace without discipleship, grace without the cross"
+      }
+    }
+  },
+  {
+    "id": "q-dietrich-bonhoeffer-0006",
+    "action": "edit",
+    "evidence": "shipped 'kingly rule of God, for which a man will gladly go and sell all that he has' conflates two sentences; corrected to the real first two sentences (archive.org FTS hits bwb_KT-241-897, narrowpath0000bonh); insight rewritten off the template",
+    "fields": {
+      "ref": "The Cost of Discipleship (1937; tr. Fuller 1959), ch. 1",
+      "text": "Costly grace is the treasure hidden in the field; for the sake of it a man will gladly go and sell all that he has. It is the pearl of great price to buy which the merchant will sell all his goods.",
+      "insight": "Bonhoeffer's positive definition borrows two of Jesus' parables on purpose. Costly grace is not a price we pay to God but a treasure worth everything we own; what costs everything is what we gladly pay for, because the find is worth more.",
+      "source": "primary",
+      "witness": {
+        "voice": "Dietrich Bonhoeffer",
+        "work": "The Cost of Discipleship",
+        "source": "https://archive.org/details/bwb_KT-241-897",
+        "path": "https://archive.org/details/bwb_KT-241-897",
+        "quote": "Costly grace is the treasure hidden in the field"
+      }
+    }
+  },
+  {
+    "id": "q-dietrich-bonhoeffer-0007",
+    "action": "edit",
+    "evidence": "verbatim (1967/1971 eds.; 1953 ed. reads 'a suffering God'); archive.org FTS hit letterspapersfro0000bonh_v4q0",
+    "fields": {
+      "ref": "Letters and Papers from Prison (1944; enlarged ed. 1971), letter of 16 July 1944",
+      "source": "primary",
+      "witness": {
+        "voice": "Dietrich Bonhoeffer",
+        "work": "Letters and Papers from Prison",
+        "source": "https://archive.org/details/letterspapersfro0000bonh_v4q0",
+        "path": "https://archive.org/details/letterspapersfro0000bonh_v4q0",
+        "quote": "Only the suffering God can help"
+      }
+    }
+  },
+  {
+    "id": "q-dietrich-bonhoeffer-0008",
+    "action": "edit",
+    "evidence": "verbatim; shipped text stopped at 'in faith.' mid-sentence, completed to the clause end 'and exclusive allegiance to God' (archive.org FTS hit letterspapersfro0000diet_m1v6, 1967)",
+    "fields": {
+      "ref": "Letters and Papers from Prison, 'After Ten Years' (Christmas 1942)",
+      "text": "Who stands fast? Only the man whose final standard is not his reason, his principles, his conscience, his freedom, or his virtue, but who is ready to sacrifice all this when he is called to obedient and responsible action in faith and exclusive allegiance to God.",
+      "source": "primary",
+      "witness": {
+        "voice": "Dietrich Bonhoeffer",
+        "work": "Letters and Papers from Prison",
+        "source": "https://archive.org/details/letterspapersfro0000diet_m1v6",
+        "path": "https://archive.org/details/letterspapersfro0000diet_m1v6",
+        "quote": "Who stands fast? Only the man whose final standard is not his reason"
+      }
+    }
+  },
+  {
+    "id": "q-dietrich-bonhoeffer-0009",
+    "action": "edit",
+    "evidence": "verbatim (1967/1971 eds.); archive.org FTS hit letterspapersfro0000diet_m1v6",
+    "fields": {
+      "ref": "Letters and Papers from Prison, letter of 21 July 1944",
+      "source": "primary",
+      "witness": {
+        "voice": "Dietrich Bonhoeffer",
+        "work": "Letters and Papers from Prison",
+        "source": "https://archive.org/details/letterspapersfro0000diet_m1v6",
+        "path": "https://archive.org/details/letterspapersfro0000diet_m1v6",
+        "quote": "It is only by living completely in this world that one learns"
+      }
+    }
+  },
+  {
+    "id": "q-dietrich-bonhoeffer-0010",
+    "action": "replace",
+    "evidence": "shipped sentence ('no longer any human guilt that has not been laid on him') not found in Smith (1955/1970) or DBWE Ethics; replaced with verbatim Smith tr., archive.org FTS hits ethics0000diet p. 390; insight fixed (M6 #659 called the quote a verse)",
+    "entry": {
+      "id": "q-dietrich-bonhoeffer-0010",
+      "kind": "quote",
+      "ref": "Ethics (1949, posth.; tr. Smith 1955), 'Guilt, Justification and Renewal'",
+      "text": "God is willing to be guilty of our guilt. He takes upon Himself the punishment and the suffering which this guilt has brought on us.",
+      "voice": "Dietrich Bonhoeffer",
+      "insight": "Bonhoeffer wrote this while a nation's guilt was being denied all around him. Justification is not God overlooking guilt but God owning it in Christ, which is why confession is the only honest response and the beginning of renewal.",
+      "witness": {
+        "voice": "Dietrich Bonhoeffer",
+        "work": "Ethics",
+        "source": "https://archive.org/details/ethics0000diet",
+        "path": "https://archive.org/details/ethics0000diet",
+        "quote": "God is willing to be guilty of our guilt"
+      },
+      "source": "primary",
+      "themes": [
+        "atonement",
+        "confession",
+        "forgiveness"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-cs-lewis-0001",
+    "action": "edit",
+    "evidence": "verbatim (Lewis quotes 'thrown in' and uses a colon); archive.org FTS hits christianbehavio0000csle_u5a5 (1944) and merechristianity0000csle_j5s7",
+    "fields": {
+      "ref": "Mere Christianity (1952), Book III, ch. 10",
+      "text": "Aim at Heaven and you will get earth 'thrown in': aim at earth and you will get neither.",
+      "source": "primary",
+      "witness": {
+        "voice": "C.S. Lewis",
+        "work": "Mere Christianity",
+        "source": "https://archive.org/details/merechristianity0000csle_j5s7",
+        "path": "https://archive.org/details/merechristianity0000csle_j5s7",
+        "quote": "Aim at Heaven and you will get earth"
+      }
+    }
+  },
+  {
+    "id": "q-cs-lewis-0002",
+    "action": "edit",
+    "evidence": "shipped text was the first-person-plural paraphrase; corrected to Lewis's wording (archive.org FTS hits christianbehavio0000csle_f7s8 p. 57, merechristianity0000csle_z2j0)",
+    "fields": {
+      "ref": "Mere Christianity (1952), Book III, ch. 10",
+      "text": "If I find in myself a desire which no experience in this world can satisfy, the most probable explanation is that I was made for another world.",
+      "source": "primary",
+      "witness": {
+        "voice": "C.S. Lewis",
+        "work": "Mere Christianity",
+        "source": "https://archive.org/details/christianbehavio0000csle_f7s8",
+        "path": "https://archive.org/details/christianbehavio0000csle_f7s8",
+        "quote": "If I find in myself a desire which no experience in this world can satisfy"
+      }
+    }
+  },
+  {
+    "id": "q-cs-lewis-0003",
+    "action": "edit",
+    "evidence": "verbatim; archive.org FTS hit weightofgloryoth0000csle (1949); insight rewritten to drop the developer tie-in ('your next standup', audit list C)",
+    "fields": {
+      "ref": "The Weight of Glory (1941 sermon; 1949 collection)",
+      "insight": "Lewis's sermon ends with people, not glory in the abstract. Every neighbour is headed for one of two everlasting destinies, so there is no one it is safe to treat as merely ordinary; the dullest person you meet today is a candidate for glory.",
+      "source": "primary",
+      "witness": {
+        "voice": "C.S. Lewis",
+        "work": "The Weight of Glory",
+        "source": "https://archive.org/details/weightofgloryoth0000csle",
+        "path": "https://archive.org/details/weightofgloryoth0000csle",
+        "quote": "There are no ordinary people. You have never talked to a mere mortal"
+      }
+    }
+  },
+  {
+    "id": "q-cs-lewis-0004",
+    "action": "edit",
+    "evidence": "verbatim, 'The Great Sin'; archive.org FTS hits merechristianity0000csle_d7g1 (1952), bwb_C0-CEH-710 (1943)",
+    "fields": {
+      "ref": "Mere Christianity (1952), Book III, ch. 8",
+      "source": "primary",
+      "witness": {
+        "voice": "C.S. Lewis",
+        "work": "Mere Christianity",
+        "source": "https://archive.org/details/merechristianity0000csle_d7g1",
+        "path": "https://archive.org/details/merechristianity0000csle_d7g1",
+        "quote": "Pride leads to every other vice: it is the complete anti-God state of mind"
+      }
+    }
+  },
+  {
+    "id": "q-cs-lewis-0005",
+    "action": "edit",
+    "evidence": "shipped text dropped 'is a statement which' and read 'The only thing'; corrected (archive.org FTS hits godindockessayso00lewi_0, godindockessayso0000lewi_c3k1)",
+    "fields": {
+      "ref": "God in the Dock (1970), 'Christian Apologetics' (1945)",
+      "text": "Christianity is a statement which, if false, is of no importance, and, if true, of infinite importance. The one thing it cannot be is moderately important.",
+      "source": "primary",
+      "witness": {
+        "voice": "C.S. Lewis",
+        "work": "God in the Dock",
+        "source": "https://archive.org/details/godindockessayso00lewi_0",
+        "path": "https://archive.org/details/godindockessayso00lewi_0",
+        "quote": "Christianity is a statement which, if false, is of no importance"
+      }
+    }
+  },
+  {
+    "id": "q-cs-lewis-0006",
+    "action": "edit",
+    "evidence": "verbatim closing sentence of Letter XVII; archive.org FTS hit letterstomalcolm0000csle (1964)",
+    "fields": {
+      "ref": "Letters to Malcolm (1964), Letter XVII",
+      "text": "Joy is the serious business of Heaven.",
+      "source": "primary",
+      "witness": {
+        "voice": "C.S. Lewis",
+        "work": "Letters to Malcolm",
+        "source": "https://archive.org/details/letterstomalcolm0000csle",
+        "path": "https://archive.org/details/letterstomalcolm0000csle",
+        "quote": "Joy is the serious business of Heaven"
+      }
+    }
+  },
+  {
+    "id": "q-cs-lewis-0007",
+    "action": "edit",
+    "evidence": "verbatim, 'The Shocking Alternative' (archive.org FTS hits merechristianity0000csle_d7g1, bwb_S0-AAM-016); insight rewritten: it called the quotation 'the verse' (M7 list)",
+    "fields": {
+      "ref": "Mere Christianity (1952), Book II, ch. 3",
+      "text": "A man who was merely a man and said the sort of things Jesus said would not be a great moral teacher. He would either be a lunatic—on a level with the man who says he is a poached egg—or else he would be the Devil of Hell.",
+      "insight": "Lewis's trilemma has known limits (it assumes the Gospels report Jesus accurately), but its force is real: 'great moral teacher' was never one of the options Jesus left open. His claims force a verdict on who he is before anything he taught.",
+      "source": "primary",
+      "witness": {
+        "voice": "C.S. Lewis",
+        "work": "Mere Christianity",
+        "source": "https://archive.org/details/merechristianity0000csle_d7g1",
+        "path": "https://archive.org/details/merechristianity0000csle_d7g1",
+        "quote": "A man who was merely a man and said the sort of things Jesus said"
+      }
+    }
+  },
+  {
+    "id": "q-cs-lewis-0008",
+    "action": "edit",
+    "evidence": "verbatim, ch. 6 'Charity'; archive.org FTS hits the-four-loves, fourloves00lewi (1960)",
+    "fields": {
+      "ref": "The Four Loves (1960), ch. 6",
+      "source": "primary",
+      "witness": {
+        "voice": "C.S. Lewis",
+        "work": "The Four Loves",
+        "source": "https://archive.org/details/the-four-loves",
+        "path": "https://archive.org/details/the-four-loves",
+        "quote": "To love at all is to be vulnerable"
+      }
+    }
+  },
+  {
+    "id": "q-cs-lewis-0009",
+    "action": "edit",
+    "evidence": "verbatim, ch. 14 'Checkmate'; archive.org FTS hit surprisedbyjoy0000csle (1955)",
+    "fields": {
+      "ref": "Surprised by Joy (1955), ch. 14",
+      "source": "primary",
+      "witness": {
+        "voice": "C.S. Lewis",
+        "work": "Surprised by Joy",
+        "source": "https://archive.org/details/surprisedbyjoy0000csle",
+        "path": "https://archive.org/details/surprisedbyjoy0000csle",
+        "quote": "I gave in, and admitted that God was God, and knelt and prayed"
+      }
+    }
+  },
+  {
+    "id": "q-cs-lewis-0010",
+    "action": "edit",
+    "evidence": "verbatim, ch. 9 'A Word about Praising'; archive.org FTS hit reflectionsonpsa0000csle_h7q2 (1958)",
+    "fields": {
+      "ref": "Reflections on the Psalms (1958), ch. 9",
+      "source": "primary",
+      "witness": {
+        "voice": "C.S. Lewis",
+        "work": "Reflections on the Psalms",
+        "source": "https://archive.org/details/reflectionsonpsa0000csle_h7q2",
+        "path": "https://archive.org/details/reflectionsonpsa0000csle_h7q2",
+        "quote": "In commanding us to glorify Him, God is inviting us to enjoy Him"
+      }
+    }
+  },
+  {
+    "id": "q-rc-sproul-0001",
+    "action": "edit",
+    "evidence": "shipped one-liner was a compression; real two sentences from ch. 3 'The Fearful Mystery' pp. 53-54 (not ch. 2); archive.org FTS hits holinessofgod0000unse (1986), holinessofgod0000spro (1987)",
+    "fields": {
+      "ref": "The Holiness of God (1985), ch. 3",
+      "text": "The primary meaning of holy is \"separate.\" It comes from an ancient word that meant, \"to cut,\" or \"to separate.\"",
+      "insight": "Qadosh in Hebrew. God's holiness is first his otherness, his being a class of one, before it is his moral purity. Modern usage collapses the word into ethics; Sproul recovers the metaphysical edge that makes the ethics fearful.",
+      "source": "primary",
+      "witness": {
+        "voice": "R.C. Sproul",
+        "work": "The Holiness of God",
+        "source": "https://archive.org/details/holinessofgod0000unse",
+        "path": "https://archive.org/details/holinessofgod0000unse",
+        "quote": "The primary meaning of holy is"
+      }
+    }
+  },
+  {
+    "id": "q-rc-sproul-0002",
+    "action": "edit",
+    "evidence": "shipped 'tradition' ref and 'for good works' wording replaced by Sproul's own sentence, verbatim in the Ligonier sermon transcript (St. Andrew's, 2 Apr 2006); also printed in The Power of the Gospel (2024)",
+    "fields": {
+      "ref": "Sermon 'Dead to Sin, Alive to God' on Romans 5:20-6:4 (2006)",
+      "text": "We are justified unto good works, not justified by good works.",
+      "source": "primary",
+      "witness": {
+        "voice": "R.C. Sproul",
+        "work": "Dead to Sin, Alive to God (Part 1)",
+        "source": "https://learn.ligonier.org/sermons/dead-sin-alive-god-part",
+        "path": "https://learn.ligonier.org/sermons/dead-sin-alive-god-part",
+        "quote": "We are justified unto good works, not justified by good works"
+      }
+    }
+  },
+  {
+    "id": "q-rc-sproul-0003",
+    "action": "replace",
+    "evidence": "shipped 'impossible to know God's holiness without trembling' has no counterpart in any Holiness of God scan; replaced with verbatim sentence (archive.org FTS hits 1986/1987/1998/2010 scans, image-bearer/probation passage); chapter placement inferred from context, page not confirmed",
+    "entry": {
+      "id": "q-rc-sproul-0003",
+      "kind": "quote",
+      "ref": "The Holiness of God (1985), ch. 8",
+      "text": "We are made to mirror and reflect the holiness of God.",
+      "voice": "R.C. Sproul",
+      "insight": "Sproul's answer to why holiness is commanded of creatures: the image of God is a vocation. A mirror that reflects nothing has failed at the one thing it is for, and so has a person who bears God's image without resembling him.",
+      "witness": {
+        "voice": "R.C. Sproul",
+        "work": "The Holiness of God",
+        "source": "https://archive.org/details/holinessofgod0000unse",
+        "path": "https://archive.org/details/holinessofgod0000unse",
+        "quote": "We are made to mirror and reflect the holiness of God"
+      },
+      "source": "primary",
+      "themes": [
+        "holiness",
+        "anthropology",
+        "sanctification"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-rc-sproul-0004",
+    "action": "replace",
+    "evidence": "shipped 'most God-centered theology there is' does not occur in Chosen by God; replaced with verbatim ch. 3 'Predestination and Free Will' pp. 71-72 (archive.org FTS hits chosenbygod0000rcsp)",
+    "entry": {
+      "id": "q-rc-sproul-0004",
+      "kind": "quote",
+      "ref": "Chosen by God (1986), ch. 3",
+      "text": "The Reformed view of predestination teaches that before a person can choose Christ his heart must be changed. He must be born again.",
+      "voice": "R.C. Sproul",
+      "insight": "Sproul puts the whole debate in one sentence: the question is not whether we choose Christ but whether a dead heart can. Regeneration precedes faith, and that order is what makes salvation grace from first to last.",
+      "witness": {
+        "voice": "R.C. Sproul",
+        "work": "Chosen by God",
+        "source": "https://archive.org/details/chosenbygod0000rcsp",
+        "path": "https://archive.org/details/chosenbygod0000rcsp",
+        "quote": "The Reformed view of predestination teaches that before a person can choose Christ"
+      },
+      "source": "primary",
+      "themes": [
+        "election",
+        "regeneration",
+        "grace"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-rc-sproul-0005",
+    "action": "edit",
+    "evidence": "verbatim, ch. 2 pp. 26-27; archive.org FTS hits chosenbygod0000rcsp, chosenbygod0000spro",
+    "fields": {
+      "ref": "Chosen by God (1986), ch. 2",
+      "source": "primary",
+      "witness": {
+        "voice": "R.C. Sproul",
+        "work": "Chosen by God",
+        "source": "https://archive.org/details/chosenbygod0000rcsp",
+        "path": "https://archive.org/details/chosenbygod0000rcsp",
+        "quote": "If there is one single molecule in this universe running around loose"
+      }
+    }
+  },
+  {
+    "id": "q-rc-sproul-0006",
+    "action": "edit",
+    "evidence": "shipped text dropped 'the cross as an atoning act'; corrected to the sentence as scanned (archive.org FTS truthofcross0000spro, leaf 194, late in the book; chapter not established). Same idea in Saved from What? (2002) p. 138",
+    "fields": {
+      "ref": "The Truth of the Cross (2007)",
+      "text": "If you take away the cross as an atoning act, you take away Christianity.",
+      "source": "primary",
+      "witness": {
+        "voice": "R.C. Sproul",
+        "work": "The Truth of the Cross",
+        "source": "https://archive.org/details/truthofcross0000spro",
+        "path": "https://archive.org/details/truthofcross0000spro",
+        "quote": "If you take away the cross as an atoning act, you take away Christianity"
+      }
+    }
+  },
+  {
+    "id": "q-rc-sproul-0007",
+    "action": "replace",
+    "evidence": "shipped 'Sanctification is not optional. It is the goal of justification.' not in Pleasing God (word 'optional' absent from the 1988 scan); replaced with Sproul's verbatim sentence from the Ligonier sermon transcript (2 Apr 2006)",
+    "entry": {
+      "id": "q-rc-sproul-0007",
+      "kind": "quote",
+      "ref": "Sermon 'Dead to Sin, Alive to God' on Romans 5:20-6:4 (2006)",
+      "text": "We are not justified by our sanctification, but we are justified unto sanctification.",
+      "voice": "R.C. Sproul",
+      "insight": "One preposition carries the Reformation. Sanctification is never the ground of our acceptance, but it is always the purpose of it; a justification that produces no holiness was never the real thing.",
+      "witness": {
+        "voice": "R.C. Sproul",
+        "work": "Dead to Sin, Alive to God (Part 1)",
+        "source": "https://learn.ligonier.org/sermons/dead-sin-alive-god-part",
+        "path": "https://learn.ligonier.org/sermons/dead-sin-alive-god-part",
+        "quote": "We are not justified by our sanctification, but we are justified unto sanctification"
+      },
+      "source": "primary",
+      "themes": [
+        "sanctification",
+        "justification"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-rc-sproul-0008",
+    "action": "edit",
+    "evidence": "title of Sproul's monthly Tabletalk column since 1977, confirmed by his Ligonier post 'Why Right Now Counts Forever' (2013); also Lifeviews (1986)",
+    "fields": {
+      "ref": "'Right Now Counts Forever', Tabletalk column (1977-2017)",
+      "source": "primary",
+      "witness": {
+        "voice": "R.C. Sproul",
+        "work": "Why Right Now Counts Forever",
+        "source": "https://www.ligonier.org/posts/why-right-now-counts-forever",
+        "path": "https://www.ligonier.org/posts/why-right-now-counts-forever",
+        "quote": "Right now counts forever"
+      }
+    }
+  },
+  {
+    "id": "q-rc-sproul-0009",
+    "action": "edit",
+    "evidence": "shipped wording and book (Essential Truths, 1992) were wrong; real sentence is What Is Reformed Theology? / Grace Unknown (1997) ch. 1 'Centered on God' pp. 8-9 (archive.org FTS hits whatisreformedth0000rcsp, graceunknownhear0000spro)",
+    "fields": {
+      "ref": "What Is Reformed Theology? (1997), ch. 1",
+      "text": "In the classical curriculum theology is the queen of the sciences and all other disciplines are her handmaidens.",
+      "source": "primary",
+      "witness": {
+        "voice": "R.C. Sproul",
+        "work": "What Is Reformed Theology?",
+        "source": "https://archive.org/details/whatisreformedth0000rcsp",
+        "path": "https://archive.org/details/whatisreformedth0000rcsp",
+        "quote": "In the classical curriculum theology is the queen of the sciences"
+      }
+    }
+  },
+  {
+    "id": "q-rc-sproul-0010",
+    "action": "replace",
+    "evidence": "shipped 'The supreme need of every age is the need to know God' not found in any Sproul scan; replaced with verbatim ch. 1 'The Holy Grail' (archive.org FTS hits holinessofgod0000unse, holinessofgod0000spro)",
+    "entry": {
+      "id": "q-rc-sproul-0010",
+      "kind": "quote",
+      "ref": "The Holiness of God (1985), ch. 1",
+      "text": "Today I am still absorbed with the question of the holiness of God. I am convinced that it is one of the most important ideas that a Christian can ever grapple with.",
+      "voice": "R.C. Sproul",
+      "insight": "Sproul wrote this after decades of study, not as a beginner's enthusiasm. Most Christian confusion about God's love, justice and grace traces to a thin view of his holiness; get that one idea right and the others fall into their places.",
+      "witness": {
+        "voice": "R.C. Sproul",
+        "work": "The Holiness of God",
+        "source": "https://archive.org/details/holinessofgod0000unse",
+        "path": "https://archive.org/details/holinessofgod0000unse",
+        "quote": "Today I am still absorbed with the question of the holiness of God"
+      },
+      "source": "primary",
+      "themes": [
+        "holiness",
+        "knowing-god",
+        "theology-proper"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-aw-tozer-0001",
+    "action": "edit",
+    "evidence": "verbatim opening sentence of ch. 1; archive.org FTS hits knowledgeofholy0000unse_s4h8 (1961) and others",
+    "fields": {
+      "ref": "The Knowledge of the Holy (1961), ch. 1",
+      "source": "primary",
+      "witness": {
+        "voice": "A.W. Tozer",
+        "work": "The Knowledge of the Holy",
+        "source": "https://archive.org/details/knowledgeofholy0000unse_s4h8",
+        "path": "https://archive.org/details/knowledgeofholy0000unse_s4h8",
+        "quote": "What comes into our minds when we think about God is the most important thing about us"
+      }
+    }
+  },
+  {
+    "id": "q-aw-tozer-0002",
+    "action": "edit",
+    "evidence": "wording verbatim but the book was wrong: sentence is The Divine Conquest ch. 1 'The Eternal Continuum', not The Pursuit of God (archive.org FTS hits divineconquest0000toze, bwb_P9-BIY-513, 2009 God's Pursuit of Man)",
+    "fields": {
+      "ref": "The Divine Conquest (1950; reissued as God's Pursuit of Man), ch. 1",
+      "text": "It is well that we accept the hard truth now: the man who would know God must give time to Him.",
+      "source": "primary",
+      "witness": {
+        "voice": "A.W. Tozer",
+        "work": "The Divine Conquest",
+        "source": "https://archive.org/details/divineconquest0000toze",
+        "path": "https://archive.org/details/divineconquest0000toze",
+        "quote": "the man who would know God must give time to Him"
+      }
+    }
+  },
+  {
+    "id": "q-aw-tozer-0003",
+    "action": "replace",
+    "evidence": "H2/M3: shipped text was Augustine (Confessions I.1), duplicate of #157, quoted by Tozer in Pursuit of God ch. 3; replaced with a genuine Tozer sentence, verbatim in Gutenberg #25141 ch. 1 'Following Hard after God'",
+    "entry": {
+      "id": "q-aw-tozer-0003",
+      "kind": "quote",
+      "ref": "The Pursuit of God (1948), ch. 1",
+      "text": "He waits to be wanted. Too bad that with many of us He waits so long, so very long, in vain.",
+      "voice": "A.W. Tozer",
+      "insight": "Tozer's diagnosis of a cold church is not bad doctrine but absent desire. God manifests himself to those who want him, and complacency is the one thing that keeps him waiting; the cure is to start wanting.",
+      "witness": {
+        "voice": "A.W. Tozer",
+        "work": "The Pursuit of God",
+        "source": "https://www.gutenberg.org/ebooks/25141",
+        "path": "https://www.gutenberg.org/ebooks/25141",
+        "quote": "He waits to be wanted"
+      },
+      "source": "primary",
+      "themes": [
+        "knowing-god",
+        "heart",
+        "waiting"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-aw-tozer-0004",
+    "action": "edit",
+    "evidence": "verbatim ('He' capitalised in the original); archive.org FTS hits rootofrighteous0000awto and four other 1955 scans",
+    "fields": {
+      "ref": "The Root of the Righteous (1955), 'Praise God for the Furnace'",
+      "text": "It is doubtful whether God can bless a man greatly until He has hurt him deeply.",
+      "source": "primary",
+      "witness": {
+        "voice": "A.W. Tozer",
+        "work": "The Root of the Righteous",
+        "source": "https://archive.org/details/rootofrighteous0000awto",
+        "path": "https://archive.org/details/rootofrighteous0000awto",
+        "quote": "It is doubtful whether God can bless a man greatly until He has hurt him deeply"
+      }
+    }
+  },
+  {
+    "id": "q-francis-schaeffer-0001",
+    "action": "replace",
+    "evidence": "shipped 'propositions of the Bible are true... true to all of life' has no counterpart in any Schaeffer scan; replaced with the verbatim opening sentence of ch. 1 'The Gulf Is Fixed' (archive.org FTS hits godwhoistherespe0000fran 1968, isbn_0877849064)",
+    "entry": {
+      "id": "q-francis-schaeffer-0001",
+      "kind": "quote",
+      "ref": "The God Who Is There (1968), ch. 1",
+      "text": "The present chasm between the generations has been brought about almost entirely by a change in the concept of truth.",
+      "voice": "Francis Schaeffer",
+      "insight": "The opening sentence of Schaeffer's first book, and still his most useful diagnosis. Before arguing about God with anyone, ask what they mean by 'true'; if truth has become a feeling, no amount of evidence will land.",
+      "witness": {
+        "voice": "Francis Schaeffer",
+        "work": "The God Who Is There",
+        "source": "https://archive.org/details/godwhoistherespe0000fran",
+        "path": "https://archive.org/details/godwhoistherespe0000fran",
+        "quote": "The present chasm between the generations has been brought about"
+      },
+      "source": "primary",
+      "themes": [
+        "truth",
+        "apologetics",
+        "discernment"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-francis-schaeffer-0002",
+    "action": "replace",
+    "evidence": "shipped 'great supernatural reality which gives every other reality its place' not found anywhere; replaced with the verbatim sentence explaining the title (archive.org FTS hits heisthereheisnot00scha, heisthereheisnot0000fran, 1972)",
+    "entry": {
+      "id": "q-francis-schaeffer-0002",
+      "kind": "quote",
+      "ref": "He Is There and He Is Not Silent (1972), Introduction",
+      "text": "The infinite-personal God is there, but also he is not silent; that changes the whole world.",
+      "voice": "Francis Schaeffer",
+      "insight": "Schaeffer's whole title in one clause. A God who exists but never speaks leaves us guessing about everything that matters; a God who has spoken means metaphysics, morals and knowledge all have a floor under them.",
+      "witness": {
+        "voice": "Francis Schaeffer",
+        "work": "He Is There and He Is Not Silent",
+        "source": "https://archive.org/details/heisthereheisnot00scha",
+        "path": "https://archive.org/details/heisthereheisnot00scha",
+        "quote": "The infinite-personal God is there, but also he is not silent"
+      },
+      "source": "primary",
+      "themes": [
+        "revelation",
+        "truth",
+        "theology-proper"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-francis-schaeffer-0003",
+    "action": "replace",
+    "evidence": "shipped 'The world has the right to see...' is not in The Mark of the Christian (nearest real wording is in The God Who Is There); replaced with verbatim closing lines, p. 35 of the IVP booklet (archive.org FTS hits markofchristian0000scha)",
+    "entry": {
+      "id": "q-francis-schaeffer-0003",
+      "kind": "quote",
+      "ref": "The Mark of the Christian (1970), closing section",
+      "text": "Love—and the unity it attests to—is the mark Christ gave Christians to wear before the world. Only with this mark may the world know that Christians are indeed Christians and that Jesus was sent by the Father.",
+      "voice": "Francis Schaeffer",
+      "insight": "Schaeffer's reading of John 13:35 and 17:21: Jesus handed the world the right to judge our claims by our love for one another. Doctrinal precision without visible love does not merely look bad; it forfeits the apologetic Christ himself appointed.",
+      "witness": {
+        "voice": "Francis Schaeffer",
+        "work": "The Mark of the Christian",
+        "source": "https://archive.org/details/markofchristian0000scha",
+        "path": "https://archive.org/details/markofchristian0000scha",
+        "quote": "is the mark Christ gave Christians to wear before the world"
+      },
+      "source": "primary",
+      "themes": [
+        "love",
+        "church",
+        "apologetics"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-francis-schaeffer-0004",
+    "action": "replace",
+    "evidence": "shipped 'moment-by-moment trust in the finished work' is a paraphrase; replaced with verbatim sentences from the 1971 Tyndale scan (archive.org FTS truespirituality0000scha, three overlapping snippets); chapter not established",
+    "entry": {
+      "id": "q-francis-schaeffer-0004",
+      "kind": "quote",
+      "ref": "True Spirituality (1971)",
+      "text": "The Christian life, true spirituality, can never have a mechanical solution. The real solution is being cast up into the moment-by-moment communion, personal communion, with God himself, and letting Christ's truth flow through me through the agency of the Holy Spirit.",
+      "voice": "Francis Schaeffer",
+      "insight": "Schaeffer wrote this after a crisis in which technique had failed him. Sanctification is not a procedure to run but a Person to stay in communion with, moment by moment, and the Spirit does the flowing.",
+      "witness": {
+        "voice": "Francis Schaeffer",
+        "work": "True Spirituality",
+        "source": "https://archive.org/details/truespirituality0000scha",
+        "path": "https://archive.org/details/truespirituality0000scha",
+        "quote": "The Christian life, true spirituality, can never have a mechanical solution"
+      },
+      "source": "primary",
+      "themes": [
+        "sanctification",
+        "holy-spirit",
+        "presence"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-john-stott-0001",
+    "action": "edit",
+    "evidence": "verbatim (source opens 'For the essence...'), ch. 6 'The Self-Substitution of God' p. 160; archive.org FTS hits bwb_KR-158-312 (1986), crossofchristwit0000john (2006)",
+    "fields": {
+      "ref": "The Cross of Christ (1986), ch. 6",
+      "source": "primary",
+      "witness": {
+        "voice": "John Stott",
+        "work": "The Cross of Christ",
+        "source": "https://archive.org/details/bwb_KR-158-312",
+        "path": "https://archive.org/details/bwb_KR-158-312",
+        "quote": "essence of sin is man substituting himself for God"
+      }
+    }
+  },
+  {
+    "id": "q-john-stott-0002",
+    "action": "edit",
+    "evidence": "source reads 'The first is that essentially Christianity is Christ. The person and work...' (1971 text; earlier printings 'foundation rock'); excerpt now starts at 'essentially' (capitalised) instead of isolating 'Christianity is Christ.' (archive.org FTS hits basicchristianit0000stot)",
+    "fields": {
+      "ref": "Basic Christianity (1958; rev. 1971), ch. 1",
+      "text": "Essentially Christianity is Christ. The person and work of Christ are the rock upon which the Christian religion is built.",
+      "source": "primary",
+      "witness": {
+        "voice": "John Stott",
+        "work": "Basic Christianity",
+        "source": "https://archive.org/details/basicchristianit0000stot",
+        "path": "https://archive.org/details/basicchristianit0000stot",
+        "quote": "The person and work of Christ are the rock upon which the Christian religion is built"
+      }
+    }
+  },
+  {
+    "id": "q-john-stott-0003",
+    "action": "edit",
+    "evidence": "shipped 'Preaching is essentially bridge-building...' was a paraphrase; corrected to the Introduction's own sentence (archive.org FTS hits betweentwoworlds0000stot, 1982)",
+    "fields": {
+      "ref": "Between Two Worlds (1982), Introduction",
+      "text": "A true sermon bridges the gulf between the biblical and the modern worlds, and must be equally earthed in both.",
+      "source": "primary",
+      "witness": {
+        "voice": "John Stott",
+        "work": "Between Two Worlds",
+        "source": "https://archive.org/details/betweentwoworlds0000stot",
+        "path": "https://archive.org/details/betweentwoworlds0000stot",
+        "quote": "A true sermon bridges the gulf between the biblical and the modern worlds"
+      }
+    }
+  },
+  {
+    "id": "q-john-stott-0004",
+    "action": "replace",
+    "evidence": "shipped 'three Trinitarian images, each illuminating the others' has no counterpart in the scans; replaced with verbatim opening lines (archive.org FTS hits livingchurchconv0000stot_b9z4); exact chapter not confirmed",
+    "entry": {
+      "id": "q-john-stott-0004",
+      "kind": "quote",
+      "ref": "The Living Church (2007), opening pages",
+      "text": "For the church lies at the very centre of the eternal purpose of God. It is not a divine afterthought. It is not an accident of history.",
+      "voice": "John Stott",
+      "insight": "Stott's lifelong conviction, set down at eighty-six. Low views of the church usually come from treating it as a means to individual salvation; Scripture treats it as the goal God had in mind before history began.",
+      "witness": {
+        "voice": "John Stott",
+        "work": "The Living Church",
+        "source": "https://archive.org/details/livingchurchconv0000stot_b9z4",
+        "path": "https://archive.org/details/livingchurchconv0000stot_b9z4",
+        "quote": "For the church lies at the very centre of the eternal purpose of God"
+      },
+      "source": "primary",
+      "themes": [
+        "church",
+        "sovereignty",
+        "eternity"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-jim-elliot-0001",
+    "action": "edit",
+    "evidence": "verbatim as printed in Elisabeth Elliot, Shadow of the Almighty (archive.org FTS hits shadowofalmighty0000elis 1958); voice parenthetical removed (L5)",
+    "fields": {
+      "ref": "Journal, 28 October 1949 (in Shadow of the Almighty, 1958)",
+      "voice": "Jim Elliot",
+      "source": "primary",
+      "witness": {
+        "voice": "Jim Elliot",
+        "work": "Shadow of the Almighty",
+        "source": "https://archive.org/details/shadowofalmighty0000elis",
+        "path": "https://archive.org/details/shadowofalmighty0000elis",
+        "quote": "He is no fool who gives what he cannot keep to gain what he cannot lose"
+      }
+    }
+  },
+  {
+    "id": "q-elisabeth-elliot-0001",
+    "action": "replace",
+    "evidence": "'The will of God is never exactly what you expect it to be...' has zero hits in any scanned Elliot book (incl. four Keep a Quiet Heart scans) or on elisabethelliot.org; M3 duplicate of #794. Replaced with a verbatim Keep a Quiet Heart sentence (archive.org FTS hits 1995/1996/2004/2022 scans)",
+    "entry": {
+      "id": "q-elisabeth-elliot-0001",
+      "kind": "quote",
+      "ref": "Keep a Quiet Heart (1995)",
+      "text": "Leave it all in the Hands that were wounded for you.",
+      "voice": "Elisabeth Elliot",
+      "insight": "Elliot's counsel to a reader trying to manage an outcome she could not control. The hands that hold your circumstances are the ones that took the nails; that is the whole argument for letting go.",
+      "witness": {
+        "voice": "Elisabeth Elliot",
+        "work": "Keep a Quiet Heart",
+        "source": "https://archive.org/details/keepquietheart00elli",
+        "path": "https://archive.org/details/keepquietheart00elli",
+        "quote": "Leave it all in the Hands that were wounded for you"
+      },
+      "source": "primary",
+      "themes": [
+        "providence",
+        "peace",
+        "dependence"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-elisabeth-elliot-0002",
+    "action": "replace",
+    "evidence": "three-sentence 'do the next thing' form not in any Elliot book (only fragments in Keep a Quiet Heart; the poem is anonymous); replaced with a verbatim sentence from A Chance to Die (archive.org FTS hits chancetodielif00elli 1987, 2005, 2017)",
+    "entry": {
+      "id": "q-elisabeth-elliot-0002",
+      "kind": "quote",
+      "ref": "A Chance to Die (1987)",
+      "text": "Faith does not eliminate questions. But faith knows where to take them.",
+      "voice": "Elisabeth Elliot",
+      "insight": "Elliot, writing Amy Carmichael's life, on what faith does with the unanswerable. It is not the absence of questions but the habit of carrying them to God rather than away from him, which is what Job and the psalmists did.",
+      "witness": {
+        "voice": "Elisabeth Elliot",
+        "work": "A Chance to Die",
+        "source": "https://archive.org/details/chancetodielif00elli",
+        "path": "https://archive.org/details/chancetodielif00elli",
+        "quote": "Faith does not eliminate questions. But faith knows where to take them"
+      },
+      "source": "primary",
+      "themes": [
+        "faith",
+        "lament",
+        "suffering"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-elisabeth-elliot-0003",
+    "action": "drop",
+    "evidence": "M3 duplicate of #211 (same unlocated sentence, different ref); 'a lot better and a lot bigger' has no hit in the Suffering Is Never for Nothing scan or any other Elliot book; #211 carries the Elliot replacement"
+  },
+  {
+    "id": "q-amy-carmichael-0001",
+    "action": "replace",
+    "evidence": "H2: 'Have we no tears for the multitudes?' is Chapman/Goodell (1910), and the refrain is from her poem in Gold Cord (1932) / Toward Jerusalem (1936), not Gold by Moonlight; replaced with the poem's verbatim final stanza (archive.org FTS hits towardjerusalem0000amyc p. 134, goldcordstoryoff0000carm)",
+    "entry": {
+      "id": "q-amy-carmichael-0001",
+      "kind": "quote",
+      "ref": "'In Acceptance Lieth Peace', Toward Jerusalem (1936)",
+      "text": "He said, 'I will accept the breaking sorrow Which God to-morrow Will to His son explain.' Then did the turmoil deep within him cease. Not vain the word, not vain; For in Acceptance lieth peace.",
+      "voice": "Amy Carmichael",
+      "insight": "The last stanza of Carmichael's poem, written from a sickbed she never left. Acceptance is not resignation but the trained refusal to fight what God has permitted, trusting that the explanation is deferred, not denied.",
+      "witness": {
+        "voice": "Amy Carmichael",
+        "work": "Toward Jerusalem",
+        "source": "https://archive.org/details/towardjerusalem0000amyc",
+        "path": "https://archive.org/details/towardjerusalem0000amyc",
+        "quote": "For in Acceptance lieth peace"
+      },
+      "source": "primary",
+      "themes": [
+        "suffering",
+        "peace",
+        "faith"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-amy-carmichael-0002",
+    "action": "edit",
+    "evidence": "verbatim for the quoted words (ellipsis omits the 'superior attitude' clause); archive.org FTS hits if1968carm, if0000carm, 1953 Dohnavur printing",
+    "fields": {
+      "ref": "If (1938)",
+      "source": "primary",
+      "witness": {
+        "voice": "Amy Carmichael",
+        "work": "If",
+        "source": "https://archive.org/details/if1968carm",
+        "path": "https://archive.org/details/if1968carm",
+        "quote": "If I belittle those whom I am called to serve"
+      }
+    }
+  },
+  {
+    "id": "q-amy-carmichael-0003",
+    "action": "replace",
+    "evidence": "H1: shipped text was Ps 25:14 KJV plus an untraceable sentence; replaced with a verbatim daily entry from Edges of His Ways (archive.org FTS identifier:(edgesofhisways0000amyc) hits); entry date not established",
+    "entry": {
+      "id": "q-amy-carmichael-0003",
+      "kind": "quote",
+      "ref": "Edges of His Ways (1955)",
+      "text": "Do not be discouraged; He is not discouraged. He Who has begun a good work in us will go on to perfect it.",
+      "voice": "Amy Carmichael",
+      "insight": "Carmichael's note to her Dohnavur family on the moment self is noticed again. Discouragement over our slowness assumes the work depends on us; Philippians 1:6 says the one who started it will finish it, and he has not lost heart.",
+      "witness": {
+        "voice": "Amy Carmichael",
+        "work": "Edges of His Ways",
+        "source": "https://archive.org/details/edgesofhisways0000amyc",
+        "path": "https://archive.org/details/edgesofhisways0000amyc",
+        "quote": "Do not be discouraged; He is not discouraged"
+      },
+      "source": "primary",
+      "themes": [
+        "perseverance",
+        "sanctification",
+        "hope"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-corrie-ten-boom-0001",
+    "action": "edit",
+    "evidence": "shipped 'God's love is not deeper still' is the publisher's blurb; Betsie's words in the book are 'He is not deeper still' (archive.org FTS hits hidingplace0000corr_q3c0, hidingplacedelux0000corr); insight fixed (called the quote 'the verse')",
+    "fields": {
+      "ref": "The Hiding Place (1971), Ravensbrück (Betsie ten Boom's words)",
+      "text": "We must tell them that there is no pit so deep that He is not deeper still.",
+      "insight": "Betsie's words to Corrie in Ravensbrück, weeks before she died there; Corrie spent the next thirty years telling them as instructed. It is not poetic exaggeration but theology tested in the worst pit Europe could dig.",
+      "source": "primary",
+      "witness": {
+        "voice": "Corrie ten Boom",
+        "work": "The Hiding Place",
+        "source": "https://archive.org/details/hidingplace0000corr_q3c0",
+        "path": "https://archive.org/details/hidingplace0000corr_q3c0",
+        "quote": "there is no pit so deep that He is not deeper still"
+      }
+    }
+  },
+  {
+    "id": "q-corrie-ten-boom-0002",
+    "action": "drop",
+    "evidence": "M3 duplicate of #212 (same Betsie sentence, second ref); #212 keeps the corrected wording"
+  },
+  {
+    "id": "q-corrie-ten-boom-0003",
+    "action": "edit",
+    "evidence": "verbatim (source: '...found out from my experience in Basel, trying to do the Lord's work in your own strength is...'); archive.org FTS hits trampforlord00tenb (1974), trampforlord0000tenb_h6y5",
+    "fields": {
+      "ref": "Tramp for the Lord (1974)",
+      "source": "primary",
+      "witness": {
+        "voice": "Corrie ten Boom",
+        "work": "Tramp for the Lord",
+        "source": "https://archive.org/details/trampforlord00tenb",
+        "path": "https://archive.org/details/trampforlord00tenb",
+        "quote": "Lord's work in your own strength is the most confusing"
+      }
+    }
+  },
+  {
+    "id": "q-joni-eareckson-tada-0001",
+    "action": "replace",
+    "evidence": "H2: 'accomplish what He loves' is Steve Estes' line as Joni quotes him in Life in the Balance (2010), not in A Place of Healing; replaced with the book form in When God Weeps (co-written with Estes), verbatim (archive.org FTS hits whengodweepswhyo00tada 1997/2000), with the origin stated in the insight",
+    "entry": {
+      "id": "q-joni-eareckson-tada-0001",
+      "kind": "quote",
+      "ref": "When God Weeps (1997, with Steve Estes), Part 2",
+      "text": "God permits what he hates to achieve what he loves.",
+      "voice": "Joni Eareckson Tada",
+      "insight": "The sentence Steve Estes first gave Joni at nineteen, when she was newly paralysed, and which she and Estes later wrote into this book. Permission is real, so God is not the author of evil; purpose is real, so nothing he permits is pointless.",
+      "witness": {
+        "voice": "Joni Eareckson Tada",
+        "work": "When God Weeps",
+        "source": "https://archive.org/details/whengodweepswhyo00tada",
+        "path": "https://archive.org/details/whengodweepswhyo00tada",
+        "quote": "God permits what he hates to achieve what he loves"
+      },
+      "source": "primary",
+      "themes": [
+        "providence",
+        "suffering",
+        "sovereignty"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-joni-eareckson-tada-0002",
+    "action": "replace",
+    "evidence": "shipped 'We pray for healing. He answers — but not always how we asked.' has no counterpart in When God Weeps; replaced with a verbatim sentence from A Step Further (archive.org FTS hits stepfurther0000tada_n6k7 1978, 1983, 1990)",
+    "entry": {
+      "id": "q-joni-eareckson-tada-0002",
+      "kind": "quote",
+      "ref": "A Step Further (1978, with Steve Estes), Part 2",
+      "text": "Christians are to pray for healing, but they are not necessarily to think something is wrong if God refuses the request.",
+      "voice": "Joni Eareckson Tada",
+      "insight": "Joni wrote this a decade after praying for healing that did not come. The command to ask is real and so is God's freedom to say no; a refused request is not evidence of weak faith or hidden sin, as Paul learned with his thorn.",
+      "witness": {
+        "voice": "Joni Eareckson Tada",
+        "work": "A Step Further",
+        "source": "https://archive.org/details/stepfurther0000tada_n6k7",
+        "path": "https://archive.org/details/stepfurther0000tada_n6k7",
+        "quote": "Christians are to pray for healing, but they are not necessarily"
+      },
+      "source": "primary",
+      "themes": [
+        "prayer",
+        "healing",
+        "providence"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-ji-packer-0001",
+    "action": "edit",
+    "evidence": "shipped 'and are known by him' is not Packer's wording; every edition reads 'and God has known them, and that this relationship guarantees...'; closing paragraph of ch. 2 'The People Who Know Their God', not ch. 3 (archive.org FTS hits knowinggod0000pack 1973, _d7r0, _c2e1)",
+    "fields": {
+      "ref": "Knowing God (1973), ch. 2",
+      "text": "There is no peace like the peace of those whose minds are possessed with full assurance that they have known God, and God has known them, and that this relationship guarantees God's favour to them in life, through death, and on for ever.",
+      "source": "primary",
+      "witness": {
+        "voice": "J.I. Packer",
+        "work": "Knowing God",
+        "source": "https://archive.org/details/knowinggod0000pack",
+        "path": "https://archive.org/details/knowinggod0000pack",
+        "quote": "There is no peace like the peace of those whose minds are possessed"
+      }
+    }
+  },
+  {
+    "id": "q-ji-packer-0002",
+    "action": "edit",
+    "evidence": "M5: verbatim, opening of ch. 3 'Knowing and Being Known' (not ch. 1); archive.org FTS hits knowinggod0000pack 1973/1975/2004",
+    "fields": {
+      "ref": "Knowing God (1973), ch. 3",
+      "source": "primary",
+      "witness": {
+        "voice": "J.I. Packer",
+        "work": "Knowing God",
+        "source": "https://archive.org/details/knowinggod0000pack",
+        "path": "https://archive.org/details/knowinggod0000pack",
+        "quote": "Once you become aware that the main business that you are here for is to know God"
+      }
+    }
+  },
+  {
+    "id": "q-ji-packer-0003",
+    "action": "edit",
+    "evidence": "M5: verbatim, ch. 1 'The Study of God' (not ch. 3); archive.org FTS hits knowinggod0000pack_d7r0 (1975), _c2e1 (2004)",
+    "fields": {
+      "ref": "Knowing God (1973), ch. 1",
+      "source": "primary",
+      "witness": {
+        "voice": "J.I. Packer",
+        "work": "Knowing God",
+        "source": "https://archive.org/details/knowinggod0000pack_d7r0",
+        "path": "https://archive.org/details/knowinggod0000pack_d7r0",
+        "quote": "Disregard the study of God, and you sentence yourself to stumble and blunder"
+      }
+    }
+  },
+  {
+    "id": "q-ji-packer-0004",
+    "action": "edit",
+    "evidence": "M5: verbatim; running header in the scan places it in ch. 9 'God Only Wise' (the shipped title belonged to ch. 10); archive.org FTS hits knowinggod0000jipa, knowinggodwithst0000pack; insight rewritten (called the quote 'this verse')",
+    "fields": {
+      "ref": "Knowing God (1973), ch. 9 ('God Only Wise')",
+      "insight": "Packer against pious mismeasurement. God's wisdom is aimed at his glory and his people's good, not at a comfortable world; any reading of providence that expects trouble-free lives has confused wisdom with indulgence.",
+      "source": "primary",
+      "witness": {
+        "voice": "J.I. Packer",
+        "work": "Knowing God",
+        "source": "https://archive.org/details/knowinggodwithst0000pack",
+        "path": "https://archive.org/details/knowinggodwithst0000pack",
+        "quote": "God's wisdom is not, and never was, pledged to keep a fallen world happy"
+      }
+    }
+  },
+  {
+    "id": "q-ji-packer-0005",
+    "action": "edit",
+    "evidence": "verbatim excerpt of a longer sentence, ch. 19 'Sons of God'; archive.org FTS hits knowinggod0000pack_c2e1, _v7t4",
+    "fields": {
+      "ref": "Knowing God (1973), ch. 19",
+      "source": "primary",
+      "witness": {
+        "voice": "J.I. Packer",
+        "work": "Knowing God",
+        "source": "https://archive.org/details/knowinggod0000pack_c2e1",
+        "path": "https://archive.org/details/knowinggod0000pack_c2e1",
+        "quote": "the highest privilege that the gospel offers: higher even than justification"
+      }
+    }
+  },
+  {
+    "id": "q-ji-packer-0006",
+    "action": "edit",
+    "evidence": "wording verbatim (source opens 'For the doctrine...') but the book was wrong: it is Packer's 1961 Introductory Essay to Buchanan, reprinted in Celebrating the Saving Work of God (1998) ch. 10; not in any Knowing God scan (archive.org FTS)",
+    "fields": {
+      "ref": "Introductory Essay to James Buchanan, The Doctrine of Justification (1961)",
+      "source": "primary",
+      "witness": {
+        "voice": "J.I. Packer",
+        "work": "Celebrating the Saving Work of God",
+        "source": "https://archive.org/details/celebratingsavin0000jipa",
+        "path": "https://archive.org/details/celebratingsavin0000jipa",
+        "quote": "justification by faith is like Atlas: it bears a world on its shoulders"
+      }
+    }
+  },
+  {
+    "id": "q-ji-packer-0007",
+    "action": "replace",
+    "evidence": "shipped 'God sets his love upon men — God, the great I AM...' not in ch. 12 or anywhere in Knowing God; replaced with Packer's verbatim definition from ch. 12 'The Love of God' (three overlapping archive.org FTS snippets, 1973/1993/1998/2004 scans)",
+    "entry": {
+      "id": "q-ji-packer-0007",
+      "kind": "quote",
+      "ref": "Knowing God (1973), ch. 12",
+      "text": "God's love is an exercise of his goodness towards individual sinners whereby, having identified himself with their welfare, he has given his Son to be their Saviour, and now brings them to know and enjoy him in a covenant relation.",
+      "voice": "J.I. Packer",
+      "insight": "Packer's definition of the love of God, built clause by clause from 1 John 4. It is aimed at particular sinners, it cost the Son, and it ends in a covenant in which we are known and kept. Sentiment cannot do any of those three things.",
+      "witness": {
+        "voice": "J.I. Packer",
+        "work": "Knowing God",
+        "source": "https://archive.org/details/knowinggod0000pack_c2e1",
+        "path": "https://archive.org/details/knowinggod0000pack_c2e1",
+        "quote": "God's love is an exercise of his goodness towards individual sinners"
+      },
+      "source": "primary",
+      "themes": [
+        "love-of-god",
+        "election",
+        "covenant"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-ji-packer-0008",
+    "action": "replace",
+    "evidence": "H1: 'Holiness, for the Puritans, was not solemnity but joy...' is absent from the Quest scan; replaced with a verbatim Packer sentence from the Owen material (three overlapping archive.org FTS snippets, questforgodlines0000pack); exact chapter number not established",
+    "entry": {
+      "id": "q-ji-packer-0008",
+      "kind": "quote",
+      "ref": "A Quest for Godliness (1990), on John Owen",
+      "text": "Holiness, according to the Puritans, cannot be attained without the exercise of faith, any more than it can be perfected without the effort of fighting sin.",
+      "voice": "J.I. Packer",
+      "insight": "Packer's summary of the Puritan doctrine of sanctification: faith and fight, never one without the other. Trust that does not struggle is presumption, and struggle that does not trust is legalism; the Puritans refused both shortcuts.",
+      "witness": {
+        "voice": "J.I. Packer",
+        "work": "A Quest for Godliness",
+        "source": "https://archive.org/details/questforgodlines0000pack",
+        "path": "https://archive.org/details/questforgodlines0000pack",
+        "quote": "Holiness, according to the Puritans, cannot be attained without the exercise of faith"
+      },
+      "source": "primary",
+      "themes": [
+        "holiness",
+        "faith",
+        "sanctification"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-ji-packer-0009",
+    "action": "replace",
+    "evidence": "Concise Theology has no chapter 'The Gospel' and no sentence like the shipped one; replaced with verbatim ch. 3 'Evangelism' p. 58 (archive.org FTS hits evangelismsovere0000jipa 1961 and four later printings)",
+    "entry": {
+      "id": "q-ji-packer-0009",
+      "kind": "quote",
+      "ref": "Evangelism and the Sovereignty of God (1961), ch. 3",
+      "text": "The gospel is a message about God. It tells us who He is, what His character is, what His standards are, and what He requires of us, His creatures.",
+      "voice": "J.I. Packer",
+      "insight": "Packer's first point on what the evangelistic message contains, and the one most often skipped. Good news about Christ makes no sense to a hearer who has not first been told who God is and what he is owed.",
+      "witness": {
+        "voice": "J.I. Packer",
+        "work": "Evangelism and the Sovereignty of God",
+        "source": "https://archive.org/details/evangelismsovere0000jipa",
+        "path": "https://archive.org/details/evangelismsovere0000jipa",
+        "quote": "The gospel is a message about God. It tells us who He is"
+      },
+      "source": "primary",
+      "themes": [
+        "gospel",
+        "mission",
+        "theology-proper"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-ji-packer-0010",
+    "action": "replace",
+    "evidence": "shipped 'There is, we must remind ourselves, a difference between knowing about God and knowing God' is a paraphrase with no hit in any Knowing God scan; replaced with Packer's verbatim sentence opening ch. 2 (archive.org FTS hits knowinggod0000pack_c2e1, _v7t4, 1975 study guide); insight fixed (called the quote a verse)",
+    "entry": {
+      "id": "q-ji-packer-0010",
+      "kind": "quote",
+      "ref": "Knowing God (1973), ch. 2",
+      "text": "One can know a great deal about God without much knowledge of him.",
+      "voice": "J.I. Packer",
+      "insight": "Packer's first caution before the study of God begins. Information about God can pile up in a mind that has never once dealt with him; the test of knowledge is not what you can say about God but whether you talk to him.",
+      "witness": {
+        "voice": "J.I. Packer",
+        "work": "Knowing God",
+        "source": "https://archive.org/details/knowinggod0000pack_c2e1",
+        "path": "https://archive.org/details/knowinggod0000pack_c2e1",
+        "quote": "One can know a great deal about God without much knowledge of him"
+      },
+      "source": "primary",
+      "themes": [
+        "knowing-god",
+        "doctrine"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-martyn-lloyd-jones-0001",
+    "action": "edit",
+    "evidence": "verbatim, ch. 1 'General Consideration' on Psalm 42; archive.org FTS hits spiritualdepress0000lloy (1965), spiritualdepress0000davi",
+    "fields": {
+      "ref": "Spiritual Depression (1965), ch. 1",
+      "source": "primary",
+      "witness": {
+        "voice": "Martyn Lloyd-Jones",
+        "work": "Spiritual Depression",
+        "source": "https://archive.org/details/spiritualdepress0000lloy",
+        "path": "https://archive.org/details/spiritualdepress0000lloy",
+        "quote": "listening to yourself instead of talking to yourself"
+      }
+    }
+  },
+  {
+    "id": "q-martyn-lloyd-jones-0002",
+    "action": "edit",
+    "evidence": "M5: ch. 5 'The Act of Preaching' (not 4). Shipped text silently spliced two passages three sentences apart; now marked with an ellipsis, both halves verbatim (archive.org FTS hits preachingpreache0000mart 1971, preachingpreache00dmar 2011); insight off the template",
+    "fields": {
+      "ref": "Preaching and Preachers (1971), ch. 5",
+      "text": "What is preaching? Logic on fire! Eloquent reason! Are these contradictions? Of course they are not. ... Preaching is theology coming through a man who is on fire.",
+      "insight": "Lloyd-Jones's most-quoted definition, from the chapter on the act of preaching. Without the logic, fire is sentiment; without the fire, logic is a lecture. He held both because he thought a lukewarm treatment of the truth was itself a misreading of it.",
+      "source": "primary",
+      "witness": {
+        "voice": "Martyn Lloyd-Jones",
+        "work": "Preaching and Preachers",
+        "source": "https://archive.org/details/preachingpreache0000mart",
+        "path": "https://archive.org/details/preachingpreache0000mart",
+        "quote": "Preaching is theology coming through a man who is on fire"
+      }
+    }
+  },
+  {
+    "id": "q-martyn-lloyd-jones-0003",
+    "action": "replace",
+    "evidence": "shipped 'The Beatitudes are not natural to anyone...' is a paraphrase with no hit in either volume; replaced with verbatim vol. 1 ch. 3 'An Introduction to the Beatitudes' p. 35 (overlapping archive.org FTS snippets, studiesinsermono0001dmar)",
+    "entry": {
+      "id": "q-martyn-lloyd-jones-0003",
+      "kind": "quote",
+      "ref": "Studies in the Sermon on the Mount (1959), vol. 1, ch. 3",
+      "text": "None of these descriptions refers to what we may call a natural tendency. Each one of them is wholly a disposition which is produced by grace alone and the operation of the Holy Spirit upon us.",
+      "voice": "Martyn Lloyd-Jones",
+      "insight": "Lloyd-Jones on the Beatitudes: none of them describes a temperament some people are born with. Poverty of spirit, meekness and mercy are dispositions the Spirit produces, which is why the Sermon on the Mount describes Christians rather than recruiting them.",
+      "witness": {
+        "voice": "Martyn Lloyd-Jones",
+        "work": "Studies in the Sermon on the Mount",
+        "source": "https://archive.org/details/studiesinsermono0001dmar",
+        "path": "https://archive.org/details/studiesinsermono0001dmar",
+        "quote": "None of these descriptions refers to what we may call a natural tendency"
+      },
+      "source": "primary",
+      "themes": [
+        "regeneration",
+        "holy-spirit",
+        "kingdom"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-martyn-lloyd-jones-0004",
+    "action": "replace",
+    "evidence": "shipped 'something entirely new — something that the world has never seen before' has no hit in either volume (and 'Salt and Light' is in vol. 1, not 2); replaced with verbatim vol. 1 Beatitudes passage (overlapping archive.org FTS snippets, studiesinsermono0001dmar); insight fixed (called the quote 'this verse'); exact chapter not established",
+    "entry": {
+      "id": "q-martyn-lloyd-jones-0004",
+      "kind": "quote",
+      "ref": "Studies in the Sermon on the Mount (1959), vol. 1",
+      "text": "The Christian is altogether different from the world. It is a difference in quality, an essential difference. He is a new man, a new creation; he belongs to an entirely different kingdom. And not only is the world unlike him; it cannot possibly understand him.",
+      "voice": "Martyn Lloyd-Jones",
+      "insight": "Lloyd-Jones on Christian identity. The difference is not that believers behave a little better but that they have been made new, and the world's failure to understand them is a mark of the new birth, not a public-relations problem to fix.",
+      "witness": {
+        "voice": "Martyn Lloyd-Jones",
+        "work": "Studies in the Sermon on the Mount",
+        "source": "https://archive.org/details/studiesinsermono0001dmar",
+        "path": "https://archive.org/details/studiesinsermono0001dmar",
+        "quote": "The Christian is altogether different from the world"
+      },
+      "source": "primary",
+      "themes": [
+        "regeneration",
+        "kingdom",
+        "discipleship"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-martyn-lloyd-jones-0005",
+    "action": "replace",
+    "evidence": "H1: 'There is no more central, no more vital theme...' is absent from The Cross scan; replaced with verbatim sentences from the book (overlapping archive.org FTS snippets, crossgodswayofsa0000davi); insight fixed (called the quote 'the verse'); exact chapter not established",
+    "entry": {
+      "id": "q-martyn-lloyd-jones-0005",
+      "kind": "quote",
+      "ref": "The Cross: God's Way of Salvation (1986)",
+      "text": "The whole of the New Testament is proclaiming the blood of Christ, the death of Christ upon the cross, on Calvary. It is the heart and centre of the Christian evangel, the good news of salvation.",
+      "voice": "Martyn Lloyd-Jones",
+      "insight": "From Lloyd-Jones's sermons on Galatians 6:14, published after his death. He would not let the cross be one topic among many: the apostles preached it as the centre, and a message that moves it to the margin is a different message.",
+      "witness": {
+        "voice": "Martyn Lloyd-Jones",
+        "work": "The Cross: God's Way of Salvation",
+        "source": "https://archive.org/details/crossgodswayofsa0000davi",
+        "path": "https://archive.org/details/crossgodswayofsa0000davi",
+        "quote": "The whole of the New Testament is proclaiming the blood of Christ"
+      },
+      "source": "primary",
+      "themes": [
+        "atonement",
+        "gospel",
+        "preaching"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-martyn-lloyd-jones-0006",
+    "action": "replace",
+    "evidence": "shipped 'The whole purpose of the gospel is to bring people to know God' is not in Joy Unspeakable or any MLJ scan; the real sentence with this opening is in Sermon on the Mount vol. 1 (archive.org FTS hits studiesinsermono0001dmar, studiesinsermono0000lloy); quoted up to the clause end, sentence continues 'and these special injunctions...'",
+    "entry": {
+      "id": "q-martyn-lloyd-jones-0006",
+      "kind": "quote",
+      "ref": "Studies in the Sermon on the Mount (1959), vol. 1",
+      "text": "The whole purpose of the gospel is to bring us into 'the glorious liberty of the children of God'.",
+      "voice": "Martyn Lloyd-Jones",
+      "insight": "Lloyd-Jones, quoting Romans 8:21, on why the Sermon's demands are not a new bondage. The gospel's aim is sons who are free, and its commands describe what freedom looks like once the fear of condemnation is gone.",
+      "witness": {
+        "voice": "Martyn Lloyd-Jones",
+        "work": "Studies in the Sermon on the Mount",
+        "source": "https://archive.org/details/studiesinsermono0001dmar",
+        "path": "https://archive.org/details/studiesinsermono0001dmar",
+        "quote": "The whole purpose of the gospel is to bring us into"
+      },
+      "source": "primary",
+      "themes": [
+        "freedom",
+        "adoption",
+        "gospel"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-tim-keller-0001",
+    "action": "edit",
+    "evidence": "'tradition' ref replaced with a printed source: The Meaning of Marriage ch. 3 'The Essence of Marriage' p. 101, which reads 'in Jesus Christ' (shipped 'in God's sight'); archive.org FTS hits meaningofmarriag0000kell and two other scans",
+    "fields": {
+      "ref": "The Meaning of Marriage (2011), ch. 3",
+      "text": "The gospel is this: We are more sinful and flawed in ourselves than we ever dared believe, yet at the very same time we are more loved and accepted in Jesus Christ than we ever dared hope.",
+      "source": "primary",
+      "witness": {
+        "voice": "Tim Keller",
+        "work": "The Meaning of Marriage",
+        "source": "https://archive.org/details/meaningofmarriag0000kell",
+        "path": "https://archive.org/details/meaningofmarriag0000kell",
+        "quote": "We are more sinful and flawed in ourselves than we ever dared believe"
+      }
+    }
+  },
+  {
+    "id": "q-tim-keller-0002",
+    "action": "edit",
+    "evidence": "M5: verbatim, Part One ch. 2 'The Greatness of Prayer' p. 26 (not Preface); archive.org FTS hits prayerexperienci0000kell (2014), prayerexperienci0000timo",
+    "fields": {
+      "ref": "Prayer (2014), Part One, ch. 2",
+      "source": "primary",
+      "witness": {
+        "voice": "Tim Keller",
+        "work": "Prayer: Experiencing Awe and Intimacy with God",
+        "source": "https://archive.org/details/prayerexperienci0000kell",
+        "path": "https://archive.org/details/prayerexperienci0000kell",
+        "quote": "it is a failure to treat God as God"
+      }
+    }
+  },
+  {
+    "id": "q-tim-keller-0003",
+    "action": "edit",
+    "evidence": "M5: verbatim, Introduction pp. xiv-xv (not ch. 4), sentence completed with ', his children.'; archive.org FTS hits prodigalgodrecov0000kell, isbn_9780525951483",
+    "fields": {
+      "ref": "The Prodigal God (2008), Introduction",
+      "text": "Jesus is showing us the God of Great Expenditure, who is nothing if not prodigal toward us, his children.",
+      "source": "primary",
+      "witness": {
+        "voice": "Tim Keller",
+        "work": "The Prodigal God",
+        "source": "https://archive.org/details/prodigalgodrecov0000kell",
+        "path": "https://archive.org/details/prodigalgodrecov0000kell",
+        "quote": "Jesus is showing us the God of Great Expenditure"
+      }
+    }
+  },
+  {
+    "id": "q-tim-keller-0004",
+    "action": "edit",
+    "evidence": "shipped text added dashes and the gloss 'by making them more central than God'; corrected to the printed sentence (Introduction 'The Idol Factory' pp. xvii-xviii; archive.org FTS hits counterfeitgodse0000kell 2009, _d9q0 2011)",
+    "fields": {
+      "ref": "Counterfeit Gods (2009), Introduction",
+      "text": "The human heart takes good things like a successful career, love, material possessions, even family, and turns them into ultimate things.",
+      "source": "primary",
+      "witness": {
+        "voice": "Tim Keller",
+        "work": "Counterfeit Gods",
+        "source": "https://archive.org/details/counterfeitgodse0000kell",
+        "path": "https://archive.org/details/counterfeitgodse0000kell",
+        "quote": "takes good things like a successful career, love, material possessions, even family"
+      }
+    }
+  },
+  {
+    "id": "q-tim-keller-0005",
+    "action": "edit",
+    "evidence": "H2: wording verbatim (comma after 'that' restored) but the book was wrong: Walking with God ch. 1 'The Cultures of Suffering' p. 30, not The Reason for God (archive.org FTS hits walkingwithgodth0000unse and three other scans)",
+    "fields": {
+      "ref": "Walking with God through Pain and Suffering (2013), ch. 1",
+      "text": "Christianity teaches that, contra fatalism, suffering is overwhelming; contra Buddhism, suffering is real; contra karma, suffering is often unfair; but contra secularism, suffering is meaningful.",
+      "source": "primary",
+      "witness": {
+        "voice": "Tim Keller",
+        "work": "Walking with God through Pain and Suffering",
+        "source": "https://archive.org/details/walkingwithgodth0000unse",
+        "path": "https://archive.org/details/walkingwithgodth0000unse",
+        "quote": "contra Buddhism, suffering is real; contra karma, suffering is often unfair"
+      }
+    }
+  },
+  {
+    "id": "q-tim-keller-0006",
+    "action": "edit",
+    "evidence": "verbatim, ch. 3 'The Essence of Marriage' p. 101 (not ch. 4); archive.org FTS hits meaningofmarriag0000kell",
+    "fields": {
+      "ref": "The Meaning of Marriage (2011), ch. 3",
+      "source": "primary",
+      "witness": {
+        "voice": "Tim Keller",
+        "work": "The Meaning of Marriage",
+        "source": "https://archive.org/details/meaningofmarriag0000kell",
+        "path": "https://archive.org/details/meaningofmarriag0000kell",
+        "quote": "To be known and not loved is our greatest fear"
+      }
+    }
+  },
+  {
+    "id": "q-tim-keller-0007",
+    "action": "edit",
+    "evidence": "shipped first sentence used the Prodigal God wording and the second ('We never get beyond the gospel...') is not in Center Church; corrected to the printed sentences, ch. 3 'The Gospel Affects Everything' pp. 46-48 (not ch. 1); archive.org FTS hits centerchurchdoin0000kell",
+    "fields": {
+      "ref": "Center Church (2012), ch. 3",
+      "text": "The gospel is not just the ABCs but the A to Z of the Christian life. It is inaccurate to think the gospel is what saves non-Christians, and then Christians mature by trying hard to live according to biblical principles.",
+      "source": "primary",
+      "witness": {
+        "voice": "Tim Keller",
+        "work": "Center Church",
+        "source": "https://archive.org/details/centerchurchdoin0000kell",
+        "path": "https://archive.org/details/centerchurchdoin0000kell",
+        "quote": "The gospel is not just the ABCs but the A to Z of the Christian life"
+      }
+    }
+  },
+  {
+    "id": "q-tim-keller-0008",
+    "action": "edit",
+    "evidence": "shipped text dropped 'As Luther taught,' (Keller is summarising Luther); corrected, ch. 2 'The Victory of Christianity' p. 58 (not ch. 1); archive.org FTS hits walkingwithgodth0000unse, _k7z7",
+    "fields": {
+      "ref": "Walking with God through Pain and Suffering (2013), ch. 2",
+      "text": "As Luther taught, suffering is unbearable if you aren't certain that God is for you and with you.",
+      "source": "primary",
+      "witness": {
+        "voice": "Tim Keller",
+        "work": "Walking with God through Pain and Suffering",
+        "source": "https://archive.org/details/walkingwithgodth0000unse",
+        "path": "https://archive.org/details/walkingwithgodth0000unse",
+        "quote": "suffering is unbearable if you aren't certain that God is for you and with you"
+      }
+    }
+  },
+  {
+    "id": "q-da-carson-0001",
+    "action": "replace",
+    "evidence": "H1: 'The Bible is not a book about how to be religious...' has no trace in The Gagging of God scans or elsewhere; replaced with a verbatim sentence from the TGC-hosted full text of For the Love of God vol. 1, Jan 27 (Genesis 28)",
+    "entry": {
+      "id": "q-da-carson-0001",
+      "kind": "quote",
+      "ref": "For the Love of God, vol. 1 (1998), January 27",
+      "text": "One of the great themes of Scripture is how God meets us where we are: in our insecurities, in our conditional obedience, in our mixture of faith and doubt, in our fusion of awe and self-interest, in our understanding and foolishness.",
+      "voice": "D.A. Carson",
+      "insight": "Carson on Jacob at Bethel, bargaining with God the morning after the vision. God did not wait for Jacob to become sincere before keeping the promise, and he does not wait for us either; grace meets mixed motives and starts work on them.",
+      "witness": {
+        "voice": "D.A. Carson",
+        "work": "For the Love of God, vol. 1",
+        "source": "https://media.thegospelcoalition.org/wp-content/uploads/2024/01/08221950/ForTheLoveOfGodVol1.pdf",
+        "path": "https://media.thegospelcoalition.org/wp-content/uploads/2024/01/08221950/ForTheLoveOfGodVol1.pdf",
+        "quote": "One of the great themes of Scripture is how God meets us where we are"
+      },
+      "source": "primary",
+      "themes": [
+        "grace",
+        "faith",
+        "providence"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-da-carson-0002",
+    "action": "edit",
+    "evidence": "first sentence verbatim; shipped second sentence was a paraphrase, corrected to the printed text (TGC full-text PDF, Jan 23 on Nehemiah 13; also archive.org forloveofgodvolu0000dona)",
+    "fields": {
+      "ref": "For the Love of God, vol. 2 (1999), January 23",
+      "text": "People do not drift toward holiness. Apart from grace-driven effort, people do not gravitate toward godliness, prayer, obedience to Scripture, faith, and delight in the Lord.",
+      "source": "primary",
+      "witness": {
+        "voice": "D.A. Carson",
+        "work": "For the Love of God, vol. 2",
+        "source": "https://media.thegospelcoalition.org/wp-content/uploads/2024/01/08222329/ForTheLoveOfGodVol2.pdf",
+        "path": "https://media.thegospelcoalition.org/wp-content/uploads/2024/01/08222329/ForTheLoveOfGodVol2.pdf",
+        "quote": "People do not drift toward holiness"
+      }
+    }
+  },
+  {
+    "id": "q-da-carson-0003",
+    "action": "replace",
+    "evidence": "shipped sentence is a paraphrase of the chapter's opening question; replaced with verbatim ch. 1 'On Distorting the Love of God' p. 11 (archive.org FTS hits difficultdoctrin00daca; also Carson's 1999 BSac article)",
+    "entry": {
+      "id": "q-da-carson-0003",
+      "kind": "quote",
+      "ref": "The Difficult Doctrine of the Love of God (2000), ch. 1",
+      "text": "The love of God in our culture has been purged of anything the culture finds uncomfortable. The love of God has been sanitized, democratized, and above all sentimentalized.",
+      "voice": "D.A. Carson",
+      "insight": "Carson's diagnosis of why the easiest doctrine has become the hardest. A love with no holiness, no wrath and no election left in it is not the love the Bible describes, and it cannot bear the weight people put on it.",
+      "witness": {
+        "voice": "D.A. Carson",
+        "work": "The Difficult Doctrine of the Love of God",
+        "source": "https://archive.org/details/difficultdoctrin00daca",
+        "path": "https://archive.org/details/difficultdoctrin00daca",
+        "quote": "The love of God in our culture has been purged of anything the culture finds uncomfortable"
+      },
+      "source": "primary",
+      "themes": [
+        "love-of-god",
+        "doctrine",
+        "discernment"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-da-carson-0004",
+    "action": "replace",
+    "evidence": "shipped 'All Christian ministry is cross-centered, or it is not Christian ministry' is a paraphrase of a subordinate clause; replaced with the verbatim thesis sentences from the Introduction (archive.org FTS hits crosschristianmi0000daca 1993, crosschristianmi0000cars)",
+    "entry": {
+      "id": "q-da-carson-0004",
+      "kind": "quote",
+      "ref": "The Cross and Christian Ministry (1993), Introduction",
+      "text": "The cross not only establishes what we are to preach, but how we are to preach. It prescribes what Christian leaders must be and how Christians must view Christian leaders.",
+      "voice": "D.A. Carson",
+      "insight": "Carson's thesis from 1 Corinthians: the cross is not only the content of ministry but its shape. A leader who preaches a crucified Christ while building a platform has kept the message and lost the method.",
+      "witness": {
+        "voice": "D.A. Carson",
+        "work": "The Cross and Christian Ministry",
+        "source": "https://archive.org/details/crosschristianmi0000daca",
+        "path": "https://archive.org/details/crosschristianmi0000daca",
+        "quote": "The cross not only establishes what we are to preach, but how we are to preach"
+      },
+      "source": "primary",
+      "themes": [
+        "leadership",
+        "atonement",
+        "preaching"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-da-carson-0005",
+    "action": "replace",
+    "evidence": "shipped 'What we most need to learn about prayer is what Paul prayed' has no hit in any Carson scan; replaced with verbatim Introduction pp. 15-16 (archive.org FTS hits calltospiritualr0000cars, _e1f6; Google Books snippet)",
+    "entry": {
+      "id": "q-da-carson-0005",
+      "kind": "quote",
+      "ref": "A Call to Spiritual Reformation (1992), Introduction",
+      "text": "The one thing we most urgently need in Western Christendom is a deeper knowledge of God. We need to know God better.",
+      "voice": "D.A. Carson",
+      "insight": "Carson's opening claim in a book about Paul's prayers, and the reason he wrote it: the apostle prayed for churches to know God, not to be more comfortable. The priorities of our prayers show what we think we most need.",
+      "witness": {
+        "voice": "D.A. Carson",
+        "work": "A Call to Spiritual Reformation",
+        "source": "https://archive.org/details/calltospiritualr0000cars",
+        "path": "https://archive.org/details/calltospiritualr0000cars",
+        "quote": "The one thing we most urgently need in Western Christendom is a deeper knowledge of God"
+      },
+      "source": "primary",
+      "themes": [
+        "knowing-god",
+        "prayer",
+        "church"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-da-carson-0006",
+    "action": "drop",
+    "evidence": "paraphrase with no close real sentence in The Intolerance of Tolerance; the verified thesis sentence ('Worse, this new tolerance is socially dangerous...') is polemical rather than devotional, so the entry is dropped (Carson keeps 5)"
+  },
+  {
+    "id": "q-john-murray-0001",
+    "action": "replace",
+    "evidence": "shipped 'Salvation by grace alone is the message of the cross...' has no counterpart in the RAA scan (and the book has no 'Introduction'); replaced with verbatim ch. 9 'Union with Christ' p. 161 (three overlapping archive.org FTS snippets, redemptionaccomp00murr)",
+    "entry": {
+      "id": "q-john-murray-0001",
+      "kind": "quote",
+      "ref": "Redemption Accomplished and Applied (1955), Part II, ch. 9",
+      "text": "Union with Christ is really the central truth of the whole doctrine of salvation not only in its application but also in its once-for-all accomplishment in the finished work of Christ.",
+      "voice": "John Murray",
+      "insight": "Murray's thesis for the whole book. Every benefit of redemption, from election to glorification, is a benefit of being in Christ; the ordo salutis is not a ladder we climb but the unfolding of one union.",
+      "witness": {
+        "voice": "John Murray",
+        "work": "Redemption Accomplished and Applied",
+        "source": "https://archive.org/details/redemptionaccomp00murr",
+        "path": "https://archive.org/details/redemptionaccomp00murr",
+        "quote": "Union with Christ is really the central truth of the whole doctrine of salvation"
+      },
+      "source": "primary",
+      "themes": [
+        "union-with-christ",
+        "salvation",
+        "doctrine"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-john-murray-0002",
+    "action": "replace",
+    "evidence": "H1: 'Soften it and the rest goes flat' is fabricated (no hit in the RAA scan or anywhere); replaced with the verbatim opening sentence of the Preface p. 7 (two overlapping archive.org FTS snippets, redemptionaccomp00murr)",
+    "entry": {
+      "id": "q-john-murray-0002",
+      "kind": "quote",
+      "ref": "Redemption Accomplished and Applied (1955), Preface",
+      "text": "The accomplishment of redemption or, as it has frequently been called, the atonement, is central in our Christian faith.",
+      "voice": "John Murray",
+      "insight": "The first sentence of Murray's preface, and the reason the book exists. He treats the atonement not as one doctrine among many but as the centre the rest are arranged around, which is why he refuses to soften any part of it.",
+      "witness": {
+        "voice": "John Murray",
+        "work": "Redemption Accomplished and Applied",
+        "source": "https://archive.org/details/redemptionaccomp00murr",
+        "path": "https://archive.org/details/redemptionaccomp00murr",
+        "quote": "The accomplishment of redemption or, as it has frequently been called, the atonement"
+      },
+      "source": "primary",
+      "themes": [
+        "atonement",
+        "redemption",
+        "doctrine"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-john-murray-0003",
+    "action": "replace",
+    "evidence": "shipped 'Federal headship is the means...' is a paraphrase (Murray's term is 'representative headship'; 'federal' occurs only in a Turretin quotation); replaced with verbatim ch. V 'The Sin Imputed' p. 72, from the downloadable OCR text of the archive.org scan",
+    "entry": {
+      "id": "q-john-murray-0003",
+      "kind": "quote",
+      "ref": "The Imputation of Adam's Sin (1959), ch. V",
+      "text": "If we say that the trespass of Adam is imputed to posterity, all we can strictly and properly be regarded as meaning is that the sin of Adam is reckoned by God as the sin also of posterity.",
+      "voice": "John Murray",
+      "insight": "Murray defining imputation with the precision of a lawyer, because the same word carries Christ's righteousness to believers. If Adam's sin cannot be reckoned to us, neither can Christ's obedience; Romans 5 stands or falls as a whole.",
+      "witness": {
+        "voice": "John Murray",
+        "work": "The Imputation of Adam's Sin",
+        "source": "https://archive.org/details/the-imputation-of-adams-sin",
+        "path": "https://archive.org/details/the-imputation-of-adams-sin",
+        "quote": "If we say that the trespass of Adam is imputed to posterity"
+      },
+      "source": "primary",
+      "themes": [
+        "covenant",
+        "justification",
+        "sin"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-john-murray-0004",
+    "action": "replace",
+    "evidence": "Principles of Conduct is not available in any accessible full text, so the shipped paraphrase cannot be verified; replaced with a verbatim Murray sentence from Collected Writings vol. 2 p. 277 (three overlapping archive.org FTS snippets, collectedwriting0000murr)",
+    "entry": {
+      "id": "q-john-murray-0004",
+      "kind": "quote",
+      "ref": "Collected Writings, vol. 2 (1977), ch. 21 'Definitive Sanctification'",
+      "text": "But it is a fact too frequently overlooked that in the New Testament the most characteristic terms that refer to sanctification are used, not of a process, but of a once-for-all definitive act.",
+      "voice": "John Murray",
+      "insight": "Murray's most influential essay in one sentence. Before sanctification is a lifelong process it is a decisive break: the believer has died to sin's reign, which is why Paul argues from what we are, not from what we should try to become.",
+      "witness": {
+        "voice": "John Murray",
+        "work": "Collected Writings of John Murray, vol. 2",
+        "source": "https://archive.org/details/collectedwriting0000murr",
+        "path": "https://archive.org/details/collectedwriting0000murr",
+        "quote": "the most characteristic terms that refer to sanctification are used, not of a process"
+      },
+      "source": "primary",
+      "themes": [
+        "sanctification",
+        "union-with-christ",
+        "freedom"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-john-murray-0005",
+    "action": "replace",
+    "evidence": "H1: 'womb of all blessing' is fabricated (zero hits anywhere); replaced with verbatim ch. IV 'The Nature of the Imputation' p. 70 from the downloadable OCR text of the archive.org scan",
+    "entry": {
+      "id": "q-john-murray-0005",
+      "kind": "quote",
+      "ref": "The Imputation of Adam's Sin (1959), ch. IV",
+      "text": "The one ground upon which the imputation of the righteousness of Christ becomes ours is the union with Christ.",
+      "voice": "John Murray",
+      "insight": "Murray on why justification is not a legal fiction. Christ's righteousness is reckoned to us because we are joined to him, the way Adam's sin was reckoned to those joined to Adam; the verdict rests on a real union, not a bare transfer.",
+      "witness": {
+        "voice": "John Murray",
+        "work": "The Imputation of Adam's Sin",
+        "source": "https://archive.org/details/the-imputation-of-adams-sin",
+        "path": "https://archive.org/details/the-imputation-of-adams-sin",
+        "quote": "The one ground upon which the imputation of the righteousness of Christ becomes ours"
+      },
+      "source": "primary",
+      "themes": [
+        "justification",
+        "union-with-christ",
+        "grace"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-louis-berkhof-0001",
+    "action": "replace",
+    "evidence": "H2: shipped text was Job 36:26 KJV plus a gloss; replaced with the verbatim opening sentence of 'The Knowability of God' (CCEL full text; also archive.org FTS in the ST scans)",
+    "entry": {
+      "id": "q-louis-berkhof-0001",
+      "kind": "quote",
+      "ref": "Systematic Theology (1932), Part One, ch. II 'The Knowability of God'",
+      "text": "The Christian Church confesses on the one hand that God is the Incomprehensible One, but also on the other hand, that He can be known and that knowledge of Him is an absolute requisite unto salvation.",
+      "voice": "Louis Berkhof",
+      "insight": "Berkhof's opening sentence on whether God can be known, holding two things at once. God exceeds every creaturely grasp, yet he has made himself known enough to be trusted; incomprehensible is not the same as unknowable.",
+      "witness": {
+        "voice": "Louis Berkhof",
+        "work": "Systematic Theology",
+        "source": "https://ccel.org/ccel/berkhof/systematictheology/systematictheology.iii.i.ii.html",
+        "path": "https://ccel.org/ccel/berkhof/systematictheology/systematictheology.iii.i.ii.html",
+        "quote": "The Christian Church confesses on the one hand that God is the Incomprehensible One"
+      },
+      "source": "primary",
+      "themes": [
+        "knowing-god",
+        "revelation",
+        "theology-proper"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-louis-berkhof-0002",
+    "action": "replace",
+    "evidence": "shipped 'The whole work of redemption rests on the doctrine of the person of Christ' has no counterpart in the Christology chapters; replaced with verbatim sentence on the Chalcedonian formula (CCEL full text, p. 321)",
+    "entry": {
+      "id": "q-louis-berkhof-0002",
+      "kind": "quote",
+      "ref": "Systematic Theology (1932), Part Three, 'The Unipersonality of Christ'",
+      "text": "The great central miracle of history was permitted to stand forth in all its grandeur, the supreme paradox, to use Barthian language, God and man in one person.",
+      "voice": "Louis Berkhof",
+      "insight": "Berkhof on why Chalcedon explained nothing and settled everything. The council refused to say how two natures are one person; it only fenced the mystery so the Church would neither divide Christ nor blend him.",
+      "witness": {
+        "voice": "Louis Berkhof",
+        "work": "Systematic Theology",
+        "source": "https://ccel.org/ccel/berkhof/systematictheology/systematictheology.v.i.iii.html",
+        "path": "https://ccel.org/ccel/berkhof/systematictheology/systematictheology.v.i.iii.html",
+        "quote": "The great central miracle of history was permitted to stand forth in all its grandeur"
+      },
+      "source": "primary",
+      "themes": [
+        "christology",
+        "incarnation",
+        "doctrine"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-louis-berkhof-0003",
+    "action": "edit",
+    "evidence": "shipped text dropped 'continuous', 'justified', 'in the image of God' and changed the ending; corrected to Berkhof's definition verbatim (CCEL full text p. 532; archive.org FTS confirms)",
+    "fields": {
+      "ref": "Systematic Theology (1932), Part Four, ch. X 'Sanctification'",
+      "text": "Sanctification may be defined as that gracious and continuous operation of the Holy Spirit, by which He delivers the justified sinner from the pollution of sin, renews his whole nature in the image of God, and enables him to perform good works.",
+      "source": "primary",
+      "witness": {
+        "voice": "Louis Berkhof",
+        "work": "Systematic Theology",
+        "source": "https://ccel.org/ccel/berkhof/systematictheology/systematictheology.vi.x.html",
+        "path": "https://ccel.org/ccel/berkhof/systematictheology/systematictheology.vi.x.html",
+        "quote": "Sanctification may be defined as that gracious and continuous operation of the Holy Spirit"
+      }
+    }
+  },
+  {
+    "id": "q-louis-berkhof-0004",
+    "action": "edit",
+    "evidence": "shipped text was a compression and the book was wrong (not ST Eschatology); real sentences are in the Manual of Christian Doctrine p. 208, quoted with an ellipsis for the intervening 'present, ever-developing spiritual reality' sentence (archive.org FTS hits manualofchristia0000lber; same wording in Summary of Christian Doctrine 1938)",
+    "fields": {
+      "ref": "Manual of Christian Doctrine (1933), 'The Kingdom of God'",
+      "text": "The spiritual kingdom of Christ is both present and future. ... But on the other hand it is also a future hope, which will not be realized until the return of Jesus Christ.",
+      "source": "primary",
+      "witness": {
+        "voice": "Louis Berkhof",
+        "work": "Manual of Christian Doctrine",
+        "source": "https://archive.org/details/manualofchristia0000lber",
+        "path": "https://archive.org/details/manualofchristia0000lber",
+        "quote": "a future hope, which will not be realized until the return of Jesus Christ"
+      }
+    }
+  },
+  {
+    "id": "q-louis-berkhof-0005",
+    "action": "replace",
+    "evidence": "shipped 'Theology is the science of God and of his works' is not in the Manual; it appears in Berkhof's Introductory Volume only as an example of other people's definitions; replaced with a verbatim sentence from ST 'The Knowability of God' p. 34 (CCEL full text)",
+    "entry": {
+      "id": "q-louis-berkhof-0005",
+      "kind": "quote",
+      "ref": "Systematic Theology (1932), Part One, ch. II 'The Knowability of God'",
+      "text": "The position must be maintained, however, that theology would be utterly impossible without a self-revelation of God.",
+      "voice": "Louis Berkhof",
+      "insight": "Berkhof's foundation for the whole discipline. Theology is not human speculation about the divine but a response to what God has said about himself; take away revelation and what is left is religious philosophy.",
+      "witness": {
+        "voice": "Louis Berkhof",
+        "work": "Systematic Theology",
+        "source": "https://ccel.org/ccel/berkhof/systematictheology/systematictheology.iii.i.ii.html",
+        "path": "https://ccel.org/ccel/berkhof/systematictheology/systematictheology.iii.i.ii.html",
+        "quote": "theology would be utterly impossible without a self-revelation of God"
+      },
+      "source": "primary",
+      "themes": [
+        "revelation",
+        "doctrine",
+        "scripture"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-anthony-hoekema-0001",
+    "action": "replace",
+    "evidence": "shipped 'We live between the times...' is a paraphrase ('between the times' occurs only in a quotation about signs); replaced with the verbatim opening sentence of ch. 6 'The Tension Between the Already and the Not Yet' p. 68 (overlapping archive.org FTS snippets, biblefuture0000hoek)",
+    "entry": {
+      "id": "q-anthony-hoekema-0001",
+      "kind": "quote",
+      "ref": "The Bible and the Future (1979), ch. 6",
+      "text": "We have seen that what specifically characterizes New Testament eschatology is an underlying tension between the \"already\" and the \"not yet\" — between what the believer already enjoys and what he does not yet possess.",
+      "voice": "Anthony Hoekema",
+      "insight": "Hoekema's summary of inaugurated eschatology, opening the chapter that made the phrase standard. The Christian lives in a tension, not a contradiction: the kingdom has come, and it is still coming, and both must be preached.",
+      "witness": {
+        "voice": "Anthony Hoekema",
+        "work": "The Bible and the Future",
+        "source": "https://archive.org/details/biblefuture0000hoek",
+        "path": "https://archive.org/details/biblefuture0000hoek",
+        "quote": "underlying tension between the \"already\" and the \"not yet\""
+      },
+      "source": "primary",
+      "themes": [
+        "eschatology",
+        "kingdom",
+        "hope"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-anthony-hoekema-0002",
+    "action": "edit",
+    "evidence": "M5: ch. 5 'The Image of God: A Theological Summary' (not ch. 1); shipped wording was a paraphrase, corrected to the scanned sentence (archive.org FTS hits createdingodsima0000hoek 1986, _o8l4 1994)",
+    "fields": {
+      "ref": "Created in God's Image (1986), ch. 5",
+      "text": "The image of God, we found, describes not just something that man has, but something man is.",
+      "source": "primary",
+      "witness": {
+        "voice": "Anthony Hoekema",
+        "work": "Created in God's Image",
+        "source": "https://archive.org/details/createdingodsima0000hoek",
+        "path": "https://archive.org/details/createdingodsima0000hoek",
+        "quote": "describes not just something that man has, but something man is"
+      }
+    }
+  },
+  {
+    "id": "q-anthony-hoekema-0003",
+    "action": "replace",
+    "evidence": "shipped 'Grace is not God's response to our righteousness...' has no hit in the Saved by Grace scan; replaced with a verbatim sentence from the book (archive.org FTS hit savedbygrace0000anth); chapter inferred from content, page not established",
+    "entry": {
+      "id": "q-anthony-hoekema-0003",
+      "kind": "quote",
+      "ref": "Saved by Grace (1989), on justification",
+      "text": "Not only does Christ bring us righteousness; he is our righteousness.",
+      "voice": "Anthony Hoekema",
+      "insight": "Hoekema on 1 Corinthians 1:30. Justification is not a quality God pours into us but a Person we are joined to; the believer's standing is as secure as Christ's own righteousness, because it is his.",
+      "witness": {
+        "voice": "Anthony Hoekema",
+        "work": "Saved by Grace",
+        "source": "https://archive.org/details/savedbygrace0000anth",
+        "path": "https://archive.org/details/savedbygrace0000anth",
+        "quote": "Not only does Christ bring us righteousness; he is our righteousness"
+      },
+      "source": "primary",
+      "themes": [
+        "justification",
+        "union-with-christ",
+        "christology"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-geerhardus-vos-0001",
+    "action": "edit",
+    "evidence": "verbatim once the leading clause is restored; ch. 1 'The Structure of the Pauline Eschatology' p. 11, not the Preface (archive.org FTS hits paulineeschatolo0000geer and three other scans)",
+    "fields": {
+      "ref": "The Pauline Eschatology (1930), ch. 1",
+      "text": "It will appear throughout that to unfold the Apostle's eschatology means to set forth his theology as a whole.",
+      "source": "primary",
+      "witness": {
+        "voice": "Geerhardus Vos",
+        "work": "The Pauline Eschatology",
+        "source": "https://archive.org/details/paulineeschatolo0000geer",
+        "path": "https://archive.org/details/paulineeschatolo0000geer",
+        "quote": "to unfold the Apostle's eschatology means to set forth his theology as a whole"
+      }
+    }
+  },
+  {
+    "id": "q-geerhardus-vos-0002",
+    "action": "edit",
+    "evidence": "shipped wording blended the 1894 inaugural and the 1948 definitions; corrected to the 1948 definition verbatim, ch. 1 p. 5 (archive.org FTS hit biblicaltheology0000geer)",
+    "fields": {
+      "ref": "Biblical Theology: Old and New Testaments (1948), ch. 1",
+      "text": "Biblical Theology is that branch of Exegetical Theology which deals with the process of the self-revelation of God deposited in the Bible.",
+      "source": "primary",
+      "witness": {
+        "voice": "Geerhardus Vos",
+        "work": "Biblical Theology: Old and New Testaments",
+        "source": "https://archive.org/details/biblicaltheology0000geer",
+        "path": "https://archive.org/details/biblicaltheology0000geer",
+        "quote": "Biblical Theology is that branch of Exegetical Theology which deals with the process"
+      }
+    }
+  },
+  {
+    "id": "q-geerhardus-vos-0005",
+    "action": "replace",
+    "evidence": "shipped 'The resurrection of Christ is the central act of the new age...' has no counterpart in The Pauline Eschatology; replaced with Vos's verbatim sentence from the Hebrews lectures (overlapping archive.org FTS snippets in three scans, teachingofepistl0000geer)",
+    "entry": {
+      "id": "q-geerhardus-vos-0005",
+      "kind": "quote",
+      "ref": "The Teaching of the Epistle to the Hebrews (1956, posth.), ch. 2",
+      "text": "Paul thus presents a bisection of universal history, with the resurrection of Christ as the dividing point.",
+      "voice": "Geerhardus Vos",
+      "insight": "Vos on the two ages. The resurrection is not only proof that Jesus lives but the hinge of history: the age to come has already begun in him, which is why believers can be described as people on whom the ends of the ages have come.",
+      "witness": {
+        "voice": "Geerhardus Vos",
+        "work": "The Teaching of the Epistle to the Hebrews",
+        "source": "https://archive.org/details/teachingofepistl0000geer",
+        "path": "https://archive.org/details/teachingofepistl0000geer",
+        "quote": "Paul thus presents a bisection of universal history"
+      },
+      "source": "primary",
+      "themes": [
+        "resurrection",
+        "eschatology",
+        "union-with-christ"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-j-gresham-machen-0006",
+    "action": "replace",
+    "evidence": "shipped 'Faith must take account of the contents of Scripture...' has no counterpart in the 1936 scan; replaced with verbatim ch. IV 'Is the Bible the Word of God?' p. 58 (overlapping archive.org FTS snippets, christianfaithin0000jgre_q3l2)",
+    "entry": {
+      "id": "q-j-gresham-machen-0006",
+      "kind": "quote",
+      "ref": "The Christian Faith in the Modern World (1936), ch. IV",
+      "text": "What a dreadfully erroneous thing it is to say merely that the Bible contains the Word of God. No, it is the Word of God.",
+      "voice": "J. Gresham Machen",
+      "insight": "Machen's radio talks, a year before his death, against the neo-orthodox formula that Scripture merely contains God's word. If the reader must sift the divine from the human, the reader has become the authority; Machen would not concede that.",
+      "witness": {
+        "voice": "J. Gresham Machen",
+        "work": "The Christian Faith in the Modern World",
+        "source": "https://archive.org/details/christianfaithin0000jgre_q3l2",
+        "path": "https://archive.org/details/christianfaithin0000jgre_q3l2",
+        "quote": "What a dreadfully erroneous thing it is to say merely that the Bible contains the Word of God"
+      },
+      "source": "primary",
+      "themes": [
+        "scripture",
+        "revelation",
+        "truth"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-sinclair-ferguson-0001",
+    "action": "replace",
+    "evidence": "shipped 'grace that saves us is never alone — it always brings the whole Christ' is not in the book (archive.org FTS on the Crossway scan wholechristlegal0000ferg, no hit); replaced with verbatim ch. 2 'Grace in the Gospel' (overlapping FTS snippets)",
+    "entry": {
+      "id": "q-sinclair-ferguson-0001",
+      "kind": "quote",
+      "ref": "The Whole Christ (2016), ch. 2",
+      "text": "Thus in a subtle way we become insensitive to the difference between offering the benefits of Christ and offering Christ himself.",
+      "voice": "Sinclair Ferguson",
+      "insight": "Ferguson's diagnosis of the Marrow controversy and of much preaching since. Forgiveness, adoption and new life are not commodities Christ hands over; they are what you have when you have him, and a gospel that offers the parcels without the Person breeds both legalism and antinomianism.",
+      "witness": {
+        "voice": "Sinclair Ferguson",
+        "work": "The Whole Christ",
+        "source": "https://archive.org/details/wholechristlegal0000ferg",
+        "path": "https://archive.org/details/wholechristlegal0000ferg",
+        "quote": "we become insensitive to the difference between offering the benefits of Christ"
+      },
+      "source": "primary",
+      "themes": [
+        "gospel",
+        "union-with-christ",
+        "grace"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-sinclair-ferguson-0002",
+    "action": "edit",
+    "evidence": "shipped text was a paraphrase (and listed 'sanctification' where the source lists 'justification, reconciliation, redemption, adoption'); corrected to the three verbatim sentences, ch. 2 'Grace in the Gospel' not ch. 3 (archive.org FTS hits wholechristlegal0000ferg)",
+    "fields": {
+      "ref": "The Whole Christ (2016), ch. 2",
+      "text": "The benefits of the gospel are in Christ. They do not exist apart from him. They are ours only in him.",
+      "insight": "Ferguson against the legalism / antinomianism polarity: both errors detach the benefits from the Benefactor. Justification, reconciliation, redemption and adoption are not things Christ gives at a distance; they are ours only by being his.",
+      "source": "primary",
+      "witness": {
+        "voice": "Sinclair Ferguson",
+        "work": "The Whole Christ",
+        "source": "https://archive.org/details/wholechristlegal0000ferg",
+        "path": "https://archive.org/details/wholechristlegal0000ferg",
+        "quote": "The benefits of the gospel are in Christ. They do not exist apart from him"
+      }
+    }
+  },
+  {
+    "id": "q-sinclair-ferguson-0003",
+    "action": "replace",
+    "evidence": "shipped 'Sanctification is by the power of the Spirit, through the work of Christ, applied by the means of grace' has no hit in The Christian Life scan (christianlifedoc0000sinc); replaced with verbatim sentences from The Holy Spirit (archive.org FTS hits holyspirit0000sinc 1996)",
+    "entry": {
+      "id": "q-sinclair-ferguson-0003",
+      "kind": "quote",
+      "ref": "The Holy Spirit (1996), on sanctification",
+      "text": "Holiness is Christlikeness. As the Spirit of Christ, the Holy Spirit is the agent of this transformation.",
+      "voice": "Sinclair Ferguson",
+      "insight": "Ferguson's shortest definition of sanctification. Holiness has a face, and the Spirit's work is not to make us spiritual in general but to make us like the Son; Romans 8:29 is the job description.",
+      "witness": {
+        "voice": "Sinclair Ferguson",
+        "work": "The Holy Spirit",
+        "source": "https://archive.org/details/holyspirit0000sinc",
+        "path": "https://archive.org/details/holyspirit0000sinc",
+        "quote": "Holiness is Christlikeness. As the Spirit of Christ, the Holy Spirit is the agent"
+      },
+      "source": "primary",
+      "themes": [
+        "holiness",
+        "holy-spirit",
+        "sanctification"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-sinclair-ferguson-0004",
+    "action": "replace",
+    "evidence": "In Christ Alone (2007) is not in any accessible full text and the shipped sentence has no hit anywhere in Ferguson's indexed books; replaced with a verbatim sentence from The Christian Life ch. 11 'Union with Christ' (archive.org FTS hits christianlifedoc0000sinc)",
+    "entry": {
+      "id": "q-sinclair-ferguson-0004",
+      "kind": "quote",
+      "ref": "The Christian Life: A Doctrinal Introduction (1981), ch. 11",
+      "text": "Union with Christ is the foundation of all our spiritual experience and all spiritual blessings.",
+      "voice": "Sinclair Ferguson",
+      "insight": "Ferguson's structural claim, and the reason he gives union with Christ its own chapter before the benefits. Every blessing is downstream of being in him; treat the blessings as detachable and the Christian life turns into a checklist.",
+      "witness": {
+        "voice": "Sinclair Ferguson",
+        "work": "The Christian Life: A Doctrinal Introduction",
+        "source": "https://archive.org/details/christianlifedoc0000sinc",
+        "path": "https://archive.org/details/christianlifedoc0000sinc",
+        "quote": "Union with Christ is the foundation of all our spiritual experience"
+      },
+      "source": "primary",
+      "themes": [
+        "union-with-christ",
+        "gospel",
+        "doctrine"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-sinclair-ferguson-0005",
+    "action": "replace",
+    "evidence": "Devoted to God (2016) is not accessible in full text (Banner flipbook locked) and the shipped sentence is unlocated; replaced with a verbatim Ferguson sentence from The Holy Spirit (three overlapping archive.org FTS snippets, holyspirit0000sinc)",
+    "entry": {
+      "id": "q-sinclair-ferguson-0005",
+      "kind": "quote",
+      "ref": "The Holy Spirit (1996), on sanctification",
+      "text": "In a word, for the New Testament, sanctification, or holiness, is Christlikeness or, as various theologians throughout the history of the church have described it, 'Christiformity'.",
+      "voice": "Sinclair Ferguson",
+      "insight": "Ferguson borrowing an old word to say a plain thing: holiness is being formed into the shape of Christ. That relocates sanctification from a list of rules to a Person, and it means the more you know him the more you will resemble him.",
+      "witness": {
+        "voice": "Sinclair Ferguson",
+        "work": "The Holy Spirit",
+        "source": "https://archive.org/details/holyspirit0000sinc",
+        "path": "https://archive.org/details/holyspirit0000sinc",
+        "quote": "sanctification, or holiness, is Christlikeness"
+      },
+      "source": "primary",
+      "themes": [
+        "holiness",
+        "knowing-god",
+        "sanctification"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-kevin-vanhoozer-0001",
+    "action": "replace",
+    "evidence": "H1: 'faith seeking understanding seeking obedience' appears nowhere in Vanhoozer (his phrase is 'faith speaking understanding'); replaced with verbatim sentences from The Drama of Doctrine (chained archive.org FTS snippets, dramaofdoctrinec0000vanh)",
+    "entry": {
+      "id": "q-kevin-vanhoozer-0001",
+      "kind": "quote",
+      "ref": "The Drama of Doctrine (2005), 'Faith Seeking Understanding: Sources and Norms'",
+      "text": "Doctrine has to do with what faith seeking understanding gets when its search is successful. To be precise: Christian doctrine is the reward that faith finds at the end of its search for the meaning of the apostolic testimony to what God was doing in the event of Jesus Christ.",
+      "voice": "Kevin Vanhoozer",
+      "insight": "Vanhoozer's definition of doctrine, keeping Anselm's formula intact. Doctrine is not a set of abstractions layered over the gospel but the understanding faith reaches when it takes the apostles' witness to Christ seriously enough to ask what it means.",
+      "witness": {
+        "voice": "Kevin Vanhoozer",
+        "work": "The Drama of Doctrine",
+        "source": "https://archive.org/details/dramaofdoctrinec0000vanh",
+        "path": "https://archive.org/details/dramaofdoctrinec0000vanh",
+        "quote": "Doctrine has to do with what faith seeking understanding gets when its search is successful"
+      },
+      "source": "primary",
+      "themes": [
+        "doctrine",
+        "faith",
+        "scripture"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-kevin-vanhoozer-0002",
+    "action": "replace",
+    "evidence": "shipped 'The text is a deposit of authorial intent; interpretation is the ethical recovery...' has no hit in three scans; replaced with Vanhoozer's verbatim definition from ch. 5 'Resurrecting the Author' (overlapping archive.org FTS snippets, istheremeaningin0000vanh)",
+    "entry": {
+      "id": "q-kevin-vanhoozer-0002",
+      "kind": "quote",
+      "ref": "Is There a Meaning in This Text? (1998), ch. 5",
+      "text": "I now wish to define the text as a communicative act of a communicative agent fixed by writing.",
+      "voice": "Kevin Vanhoozer",
+      "insight": "Vanhoozer's answer to the death of the author. A text is someone doing something with words, and reading well means recovering what the author did; the reader owes the author that much, and owes God that much when the text is Scripture.",
+      "witness": {
+        "voice": "Kevin Vanhoozer",
+        "work": "Is There a Meaning in This Text?",
+        "source": "https://archive.org/details/istheremeaningin0000vanh",
+        "path": "https://archive.org/details/istheremeaningin0000vanh",
+        "quote": "I now wish to define the text as a communicative act of a communicative agent"
+      },
+      "source": "primary",
+      "themes": [
+        "scripture",
+        "truth",
+        "revelation"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-kevin-vanhoozer-0003",
+    "action": "replace",
+    "evidence": "shipped 'Doctrine is the script...' inverts Vanhoozer's terms (Scripture is the script; doctrine gives direction); replaced with the verbatim thesis from the Introduction (archive.org FTS hits dramaofdoctrinec0000vanh, _n0u6)",
+    "entry": {
+      "id": "q-kevin-vanhoozer-0003",
+      "kind": "quote",
+      "ref": "The Drama of Doctrine (2005), Introduction",
+      "text": "Doctrine proceeds from an authoritative script and gives direction as to how individuals and the church can participate fittingly in the drama of redemption.",
+      "voice": "Kevin Vanhoozer",
+      "insight": "Vanhoozer's thesis sentence. Scripture is the script, doctrine is the stage direction, and the church is the company that has to perform; doctrine that is never enacted has stopped one step short of its purpose.",
+      "witness": {
+        "voice": "Kevin Vanhoozer",
+        "work": "The Drama of Doctrine",
+        "source": "https://archive.org/details/dramaofdoctrinec0000vanh",
+        "path": "https://archive.org/details/dramaofdoctrinec0000vanh",
+        "quote": "Doctrine proceeds from an authoritative script and gives direction"
+      },
+      "source": "primary",
+      "themes": [
+        "doctrine",
+        "scripture",
+        "church"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-kevin-vanhoozer-0004",
+    "action": "replace",
+    "evidence": "shipped 'has the resources to read Scripture together, without first solving every disagreement' has no hit in the Brazos scan; replaced with verbatim sentence (overlapping archive.org FTS snippets, biblicalauthorit0000vanh); page not established",
+    "entry": {
+      "id": "q-kevin-vanhoozer-0004",
+      "kind": "quote",
+      "ref": "Biblical Authority after Babel (2016), conclusion",
+      "text": "Mere Protestant Christianity uses the resources of the solas and the priesthood of all believers to express the unity-in-diversity that local churches have in Christ.",
+      "voice": "Kevin Vanhoozer",
+      "insight": "Vanhoozer's defence of Protestantism against the charge that sola scriptura only breeds division. The five solas and the priesthood of believers are the resources for a unity that does not require uniformity, which is what the New Testament churches already had.",
+      "witness": {
+        "voice": "Kevin Vanhoozer",
+        "work": "Biblical Authority after Babel",
+        "source": "https://archive.org/details/biblicalauthorit0000vanh",
+        "path": "https://archive.org/details/biblicalauthorit0000vanh",
+        "quote": "Mere Protestant Christianity uses the resources of the solas"
+      },
+      "source": "primary",
+      "themes": [
+        "church",
+        "scripture",
+        "doctrine"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-michael-reeves-0001",
+    "action": "edit",
+    "evidence": "shipped text spliced two Reeves ideas and invented 'love requires a beloved'; corrected to the verbatim sentence from the Introduction (archive.org FTS hits delightingintrin0000reev and the UK ed. goodgodenjoyingf0000mich)",
+    "fields": {
+      "ref": "Delighting in the Trinity (2012), Introduction",
+      "text": "Here is a God who is not essentially lonely, but who has been loving for all eternity as the Father has loved the Son in the Spirit.",
+      "source": "primary",
+      "witness": {
+        "voice": "Michael Reeves",
+        "work": "Delighting in the Trinity",
+        "source": "https://archive.org/details/delightingintrin0000reev",
+        "path": "https://archive.org/details/delightingintrin0000reev",
+        "quote": "Here is a God who is not essentially lonely"
+      }
+    }
+  },
+  {
+    "id": "q-michael-reeves-0002",
+    "action": "edit",
+    "evidence": "shipped 'not, first and foremost, about ethics or doctrine; it is about a Triune God' was a paraphrase; corrected to the verbatim sentence, Introduction (archive.org FTS hits delightingintrin0000reev, goodgodenjoyingf0000mich); insight adjusted to fit",
+    "fields": {
+      "ref": "Delighting in the Trinity (2012), Introduction",
+      "text": "Yet Christianity is not primarily about lifestyle change; it is about knowing God.",
+      "insight": "Reeves recentering the Christian religion on its object. Ethics and doctrine are downstream; the thing itself is knowing the Father, Son and Spirit, and a Christianity that skips to behaviour has skipped the point.",
+      "source": "primary",
+      "witness": {
+        "voice": "Michael Reeves",
+        "work": "Delighting in the Trinity",
+        "source": "https://archive.org/details/delightingintrin0000reev",
+        "path": "https://archive.org/details/delightingintrin0000reev",
+        "quote": "Christianity is not primarily about lifestyle change; it is about knowing God"
+      }
+    }
+  },
+  {
+    "id": "q-michael-reeves-0003",
+    "action": "replace",
+    "evidence": "shipped 'Jesus is not a part of Christianity; Jesus is Christianity' has no hit in Rejoicing in Christ or the UK ed. Christ Our Life (only the introduction's title is close); replaced with a verbatim sentence from that introduction (chained archive.org FTS snippets, rejoicinginchris0000reev)",
+    "entry": {
+      "id": "q-michael-reeves-0003",
+      "kind": "quote",
+      "ref": "Rejoicing in Christ (2015), Introduction",
+      "text": "This book, then, aims for something deeper than a new technique or a call to action: to consider Christ, that he might become more central for you, that you might know him better, treasure him more and enter into his joy.",
+      "voice": "Michael Reeves",
+      "insight": "Reeves stating his aim in the introduction titled 'Christianity Is Christ'. Most Christian books offer a technique; this one offers a Person, on the theory that beholding Christ is what actually changes people.",
+      "witness": {
+        "voice": "Michael Reeves",
+        "work": "Rejoicing in Christ",
+        "source": "https://archive.org/details/rejoicinginchris0000reev",
+        "path": "https://archive.org/details/rejoicinginchris0000reev",
+        "quote": "to consider Christ, that he might become more central for you"
+      },
+      "source": "primary",
+      "themes": [
+        "christology",
+        "joy",
+        "knowing-god"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-michael-reeves-0004",
+    "action": "edit",
+    "evidence": "shipped 'not first a fight against Rome but a recovery of Christ' was a paraphrase; corrected to the verbatim sentence, which is in the closing chapter not the Introduction (archive.org FTS hits unquenchableflam0000reev IVP and B&H scans)",
+    "fields": {
+      "ref": "The Unquenchable Flame (2009), closing chapter",
+      "text": "The closer one looks, the clearer it becomes: the Reformation was not, principally, a negative movement, about moving away from Rome; it was a positive movement, about moving towards the gospel.",
+      "source": "primary",
+      "witness": {
+        "voice": "Michael Reeves",
+        "work": "The Unquenchable Flame",
+        "source": "https://archive.org/details/unquenchableflam0000reev",
+        "path": "https://archive.org/details/unquenchableflam0000reev",
+        "quote": "the Reformation was not, principally, a negative movement"
+      }
+    }
+  },
+  {
+    "id": "q-dane-ortlund-0001",
+    "action": "edit",
+    "evidence": "shipped text stitched two passages into a paraphrase; corrected to the verbatim sentence on p. 19 of ch. 1 'His Very Heart' (Crossway-hosted excerpt PDF, text extracted and matched); insight adjusted",
+    "fields": {
+      "ref": "Gentle and Lowly (2020), ch. 1",
+      "text": "And when Jesus tells us what animates him most deeply, what is most true of him—when he exposes the innermost recesses of his being—what we find there is: gentle and lowly.",
+      "insight": "Ortlund's premise from Matthew 11:29, the one place Jesus describes his own heart. What he says about himself outweighs what we project onto him, and what he says is not severe but gentle.",
+      "source": "primary",
+      "witness": {
+        "voice": "Dane Ortlund",
+        "work": "Gentle and Lowly",
+        "source": "https://static.crossway.org/excerpts/media/6a7e8fadeeb3ee26330d4ff9ccec52641c22354c/Gentle_and_Lowly_excerpt.pdf",
+        "path": "https://static.crossway.org/excerpts/media/6a7e8fadeeb3ee26330d4ff9ccec52641c22354c/Gentle_and_Lowly_excerpt.pdf",
+        "quote": "what we find there is: gentle and lowly"
+      }
+    }
+  },
+  {
+    "id": "q-dane-ortlund-0002",
+    "action": "replace",
+    "evidence": "shipped 'The actual feelings of the actual heart of the actual Christ...' has no hit in the Crossway scan; replaced with verbatim ch. 2 'His Heart in Action' p. 26 (archive.org FTS hit gentlelowlyheart0000ortl with running head)",
+    "entry": {
+      "id": "q-dane-ortlund-0002",
+      "kind": "quote",
+      "ref": "Gentle and Lowly (2020), ch. 2",
+      "text": "Time and again it is the morally disgusting, the socially reviled, the inexcusable and undeserving, who do not simply receive Christ's mercy but to whom Christ most naturally gravitates.",
+      "voice": "Dane Ortlund",
+      "insight": "Ortlund reading the Gospels for where Jesus actually goes. His mercy is not a reluctant concession to the worst people; they are the ones he moves toward, which is bad news for the respectable and very good news for everyone who knows what they are.",
+      "witness": {
+        "voice": "Dane Ortlund",
+        "work": "Gentle and Lowly",
+        "source": "https://archive.org/details/gentlelowlyheart0000ortl",
+        "path": "https://archive.org/details/gentlelowlyheart0000ortl",
+        "quote": "Time and again it is the morally disgusting, the socially reviled"
+      },
+      "source": "primary",
+      "themes": [
+        "mercy",
+        "christology",
+        "grace"
+      ],
+      "added": "0.5.0"
+    }
+  },
+  {
+    "id": "q-dane-ortlund-0003",
+    "action": "edit",
+    "evidence": "shipped 'Christian growth is not adding to Christ but going deeper into Christ' was a paraphrase; corrected to the verbatim sentence, Introduction p. 16 (Crossway-hosted excerpt PDF, text extracted and matched; also archive.org FTS howdoesgodchange0000dane)",
+    "fields": {
+      "ref": "Deeper (2021), Introduction",
+      "text": "Growing in Christ is not centrally improving or adding or experiencing but deepening.",
+      "source": "primary",
+      "witness": {
+        "voice": "Dane Ortlund",
+        "work": "Deeper",
+        "source": "https://static.crossway.org/excerpts/media/98ddf63e14cd956d540b5fd45ec907892283a8aa/Deeper_excerpt.pdf",
+        "path": "https://static.crossway.org/excerpts/media/98ddf63e14cd956d540b5fd45ec907892283a8aa/Deeper_excerpt.pdf",
+        "quote": "Growing in Christ is not centrally improving or adding or experiencing but deepening"
+      }
+    }
+  }
+]

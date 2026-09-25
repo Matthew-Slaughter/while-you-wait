@@ -38,8 +38,8 @@
         },
         "whileYouWait.kinds": {
           "type": "array",
-          "items": { "type": "string", "enum": ["scripture", "quote", "creed", "prayer"] },
-          "default": ["scripture", "quote", "creed", "prayer"],
+          "items": { "type": "string", "enum": ["scripture", "quote", "creed", "prayer", "hymn"] },
+          "default": ["scripture", "quote", "creed", "prayer", "hymn"],
           "description": "Which entry kinds are eligible to be shown."
         }
       }

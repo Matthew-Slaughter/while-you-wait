@@ -1,0 +1,1640 @@
+[
+  {
+    "id": "q-jim-elliot-0001",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Jim Elliot",
+        "work": "Shadow of the Almighty",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22He+is+no+fool+who+gives+what+he+cannot+keep+to+gain+what+he+cannot+lose%22+AND+identifier%3A%28shadowofalmighty0000elis%29&size=1",
+        "path": "web/ee28cd206fe08a69.json",
+        "quote": "He is no fool who gives what he cannot keep to gain what he cannot lose"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (shadowofalmighty0000elis) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-elisabeth-elliot-0001",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Elisabeth Elliot",
+        "work": "Keep a Quiet Heart",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Leave+it+all+in+the+Hands+that+were+wounded+for+you%22+AND+identifier%3A%28keepquietheart00elli%29&size=1",
+        "path": "web/e22a46caa1578d06.json",
+        "quote": "Leave it all in the Hands that were wounded for you"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (keepquietheart00elli) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-corrie-ten-boom-0001",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Corrie ten Boom",
+        "work": "The Hiding Place",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22there+is+no+pit+so+deep+that+He+is+not+deeper+still%22+AND+identifier%3A%28hidingplace0000corr_q3c0%29&size=1",
+        "path": "web/d5b92d111054081c.json",
+        "quote": "there is no pit so deep that He is not deeper still"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (hidingplace0000corr_q3c0) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-amy-carmichael-0001",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Amy Carmichael",
+        "work": "Toward Jerusalem",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22For+in+Acceptance+lieth+peace%22+AND+identifier%3A%28towardjerusalem0000amyc%29&size=1",
+        "path": "web/2b254068b43e87c5.json",
+        "quote": "For in Acceptance lieth peace"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (towardjerusalem0000amyc) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-dietrich-bonhoeffer-0001",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Dietrich Bonhoeffer",
+        "work": "The Cost of Discipleship",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22When+Christ+calls+a+man%2C+he+bids+him+come+and+die%22+AND+identifier%3A%28costofdisciplesh0000diet%29&size=1",
+        "path": "web/a59c054e2effe607.json",
+        "quote": "When Christ calls a man, he bids him come and die"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (costofdisciplesh0000diet) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-dietrich-bonhoeffer-0002",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Dietrich Bonhoeffer",
+        "work": "The Cost of Discipleship",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Cheap+grace+is+the+deadly+enemy+of+our+Church%22+AND+identifier%3A%28bwb_KT-241-897%29&size=1",
+        "path": "web/341e2ee5c820e0a8.json",
+        "quote": "Cheap grace is the deadly enemy of our Church"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (bwb_KT-241-897) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-ji-packer-0001",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "J.I. Packer",
+        "work": "Knowing God",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22There+is+no+peace+like+the+peace+of+those+whose+minds+are+possessed%22+AND+identifier%3A%28knowinggod0000pack%29&size=1",
+        "path": "web/92509c9c87e71ab8.json",
+        "quote": "There is no peace like the peace of those whose minds are possessed"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (knowinggod0000pack) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-ji-packer-0002",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "J.I. Packer",
+        "work": "Knowing God",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Once+you+become+aware+that+the+main+business+that+you+are+here+for+is+to+know+God%22+AND+identifier%3A%28knowinggod0000pack%29&size=1",
+        "path": "web/b641dc020e24a88a.json",
+        "quote": "Once you become aware that the main business that you are here for is to know God"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (knowinggod0000pack) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-john-piper-0002",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "John Piper",
+        "work": "Don't Waste Your Life",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22That+will+not+be+a+tragedy%22+AND+identifier%3A%28dontwasteyourlif0000pipe%29&size=1",
+        "path": "web/bd1deafb993db44f.json",
+        "quote": "That will not be a tragedy"
+      }
+    },
+    "evidence": "witness.source repointed from a publisher-hosted PDF (which the verifier cannot read: no PDF extractor) to the archive.org full-text-search API query for this sentence inside the scan (dontwasteyourlif0000pipe) ; the JSON response carries the OCR snippet, which the verifier extracts (exact). witness.quote re-anchored to the span the OCR snippet returns; text unchanged."
+  },
+  {
+    "id": "q-tim-keller-0001",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Tim Keller",
+        "work": "The Meaning of Marriage",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22We+are+more+sinful+and+flawed+in+ourselves+than+we+ever+dared+believe%22+AND+identifier%3A%28meaningofmarriag0000kell%29&size=1",
+        "path": "web/b0b60ec3579a337f.json",
+        "quote": "We are more sinful and flawed in ourselves than we ever dared believe"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (meaningofmarriag0000kell) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-martyn-lloyd-jones-0001",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Martyn Lloyd-Jones",
+        "work": "Spiritual Depression",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22listening+to+yourself+instead+of+talking+to+yourself%22+AND+identifier%3A%28spiritualdepress0000lloy%29&size=1",
+        "path": "web/c8198040fa3c7c2a.json",
+        "quote": "listening to yourself instead of talking to yourself"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (spiritualdepress0000lloy) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-rc-sproul-0001",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "R.C. Sproul",
+        "work": "The Holiness of God",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22The+primary+meaning+of+holy+is%22+AND+identifier%3A%28holinessofgod0000unse%29&size=1",
+        "path": "web/9af093781e91d23b.json",
+        "quote": "The primary meaning of holy is"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (holinessofgod0000unse) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-da-carson-0001",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "D.A. Carson",
+        "work": "For the Love of God, vol. 1",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22One+of+the+great+themes+of+Scripture+is+how+God+meets+us+where+we+are%22+AND+identifier%3A%28forloveofgoddail0000cars%29&size=1",
+        "path": "web/e32f793b031cb996.json",
+        "quote": "One of the great themes of Scripture is how God meets us where we are"
+      }
+    },
+    "evidence": "witness.source repointed from a publisher-hosted PDF (which the verifier cannot read: no PDF extractor) to the archive.org full-text-search API query for this sentence inside the scan (forloveofgoddail0000cars) ; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-da-carson-0002",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "D.A. Carson",
+        "work": "For the Love of God, vol. 2",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22People+do+not+drift+toward+holiness%22+AND+identifier%3A%28forloveofgodvolu0000dona%29&size=1",
+        "path": "web/bebdb39dd8d1a740.json",
+        "quote": "People do not drift toward holiness"
+      }
+    },
+    "evidence": "witness.source repointed from a publisher-hosted PDF (which the verifier cannot read: no PDF extractor) to the archive.org full-text-search API query for this sentence inside the scan (forloveofgodvolu0000dona) ; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-sinclair-ferguson-0001",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Sinclair Ferguson",
+        "work": "The Whole Christ",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22we+become+insensitive+to+the+difference+between+offering+the+benefits+of+Christ%22+AND+identifier%3A%28wholechristlegal0000ferg%29&size=1",
+        "path": "web/e9384fdb5996fc50.json",
+        "quote": "we become insensitive to the difference between offering the benefits of Christ"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (wholechristlegal0000ferg) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-kevin-vanhoozer-0001",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Kevin Vanhoozer",
+        "work": "The Drama of Doctrine",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Doctrine+has+to+do+with+what+faith+seeking+understanding+gets+when+its+search+is+successful%22+AND+identifier%3A%28dramaofdoctrinec0000vanh%29&size=1",
+        "path": "web/2182e7b3ecc4cd8e.json",
+        "quote": "Doctrine has to do with what faith seeking understanding gets when its search is successful"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (dramaofdoctrinec0000vanh) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-michael-reeves-0001",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Michael Reeves",
+        "work": "Delighting in the Trinity",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Here+is+a+God+who+is+not+essentially+lonely%22+AND+identifier%3A%28delightingintrin0000reev%29&size=1",
+        "path": "web/93f03763258e5ce3.json",
+        "quote": "Here is a God who is not essentially lonely"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (delightingintrin0000reev) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-cs-lewis-0001",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "C.S. Lewis",
+        "work": "Mere Christianity",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Aim+at+Heaven+and+you+will+get+earth%22+AND+identifier%3A%28merechristianity0000csle_j5s7%29&size=1",
+        "path": "web/890391a8d0504732.json",
+        "quote": "Aim at Heaven and you will get earth"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (merechristianity0000csle_j5s7) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-cs-lewis-0002",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "C.S. Lewis",
+        "work": "Mere Christianity",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22If+I+find+in+myself+a+desire+which+no+experience+in+this+world+can+satisfy%22+AND+identifier%3A%28christianbehavio0000csle_f7s8%29&size=1",
+        "path": "web/1a9c2cfc9e63e036.json",
+        "quote": "If I find in myself a desire which no experience in this world can satisfy"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (christianbehavio0000csle_f7s8) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-cs-lewis-0003",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "C.S. Lewis",
+        "work": "The Weight of Glory",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22There+are+no+ordinary+people.+You+have+never+talked+to+a+mere+mortal%22+AND+identifier%3A%28weightofgloryoth0000csle%29&size=1",
+        "path": "web/f1ad0ff2b361a230.json",
+        "quote": "There are no ordinary people. You have never talked to a mere mortal"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (weightofgloryoth0000csle) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-cs-lewis-0004",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "C.S. Lewis",
+        "work": "Mere Christianity",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Pride+leads+to+every+other+vice%3A+it+is+the+complete+anti-God+state+of+mind%22+AND+identifier%3A%28merechristianity0000csle_d7g1%29&size=1",
+        "path": "web/8896bc99ed7633fe.json",
+        "quote": "Pride leads to every other vice: it is the complete anti-God state of mind"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (merechristianity0000csle_d7g1) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-cs-lewis-0005",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "C.S. Lewis",
+        "work": "God in the Dock",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Christianity+is+a+statement+which%2C+if+false%2C+is+of+no+importance%22+AND+identifier%3A%28godindockessayso00lewi_0%29&size=1",
+        "path": "web/c3c37d98ace389a0.json",
+        "quote": "Christianity is a statement which, if false, is of no importance"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (godindockessayso00lewi_0) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-cs-lewis-0006",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "C.S. Lewis",
+        "work": "Letters to Malcolm",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Joy+is+the+serious+business+of+Heaven%22+AND+identifier%3A%28letterstomalcolm0000csle%29&size=1",
+        "path": "web/87c58d28f9d27418.json",
+        "quote": "Joy is the serious business of Heaven"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (letterstomalcolm0000csle) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-geerhardus-vos-0001",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Geerhardus Vos",
+        "work": "The Pauline Eschatology",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22to+unfold+the+Apostle%27s+eschatology+means+to+set+forth+his+theology+as+a+whole%22+AND+identifier%3A%28paulineeschatolo0000geer%29&size=1",
+        "path": "web/7148a258a5a2bf74.json",
+        "quote": "to unfold the Apostle's eschatology means to set forth his theology as a whole"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (paulineeschatolo0000geer) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-geerhardus-vos-0002",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Geerhardus Vos",
+        "work": "Biblical Theology: Old and New Testaments",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Biblical+Theology+is+that+branch+of+Exegetical+Theology+which+deals+with+the+process%22+AND+identifier%3A%28biblicaltheology0000geer%29&size=1",
+        "path": "web/69039ec207fba1d0.json",
+        "quote": "Biblical Theology is that branch of Exegetical Theology which deals with the process"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (biblicaltheology0000geer) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-geerhardus-vos-0005",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Geerhardus Vos",
+        "work": "The Teaching of the Epistle to the Hebrews",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Paul+thus+presents+a+bisection+of+universal%22+AND+identifier%3A%28teachingofepistl0000geer%29&size=1",
+        "path": "web/f0a86e30ca462191.json",
+        "quote": "Paul thus presents a bisection of universal"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (teachingofepistl0000geer) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). witness.quote re-anchored to the span the OCR snippet returns; text unchanged."
+  },
+  {
+    "id": "q-j-gresham-machen-0006",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "J. Gresham Machen",
+        "work": "The Christian Faith in the Modern World",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22What+a+dreadfully+erroneous+thing+it+is+to+say+merely+that+the+Bible+contains+the+Word+of+God%22+AND+identifier%3A%28christianfaithin0000jgre_q3l2%29&size=1",
+        "path": "web/160741c52cc224fe.json",
+        "quote": "What a dreadfully erroneous thing it is to say merely that the Bible contains the Word of God"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (christianfaithin0000jgre_q3l2) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-cs-lewis-0007",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "C.S. Lewis",
+        "work": "Mere Christianity",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22A+man+who+was+merely+a+man+and+said+the+sort+of+things+Jesus+said%22+AND+identifier%3A%28merechristianity0000csle_d7g1%29&size=1",
+        "path": "web/cbeb53562ee5dcf9.json",
+        "quote": "A man who was merely a man and said the sort of things Jesus said"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (merechristianity0000csle_d7g1) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-cs-lewis-0008",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "C.S. Lewis",
+        "work": "The Four Loves",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22To+love+at+all+is+to+be+vulnerable%22+AND+identifier%3A%28the-four-loves%29&size=1",
+        "path": "web/05ec747ef6b71982.json",
+        "quote": "To love at all is to be vulnerable"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (the-four-loves) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-cs-lewis-0009",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "C.S. Lewis",
+        "work": "Surprised by Joy",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22I+gave+in%2C+and+admitted+that+God+was+God%2C+and+knelt+and+prayed%22+AND+identifier%3A%28surprisedbyjoy0000csle%29&size=1",
+        "path": "web/4a45770d2e0dabc8.json",
+        "quote": "I gave in, and admitted that God was God, and knelt and prayed"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (surprisedbyjoy0000csle) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-cs-lewis-0010",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "C.S. Lewis",
+        "work": "Reflections on the Psalms",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22In+commanding+us+to+glorify+Him%2C+God+is+inviting+us+to+enjoy+Him%22+AND+identifier%3A%28reflectionsonpsa0000csle_h7q2%29&size=1",
+        "path": "web/ee00aef44f3566fd.json",
+        "quote": "In commanding us to glorify Him, God is inviting us to enjoy Him"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (reflectionsonpsa0000csle_h7q2) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-martyn-lloyd-jones-0002",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Martyn Lloyd-Jones",
+        "work": "Preaching and Preachers",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Preaching+is+theology+coming+through+a+man+who+is+on+fire%22+AND+identifier%3A%28preachingpreache0000mart%29&size=1",
+        "path": "web/64fc082aa0ba0c72.json",
+        "quote": "Preaching is theology coming through a man who is on fire"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (preachingpreache0000mart) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-martyn-lloyd-jones-0003",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Martyn Lloyd-Jones",
+        "work": "Studies in the Sermon on the Mount",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22of+these+descriptions+refers+to+what+we+may+call+a+natural+tendency%22+AND+identifier%3A%28studiesinsermono0001dmar%29&size=1",
+        "path": "web/10eb50001c70fa5b.json",
+        "quote": "of these descriptions refers to what we may call a natural tendency"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (studiesinsermono0001dmar) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). witness.quote re-anchored to the span the OCR snippet returns; text unchanged."
+  },
+  {
+    "id": "q-martyn-lloyd-jones-0004",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Martyn Lloyd-Jones",
+        "work": "Studies in the Sermon on the Mount",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22The+Christian+is+altogether+different+from+the+world%22+AND+identifier%3A%28studiesinsermono0001dmar%29&size=1",
+        "path": "web/1a1b149c54300c19.json",
+        "quote": "The Christian is altogether different from the world"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (studiesinsermono0001dmar) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-martyn-lloyd-jones-0005",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Martyn Lloyd-Jones",
+        "work": "The Cross: God's Way of Salvation",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22The+whole+of+the+New+Testament+is+proclaiming+the+blood+of+Christ%22+AND+identifier%3A%28crossgodswayofsa0000davi%29&size=1",
+        "path": "web/159fb924a4fde058.json",
+        "quote": "The whole of the New Testament is proclaiming the blood of Christ"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (crossgodswayofsa0000davi) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-martyn-lloyd-jones-0006",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Martyn Lloyd-Jones",
+        "work": "Studies in the Sermon on the Mount",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22The+whole+purpose+of+the+gospel+is+to+bring+us+into%22+AND+identifier%3A%28studiesinsermono0001dmar%29&size=1",
+        "path": "web/709e79d1d5450e90.json",
+        "quote": "The whole purpose of the gospel is to bring us into"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (studiesinsermono0001dmar) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-dietrich-bonhoeffer-0003",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Dietrich Bonhoeffer",
+        "work": "Life Together",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Christianity+means+community+through+Jesus+Christ+and+in+Jesus+Christ%22+AND+identifier%3A%28lifetogether0000unse_c7z9%29&size=1",
+        "path": "web/6dc3941aba4cc646.json",
+        "quote": "Christianity means community through Jesus Christ and in Jesus Christ"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (lifetogether0000unse_c7z9) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-dietrich-bonhoeffer-0004",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Dietrich Bonhoeffer",
+        "work": "Life Together",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22He+who+loves+his+dream+of+a%22+AND+identifier%3A%28lifetogether0000unse_c7z9%29&size=1",
+        "path": "web/2b7ddd3f63bb1829.json",
+        "quote": "He who loves his dream of a"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (lifetogether0000unse_c7z9) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). witness.quote re-anchored to the span the OCR snippet returns; text unchanged."
+  },
+  {
+    "id": "q-dietrich-bonhoeffer-0005",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Dietrich Bonhoeffer",
+        "work": "The Cost of Discipleship",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Cheap+grace+is+grace+without+discipleship%2C+grace+without+the+cross%22+AND+identifier%3A%28bwb_KT-241-897%29&size=1",
+        "path": "web/d108176761a3242b.json",
+        "quote": "Cheap grace is grace without discipleship, grace without the cross"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (bwb_KT-241-897) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-dietrich-bonhoeffer-0006",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Dietrich Bonhoeffer",
+        "work": "The Cost of Discipleship",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Costly+grace+is+the+treasure+hidden+in+the+field%22+AND+identifier%3A%28bwb_KT-241-897%29&size=1",
+        "path": "web/6eba8e7aae512e1d.json",
+        "quote": "Costly grace is the treasure hidden in the field"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (bwb_KT-241-897) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-dietrich-bonhoeffer-0007",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Dietrich Bonhoeffer",
+        "work": "Letters and Papers from Prison",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Only+the+suffering+God+can+help%22+AND+identifier%3A%28letterspapersfro0000bonh_v4q0%29&size=1",
+        "path": "web/7e38a03a755f771e.json",
+        "quote": "Only the suffering God can help"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (letterspapersfro0000bonh_v4q0) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-dietrich-bonhoeffer-0008",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Dietrich Bonhoeffer",
+        "work": "Letters and Papers from Prison",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Who+stands+fast%3F+Only+the+man+whose+final+standard+is+not+his+reason%22+AND+identifier%3A%28letterspapersfro0000diet_m1v6%29&size=1",
+        "path": "web/39f8b4ce79a7c3cf.json",
+        "quote": "Who stands fast? Only the man whose final standard is not his reason"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (letterspapersfro0000diet_m1v6) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-dietrich-bonhoeffer-0009",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Dietrich Bonhoeffer",
+        "work": "Letters and Papers from Prison",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22It+is+only+by+living+completely+in+this+world+that+one+learns%22+AND+identifier%3A%28letterspapersfro0000diet_m1v6%29&size=1",
+        "path": "web/49110ecf3628b5b9.json",
+        "quote": "It is only by living completely in this world that one learns"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (letterspapersfro0000diet_m1v6) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (fuzzy (0.99)). quote unchanged."
+  },
+  {
+    "id": "q-dietrich-bonhoeffer-0010",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Dietrich Bonhoeffer",
+        "work": "Ethics",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22God+is+willing+to+be+guilty+of+our+guilt%22+AND+identifier%3A%28ethics0000diet%29&size=1",
+        "path": "web/cb64ed03f1db9eca.json",
+        "quote": "God is willing to be guilty of our guilt"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (ethics0000diet) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-ji-packer-0003",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "J.I. Packer",
+        "work": "Knowing God",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Disregard+the+study+of+God%2C+and+you+sentence+yourself+to+stumble+and+blunder%22+AND+identifier%3A%28knowinggod0000pack_d7r0%29&size=1",
+        "path": "web/3a20f30e0983713c.json",
+        "quote": "Disregard the study of God, and you sentence yourself to stumble and blunder"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (knowinggod0000pack_d7r0) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-ji-packer-0004",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "J.I. Packer",
+        "work": "Knowing God",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22God%27s+wisdom+is+not%2C+and+never+was%2C+pledged+to+keep+a+fallen+world+happy%22+AND+identifier%3A%28knowinggodwithst0000pack%29&size=1",
+        "path": "web/cf0593c8ec17a614.json",
+        "quote": "God's wisdom is not, and never was, pledged to keep a fallen world happy"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (knowinggodwithst0000pack) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-ji-packer-0005",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "J.I. Packer",
+        "work": "Knowing God",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Adoption+is+the+highest+privilege+that+the+gospel+offers%22+AND+identifier%3A%28knowinggod0000pack_c2e1%29&size=1",
+        "path": "web/6bbeffbccf49d233.json",
+        "quote": "Adoption is the highest privilege that the gospel offers"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (knowinggod0000pack_c2e1) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (fuzzy (0.99)). witness.quote re-anchored to the span the OCR snippet returns; text unchanged."
+  },
+  {
+    "id": "q-ji-packer-0006",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "J.I. Packer",
+        "work": "Celebrating the Saving Work of God",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22justification+by+faith+is+like+Atlas%3A+it+bears+a+world+on+its+shoulders%22+AND+identifier%3A%28celebratingsavin0000jipa%29&size=1",
+        "path": "web/fc05e8aa0bb66163.json",
+        "quote": "justification by faith is like Atlas: it bears a world on its shoulders"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (celebratingsavin0000jipa) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-ji-packer-0007",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "J.I. Packer",
+        "work": "Knowing God",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22God%27s+love+is+an+exercise+of+his+goodness+towards+individual+sinners%22+AND+identifier%3A%28knowinggod0000pack_c2e1%29&size=1",
+        "path": "web/8a484737dbf915f9.json",
+        "quote": "God's love is an exercise of his goodness towards individual sinners"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (knowinggod0000pack_c2e1) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-ji-packer-0008",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "J.I. Packer",
+        "work": "A Quest for Godliness",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Holiness%2C+according+to+the+Puritans%2C+cannot+be+attained+without+the+exercise+of+faith%22+AND+identifier%3A%28questforgodlines0000pack%29&size=1",
+        "path": "web/75c763adf9f1e171.json",
+        "quote": "Holiness, according to the Puritans, cannot be attained without the exercise of faith"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (questforgodlines0000pack) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-ji-packer-0009",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "J.I. Packer",
+        "work": "Evangelism and the Sovereignty of God",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22The+gospel+is+a+message+about+God.+It+tells+us+who+He+is%22+AND+identifier%3A%28evangelismsovere0000jipa%29&size=1",
+        "path": "web/163aa5db87a78688.json",
+        "quote": "The gospel is a message about God. It tells us who He is"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (evangelismsovere0000jipa) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-ji-packer-0010",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "J.I. Packer",
+        "work": "Knowing God",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22One+can+know+a+great+deal+about+God+without+much+knowledge+of+him%22+AND+identifier%3A%28knowinggod0000pack_c2e1%29&size=1",
+        "path": "web/cca5ecd257112db3.json",
+        "quote": "One can know a great deal about God without much knowledge of him"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (knowinggod0000pack_c2e1) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-rc-sproul-0003",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "R.C. Sproul",
+        "work": "The Holiness of God",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22We+are+made+to+mirror+and+reflect+the+holiness+of+God%22+AND+identifier%3A%28holinessofgod0000unse%29&size=1",
+        "path": "web/c5c481162cccf4b3.json",
+        "quote": "We are made to mirror and reflect the holiness of God"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (holinessofgod0000unse) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-rc-sproul-0004",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "R.C. Sproul",
+        "work": "Chosen by God",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22The+Reformed+view+of+predestination+teaches+that+before+a+person+can+choose+Christ%22+AND+identifier%3A%28chosenbygod0000rcsp%29&size=1",
+        "path": "web/5f2e6f19fde3edea.json",
+        "quote": "The Reformed view of predestination teaches that before a person can choose Christ"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (chosenbygod0000rcsp) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-rc-sproul-0005",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "R.C. Sproul",
+        "work": "Chosen by God",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22If+there+is+one+single+molecule+in+this+universe+running%22+AND+identifier%3A%28chosenbygod0000rcsp%29&size=1",
+        "path": "web/5fb5aa03cb8b5bf8.json",
+        "quote": "If there is one single molecule in this universe running"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (chosenbygod0000rcsp) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). witness.quote re-anchored to the span the OCR snippet returns; text unchanged."
+  },
+  {
+    "id": "q-rc-sproul-0006",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "R.C. Sproul",
+        "work": "The Truth of the Cross",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22If+you+take+away+the+cross+as+an+atoning+act%2C+you+take+away+Christianity%22+AND+identifier%3A%28truthofcross0000spro%29&size=1",
+        "path": "web/4bad4bb0e55d88f3.json",
+        "quote": "If you take away the cross as an atoning act, you take away Christianity"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (truthofcross0000spro) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-rc-sproul-0009",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "R.C. Sproul",
+        "work": "What Is Reformed Theology?",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22In+the+classical+curriculum+theology+is+the+queen+of+the+sciences%22+AND+identifier%3A%28whatisreformedth0000rcsp%29&size=1",
+        "path": "web/19ee2b4769fa4860.json",
+        "quote": "In the classical curriculum theology is the queen of the sciences"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (whatisreformedth0000rcsp) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-rc-sproul-0010",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "R.C. Sproul",
+        "work": "The Holiness of God",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Today+I+am+still+absorbed+with+the+question+of+the+holiness+of+God%22+AND+identifier%3A%28holinessofgod0000unse%29&size=1",
+        "path": "web/15aba6ccfc66d2c6.json",
+        "quote": "Today I am still absorbed with the question of the holiness of God"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (holinessofgod0000unse) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-john-piper-0005",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "John Piper",
+        "work": "Brothers, We Are Not Professionals",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22It+is+not+the+mentality+of+the+slave+of+Christ%22+AND+identifier%3A%28brotherswearenot0000pipe_g9x3%29&size=1",
+        "path": "web/41d2b6e112e9886c.json",
+        "quote": "It is not the mentality of the slave of Christ"
+      }
+    },
+    "evidence": "witness.source repointed from a publisher-hosted PDF (which the verifier cannot read: no PDF extractor) to the archive.org full-text-search API query for this sentence inside the scan (brotherswearenot0000pipe_g9x3) ; the JSON response carries the OCR snippet, which the verifier extracts (exact). witness.quote re-anchored to the span the OCR snippet returns; text unchanged."
+  },
+  {
+    "id": "q-john-piper-0006",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "John Piper",
+        "work": "Let the Nations Be Glad!",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Missions+exists+because+worship+doesn%27t%22+AND+identifier%3A%28letnationsbeglad0000pipe%29&size=1",
+        "path": "web/403c64c5b5aa6ee0.json",
+        "quote": "Missions exists because worship doesn't"
+      }
+    },
+    "evidence": "witness.source repointed from a publisher-hosted PDF (which the verifier cannot read: no PDF extractor) to the archive.org full-text-search API query for this sentence inside the scan (letnationsbeglad0000pipe) ; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-john-piper-0007",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "John Piper",
+        "work": "Coronavirus and Christ",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22God+himself+came+into+the+world+in+Jesus+Christ+to+rescue%22+AND+identifier%3A%28coronaviruschris0000pipe%29&size=1",
+        "path": "web/d4b0dfb1f41c39ec.json",
+        "quote": "God himself came into the world in Jesus Christ to rescue"
+      }
+    },
+    "evidence": "witness.source repointed from a publisher-hosted PDF (which the verifier cannot read: no PDF extractor) to the archive.org full-text-search API query for this sentence inside the scan (coronaviruschris0000pipe) ; the JSON response carries the OCR snippet, which the verifier extracts (fuzzy (0.98)). quote unchanged."
+  },
+  {
+    "id": "q-john-piper-0008",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "John Piper",
+        "work": "Spectacular Sins",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22So+when+I+say+that+everything+that+exists%E2%80%94including+evil%E2%80%94is+ordained%22+AND+identifier%3A%28spectacularsinst0000pipe%29&size=1",
+        "path": "web/c6650960167d7ebc.json",
+        "quote": "So when I say that everything that exists—including evil—is ordained"
+      }
+    },
+    "evidence": "witness.source repointed from a publisher-hosted PDF (which the verifier cannot read: no PDF extractor) to the archive.org full-text-search API query for this sentence inside the scan (spectacularsinst0000pipe) ; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-john-piper-0009",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "John Piper",
+        "work": "The Future of Justification",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22God+has+not+ordained+that+living+the+Christian+life+should+be+the+basis%22+AND+identifier%3A%28futureofjustific0000pipe%29&size=1",
+        "path": "web/3ea91f0eee4f468a.json",
+        "quote": "God has not ordained that living the Christian life should be the basis"
+      }
+    },
+    "evidence": "witness.source repointed from a publisher-hosted PDF (which the verifier cannot read: no PDF extractor) to the archive.org full-text-search API query for this sentence inside the scan (futureofjustific0000pipe) ; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-tim-keller-0002",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Tim Keller",
+        "work": "Prayer: Experiencing Awe and Intimacy with God",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22is+a+failure+to+treat+God+as+God%22+AND+identifier%3A%28prayerexperienci0000kell%29&size=1",
+        "path": "web/62387c069674af10.json",
+        "quote": "is a failure to treat God as God"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (prayerexperienci0000kell) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). witness.quote re-anchored to the span the OCR snippet returns; text unchanged."
+  },
+  {
+    "id": "q-tim-keller-0003",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Tim Keller",
+        "work": "The Prodigal God",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Jesus+is+showing+us+the+God+of+Great+Expenditure%22+AND+identifier%3A%28prodigalgodrecov0000kell%29&size=1",
+        "path": "web/5b99886537eed014.json",
+        "quote": "Jesus is showing us the God of Great Expenditure"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (prodigalgodrecov0000kell) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-tim-keller-0004",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Tim Keller",
+        "work": "Counterfeit Gods",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22takes+good+things+like+a+successful+career%2C+love%2C+material+possessions%2C+even+family%22+AND+identifier%3A%28counterfeitgodse0000kell%29&size=1",
+        "path": "web/b07dfe873bd13bc0.json",
+        "quote": "takes good things like a successful career, love, material possessions, even family"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (counterfeitgodse0000kell) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-tim-keller-0005",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Tim Keller",
+        "work": "Walking with God through Pain and Suffering",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Christianity+teaches+that%2C+contra+fatalism%2C+suffering+is+overwhelming%22+AND+identifier%3A%28walkingwithgodth0000unse%29&size=1",
+        "path": "web/27d4f669d6a24a31.json",
+        "quote": "Christianity teaches that, contra fatalism, suffering is overwhelming"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (walkingwithgodth0000unse) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). witness.quote re-anchored to the span the OCR snippet returns; text unchanged."
+  },
+  {
+    "id": "q-tim-keller-0006",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Tim Keller",
+        "work": "The Meaning of Marriage",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22To+be+known+and+not+loved+is+our+greatest+fear%22+AND+identifier%3A%28meaningofmarriag0000kell%29&size=1",
+        "path": "web/4f55f3f1cf1f2132.json",
+        "quote": "To be known and not loved is our greatest fear"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (meaningofmarriag0000kell) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-tim-keller-0007",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Tim Keller",
+        "work": "Center Church",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22The+gospel+is+not+just+the+ABCs+but+the+A+to+Z+of+the+Christian+life%22+AND+identifier%3A%28centerchurchdoin0000kell%29&size=1",
+        "path": "web/5168fa3f844544ba.json",
+        "quote": "The gospel is not just the ABCs but the A to Z of the Christian life"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (centerchurchdoin0000kell) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-tim-keller-0008",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Tim Keller",
+        "work": "Walking with God through Pain and Suffering",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22suffering+is+unbearable+if+you+aren%27t+certain+that+God+is+for+you+and+with+you%22+AND+identifier%3A%28walkingwithgodth0000unse%29&size=1",
+        "path": "web/fcf77d99dfd3d702.json",
+        "quote": "suffering is unbearable if you aren't certain that God is for you and with you"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (walkingwithgodth0000unse) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-john-murray-0001",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "John Murray",
+        "work": "Redemption Accomplished and Applied",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Union+with+Christ+is+really+the+central+truth+of+the+whole+doctrine+of+salvation%22+AND+identifier%3A%28redemptionaccomp00murr%29&size=1",
+        "path": "web/2f1a017cba144896.json",
+        "quote": "Union with Christ is really the central truth of the whole doctrine of salvation"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (redemptionaccomp00murr) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-john-murray-0002",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "John Murray",
+        "work": "Redemption Accomplished and Applied",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22The+accomplishment+of+redemption+or%2C+as+it+has+frequently+been+called%2C+the+atonement%22+AND+identifier%3A%28redemptionaccomp00murr%29&size=1",
+        "path": "web/b886af5ef2605593.json",
+        "quote": "The accomplishment of redemption or, as it has frequently been called, the atonement"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (redemptionaccomp00murr) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-john-murray-0003",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "John Murray",
+        "work": "The Imputation of Adam's Sin",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22If+we+say+that+the+trespass+of+Adam+is+imputed+to+posterity%22+AND+identifier%3A%28the-imputation-of-adams-sin%29&size=1",
+        "path": "web/fb04028f61de49f2.json",
+        "quote": "If we say that the trespass of Adam is imputed to posterity"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (the-imputation-of-adams-sin) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-john-murray-0004",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "John Murray",
+        "work": "Collected Writings of John Murray, vol. 2",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22the+most+characteristic+terms+that+refer+to+sanctification+are+used%2C+not+of+a+process%22+AND+identifier%3A%28collectedwriting0000murr%29&size=1",
+        "path": "web/b11b5c7ddd43ad1c.json",
+        "quote": "the most characteristic terms that refer to sanctification are used, not of a process"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (collectedwriting0000murr) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-john-murray-0005",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "John Murray",
+        "work": "The Imputation of Adam's Sin",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22The+one+ground+upon+which+the+imputation+of+the+righteousness+of+Christ+becomes+ours%22+AND+identifier%3A%28the-imputation-of-adams-sin%29&size=1",
+        "path": "web/6900ee13c9055e6a.json",
+        "quote": "The one ground upon which the imputation of the righteousness of Christ becomes ours"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (the-imputation-of-adams-sin) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-louis-berkhof-0004",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Louis Berkhof",
+        "work": "Manual of Christian Doctrine",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22a+future+hope%2C+which+will+not+be+realized+until+the+return+of+Jesus+Christ%22+AND+identifier%3A%28manualofchristia0000lber%29&size=1",
+        "path": "web/9c0d5e5e98116fa4.json",
+        "quote": "a future hope, which will not be realized until the return of Jesus Christ"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (manualofchristia0000lber) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-anthony-hoekema-0002",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Anthony Hoekema",
+        "work": "Created in God's Image",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22describes+not+just+something+that+man+has%2C+but+something+man+is%22+AND+identifier%3A%28createdingodsima0000hoek%29&size=1",
+        "path": "web/47c83603a2ef96de.json",
+        "quote": "describes not just something that man has, but something man is"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (createdingodsima0000hoek) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-anthony-hoekema-0003",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Anthony Hoekema",
+        "work": "Saved by Grace",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Not+only+does+Christ+bring+us+righteousness%3B+he+is+our+righteousness%22+AND+identifier%3A%28savedbygrace0000anth%29&size=1",
+        "path": "web/35a279ef0c170415.json",
+        "quote": "Not only does Christ bring us righteousness; he is our righteousness"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (savedbygrace0000anth) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-da-carson-0003",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "D.A. Carson",
+        "work": "The Difficult Doctrine of the Love of God",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22The+love+of+God+in+our+culture+has+been+purged+of+anything+the+culture+finds+uncomfortable%22+AND+identifier%3A%28difficultdoctrin00daca%29&size=1",
+        "path": "web/5f80cab846a2a550.json",
+        "quote": "The love of God in our culture has been purged of anything the culture finds uncomfortable"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (difficultdoctrin00daca) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-da-carson-0004",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "D.A. Carson",
+        "work": "The Cross and Christian Ministry",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22The+cross+not+only+establishes+what+we+are+to+preach%2C+but+how+we+are+to+preach%22+AND+identifier%3A%28crosschristianmi0000daca%29&size=1",
+        "path": "web/9aef65caf03bb4c8.json",
+        "quote": "The cross not only establishes what we are to preach, but how we are to preach"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (crosschristianmi0000daca) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-da-carson-0005",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "D.A. Carson",
+        "work": "A Call to Spiritual Reformation",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22The+one+thing+we+most+urgently+need+in+Western+Christendom+is+a+deeper+knowledge+of+God%22+AND+identifier%3A%28calltospiritualr0000cars%29&size=1",
+        "path": "web/796c4aa199efe949.json",
+        "quote": "The one thing we most urgently need in Western Christendom is a deeper knowledge of God"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (calltospiritualr0000cars) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-sinclair-ferguson-0002",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Sinclair Ferguson",
+        "work": "The Whole Christ",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22The+benefits+of+the+gospel+are+in+Christ.+They+do+not+exist+apart+from+him%22+AND+identifier%3A%28wholechristlegal0000ferg%29&size=1",
+        "path": "web/57c979ecbd60a428.json",
+        "quote": "The benefits of the gospel are in Christ. They do not exist apart from him"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (wholechristlegal0000ferg) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-sinclair-ferguson-0003",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Sinclair Ferguson",
+        "work": "The Holy Spirit",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Holiness+is+Christlikeness.+As+the+Spirit+of+Christ%2C+the+Holy+Spirit+is+the+agent%22+AND+identifier%3A%28holyspirit0000sinc%29&size=1",
+        "path": "web/63a51098351590c8.json",
+        "quote": "Holiness is Christlikeness. As the Spirit of Christ, the Holy Spirit is the agent"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (holyspirit0000sinc) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-sinclair-ferguson-0004",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Sinclair Ferguson",
+        "work": "The Christian Life: A Doctrinal Introduction",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Union+with+Christ+is+the+foundation+of+all+our+spiritual+experience%22+AND+identifier%3A%28christianlifedoc0000sinc%29&size=1",
+        "path": "web/56c2fdf134495605.json",
+        "quote": "Union with Christ is the foundation of all our spiritual experience"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (christianlifedoc0000sinc) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-sinclair-ferguson-0005",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Sinclair Ferguson",
+        "work": "The Holy Spirit",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22sanctification%2C+or+holiness%2C+is+Christlikeness%22+AND+identifier%3A%28holyspirit0000sinc%29&size=1",
+        "path": "web/cc3eb167297f33f0.json",
+        "quote": "sanctification, or holiness, is Christlikeness"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (holyspirit0000sinc) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-kevin-vanhoozer-0002",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Kevin Vanhoozer",
+        "work": "Is There a Meaning in This Text?",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22I+now+wish+to+define+the+text+as+a+communicative+act+of+a+communicative+agent%22+AND+identifier%3A%28istheremeaningin0000vanh%29&size=1",
+        "path": "web/7ed9b0dbdf01e018.json",
+        "quote": "I now wish to define the text as a communicative act of a communicative agent"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (istheremeaningin0000vanh) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-kevin-vanhoozer-0003",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Kevin Vanhoozer",
+        "work": "The Drama of Doctrine",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Doctrine+proceeds+from+an+authoritative+script+and+gives+direction%22+AND+identifier%3A%28dramaofdoctrinec0000vanh%29&size=1",
+        "path": "web/553499c8a35b4a80.json",
+        "quote": "Doctrine proceeds from an authoritative script and gives direction"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (dramaofdoctrinec0000vanh) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-kevin-vanhoozer-0004",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Kevin Vanhoozer",
+        "work": "Biblical Authority after Babel",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Mere+Protestant+Christianity+uses+the+resources+of+the+solas%22+AND+identifier%3A%28biblicalauthorit0000vanh%29&size=1",
+        "path": "web/81dd59e3e9a1f094.json",
+        "quote": "Mere Protestant Christianity uses the resources of the solas"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (biblicalauthorit0000vanh) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-michael-reeves-0002",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Michael Reeves",
+        "work": "Delighting in the Trinity",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Christianity+is+not+primarily+about+lifestyle+change%3B+it+is+about+knowing+God%22+AND+identifier%3A%28delightingintrin0000reev%29&size=1",
+        "path": "web/fdc3a613e75be519.json",
+        "quote": "Christianity is not primarily about lifestyle change; it is about knowing God"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (delightingintrin0000reev) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-michael-reeves-0003",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Michael Reeves",
+        "work": "Rejoicing in Christ",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22to+consider+Christ%2C+that+he+might+become+more+central+for+you%22+AND+identifier%3A%28rejoicinginchris0000reev%29&size=1",
+        "path": "web/1c0fb75fd26b5b4d.json",
+        "quote": "to consider Christ, that he might become more central for you"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (rejoicinginchris0000reev) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-michael-reeves-0004",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Michael Reeves",
+        "work": "The Unquenchable Flame",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22the+Reformation+was+not%2C+principally%2C+a+negative+movement%22+AND+identifier%3A%28unquenchableflam0000reev%29&size=1",
+        "path": "web/1737b86c6de18073.json",
+        "quote": "the Reformation was not, principally, a negative movement"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (unquenchableflam0000reev) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-dane-ortlund-0001",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Dane Ortlund",
+        "work": "Gentle and Lowly",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22what+we+find+there+is%3A+gentle+and+lowly%22+AND+identifier%3A%28gentlelowlyheart0000ortl%29&size=1",
+        "path": "web/56c22de5e7eb54e5.json",
+        "quote": "what we find there is: gentle and lowly"
+      }
+    },
+    "evidence": "witness.source repointed from a publisher-hosted PDF (which the verifier cannot read: no PDF extractor) to the archive.org full-text-search API query for this sentence inside the scan (gentlelowlyheart0000ortl) ; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-dane-ortlund-0002",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Dane Ortlund",
+        "work": "Gentle and Lowly",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Time+and+again+it+is+the+morally+disgusting%2C+the+socially+reviled%22+AND+identifier%3A%28gentlelowlyheart0000ortl%29&size=1",
+        "path": "web/38ab0ff1559e1a94.json",
+        "quote": "Time and again it is the morally disgusting, the socially reviled"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (gentlelowlyheart0000ortl) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-dane-ortlund-0003",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Dane Ortlund",
+        "work": "Deeper",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22in+Christ+is+not+centrally+improving+or+adding+or+experiencing+but+deepening%22+AND+identifier%3A%28howdoesgodchange0000dane%29&size=1",
+        "path": "web/620ecf8fe80aa13c.json",
+        "quote": "in Christ is not centrally improving or adding or experiencing but deepening"
+      }
+    },
+    "evidence": "witness.source repointed from a publisher-hosted PDF (which the verifier cannot read: no PDF extractor) to the archive.org full-text-search API query for this sentence inside the scan (howdoesgodchange0000dane) ; the JSON response carries the OCR snippet, which the verifier extracts (exact). witness.quote re-anchored to the span the OCR snippet returns; text unchanged."
+  },
+  {
+    "id": "q-francis-schaeffer-0001",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Francis Schaeffer",
+        "work": "The God Who Is There",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22The+present+chasm+between+the+generations+has+been+brought+about%22+AND+identifier%3A%28godwhoistherespe0000fran%29&size=1",
+        "path": "web/618928438a32d4a3.json",
+        "quote": "The present chasm between the generations has been brought about"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (godwhoistherespe0000fran) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-francis-schaeffer-0002",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Francis Schaeffer",
+        "work": "He Is There and He Is Not Silent",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22The+infinite-personal+God+is+there%2C+but+also+he+is+not+silent%22+AND+identifier%3A%28heisthereheisnot00scha%29&size=1",
+        "path": "web/a8d11efd56b0b425.json",
+        "quote": "The infinite-personal God is there, but also he is not silent"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (heisthereheisnot00scha) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-francis-schaeffer-0003",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Francis Schaeffer",
+        "work": "The Mark of the Christian",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22is+the+mark+Christ+gave+Christians+to+wear+before+the+world%22+AND+identifier%3A%28markofchristian0000scha%29&size=1",
+        "path": "web/38e926945b034703.json",
+        "quote": "is the mark Christ gave Christians to wear before the world"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (markofchristian0000scha) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-francis-schaeffer-0004",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Francis Schaeffer",
+        "work": "True Spirituality",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22The+Christian+life%2C+true+spirituality%2C+can+never+have+a+mechanical+solution%22+AND+identifier%3A%28truespirituality0000scha%29&size=1",
+        "path": "web/da83fd889c1bd25a.json",
+        "quote": "The Christian life, true spirituality, can never have a mechanical solution"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (truespirituality0000scha) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-john-stott-0001",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "John Stott",
+        "work": "The Cross of Christ",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22essence+of+sin+is+man+substituting+himself+for+God%22+AND+identifier%3A%28bwb_KR-158-312%29&size=1",
+        "path": "web/6677d015139f4c7c.json",
+        "quote": "essence of sin is man substituting himself for God"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (bwb_KR-158-312) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-john-stott-0002",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "John Stott",
+        "work": "Basic Christianity",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22The+person+and+work+of+Christ+are+the+rock+upon+which+the+Christian+religion+is+built%22+AND+identifier%3A%28basicchristianit0000stot%29&size=1",
+        "path": "web/ce39bc615a7b756c.json",
+        "quote": "The person and work of Christ are the rock upon which the Christian religion is built"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (basicchristianit0000stot) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-john-stott-0003",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "John Stott",
+        "work": "Between Two Worlds",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22A+true+sermon+bridges+the+gulf+between+the+biblical+and+the+modern+worlds%22+AND+identifier%3A%28betweentwoworlds0000stot%29&size=1",
+        "path": "web/c70f272eec6d6e46.json",
+        "quote": "A true sermon bridges the gulf between the biblical and the modern worlds"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (betweentwoworlds0000stot) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-john-stott-0004",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "John Stott",
+        "work": "The Living Church",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22For+the+church+lies+at+the+very+centre+of+the+eternal+purpose+of+God%22+AND+identifier%3A%28livingchurchconv0000stot_b9z4%29&size=1",
+        "path": "web/e91f413487d719b8.json",
+        "quote": "For the church lies at the very centre of the eternal purpose of God"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (livingchurchconv0000stot_b9z4) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-aw-tozer-0001",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "A.W. Tozer",
+        "work": "The Knowledge of the Holy",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22What+comes+into+our+minds+when+we+think+about+God+is+the+most+important+thing+about+us%22+AND+identifier%3A%28knowledgeofholy0000unse_s4h8%29&size=1",
+        "path": "web/223f1312076c4cdb.json",
+        "quote": "What comes into our minds when we think about God is the most important thing about us"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (knowledgeofholy0000unse_s4h8) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-aw-tozer-0002",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "A.W. Tozer",
+        "work": "The Divine Conquest",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22the+man+who+would+know+God+must+give+time+to+Him%22+AND+identifier%3A%28divineconquest0000toze%29&size=1",
+        "path": "web/6cd572eac37d8d9d.json",
+        "quote": "the man who would know God must give time to Him"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (divineconquest0000toze) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-aw-tozer-0003",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "A.W. Tozer",
+        "work": "The Pursuit of God",
+        "source": "https://www.gutenberg.org/cache/epub/25141/pg25141.txt",
+        "path": "web/e4b0ed09dfd12782.txt",
+        "quote": "He waits to be wanted"
+      }
+    },
+    "evidence": "witness.source repointed from the Gutenberg landing page to the plain-text ebook (pg25141.txt), which the verifier can read; quote unchanged"
+  },
+  {
+    "id": "q-aw-tozer-0004",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "A.W. Tozer",
+        "work": "The Root of the Righteous",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22It+is+doubtful+whether+God+can+bless+a+man+greatly+until+He+has+hurt+him+deeply%22+AND+identifier%3A%28rootofrighteous0000awto%29&size=1",
+        "path": "web/a4da7d9c73c92282.json",
+        "quote": "It is doubtful whether God can bless a man greatly until He has hurt him deeply"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (rootofrighteous0000awto) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-elisabeth-elliot-0002",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Elisabeth Elliot",
+        "work": "A Chance to Die",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Faith+does+not+eliminate+questions.+But+faith+knows+where+to+take+them%22+AND+identifier%3A%28chancetodielif00elli%29&size=1",
+        "path": "web/b3eda55527016878.json",
+        "quote": "Faith does not eliminate questions. But faith knows where to take them"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (chancetodielif00elli) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-amy-carmichael-0002",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Amy Carmichael",
+        "work": "If",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22then+I+know+nothing+of+Calvary+love%22+AND+identifier%3A%28if1968carm%29&size=1",
+        "path": "web/4a59a85ff82bb0cb.json",
+        "quote": "then I know nothing of Calvary love"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (if1968carm) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). witness.quote re-anchored to the span the OCR snippet returns; text unchanged."
+  },
+  {
+    "id": "q-amy-carmichael-0003",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Amy Carmichael",
+        "work": "Edges of His Ways",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Do+not+be+discouraged%3B+He+is+not+discouraged%22+AND+identifier%3A%28edgesofhisways0000amyc%29&size=1",
+        "path": "web/84b2c23845653c06.json",
+        "quote": "Do not be discouraged; He is not discouraged"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (edgesofhisways0000amyc) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-corrie-ten-boom-0003",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Corrie ten Boom",
+        "work": "Tramp for the Lord",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Lord%27s+work+in+your+own+strength+is+the+most+confusing%22+AND+identifier%3A%28trampforlord00tenb%29&size=1",
+        "path": "web/466c0e30912eca4d.json",
+        "quote": "Lord's work in your own strength is the most confusing"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (trampforlord00tenb) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-joni-eareckson-tada-0001",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Joni Eareckson Tada",
+        "work": "When God Weeps",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22God+permits+what+he+hates+to+achieve+what+he+loves%22+AND+identifier%3A%28whengodweepswhyo00tada%29&size=1",
+        "path": "web/6c026cf85eb18563.json",
+        "quote": "God permits what he hates to achieve what he loves"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (whengodweepswhyo00tada) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-joni-eareckson-tada-0002",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Joni Eareckson Tada",
+        "work": "A Step Further",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22Christians+are+to+pray+for+healing%2C+but+they+are+not+necessarily%22+AND+identifier%3A%28stepfurther0000tada_n6k7%29&size=1",
+        "path": "web/6bf16a3b2af883d8.json",
+        "quote": "Christians are to pray for healing, but they are not necessarily"
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (stepfurther0000tada_n6k7) to the archive.org full-text-search API query for this sentence inside that scan; the JSON response carries the OCR snippet, which the verifier extracts (exact). quote unchanged."
+  },
+  {
+    "id": "q-john-piper-0001",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "John Piper",
+        "work": "Desiring God",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22God+is+most+glorified+in+us+when+we+are+most+satisfied+in+Him%22+AND+identifier%3A%28desiringgod0000john%29&size=1",
+        "path": "web/e6565a0a51cebba6.json",
+        "quote": "God is most glorified in us when we are most satisfied in Him"
+      }
+    },
+    "evidence": "witness.source repointed from the desiringgod.org PDF (which the verifier cannot read: no PDF extractor) to the archive.org full-text-search API query for this sentence inside the desiringgod0000john scan; the JSON response carries the OCR snippet (exact). quote unchanged."
+  },
+  {
+    "id": "q-john-piper-0003",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "John Piper",
+        "work": "Desiring God",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22The+chief+end+of+man+is+to+glorify+God+by+enjoying+Him+forever%22+AND+identifier%3A%28desiringgod0000john%29&size=1",
+        "path": "web/89ebde53423d9d64.json",
+        "quote": "The chief end of man is to glorify God by enjoying Him forever"
+      }
+    },
+    "evidence": "witness.source repointed from the desiringgod.org PDF (which the verifier cannot read: no PDF extractor) to the archive.org full-text-search API query for this sentence inside the desiringgod0000john scan; the JSON response carries the OCR snippet (exact). quote unchanged."
+  },
+  {
+    "id": "q-john-piper-0004",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "John Piper",
+        "work": "Desiring God",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22The+pursuit+of+joy+in+God+is+not+optional%22+AND+identifier%3A%28desiringgod0000john%29&size=1",
+        "path": "web/5d4f80e03ef31346.json",
+        "quote": "The pursuit of joy in God is not optional"
+      }
+    },
+    "evidence": "witness.source repointed from the desiringgod.org PDF (which the verifier cannot read: no PDF extractor) to the archive.org full-text-search API query for this sentence inside the desiringgod0000john scan; the JSON response carries the OCR snippet (exact). quote unchanged."
+  },
+  {
+    "id": "q-john-piper-0010",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "John Piper",
+        "work": "Desiring God",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22The+deepest+and+most+enduring+happiness+is+found+only+in+God%22+AND+identifier%3A%28desiringgod0000john%29&size=1",
+        "path": "web/9d71805305f73bff.json",
+        "quote": "The deepest and most enduring happiness is found only in God"
+      }
+    },
+    "evidence": "witness.source repointed from the desiringgod.org PDF (which the verifier cannot read: no PDF extractor) to the archive.org full-text-search API query for this sentence inside the desiringgod0000john scan; the JSON response carries the OCR snippet (exact). quote unchanged."
+  },
+  {
+    "id": "q-anthony-hoekema-0001",
+    "action": "edit",
+    "fields": {
+      "witness": {
+        "voice": "Anthony Hoekema",
+        "work": "The Bible and the Future",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22underlying+tension+between+the+already+and+the+not+yet%22+AND+identifier%3A%28biblefuture0000hoek%29&size=1",
+        "path": "web/933b445e285e670d.json",
+        "quote": "underlying tension between the \"already\" and the \"not yet\""
+      }
+    },
+    "evidence": "witness.source repointed from the archive.org item page (biblefuture0000hoek) to the archive.org full-text-search API query for this sentence inside that scan (fuzzy (0.97)). quote unchanged."
+  }
+]

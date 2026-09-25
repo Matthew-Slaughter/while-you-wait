@@ -1,0 +1,3283 @@
+[
+ {
+  "id": "hym-watts-001",
+  "kind": "hymn",
+  "ref": "When I survey the wondrous cross (1707), st. 1",
+  "text": "When I survey the wondrous cross\nOn which the Prince of Glory dy'd,\nMy richest gain I count but loss,\nAnd pour contempt on all my pride.",
+  "voice": "Isaac Watts",
+  "insight": "",
+  "witness": {
+   "voice": "Isaac Watts",
+   "work": "Hymns and Spiritual Songs (1707)",
+   "source": "gutenberg.org/ebooks/13341",
+   "path": "gutenberg/pg13341.txt#Hymn 3:7",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-watts-002",
+  "kind": "hymn",
+  "ref": "When I survey the wondrous cross (1707), st. 3",
+  "text": "See from his head, his hands, his feet,\nSorrow and love flow mingled down;\nDid e'er such love and sorrow meet?\nOr thorns compose so rich a crown?",
+  "voice": "Isaac Watts",
+  "insight": "",
+  "witness": {
+   "voice": "Isaac Watts",
+   "work": "Hymns and Spiritual Songs (1707)",
+   "source": "gutenberg.org/ebooks/13341",
+   "path": "gutenberg/pg13341.txt#Hymn 3:7",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-watts-003",
+  "kind": "hymn",
+  "ref": "When I survey the wondrous cross (1707), st. 5",
+  "text": "Were the whole realm of nature mine,\nThat were a present far too small;\nLove so amazing, so divine,\nDemands my soul, my life, my all.",
+  "voice": "Isaac Watts",
+  "insight": "",
+  "witness": {
+   "voice": "Isaac Watts",
+   "work": "Hymns and Spiritual Songs (1707)",
+   "source": "gutenberg.org/ebooks/13341",
+   "path": "gutenberg/pg13341.txt#Hymn 3:7",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-watts-004",
+  "kind": "hymn",
+  "ref": "Alas! and did my Saviour bleed (1707), st. 1",
+  "text": "Alas! and did my Saviour bleed,\nAnd did my Sovereign die?\nWould he devote that sacred head\nFor such a worm as I?",
+  "voice": "Isaac Watts",
+  "insight": "",
+  "witness": {
+   "voice": "Isaac Watts",
+   "work": "Hymns and Spiritual Songs (1707)",
+   "source": "gutenberg.org/ebooks/13341",
+   "path": "gutenberg/pg13341.txt#Hymn 2:9",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-watts-005",
+  "kind": "hymn",
+  "ref": "Alas! and did my Saviour bleed (1707), st. 6",
+  "text": "But drops of grief can ne'er repay\nThe debt of love I owe;\nHere, Lord, I give myself away,\n'Tis all that I can do.",
+  "voice": "Isaac Watts",
+  "insight": "",
+  "witness": {
+   "voice": "Isaac Watts",
+   "work": "Hymns and Spiritual Songs (1707)",
+   "source": "gutenberg.org/ebooks/13341",
+   "path": "gutenberg/pg13341.txt#Hymn 2:9",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-watts-006",
+  "kind": "hymn",
+  "ref": "Come, we that love the Lord (1707), st. 1",
+  "text": "Come, we that love the Lord,\nAnd let our joys be known;\nJoin in a song with sweet accord,\nAnd thus surround the throne.",
+  "voice": "Isaac Watts",
+  "insight": "",
+  "witness": {
+   "voice": "Isaac Watts",
+   "work": "Hymns and Spiritual Songs (1707)",
+   "source": "gutenberg.org/ebooks/13341",
+   "path": "gutenberg/pg13341.txt#Hymn 2:30",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-watts-007",
+  "kind": "hymn",
+  "ref": "How sweet and awful is the place (1707), st. 1",
+  "text": "How sweet and awful is the place\nWith Christ within the doors,\nWhile everlasting love displays\nThe choicest of her stores!",
+  "voice": "Isaac Watts",
+  "insight": "",
+  "witness": {
+   "voice": "Isaac Watts",
+   "work": "Hymns and Spiritual Songs (1707)",
+   "source": "gutenberg.org/ebooks/13341",
+   "path": "gutenberg/pg13341.txt#Hymn 3:13",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-watts-008",
+  "kind": "hymn",
+  "ref": "Join all the glorious names (1707), st. 1",
+  "text": "Join all the glorious names\nOf wisdom, love, and power,\nThat ever mortals knew,\nThat angels ever bore:\nAll are too mean\nTo speak his worth,\nToo mean to set\nMy Saviour forth.",
+  "voice": "Isaac Watts",
+  "insight": "",
+  "witness": {
+   "voice": "Isaac Watts",
+   "work": "Hymns and Spiritual Songs (1707)",
+   "source": "gutenberg.org/ebooks/13341",
+   "path": "gutenberg/pg13341.txt#Hymn 1:150",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-watts-009",
+  "kind": "hymn",
+  "ref": "Not all the blood of beasts (1709), st. 1",
+  "text": "Not all the blood of beasts\nOn Jewish altars slain\nCould give the guilty conscience peace,\nOr wash away the stain.",
+  "voice": "Isaac Watts",
+  "insight": "",
+  "witness": {
+   "voice": "Isaac Watts",
+   "work": "Hymns and Spiritual Songs (1707)",
+   "source": "gutenberg.org/ebooks/13341",
+   "path": "gutenberg/pg13341.txt#Hymn 2:142",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-watts-010",
+  "kind": "hymn",
+  "ref": "Not all the blood of beasts (1709), st. 3",
+  "text": "My faith would lay her hand\nOn that dear head of thine,\nWhile like a penitent I stand\nAnd there confess my sin.",
+  "voice": "Isaac Watts",
+  "insight": "",
+  "witness": {
+   "voice": "Isaac Watts",
+   "work": "Hymns and Spiritual Songs (1707)",
+   "source": "gutenberg.org/ebooks/13341",
+   "path": "gutenberg/pg13341.txt#Hymn 2:142",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-watts-011",
+  "kind": "hymn",
+  "ref": "There is a land of pure delight (1707), st. 1",
+  "text": "There is a land of pure delight\nWhere saints immortal reign,\nInfinite day excludes the night,\nAnd pleasures banish pain.",
+  "voice": "Isaac Watts",
+  "insight": "",
+  "witness": {
+   "voice": "Isaac Watts",
+   "work": "Hymns and Spiritual Songs (1707)",
+   "source": "gutenberg.org/ebooks/13341",
+   "path": "gutenberg/pg13341.txt#Hymn 2:66",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-watts-012",
+  "kind": "hymn",
+  "ref": "Give me the wings of faith to rise (1709), st. 1",
+  "text": "Give me the wings of faith to rise\nWithin the veil, and see\nThe saints above, how great their joys,\nHow bright their glories be.",
+  "voice": "Isaac Watts",
+  "insight": "",
+  "witness": {
+   "voice": "Isaac Watts",
+   "work": "Hymns and Spiritual Songs (1707)",
+   "source": "gutenberg.org/ebooks/13341",
+   "path": "gutenberg/pg13341.txt#Hymn 2:140",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-watts-013",
+  "kind": "hymn",
+  "ref": "Come, holy Spirit, heavenly Dove (1707), st. 1",
+  "text": "Come, holy Spirit, heavenly Dove,\nWith all thy quickening powers,\nKindle a flame of sacred love,\nIn these cold hearts of ours.",
+  "voice": "Isaac Watts",
+  "insight": "",
+  "witness": {
+   "voice": "Isaac Watts",
+   "work": "Hymns and Spiritual Songs (1707)",
+   "source": "gutenberg.org/ebooks/13341",
+   "path": "gutenberg/pg13341.txt#Hymn 2:34",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-watts-014",
+  "kind": "hymn",
+  "ref": "Hark! from the tombs a doleful sound (1707), st. 1",
+  "text": "Hark! from the tombs a doleful sound,\nMy ears attend the cry,\n\"Ye living men, come view the ground\n\"Where you must shortly lie.",
+  "voice": "Isaac Watts",
+  "insight": "",
+  "witness": {
+   "voice": "Isaac Watts",
+   "work": "Hymns and Spiritual Songs (1707)",
+   "source": "gutenberg.org/ebooks/13341",
+   "path": "gutenberg/pg13341.txt#Hymn 2:63",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-watts-015",
+  "kind": "hymn",
+  "ref": "Nature with open volume stands (1707), st. 1",
+  "text": "Nature with open volume stands\nTo spread her Maker's praise abroad;\nAnd every labour of his hands\nShews something worthy of a God.",
+  "voice": "Isaac Watts",
+  "insight": "",
+  "witness": {
+   "voice": "Isaac Watts",
+   "work": "Hymns and Spiritual Songs (1707)",
+   "source": "gutenberg.org/ebooks/13341",
+   "path": "gutenberg/pg13341.txt#Hymn 3:10",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-watts-016",
+  "kind": "hymn",
+  "ref": "Begin, my tongue, some heavenly theme (1707), st. 1",
+  "text": "Begin, my tongue, some heavenly theme,\nAnd speak some boundless thing,\nThe mighty works, or mightier name\nOf our eternal King.",
+  "voice": "Isaac Watts",
+  "insight": "",
+  "witness": {
+   "voice": "Isaac Watts",
+   "work": "Hymns and Spiritual Songs (1707)",
+   "source": "gutenberg.org/ebooks/13341",
+   "path": "gutenberg/pg13341.txt#Hymn 2:69",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-watts-017",
+  "kind": "hymn",
+  "ref": "How condescending and how kind (1709), st. 1",
+  "text": "How condescending and how kind\nWas God's eternal Son!\nOur misery reach'd his heavenly mind,\nAnd pity brought him down.",
+  "voice": "Isaac Watts",
+  "insight": "",
+  "witness": {
+   "voice": "Isaac Watts",
+   "work": "Hymns and Spiritual Songs (1707)",
+   "source": "gutenberg.org/ebooks/13341",
+   "path": "gutenberg/pg13341.txt#Hymn 3:4",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-watts-018",
+  "kind": "hymn",
+  "ref": "With joy we meditate the grace (1709), st. 1",
+  "text": "With joy we meditate the grace\nOf our High Priest above;\nHis heart is made of tenderness,\nHis bowels melt with love.",
+  "voice": "Isaac Watts",
+  "insight": "",
+  "witness": {
+   "voice": "Isaac Watts",
+   "work": "Hymns and Spiritual Songs (1707)",
+   "source": "gutenberg.org/ebooks/13341",
+   "path": "gutenberg/pg13341.txt#Hymn 1:125",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-watts-019",
+  "kind": "hymn",
+  "ref": "Why should we start and fear to die (1707), st. 1",
+  "text": "Why should we start and fear to die?\nWhat timorous worms we mortals are!\nDeath is the gate of endless joy,\nAnd yet we dread to enter there.",
+  "voice": "Isaac Watts",
+  "insight": "",
+  "witness": {
+   "voice": "Isaac Watts",
+   "work": "Hymns and Spiritual Songs (1707)",
+   "source": "gutenberg.org/ebooks/13341",
+   "path": "gutenberg/pg13341.txt#Hymn 2:31",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-watts-020",
+  "kind": "hymn",
+  "ref": "The Lord Jehovah reigns (1707), st. 1",
+  "text": "The Lord Jehovah reigns\nHis throne is built on high;\nThe garments he assumes\nAre light and majesty;\nHis glories shine\nWith beams so bright\nNo mortal eye\nCan bear the sight.",
+  "voice": "Isaac Watts",
+  "insight": "",
+  "witness": {
+   "voice": "Isaac Watts",
+   "work": "Hymns and Spiritual Songs (1707)",
+   "source": "gutenberg.org/ebooks/13341",
+   "path": "gutenberg/pg13341.txt#Hymn 2:169",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-watts-021",
+  "kind": "hymn",
+  "ref": "I give immortal praise (1707), st. 1",
+  "text": "I give immortal praise\nTo God the Father's love\nFor all my comforts here,\nAnd better hopes above;\nHe sent his own\nEternal Son,\nTo die for sins\nThat man had done.",
+  "voice": "Isaac Watts",
+  "insight": "",
+  "witness": {
+   "voice": "Isaac Watts",
+   "work": "Hymns and Spiritual Songs (1707)",
+   "source": "gutenberg.org/ebooks/13341",
+   "path": "gutenberg/pg13341.txt#Hymn 3:38",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-watts-022",
+  "kind": "hymn",
+  "ref": "Salvation! O, the joyful sound (1707), st. 1",
+  "text": "Salvation! O, the joyful sound!\n'Tis pleasure to our ears;\nA sovereign balm for every wound,\nA cordial for our fears.",
+  "voice": "Isaac Watts",
+  "insight": "",
+  "witness": {
+   "voice": "Isaac Watts",
+   "work": "Hymns and Spiritual Songs (1707)",
+   "source": "gutenberg.org/ebooks/13341",
+   "path": "gutenberg/pg13341.txt#Hymn 2:88",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-watts-023",
+  "kind": "hymn",
+  "ref": "When I can read my title clear (1707), st. 1",
+  "text": "When I can read my title clear\nTo mansions in the skies,\nI bid farewell to every fear,\nAnd wipe my weeping eyes.",
+  "voice": "Isaac Watts",
+  "insight": "",
+  "witness": {
+   "voice": "Isaac Watts",
+   "work": "Hymns and Spiritual Songs (1707)",
+   "source": "gutenberg.org/ebooks/13341",
+   "path": "gutenberg/pg13341.txt#Hymn 2:65",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-watts-024",
+  "kind": "hymn",
+  "ref": "Great God, how infinite art thou (1707), st. 1",
+  "text": "Great God, how infinite art thou!\nWhat worthless worms are we!\nLet the whole race of creatures bow\nAnd pay their praise to thee.",
+  "voice": "Isaac Watts",
+  "insight": "",
+  "witness": {
+   "voice": "Isaac Watts",
+   "work": "Hymns and Spiritual Songs (1707)",
+   "source": "gutenberg.org/ebooks/13341",
+   "path": "gutenberg/pg13341.txt#Hymn 2:67",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-watts-025",
+  "kind": "hymn",
+  "ref": "No more, my God, I boast no more (1709), st. 1",
+  "text": "No more, my God, I boast no more\nOf all the duties I have done;\nI quit the hopes I held before\nTo trust the merits of thy Son.",
+  "voice": "Isaac Watts",
+  "insight": "",
+  "witness": {
+   "voice": "Isaac Watts",
+   "work": "Hymns and Spiritual Songs (1707)",
+   "source": "gutenberg.org/ebooks/13341",
+   "path": "gutenberg/pg13341.txt#Hymn 1:109",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-newton-001",
+  "kind": "hymn",
+  "ref": "Amazing grace! (1779), st. 1",
+  "text": "Amazing grace! (how sweet the sound)\nThat saved a wretch like me!\nI once was lost, but now am found,\nWas blind, but now I see.",
+  "voice": "John Newton",
+  "insight": "",
+  "witness": {
+   "voice": "John Newton",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book I, Hymn 41",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-newton-002",
+  "kind": "hymn",
+  "ref": "Amazing grace! (1779), st. 3",
+  "text": "Through many dangers, toils and snares,\nI have already come;\n'Tis grace has brought me safe thus far,\nAnd grace will lead me home.",
+  "voice": "John Newton",
+  "insight": "",
+  "witness": {
+   "voice": "John Newton",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book I, Hymn 41",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-newton-003",
+  "kind": "hymn",
+  "ref": "Amazing grace! (1779), st. 6",
+  "text": "The earth shall soon dissolve like snow,\nThe sun forbear to shine;\nBut GOD, who called me here below,\nWill be for ever mine.",
+  "voice": "John Newton",
+  "insight": "",
+  "witness": {
+   "voice": "John Newton",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book I, Hymn 41",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-newton-004",
+  "kind": "hymn",
+  "ref": "How sweet the name of Jesus sounds (1779), st. 1",
+  "text": "How sweet the name of Jesus sounds\nIn a believer's ear?\nIt soothes his sorrows, heals his wounds,\nAnd drives away his fear.",
+  "voice": "John Newton",
+  "insight": "",
+  "witness": {
+   "voice": "John Newton",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book I, Hymn 57",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-newton-005",
+  "kind": "hymn",
+  "ref": "How sweet the name of Jesus sounds (1779), st. 3",
+  "text": "Dear name! the rock on which I build,\nMy shield and hiding place;\nMy never-failing treas'ry filled\nWith boundless stores of grace.",
+  "voice": "John Newton",
+  "insight": "",
+  "witness": {
+   "voice": "John Newton",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book I, Hymn 57",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-newton-006",
+  "kind": "hymn",
+  "ref": "How sweet the name of Jesus sounds (1779), st. 5",
+  "text": "Jesus! my Shepherd, Husband, Friend,\nMy Prophet, Priest, and King;\nMy Lord, my Life, my Way, my End,\nAccept the praise I bring.",
+  "voice": "John Newton",
+  "insight": "",
+  "witness": {
+   "voice": "John Newton",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book I, Hymn 57",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-newton-007",
+  "kind": "hymn",
+  "ref": "Glorious things of thee are spoken (1779), st. 1",
+  "text": "Glorious things of thee are spoken,\nZion, city of our God!\nHe, whose word cannot be broken,\nFormed thee for his own abode:\nOn the rock of ages founded,\nWhat can shake thy sure repose?\nWith salvation's walls surrounded\nThou may'st smile at all thy foes.",
+  "voice": "John Newton",
+  "insight": "",
+  "witness": {
+   "voice": "John Newton",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book I, Hymn 60",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-newton-008",
+  "kind": "hymn",
+  "ref": "Glorious things of thee are spoken (1779), st. 2",
+  "text": "See! the streams of living waters\nSpringing from eternal love;\nWell supply thy sons and daughters,\nAnd all fear of want remove:\nWho can faint while such a river\nEver flows their thirst t' assuage?\nGrace, which like the LORD, the giver,\nNever fails from age to age.",
+  "voice": "John Newton",
+  "insight": "",
+  "witness": {
+   "voice": "John Newton",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book I, Hymn 60",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-newton-009",
+  "kind": "hymn",
+  "ref": "Begone unbelief (1779), st. 1",
+  "text": "Begone unbelief,\nMy Savior is near,\nAnd for my relief\nWill surely appear:\nBy prayer let me wrestle,\nAnd he wilt perform,\nWith CHRIST in the vessel,\nI smile at the storm.",
+  "voice": "John Newton",
+  "insight": "",
+  "witness": {
+   "voice": "John Newton",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book III, Hymn 37",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-newton-010",
+  "kind": "hymn",
+  "ref": "Begone unbelief (1779), st. 2",
+  "text": "Though dark be my way,\nSince he is my guide,\n'Tis mine to obey,\n'Tis his to provide;\nThough cisterns be broken,\nAnd creatures all fail,\nThe word he has spoken\nShall surely prevail.",
+  "voice": "John Newton",
+  "insight": "",
+  "witness": {
+   "voice": "John Newton",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book III, Hymn 37",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-newton-011",
+  "kind": "hymn",
+  "ref": "One there is, above all others (1779), st. 1",
+  "text": "One there is, above all others,\nWell deserves the name of friend;\nHis is love beyond a brother's,\nCostly, free, and knows no end:\nThey who once his kindness prove,\nFind it everlasting love!",
+  "voice": "John Newton",
+  "insight": "",
+  "witness": {
+   "voice": "John Newton",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book I, Hymn 53",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-newton-012",
+  "kind": "hymn",
+  "ref": "Approach, my soul, the mercy-seat (1779), st. 1",
+  "text": "Approach, my soul, the mercy-seat\nWhere JESUS answers prayer;\nThere humbly fall before his feet,\nFor none can perish there.",
+  "voice": "John Newton",
+  "insight": "",
+  "witness": {
+   "voice": "John Newton",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book III, Hymn 12",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-newton-013",
+  "kind": "hymn",
+  "ref": "Approach, my soul, the mercy-seat (1779), st. 2",
+  "text": "Thy promise is my only plea,\nWith this I venture nigh;\nThou callest burdened souls to thee,\nAnd such, O LORD, am I.",
+  "voice": "John Newton",
+  "insight": "",
+  "witness": {
+   "voice": "John Newton",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book III, Hymn 12",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-newton-014",
+  "kind": "hymn",
+  "ref": "Let us love, and sing, and wonder (1779), st. 1",
+  "text": "Let us love, and sing, and wonder,\nLet us praise the Savior's name!\nHe has hushed the Law's loud thunder,\nHe has quenched mount Sinai's flame:\nHe has washed us with his blood,\nHe has brought us nigh to God.",
+  "voice": "John Newton",
+  "insight": "",
+  "witness": {
+   "voice": "John Newton",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book III, Hymn 82",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-newton-015",
+  "kind": "hymn",
+  "ref": "Safely through another week (1779), st. 1",
+  "text": "Safely through another week,\nGOD has brought us on our way,\nLet us now a blessing seek\nOn th' approaching sabbath-day:\nDay, of all the week, the best;\nEmblem of eternal rest!",
+  "voice": "John Newton",
+  "insight": "",
+  "witness": {
+   "voice": "John Newton",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book II, Hymn 40",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-newton-016",
+  "kind": "hymn",
+  "ref": "In evil long I took delight (1779), st. 1",
+  "text": "In evil long I took delight,\nUnawed by shame or fear;\nTill a new object struck my sight,\nAnd stopped my wild career.",
+  "voice": "John Newton",
+  "insight": "",
+  "witness": {
+   "voice": "John Newton",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book II, Hymn 57",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-newton-017",
+  "kind": "hymn",
+  "ref": "In evil long I took delight (1779), st. 2",
+  "text": "I saw one hanging on a tree,\nIn agonies and blood;\nWho fixed his languid eyes on me,\nAs near his cross I stood.",
+  "voice": "John Newton",
+  "insight": "",
+  "witness": {
+   "voice": "John Newton",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book II, Hymn 57",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-newton-018",
+  "kind": "hymn",
+  "ref": "I asked the LORD that I might grow (1779), st. 1",
+  "text": "I asked the LORD that I might grow\nIn faith, and love, and every grace;\nMight more of his salvation know,\nAnd seek, more earnestly, his face.",
+  "voice": "John Newton",
+  "insight": "",
+  "witness": {
+   "voice": "John Newton",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book III, Hymn 36",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-newton-019",
+  "kind": "hymn",
+  "ref": "Though troubles assail (1779), st. 1",
+  "text": "Though troubles assail\nAnd dangers affright,\nThough friends should all fail\nAnd foes all unite;\nYet one thing secures us,\nWhatever betide,\nThe scripture assures us,\nThe Lord will provide.",
+  "voice": "John Newton",
+  "insight": "",
+  "witness": {
+   "voice": "John Newton",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book I, Hymn 7",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-newton-020",
+  "kind": "hymn",
+  "ref": "Why should I fear the darkest hour (1779), st. 1",
+  "text": "Why should I fear the darkest hour,\nOr tremble at the tempter's pow'r?\nJesus vouchsafes to be my tow'r.",
+  "voice": "John Newton",
+  "insight": "",
+  "witness": {
+   "voice": "John Newton",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book III, Hymn 46",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-newton-021",
+  "kind": "hymn",
+  "ref": "Precious Bible! what a treasure (1779), st. 1",
+  "text": "Precious Bible! what a treasure\nDoes the word of God afford?\nAll I want for life or pleasure,\nFOOD and MED'CINE, SHIELD and SWORD:\nLet the world account me poor,\nHaving this I need no more.",
+  "voice": "John Newton",
+  "insight": "",
+  "witness": {
+   "voice": "John Newton",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book II, Hymn 63",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-newton-022",
+  "kind": "hymn",
+  "ref": "Quiet, Lord, my froward heart (1779), st. 1",
+  "text": "Quiet, LORD, my froward heart,\nMake me teachable and mild,\nUpright, simple, free from art,\nMake me as a weaned child:\nFrom distrust and envy free,\nPleased with all that pleases thee.",
+  "voice": "John Newton",
+  "insight": "",
+  "witness": {
+   "voice": "John Newton",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book III, Hymn 65",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-newton-023",
+  "kind": "hymn",
+  "ref": "Come, my soul, thy suit prepare (1779), st. 1",
+  "text": "Come, my soul, thy suit prepare,\nJesus loves to answer prayer,\nHe himself has bid thee pray,\nTherefore will not say thee nay.",
+  "voice": "John Newton",
+  "insight": "",
+  "witness": {
+   "voice": "John Newton",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book I, Hymn 31",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-newton-024",
+  "kind": "hymn",
+  "ref": "Come, my soul, thy suit prepare (1779), st. 2",
+  "text": "Thou art coming to a King,\nLarge petitions with thee bring;\nFor his grace and pow'r are such,\nNone can ever ask too much.",
+  "voice": "John Newton",
+  "insight": "",
+  "witness": {
+   "voice": "John Newton",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book I, Hymn 31",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-newton-025",
+  "kind": "hymn",
+  "ref": "Physician of my sin-sick soul (1779), st. 1",
+  "text": "Physician of my sin-sick soul,\nTo thee I bring my case;\nMy raging malady control,\nAnd heal me by thy grace.",
+  "voice": "John Newton",
+  "insight": "",
+  "witness": {
+   "voice": "John Newton",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book I, Hymn 83",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-cowper-001",
+  "kind": "hymn",
+  "ref": "God moves in a mysterious way (1774), st. 1",
+  "text": "God moves in a mysterious way,\nHis wonders to perform;\nHe plants his footsteps in the sea,\nAnd rides upon the storm.",
+  "voice": "William Cowper",
+  "insight": "",
+  "witness": {
+   "voice": "William Cowper",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book III, Hymn 15",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-cowper-002",
+  "kind": "hymn",
+  "ref": "God moves in a mysterious way (1774), st. 2",
+  "text": "Deep in unfathomable mines\nOf never failing skill\nHe treasures up his bright designs,\nAnd works his sovereign will.",
+  "voice": "William Cowper",
+  "insight": "",
+  "witness": {
+   "voice": "William Cowper",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book III, Hymn 15",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-cowper-003",
+  "kind": "hymn",
+  "ref": "God moves in a mysterious way (1774), st. 3",
+  "text": "Ye fearful saints fresh courage take,\nThe clouds ye so much dread\nAre big with mercy, and shall break\nIn blessings on your head.",
+  "voice": "William Cowper",
+  "insight": "",
+  "witness": {
+   "voice": "William Cowper",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book III, Hymn 15",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-cowper-004",
+  "kind": "hymn",
+  "ref": "God moves in a mysterious way (1774), st. 4",
+  "text": "Judge not the LORD by feeble sense,\nBut trust him for his grace;\nBehind a frowning providence,\nHe hides a smiling face.",
+  "voice": "William Cowper",
+  "insight": "",
+  "witness": {
+   "voice": "William Cowper",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book III, Hymn 15",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-cowper-005",
+  "kind": "hymn",
+  "ref": "God moves in a mysterious way (1774), st. 5",
+  "text": "His purposes will ripen fast,\nUnfolding every hour;\nThe bud may have a bitter taste,\nBut sweet will be the flow'r.",
+  "voice": "William Cowper",
+  "insight": "",
+  "witness": {
+   "voice": "William Cowper",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book III, Hymn 15",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-cowper-006",
+  "kind": "hymn",
+  "ref": "God moves in a mysterious way (1774), st. 6",
+  "text": "Blind unbelief is sure to err,\nAnd scan his work in vain;\nGOD is his own interpreter,\nAnd he will make it plain.",
+  "voice": "William Cowper",
+  "insight": "",
+  "witness": {
+   "voice": "William Cowper",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book III, Hymn 15",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-cowper-007",
+  "kind": "hymn",
+  "ref": "There is a fountain filled with blood (1772), st. 1",
+  "text": "There is a fountain filled with blood\nDrawn from EMMANUEL'S veins;\nAnd sinners, plunged beneath that flood,\nLoose all their guilty stains.",
+  "voice": "William Cowper",
+  "insight": "",
+  "witness": {
+   "voice": "William Cowper",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book I, Hymn 79",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-cowper-008",
+  "kind": "hymn",
+  "ref": "There is a fountain filled with blood (1772), st. 2",
+  "text": "The dying thief rejoiced to see\nThat fountain in his day;\nAnd there have I, as vile as he,\nWashed all my sins away.",
+  "voice": "William Cowper",
+  "insight": "",
+  "witness": {
+   "voice": "William Cowper",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book I, Hymn 79",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-cowper-009",
+  "kind": "hymn",
+  "ref": "There is a fountain filled with blood (1772), st. 3",
+  "text": "Dear dying Lamb, thy precious blood\nShall never lose its pow'r;\nTill all the ransomed church of God\nBe saved, to sin no more.",
+  "voice": "William Cowper",
+  "insight": "",
+  "witness": {
+   "voice": "William Cowper",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book I, Hymn 79",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-cowper-010",
+  "kind": "hymn",
+  "ref": "There is a fountain filled with blood (1772), st. 4",
+  "text": "E'er since, by faith, I saw the stream\nThy flowing wounds supply:\nRedeeming love has been my theme,\nAnd shall be till I die.",
+  "voice": "William Cowper",
+  "insight": "",
+  "witness": {
+   "voice": "William Cowper",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book I, Hymn 79",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-cowper-011",
+  "kind": "hymn",
+  "ref": "O! for a closer walk with God (1772), st. 1",
+  "text": "O! for a closer walk with God,\nA calm and heav'nly frame;\nA light to shine upon the road\nThat leads me to the Lamb!",
+  "voice": "William Cowper",
+  "insight": "",
+  "witness": {
+   "voice": "William Cowper",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book I, Hymn 3",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-cowper-012",
+  "kind": "hymn",
+  "ref": "O! for a closer walk with God (1772), st. 4",
+  "text": "Return, O holy Dove, return,\nSweet messenger of rest;\nI hate the sins that made thee mourn,\nAnd drove thee from my breast.",
+  "voice": "William Cowper",
+  "insight": "",
+  "witness": {
+   "voice": "William Cowper",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book I, Hymn 3",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-cowper-013",
+  "kind": "hymn",
+  "ref": "O! for a closer walk with God (1772), st. 6",
+  "text": "So shall my walk be close with God,\nCalm and serene my frame;\nSo purer light shall mark the road\nThat leads me to the Lamb.",
+  "voice": "William Cowper",
+  "insight": "",
+  "witness": {
+   "voice": "William Cowper",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book I, Hymn 3",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-cowper-014",
+  "kind": "hymn",
+  "ref": "Sometimes a light surprises (1779), st. 1",
+  "text": "Sometimes a light surprises\nThe christian while he sings;\nIt is the LORD who rises\nWith healing in his wings:\nWhen comforts are declining,\nHe grants the soul again\nA season of clear shining\nTo cheer it after rain.",
+  "voice": "William Cowper",
+  "insight": "",
+  "witness": {
+   "voice": "William Cowper",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book III, Hymn 48",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-cowper-015",
+  "kind": "hymn",
+  "ref": "Sometimes a light surprises (1779), st. 4",
+  "text": "The vine, nor fig-tree neither,\nTheir wonted fruit should hear,\nThough all the fields should wither,\nNor flocks, nor herds, be there:\nYet God the same abiding,\nHis praise shall tune my voice;\nFor while in him confiding,\nI cannot but rejoice.",
+  "voice": "William Cowper",
+  "insight": "",
+  "witness": {
+   "voice": "William Cowper",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book III, Hymn 48",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-cowper-016",
+  "kind": "hymn",
+  "ref": "Hark, my soul! it is the LORD (1768), st. 1",
+  "text": "Hark, my soul! it is the LORD;\n'Tis thy Savior, hear his word;\nJESUS speaks, and speaks to thee;\n\"Say, poor sinner, lov'st thou me?",
+  "voice": "William Cowper",
+  "insight": "",
+  "witness": {
+   "voice": "William Cowper",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book I, Hymn 118",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-cowper-017",
+  "kind": "hymn",
+  "ref": "Hark, my soul! it is the LORD (1768), st. 3",
+  "text": "Can a woman's tender care\nCease, towards the child she bare?\nYes, she may forgetful be,\nYet will I remember thee.",
+  "voice": "William Cowper",
+  "insight": "",
+  "witness": {
+   "voice": "William Cowper",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book I, Hymn 118",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-cowper-018",
+  "kind": "hymn",
+  "ref": "Jesus, where'er thy people meet (1769), st. 1",
+  "text": "Jesus, where'er thy people meet,\nThere they behold thy mercy-seat;\nWhere'er they seek thee thou art found,\nAnd every place is hallowed ground.",
+  "voice": "William Cowper",
+  "insight": "",
+  "witness": {
+   "voice": "William Cowper",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book II, Hymn 44",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-cowper-019",
+  "kind": "hymn",
+  "ref": "Jesus, where'er thy people meet (1769), st. 2",
+  "text": "For thou, within no walls confined,\nInhabitest the humble mind;\nSuch ever bring thee, where they come,\nAnd going, take thee to their home.",
+  "voice": "William Cowper",
+  "insight": "",
+  "witness": {
+   "voice": "William Cowper",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book II, Hymn 44",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-cowper-020",
+  "kind": "hymn",
+  "ref": "What various hindrances we meet (1779), st. 1",
+  "text": "What various hindrances we meet\nIn coming to a mercy-seat?\nYet who that knows the worth of prayer,\nBut wishes to be often there.",
+  "voice": "William Cowper",
+  "insight": "",
+  "witness": {
+   "voice": "William Cowper",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book II, Hymn 60",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-cowper-021",
+  "kind": "hymn",
+  "ref": "Ere God had built the mountains (1779), st. 1",
+  "text": "Ere God had built the mountains,\nOr raised the fruitful hills;\nBefore he filled the fountains\nThat feed the running rills;\nIn me, from everlasting,\nThe wonderful I AM,\nFound pleasures never wasting,\nAnd Wisdom is my name.",
+  "voice": "William Cowper",
+  "insight": "",
+  "witness": {
+   "voice": "William Cowper",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book I, Hymn 52",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-cowper-022",
+  "kind": "hymn",
+  "ref": "The billows swell the winds are high (1779), st. 1",
+  "text": "The billows swell the winds are high,\nClouds overcast my wintry sky;\nOut of the depths to thee I call,\nMy fears are great, my strength is small.",
+  "voice": "William Cowper",
+  "insight": "",
+  "witness": {
+   "voice": "William Cowper",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book III, Hymn 18",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-cowper-023",
+  "kind": "hymn",
+  "ref": "To keep the lamp alive (1779), st. 1",
+  "text": "To keep the lamp alive\nWith oil we fill the bowl;\n'Tis water makes the willow thrive,\nAnd grace that feeds the soul.",
+  "voice": "William Cowper",
+  "insight": "",
+  "witness": {
+   "voice": "William Cowper",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book III, Hymn 74",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-cowper-024",
+  "kind": "hymn",
+  "ref": "Far from the world, O Lord, I flee (1779), st. 1",
+  "text": "Far from the world, O Lord, I flee,\nFrom strife and tumult far;\nFrom scenes, where Satan wages still,\nHis most successful war.",
+  "voice": "William Cowper",
+  "insight": "",
+  "witness": {
+   "voice": "William Cowper",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book III, Hymn 45",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-cowper-025",
+  "kind": "hymn",
+  "ref": "O Lord, my best desire fulfill (1779), st. 1",
+  "text": "O Lord, my best desire fulfill\nAnd help me to resign,\nLife, health, and comfort to thy will,\nAnd make thy pleasure mine.",
+  "voice": "William Cowper",
+  "insight": "",
+  "witness": {
+   "voice": "William Cowper",
+   "work": "Olney Hymns (1779)",
+   "source": "ccel.org/ccel/newton/olneyhymns",
+   "path": "ccel/newton-olneyhymns.txt#Book III, Hymn 29",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-wesley-001",
+  "kind": "hymn",
+  "ref": "O For a thousand tongues to sing (1739), st. 1",
+  "text": "O FOR a thousand tongues to sing\nMy great Redeemer's praise,\nThe glories of my God and King,\nThe triumphs of his grace!",
+  "voice": "Charles Wesley",
+  "insight": "",
+  "witness": {
+   "voice": "Charles Wesley",
+   "work": "A Collection of Hymns for the Use of the People Called Methodists (1780; 1889 ed.)",
+   "source": "ccel.org/w/wesley/hymn",
+   "path": "ccel/wesley/jwg0001.html",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-wesley-002",
+  "kind": "hymn",
+  "ref": "O For a thousand tongues to sing (1739), st. 3",
+  "text": "Jesus! the name that charms our fears,\nThat bids our sorrows cease;\n'Tis music in the sinner's ears,\n'Tis life, and health, and peace.",
+  "voice": "Charles Wesley",
+  "insight": "",
+  "witness": {
+   "voice": "Charles Wesley",
+   "work": "A Collection of Hymns for the Use of the People Called Methodists (1780; 1889 ed.)",
+   "source": "ccel.org/w/wesley/hymn",
+   "path": "ccel/wesley/jwg0001.html",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-wesley-003",
+  "kind": "hymn",
+  "ref": "O For a thousand tongues to sing (1739), st. 4",
+  "text": "He breaks the power of cancelled sin,\nHe sets the prisoner free;\nHis blood can make the foulest clean,\nHis blood availed for me.",
+  "voice": "Charles Wesley",
+  "insight": "",
+  "witness": {
+   "voice": "Charles Wesley",
+   "work": "A Collection of Hymns for the Use of the People Called Methodists (1780; 1889 ed.)",
+   "source": "ccel.org/w/wesley/hymn",
+   "path": "ccel/wesley/jwg0001.html",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-wesley-004",
+  "kind": "hymn",
+  "ref": "O For a thousand tongues to sing (1739), st. 5",
+  "text": "He speaks, and, listening to his voice,\nNew life the dead receive,\nThe mournful, broken hearts rejoice,\nThe humble poor believe.",
+  "voice": "Charles Wesley",
+  "insight": "",
+  "witness": {
+   "voice": "Charles Wesley",
+   "work": "A Collection of Hymns for the Use of the People Called Methodists (1780; 1889 ed.)",
+   "source": "ccel.org/w/wesley/hymn",
+   "path": "ccel/wesley/jwg0001.html",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-wesley-005",
+  "kind": "hymn",
+  "ref": "Jesu, Lover of my soul (1740), st. 1",
+  "text": "JESU, Lover of my soul,\nLet me to thy bosom fly,\nWhile the nearer waters roll,\nWhile the tempest still is high:\nHide me, O my Saviour, hide,\nTill the storm of life be past!\nSafe into the haven guide,\nO receive my soul at last!",
+  "voice": "Charles Wesley",
+  "insight": "",
+  "witness": {
+   "voice": "Charles Wesley",
+   "work": "A Collection of Hymns for the Use of the People Called Methodists (1780; 1889 ed.)",
+   "source": "ccel.org/w/wesley/hymn",
+   "path": "ccel/wesley/jwg0143.html",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-wesley-006",
+  "kind": "hymn",
+  "ref": "Jesu, Lover of my soul (1740), st. 2",
+  "text": "Other refuge have I none,\nHangs my helpless soul on thee;\nLeave, ah! leave me not alone,\nStill support and comfort me:\nAll my trust on thee is stayed,\nAll my help from thee I bring;\nCover my defenceless head\nWith the shadow of thy wing.",
+  "voice": "Charles Wesley",
+  "insight": "",
+  "witness": {
+   "voice": "Charles Wesley",
+   "work": "A Collection of Hymns for the Use of the People Called Methodists (1780; 1889 ed.)",
+   "source": "ccel.org/w/wesley/hymn",
+   "path": "ccel/wesley/jwg0143.html",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-wesley-007",
+  "kind": "hymn",
+  "ref": "Jesu, Lover of my soul (1740), st. 4",
+  "text": "Plenteous grace with thee is found,\nGrace to cover all my sin,\nLet the healing streams abound;\nMake and keep me pure within:\nThou of life the fountain art,\nFreely let me take of thee,\nSpring thou up within my heart,\nRise to all eternity.",
+  "voice": "Charles Wesley",
+  "insight": "",
+  "witness": {
+   "voice": "Charles Wesley",
+   "work": "A Collection of Hymns for the Use of the People Called Methodists (1780; 1889 ed.)",
+   "source": "ccel.org/w/wesley/hymn",
+   "path": "ccel/wesley/jwg0143.html",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-wesley-008",
+  "kind": "hymn",
+  "ref": "And can it be, that I should gain (1738), st. 2",
+  "text": "'Tis mystery all! The Immortal dies!\nWho can explore his strange design?\nIn vain the first-born seraph tries\nTo sound the depths of love divine!\n'Tis mercy all! let earth adore,\nLet angel-minds inquire no more.",
+  "voice": "Charles Wesley",
+  "insight": "",
+  "witness": {
+   "voice": "Charles Wesley",
+   "work": "A Collection of Hymns for the Use of the People Called Methodists (1780; 1889 ed.)",
+   "source": "ccel.org/w/wesley/hymn",
+   "path": "ccel/wesley/jwg0201.html",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-wesley-009",
+  "kind": "hymn",
+  "ref": "And can it be, that I should gain (1738), st. 4",
+  "text": "Long my imprisoned spirit lay\nFast bound in sin and nature's night;\nThine eye diffused a quickening ray,\nI woke, the dungeon flamed with light;\nMy chains fell off, my heart was free,\nI rose, went forth, and followed thee.",
+  "voice": "Charles Wesley",
+  "insight": "",
+  "witness": {
+   "voice": "Charles Wesley",
+   "work": "A Collection of Hymns for the Use of the People Called Methodists (1780; 1889 ed.)",
+   "source": "ccel.org/w/wesley/hymn",
+   "path": "ccel/wesley/jwg0201.html",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-wesley-010",
+  "kind": "hymn",
+  "ref": "And can it be, that I should gain (1738), st. 5",
+  "text": "No condemnation now I dread,\nJesus, and all in him, is mine!\nAlive in him, my living Head,\nAnd clothed in righteousness divine,\nBold I approach the eternal throne,\nAnd claim the crown, through Christ my own.",
+  "voice": "Charles Wesley",
+  "insight": "",
+  "witness": {
+   "voice": "Charles Wesley",
+   "work": "A Collection of Hymns for the Use of the People Called Methodists (1780; 1889 ed.)",
+   "source": "ccel.org/w/wesley/hymn",
+   "path": "ccel/wesley/jwg0201.html",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-wesley-011",
+  "kind": "hymn",
+  "ref": "Love Divine, all loves excelling (1747), st. 1",
+  "text": "LOVE Divine, all loves excelling,\nJoy of heaven, to earth come down!\nFix in us thy humble dwelling,\nAll thy faithful mercies crown;\nJesu, thou art all compassion,\nPure, unbounded love thou art;\nVisit us with thy salvation,\nEnter every trembling heart.",
+  "voice": "Charles Wesley",
+  "insight": "",
+  "witness": {
+   "voice": "Charles Wesley",
+   "work": "A Collection of Hymns for the Use of the People Called Methodists (1780; 1889 ed.)",
+   "source": "ccel.org/w/wesley/hymn",
+   "path": "ccel/wesley/jwg0385.html",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-wesley-012",
+  "kind": "hymn",
+  "ref": "Love Divine, all loves excelling (1747), st. 3",
+  "text": "Finish then thy new creation,\nPure and spotless let us be;\nLet us see thy great salvation,\nPerfectly restored in thee;\nChanged from glory into glory,\nTill in heaven we take our place,\nTill we cast our crowns before thee,\nLost in wonder, love, and praise!",
+  "voice": "Charles Wesley",
+  "insight": "",
+  "witness": {
+   "voice": "Charles Wesley",
+   "work": "A Collection of Hymns for the Use of the People Called Methodists (1780; 1889 ed.)",
+   "source": "ccel.org/w/wesley/hymn",
+   "path": "ccel/wesley/jwg0385.html",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-wesley-013",
+  "kind": "hymn",
+  "ref": "Rejoice, the Lord is King (1744), st. 1",
+  "text": "REJOICE, the Lord is King!\nYour Lord and King adore,\nMortals, give thanks, and sing,\nAnd triumph evermore;\nLift up your heart, lift up your voice,\nRejoice, again I say, rejoice.",
+  "voice": "Charles Wesley",
+  "insight": "",
+  "witness": {
+   "voice": "Charles Wesley",
+   "work": "A Collection of Hymns for the Use of the People Called Methodists (1780; 1889 ed.)",
+   "source": "ccel.org/w/wesley/hymn",
+   "path": "ccel/wesley/jwg0729.html",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-wesley-014",
+  "kind": "hymn",
+  "ref": "Rejoice, the Lord is King (1744), st. 3",
+  "text": "His kingdom cannot fail,\nHe rules o'er earth and heaven;\nThe keys of death and hell\nAre to our Jesus given:\nLift up your heart, lift up your voice,\nRejoice, again I say, rejoice.",
+  "voice": "Charles Wesley",
+  "insight": "",
+  "witness": {
+   "voice": "Charles Wesley",
+   "work": "A Collection of Hymns for the Use of the People Called Methodists (1780; 1889 ed.)",
+   "source": "ccel.org/w/wesley/hymn",
+   "path": "ccel/wesley/jwg0729.html",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-wesley-015",
+  "kind": "hymn",
+  "ref": "Soldiers of Christ, arise (1749), st. 1",
+  "text": "SOLDIERS of Christ, arise,\nAnd put your armour on,\nStrong in the strength which God supplies\nThrough his eternal Son;\nStrong in the Lord of hosts,\nAnd in his mighty power,\nWho in the strength of Jesus trusts\nIs more than conqueror.",
+  "voice": "Charles Wesley",
+  "insight": "",
+  "witness": {
+   "voice": "Charles Wesley",
+   "work": "A Collection of Hymns for the Use of the People Called Methodists (1780; 1889 ed.)",
+   "source": "ccel.org/w/wesley/hymn",
+   "path": "ccel/wesley/jwg0266.html",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-wesley-016",
+  "kind": "hymn",
+  "ref": "Soldiers of Christ, arise (1749), st. 2",
+  "text": "Stand then in his great might,\nWith all his strength endued;\nBut take, to arm you for the fight,\nThe panoply of God;\nThat, having all things done,\nAnd all your conflicts passed,\nYe may o'ercome through Christ alone,\nAnd stand entire at last.",
+  "voice": "Charles Wesley",
+  "insight": "",
+  "witness": {
+   "voice": "Charles Wesley",
+   "work": "A Collection of Hymns for the Use of the People Called Methodists (1780; 1889 ed.)",
+   "source": "ccel.org/w/wesley/hymn",
+   "path": "ccel/wesley/jwg0266.html",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-wesley-017",
+  "kind": "hymn",
+  "ref": "Hark the herald-angels sing (1739), st. 1",
+  "text": "HARK the herald-angels sing\n\"Glory to the new-born King,\nPeace on earth, and mercy mild;\nGod and sinners reconciled.\"",
+  "voice": "Charles Wesley",
+  "insight": "",
+  "witness": {
+   "voice": "Charles Wesley",
+   "work": "A Collection of Hymns for the Use of the People Called Methodists (1780; 1889 ed.)",
+   "source": "ccel.org/w/wesley/hymn",
+   "path": "ccel/wesley/jwg0683.html",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-wesley-018",
+  "kind": "hymn",
+  "ref": "Come, thou long-expected Jesus (1744), st. 1",
+  "text": "COME, thou long-expected Jesus,\nBorn to set thy people free,\nFrom our fears and sins release us,\nLet us find our rest in thee.\nIsrael's strength and consolation,\nHope of all the earth thou art;\nDear Desire of every nation,\nJoy of every longing heart.",
+  "voice": "Charles Wesley",
+  "insight": "",
+  "witness": {
+   "voice": "Charles Wesley",
+   "work": "A Collection of Hymns for the Use of the People Called Methodists (1780; 1889 ed.)",
+   "source": "ccel.org/w/wesley/hymn",
+   "path": "ccel/wesley/jwg0688.html",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-wesley-019",
+  "kind": "hymn",
+  "ref": "Come, thou long-expected Jesus (1744), st. 2",
+  "text": "Born thy people to deliver,\nBorn a child and yet a king,\nBorn to reign in us for ever,\nNow thy gracious kingdom bring:\nBy thine own eternal Spirit\nRule in all our hearts alone;\nBy thine all-sufficient merit\nRaise us to thy glorious throne.",
+  "voice": "Charles Wesley",
+  "insight": "",
+  "witness": {
+   "voice": "Charles Wesley",
+   "work": "A Collection of Hymns for the Use of the People Called Methodists (1780; 1889 ed.)",
+   "source": "ccel.org/w/wesley/hymn",
+   "path": "ccel/wesley/jwg0688.html",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-wesley-020",
+  "kind": "hymn",
+  "ref": "Come, O thou Traveller unknown (1742), st. 1",
+  "text": "COME, O thou Traveller unknown,\nWhom still I hold, but cannot see!\nMy company before is gone,\nAnd I am left alone with thee;\nWith thee all night I mean to stay,\nAnd wrestle till the break of day.",
+  "voice": "Charles Wesley",
+  "insight": "",
+  "witness": {
+   "voice": "Charles Wesley",
+   "work": "A Collection of Hymns for the Use of the People Called Methodists (1780; 1889 ed.)",
+   "source": "ccel.org/w/wesley/hymn",
+   "path": "ccel/wesley/jwg0140.html",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-wesley-021",
+  "kind": "hymn",
+  "ref": "Depth of mercy! can there be (1740), st. 1",
+  "text": "DEPTH of mercy! can there be\nMercy still reserved for me?\nCan my God his wrath forbear?\nMe, the chief of sinners, spare?\nI have long withstood his grace,\nLong provoked him to his face,\nWould not hearken to his calls,\nGrieved him by a thousand falls.",
+  "voice": "Charles Wesley",
+  "insight": "",
+  "witness": {
+   "voice": "Charles Wesley",
+   "work": "A Collection of Hymns for the Use of the People Called Methodists (1780; 1889 ed.)",
+   "source": "ccel.org/w/wesley/hymn",
+   "path": "ccel/wesley/jwg0168.html",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-wesley-022",
+  "kind": "hymn",
+  "ref": "Jesu, thy blood and righteousness (1740), st. 1",
+  "text": "JESU, thy blood and righteousness\nMy beauty are, my glorious dress;\nMidst flaming worlds in these arrayed,\nWith joy shall I lift up my head.",
+  "voice": "Charles Wesley",
+  "insight": "",
+  "witness": {
+   "voice": "Charles Wesley",
+   "work": "A Collection of Hymns for the Use of the People Called Methodists (1780; 1889 ed.)",
+   "source": "ccel.org/w/wesley/hymn",
+   "path": "ccel/wesley/jwg0190.html",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-wesley-023",
+  "kind": "hymn",
+  "ref": "Jesu, thy blood and righteousness (1740), st. 2",
+  "text": "Bold shall I stand in thy great day,\nFor who aught to my charge shall lay?\nFully absolved through these I am,\nFrom sin and fear, from guilt and shame,",
+  "voice": "Charles Wesley",
+  "insight": "",
+  "witness": {
+   "voice": "Charles Wesley",
+   "work": "A Collection of Hymns for the Use of the People Called Methodists (1780; 1889 ed.)",
+   "source": "ccel.org/w/wesley/hymn",
+   "path": "ccel/wesley/jwg0190.html",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-wesley-024",
+  "kind": "hymn",
+  "ref": "Arise, my soul, arise (1742), st. 1",
+  "text": "ARISE, my soul, arise,\nThy Saviour's sacrifice!\nAll the names that love could find,\nAll the forms that love could take,\nJesus in himself hath joined,\nThee, my soul, his own to make.",
+  "voice": "Charles Wesley",
+  "insight": "",
+  "witness": {
+   "voice": "Charles Wesley",
+   "work": "A Collection of Hymns for the Use of the People Called Methodists (1780; 1889 ed.)",
+   "source": "ccel.org/w/wesley/hymn",
+   "path": "ccel/wesley/jwg0194.html",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-wesley-025",
+  "kind": "hymn",
+  "ref": "O For a heart to praise my God (1742), st. 1",
+  "text": "O FOR a heart to praise my God,\nA heart from sin set free!\nA heart that always feels thy blood\nSo freely spilt for me!",
+  "voice": "Charles Wesley",
+  "insight": "",
+  "witness": {
+   "voice": "Charles Wesley",
+   "work": "A Collection of Hymns for the Use of the People Called Methodists (1780; 1889 ed.)",
+   "source": "ccel.org/w/wesley/hymn",
+   "path": "ccel/wesley/jwg0343.html",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-keble-001",
+  "kind": "hymn",
+  "ref": "Morning (1827), st. 6",
+  "text": "New every morning is the love\nOur wakening and uprising prove;\nThrough sleep and darkness safely brought,\nRestored to life, and power, and thought.",
+  "voice": "John Keble",
+  "insight": "",
+  "witness": {
+   "voice": "John Keble",
+   "work": "The Christian Year (1827)",
+   "source": "gutenberg.org/ebooks/4272",
+   "path": "gutenberg/pg4272.txt#Morning.",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-keble-002",
+  "kind": "hymn",
+  "ref": "Morning (1827), st. 7",
+  "text": "New mercies, each returning day,\nHover around us while we pray;\nNew perils past, new sins forgiven,\nNew thoughts of God, new hopes of Heaven.",
+  "voice": "John Keble",
+  "insight": "",
+  "witness": {
+   "voice": "John Keble",
+   "work": "The Christian Year (1827)",
+   "source": "gutenberg.org/ebooks/4272",
+   "path": "gutenberg/pg4272.txt#Morning.",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-keble-003",
+  "kind": "hymn",
+  "ref": "Morning (1827), st. 14",
+  "text": "The trivial round, the common task,\nWould furnish all we ought to ask;\nRoom to deny ourselves; a road\nTo bring us daily nearer God.",
+  "voice": "John Keble",
+  "insight": "",
+  "witness": {
+   "voice": "John Keble",
+   "work": "The Christian Year (1827)",
+   "source": "gutenberg.org/ebooks/4272",
+   "path": "gutenberg/pg4272.txt#Morning.",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-keble-004",
+  "kind": "hymn",
+  "ref": "Morning (1827), st. 16",
+  "text": "Only, O Lord, in Thy dear love\nFit us for perfect Rest above;\nAnd help us, this and every day,\nTo live more nearly as we pray.",
+  "voice": "John Keble",
+  "insight": "",
+  "witness": {
+   "voice": "John Keble",
+   "work": "The Christian Year (1827)",
+   "source": "gutenberg.org/ebooks/4272",
+   "path": "gutenberg/pg4272.txt#Morning.",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-keble-005",
+  "kind": "hymn",
+  "ref": "Morning (1827), st. 9",
+  "text": "Old friends, old scenes will lovelier be,\nAs more of Heaven in each we see:\nSome softening gleam of love and prayer\nShall dawn on every cross and care.",
+  "voice": "John Keble",
+  "insight": "",
+  "witness": {
+   "voice": "John Keble",
+   "work": "The Christian Year (1827)",
+   "source": "gutenberg.org/ebooks/4272",
+   "path": "gutenberg/pg4272.txt#Morning.",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-keble-006",
+  "kind": "hymn",
+  "ref": "Evening (1827), st. 3",
+  "text": "Sun of my soul! Thou Saviour dear,\nIt is not night if Thou be near:\nOh, may no earth-born cloud arise\nTo hide Thee from Thy servant’s eyes!",
+  "voice": "John Keble",
+  "insight": "",
+  "witness": {
+   "voice": "John Keble",
+   "work": "The Christian Year (1827)",
+   "source": "gutenberg.org/ebooks/4272",
+   "path": "gutenberg/pg4272.txt#Evening.",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-keble-007",
+  "kind": "hymn",
+  "ref": "Evening (1827), st. 7",
+  "text": "When the soft dews of kindly sleep\nMy wearied eyelids gently steep,\nBe my last thought, how sweet to rest\nFor ever on my Saviour’s breast.",
+  "voice": "John Keble",
+  "insight": "",
+  "witness": {
+   "voice": "John Keble",
+   "work": "The Christian Year (1827)",
+   "source": "gutenberg.org/ebooks/4272",
+   "path": "gutenberg/pg4272.txt#Evening.",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-keble-008",
+  "kind": "hymn",
+  "ref": "Evening (1827), st. 8",
+  "text": "Abide with me from morn till eve,\nFor without Thee I cannot live:\nAbide with me when night is nigh,\nFor without Thee I dare not die.",
+  "voice": "John Keble",
+  "insight": "",
+  "witness": {
+   "voice": "John Keble",
+   "work": "The Christian Year (1827)",
+   "source": "gutenberg.org/ebooks/4272",
+   "path": "gutenberg/pg4272.txt#Evening.",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-keble-009",
+  "kind": "hymn",
+  "ref": "Evening (1827), st. 13",
+  "text": "Watch by the sick: enrich the poor\nWith blessings from Thy boundless store:\nBe every mourner’s sleep to-night,\nLike infants’ slumbers, pure and light.",
+  "voice": "John Keble",
+  "insight": "",
+  "witness": {
+   "voice": "John Keble",
+   "work": "The Christian Year (1827)",
+   "source": "gutenberg.org/ebooks/4272",
+   "path": "gutenberg/pg4272.txt#Evening.",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-keble-010",
+  "kind": "hymn",
+  "ref": "Evening (1827), st. 11",
+  "text": "Oh! by Thine own sad burthen, borne\nSo meekly up the hill of scorn,\nTeach Thou Thy Priests their daily cross\nTo bear as Thine, nor count it loss!",
+  "voice": "John Keble",
+  "insight": "",
+  "witness": {
+   "voice": "John Keble",
+   "work": "The Christian Year (1827)",
+   "source": "gutenberg.org/ebooks/4272",
+   "path": "gutenberg/pg4272.txt#Evening.",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-keble-011",
+  "kind": "hymn",
+  "ref": "Septuagesima Sunday (1827), st. 1",
+  "text": "THERE is a book, who runs may read,",
+  "voice": "John Keble",
+  "insight": "",
+  "witness": {
+   "voice": "John Keble",
+   "work": "The Christian Year (1827)",
+   "source": "gutenberg.org/ebooks/4272",
+   "path": "gutenberg/pg4272.txt#Septuagesima Sunday.",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-keble-012",
+  "kind": "hymn",
+  "ref": "Septuagesima Sunday (1827), st. 21",
+  "text": "Two worlds are ours: ’tis only Sin",
+  "voice": "John Keble",
+  "insight": "",
+  "witness": {
+   "voice": "John Keble",
+   "work": "The Christian Year (1827)",
+   "source": "gutenberg.org/ebooks/4272",
+   "path": "gutenberg/pg4272.txt#Septuagesima Sunday.",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-keble-013",
+  "kind": "hymn",
+  "ref": "Advent Sunday (1827), st. 1",
+  "text": "AWAKE—again the Gospel-trump is blown—\nFrom year to year it swells with louder tone,",
+  "voice": "John Keble",
+  "insight": "",
+  "witness": {
+   "voice": "John Keble",
+   "work": "The Christian Year (1827)",
+   "source": "gutenberg.org/ebooks/4272",
+   "path": "gutenberg/pg4272.txt#Advent Sunday.",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-keble-014",
+  "kind": "hymn",
+  "ref": "Christmas Day (1827), st. 1",
+  "text": "Flows out the echoing lay beyond the starry choir;",
+  "voice": "John Keble",
+  "insight": "",
+  "witness": {
+   "voice": "John Keble",
+   "work": "The Christian Year (1827)",
+   "source": "gutenberg.org/ebooks/4272",
+   "path": "gutenberg/pg4272.txt#Christmas Day.",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-keble-015",
+  "kind": "hymn",
+  "ref": "Easter Day (1827), st. 1",
+  "text": "OH! day of days! shall hearts set free\nNo “minstrel rapture” find for thee?\nThou art this Sun of other days,\nThey shine by giving back thy rays:",
+  "voice": "John Keble",
+  "insight": "",
+  "witness": {
+   "voice": "John Keble",
+   "work": "The Christian Year (1827)",
+   "source": "gutenberg.org/ebooks/4272",
+   "path": "gutenberg/pg4272.txt#Easter Day.",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-keble-016",
+  "kind": "hymn",
+  "ref": "Whitsunday (1827), st. 1",
+  "text": "WHEN God of old came down from Heaven,",
+  "voice": "John Keble",
+  "insight": "",
+  "witness": {
+   "voice": "John Keble",
+   "work": "The Christian Year (1827)",
+   "source": "gutenberg.org/ebooks/4272",
+   "path": "gutenberg/pg4272.txt#Whitsunday.",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-keble-017",
+  "kind": "hymn",
+  "ref": "Trinity Sunday (1827), st. 1",
+  "text": "CREATOR, Saviour, strengthening Guide,\nNow on Thy mercy’s ocean wide\nFar out of sight we seem to glide.",
+  "voice": "John Keble",
+  "insight": "",
+  "witness": {
+   "voice": "John Keble",
+   "work": "The Christian Year (1827)",
+   "source": "gutenberg.org/ebooks/4272",
+   "path": "gutenberg/pg4272.txt#Trinity Sunday.",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-gerhardt-001",
+  "kind": "hymn",
+  "ref": "Commit whatever grieves thee (1653), st. 1",
+  "text": "Commit whatever grieves thee\nAt heart, and all thy ways,\nTo Him who never leaves thee,\nOn whom creation stays.\nWho freest courses maketh\nFor clouds, and air, and wind,\nAnd care who ever taketh\nA path for thee to find.",
+  "voice": "Paul Gerhardt (tr. John Kelly)",
+  "insight": "",
+  "witness": {
+   "voice": "Paul Gerhardt (tr. John Kelly)",
+   "work": "Paul Gerhardt's Spiritual Songs, tr. John Kelly (1867)",
+   "source": "gutenberg.org/ebooks/30362",
+   "path": "gutenberg/pg30362.txt#IT TO PASS.--PSALM XXXVII. 5.",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-gerhardt-002",
+  "kind": "hymn",
+  "ref": "Commit whatever grieves thee (1653), st. 2",
+  "text": "The Lord thou must repose on\nIf thou wouldst prosper sure,\nHis work must ever gaze on\nIf thine is to endure.\nBy anxious care and grieving,\nBy self-consuming pain,\nGod is not mov'd to giving;\nBy pray'r must thou obtain.",
+  "voice": "Paul Gerhardt (tr. John Kelly)",
+  "insight": "",
+  "witness": {
+   "voice": "Paul Gerhardt (tr. John Kelly)",
+   "work": "Paul Gerhardt's Spiritual Songs, tr. John Kelly (1867)",
+   "source": "gutenberg.org/ebooks/30362",
+   "path": "gutenberg/pg30362.txt#IT TO PASS.--PSALM XXXVII. 5.",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-gerhardt-003",
+  "kind": "hymn",
+  "ref": "Oh! bleeding head, and wounded (1656), st. 1",
+  "text": "Oh! bleeding head, and wounded,\nAnd full of pain and scorn,\nIn mockery surrounded\nWith cruel crown of thorn!\nOh Head! before adornèd\nWith grace and majesty,\nInsulted now and scornèd,\nAll hail I bid to Thee!",
+  "voice": "Paul Gerhardt (tr. John Kelly)",
+  "insight": "",
+  "witness": {
+   "voice": "Paul Gerhardt (tr. John Kelly)",
+   "work": "Paul Gerhardt's Spiritual Songs, tr. John Kelly (1867)",
+   "source": "gutenberg.org/ebooks/30362",
+   "path": "gutenberg/pg30362.txt#TO THE COUNTENANCE OF THE LORD JESUS.",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-gerhardt-004",
+  "kind": "hymn",
+  "ref": "Oh! bleeding head, and wounded (1656), st. 2",
+  "text": "They spit upon and jeer Thee,\nThou noble countenance!\nThough mighty worlds shall fear Thee,\nAnd flee before Thy glance.\nHow hath Thy colour faded,\nThe light too of Thine eye!\nSay who to pale hath made it?\nNone shone so brilliantly.",
+  "voice": "Paul Gerhardt (tr. John Kelly)",
+  "insight": "",
+  "witness": {
+   "voice": "Paul Gerhardt (tr. John Kelly)",
+   "work": "Paul Gerhardt's Spiritual Songs, tr. John Kelly (1867)",
+   "source": "gutenberg.org/ebooks/30362",
+   "path": "gutenberg/pg30362.txt#TO THE COUNTENANCE OF THE LORD JESUS.",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-gerhardt-005",
+  "kind": "hymn",
+  "ref": "A Lamb bears all its guilt away (1647), st. 1",
+  "text": "A Lamb bears all its guilt away\nThe world thus to deliver,\nAll sins of sinners patiently\nIt bears and murmurs never.\nIt goes, and weak and sick is made\nAn off'ring on the altar laid,\nAll pleasure it forsaketh,\nSubmits to shame, and scorn, and wrath,\nTo anguish, wounds, stripes, cross, and death,\nThis cup with gladness taketh.",
+  "voice": "Paul Gerhardt (tr. John Kelly)",
+  "insight": "",
+  "witness": {
+   "voice": "Paul Gerhardt (tr. John Kelly)",
+   "work": "Paul Gerhardt's Spiritual Songs, tr. John Kelly (1867)",
+   "source": "gutenberg.org/ebooks/30362",
+   "path": "gutenberg/pg30362.txt#A LAMB BEARS ALL THE GUILT AWAY.",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-gerhardt-006",
+  "kind": "hymn",
+  "ref": "Awake, my heart! be singing (1647), st. 1",
+  "text": "Awake, my heart! be singing,\nPraise to thy Maker bringing,\nOf every good the Giver,\nWho men protecteth ever.",
+  "voice": "Paul Gerhardt (tr. John Kelly)",
+  "insight": "",
+  "witness": {
+   "voice": "Paul Gerhardt (tr. John Kelly)",
+   "work": "Paul Gerhardt's Spiritual Songs, tr. John Kelly (1867)",
+   "source": "gutenberg.org/ebooks/30362",
+   "path": "gutenberg/pg30362.txt#AWAKE, MY HEART!",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-gerhardt-007",
+  "kind": "hymn",
+  "ref": "Awake, my heart! be singing (1647), st. 2",
+  "text": "As shades of night spread over\nEarth as a pall did cover,\nThen Satan sought to have me,\nBut God was near to save me.",
+  "voice": "Paul Gerhardt (tr. John Kelly)",
+  "insight": "",
+  "witness": {
+   "voice": "Paul Gerhardt (tr. John Kelly)",
+   "work": "Paul Gerhardt's Spiritual Songs, tr. John Kelly (1867)",
+   "source": "gutenberg.org/ebooks/30362",
+   "path": "gutenberg/pg30362.txt#AWAKE, MY HEART!",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-gerhardt-008",
+  "kind": "hymn",
+  "ref": "Is God for me? t'oppose me (1653), st. 1",
+  "text": "Is God for me? t'oppose me\nA thousand may uprise;\nWhen I to pray'r arouse me,\nHe'll chase mine enemies.\nAnd doth the Head befriend me,\nAm I belov'd by God?\nLet foes then rise to rend me,\nThe wild opposing brood!",
+  "voice": "Paul Gerhardt (tr. John Kelly)",
+  "insight": "",
+  "witness": {
+   "voice": "Paul Gerhardt (tr. John Kelly)",
+   "work": "Paul Gerhardt's Spiritual Songs, tr. John Kelly (1867)",
+   "source": "gutenberg.org/ebooks/30362",
+   "path": "gutenberg/pg30362.txt#A SONG OF CHRISTIAN CONSOLATION AND JOY.",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-gerhardt-009",
+  "kind": "hymn",
+  "ref": "Why should sorrow ever grieve me (1653), st. 1",
+  "text": "Why should sorrow ever grieve me?\nChrist is near,\nWhat can here\nE'er of Him deprive me?\nWho can rob me of my heaven\nThat God's Son,\nAs mine own,\nTo my faith hath given?",
+  "voice": "Paul Gerhardt (tr. John Kelly)",
+  "insight": "",
+  "witness": {
+   "voice": "Paul Gerhardt (tr. John Kelly)",
+   "work": "Paul Gerhardt's Spiritual Songs, tr. John Kelly (1867)",
+   "source": "gutenberg.org/ebooks/30362",
+   "path": "gutenberg/pg30362.txt#A SONG OF CHRISTIAN JOY.",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-gerhardt-010",
+  "kind": "hymn",
+  "ref": "Now with joy my heart is bounding (1653), st. 1",
+  "text": "Now with joy my heart is bounding,\nWith delight\nAngels bright\nPraises forth are sounding.\nHark! hark! how the choirs of Heaven,\nThrough the sky\nRaise the cry,\nChrist to you is given!",
+  "voice": "Paul Gerhardt (tr. John Kelly)",
+  "insight": "",
+  "witness": {
+   "voice": "Paul Gerhardt (tr. John Kelly)",
+   "work": "Paul Gerhardt's Spiritual Songs, tr. John Kelly (1867)",
+   "source": "gutenberg.org/ebooks/30362",
+   "path": "gutenberg/pg30362.txt#NOW WITH JOY MY HEART IS BOUNDING.",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-gerhardt-011",
+  "kind": "hymn",
+  "ref": "Up! up! my heart with gladness (1648), st. 1",
+  "text": "Up! up! my heart with gladness,\nSee what to-day is done!\nHow after gloom and sadness\nComes forth the glorious Sun!\nMy Saviour there was laid\nWhere our bed must be made,\nWhen to the realms of light\nOur spirit wings its flight.",
+  "voice": "Paul Gerhardt (tr. John Kelly)",
+  "insight": "",
+  "witness": {
+   "voice": "Paul Gerhardt (tr. John Kelly)",
+   "work": "Paul Gerhardt's Spiritual Songs, tr. John Kelly (1867)",
+   "source": "gutenberg.org/ebooks/30362",
+   "path": "gutenberg/pg30362.txt#UP! UP! MY HEART WITH GLADNESS.",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-gerhardt-012",
+  "kind": "hymn",
+  "ref": "O Jesus Christ! my fairest Light (1653), st. 1",
+  "text": "O Jesus Christ! my fairest Light,\nWho in Thy soul dost love me,\nI ne'er can tell it, nor its height\nMete, 'tis so high above me,\nGrant that my heart may warm to Thee,\nWith ardent love ne'er ceasing,\nThee embracing,\nAnd as Thy property,\nCleave to Thee, ever gazing.",
+  "voice": "Paul Gerhardt (tr. John Kelly)",
+  "insight": "",
+  "witness": {
+   "voice": "Paul Gerhardt (tr. John Kelly)",
+   "work": "Paul Gerhardt's Spiritual Songs, tr. John Kelly (1867)",
+   "source": "gutenberg.org/ebooks/30362",
+   "path": "gutenberg/pg30362.txt#FOR THE LOVE OF CHRIST.",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-gerhardt-013",
+  "kind": "hymn",
+  "ref": "Now spread are evening's shadows (1647), st. 1",
+  "text": "Now spread are evening's shadows,\nO'er forests, towns, and meadows,\nAnd sleepeth ev'ry eye;\nAwake my pow'rs and sing ye,\nAnd pray'r and praises bring ye,\nThat your Creator please on high!",
+  "voice": "Paul Gerhardt (tr. John Kelly)",
+  "insight": "",
+  "witness": {
+   "voice": "Paul Gerhardt (tr. John Kelly)",
+   "work": "Paul Gerhardt's Spiritual Songs, tr. John Kelly (1867)",
+   "source": "gutenberg.org/ebooks/30362",
+   "path": "gutenberg/pg30362.txt#NOW SPREAD ARE EVENING'S SHADOWS.",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-gerhardt-014",
+  "kind": "hymn",
+  "ref": "Go forth, my heart, and seek delight (1653), st. 1",
+  "text": "Go forth, my heart, and seek delight\nIn this summer time so bright,\nThe bounties God displayeth,\nThe garden's splendour go and see,\nBehold how God for me and thee\nThem gorgeously arrayeth.",
+  "voice": "Paul Gerhardt (tr. John Kelly)",
+  "insight": "",
+  "witness": {
+   "voice": "Paul Gerhardt (tr. John Kelly)",
+   "work": "Paul Gerhardt's Spiritual Songs, tr. John Kelly (1867)",
+   "source": "gutenberg.org/ebooks/30362",
+   "path": "gutenberg/pg30362.txt#SUMMER SONG.",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-gerhardt-015",
+  "kind": "hymn",
+  "ref": "Jesus! Thou, my dearest Brother (1653), st. 1",
+  "text": "Jesus! Thou, my dearest Brother,\nWho dost well to me intend,\nThou mine Anchor, Mast, and Rudder,\nAnd my truest Bosom-Friend.\nTo Thee, ere was earth or heaven,\nHad the race of man been given;\nThou, e'en me, poor guest of earth,\nChosen hadst before my birth.",
+  "voice": "Paul Gerhardt (tr. John Kelly)",
+  "insight": "",
+  "witness": {
+   "voice": "Paul Gerhardt (tr. John Kelly)",
+   "work": "Paul Gerhardt's Spiritual Songs, tr. John Kelly (1867)",
+   "source": "gutenberg.org/ebooks/30362",
+   "path": "gutenberg/pg30362.txt#FOR CONSTANT CHRISTIAN FRIENDSHIP.",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-gerhardt-016",
+  "kind": "hymn",
+  "ref": "O Lord! I sing with mouth and heart (1653), st. 1",
+  "text": "O Lord! I sing with mouth and heart,\nJoy of my soul! to Thee\nTo earth Thy knowledge I impart,\nAs it is known to me.",
+  "voice": "Paul Gerhardt (tr. John Kelly)",
+  "insight": "",
+  "witness": {
+   "voice": "Paul Gerhardt (tr. John Kelly)",
+   "work": "Paul Gerhardt's Spiritual Songs, tr. John Kelly (1867)",
+   "source": "gutenberg.org/ebooks/30362",
+   "path": "gutenberg/pg30362.txt#O LORD! I SING WITH MOUTH AND HEART.",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-gerhardt-017",
+  "kind": "hymn",
+  "ref": "The golden morning (1666), st. 1",
+  "text": "The golden morning,\nJoy her adorning,\nWith splendour near us\nDraweth, to cheer us\nWith her heart-refreshing and lovely light.\nMy head and members\nLay wrapt all in slumbers,\nBut now awaking,\nAnd sleep from me shaking,\nHeaven's bless'd sunshine doth gladden my sight.",
+  "voice": "Paul Gerhardt (tr. John Kelly)",
+  "insight": "",
+  "witness": {
+   "voice": "Paul Gerhardt (tr. John Kelly)",
+   "work": "Paul Gerhardt's Spiritual Songs, tr. John Kelly (1867)",
+   "source": "gutenberg.org/ebooks/30362",
+   "path": "gutenberg/pg30362.txt#MORNING BLESSING.",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-gerhardt-018",
+  "kind": "hymn",
+  "ref": "Shall I not my God be praising (1653), st. 1",
+  "text": "Shall I not my God be praising,\nAnd in Him not joyful be?\nFor in all His works amazing,\nSee I not His care for me?\nIs it not pure love that filleth,\nAnd His faithful heart o'erflows,\nWhen He ever cares for those,\nWho do only what He willeth?\nAll things run their course below,\nGod's love doth for ever flow.",
+  "voice": "Paul Gerhardt (tr. John Kelly)",
+  "insight": "",
+  "witness": {
+   "voice": "Paul Gerhardt (tr. John Kelly)",
+   "work": "Paul Gerhardt's Spiritual Songs, tr. John Kelly (1867)",
+   "source": "gutenberg.org/ebooks/30362",
+   "path": "gutenberg/pg30362.txt#SHALL I NOT MY GOD BE PRAISING?",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-gerhardt-019",
+  "kind": "hymn",
+  "ref": "Immanuel! to Thee we sing (1653), st. 1",
+  "text": "Immanuel! to Thee we sing,\nThe Fount of life, of grace the Spring,\nThan fairest lily fairer far,\nLord of all Lords, the morning Star!\nHallelujah!",
+  "voice": "Paul Gerhardt (tr. John Kelly)",
+  "insight": "",
+  "witness": {
+   "voice": "Paul Gerhardt (tr. John Kelly)",
+   "work": "Paul Gerhardt's Spiritual Songs, tr. John Kelly (1867)",
+   "source": "gutenberg.org/ebooks/30362",
+   "path": "gutenberg/pg30362.txt#IMMANUEL! TO THEE WE SING.",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-gerhardt-020",
+  "kind": "hymn",
+  "ref": "Now at the manger here I stand (1653), st. 1",
+  "text": "Now at the manger here I stand,\nMy Jesus, Life from Heaven!\nI stand, and bring Thee in my hand\nWhat Thou to me hast given.\nTake it, it is my mind and wit,\nHeart, soul, and all I have, take it,\nAnd deign to let it please Thee!",
+  "voice": "Paul Gerhardt (tr. John Kelly)",
+  "insight": "",
+  "witness": {
+   "voice": "Paul Gerhardt (tr. John Kelly)",
+   "work": "Paul Gerhardt's Spiritual Songs, tr. John Kelly (1867)",
+   "source": "gutenberg.org/ebooks/30362",
+   "path": "gutenberg/pg30362.txt#BESIDE THE MANGER.",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-toplady-001",
+  "kind": "hymn",
+  "ref": "Rock of ages cleft for me (1776), st. 1",
+  "text": "Rock of ages cleft for me,\nLet me hide myself in Thee;\nLet the water and blood,\nFrom thy riven side which flow'd,\nBe of sin the double cure,\nCleanse me from its guilt and power.",
+  "voice": "Augustus Toplady",
+  "insight": "",
+  "witness": {
+   "voice": "Augustus Toplady",
+   "work": "Rock of Ages (1776; 1909 printing)",
+   "source": "gutenberg.org/ebooks/26874",
+   "path": "gutenberg/pg26874.txt",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-toplady-002",
+  "kind": "hymn",
+  "ref": "Rock of ages cleft for me (1776), st. 2",
+  "text": "Not the labors of my hands\nCan fulfil Thy laws demands;\nCould my zeal no respite know,\nCould my tears for ever flow,\nAll for sin could not atone,\nThou must save, and Thou alone,",
+  "voice": "Augustus Toplady",
+  "insight": "",
+  "witness": {
+   "voice": "Augustus Toplady",
+   "work": "Rock of Ages (1776; 1909 printing)",
+   "source": "gutenberg.org/ebooks/26874",
+   "path": "gutenberg/pg26874.txt",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-toplady-003",
+  "kind": "hymn",
+  "ref": "Rock of ages cleft for me (1776), st. 3",
+  "text": "Nothing in my hand I bring,\nSimply to thy cross I cling;\nNaked, come to Thee for dress;\nHelpless look to Thee for grace;\nFoul, I to the fountain fly;\nWash me, Savior, or I die.",
+  "voice": "Augustus Toplady",
+  "insight": "",
+  "witness": {
+   "voice": "Augustus Toplady",
+   "work": "Rock of Ages (1776; 1909 printing)",
+   "source": "gutenberg.org/ebooks/26874",
+   "path": "gutenberg/pg26874.txt",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-toplady-004",
+  "kind": "hymn",
+  "ref": "Rock of ages cleft for me (1776), st. 4",
+  "text": "While I draw this fleeting breath,\nWhen my eyelids close in death,\nWhen I soar thro' tracts unknown,\nSee Thee on Thy judgment throne,\nRock of ages, cleft for me,\nLet me hide myself in thee.",
+  "voice": "Augustus Toplady",
+  "insight": "",
+  "witness": {
+   "voice": "Augustus Toplady",
+   "work": "Rock of Ages (1776; 1909 printing)",
+   "source": "gutenberg.org/ebooks/26874",
+   "path": "gutenberg/pg26874.txt",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-havergal-001",
+  "kind": "hymn",
+  "ref": "Take my life, and let it be (1874), st. 1",
+  "text": "Take my life, and let it be\nConsecrated, Lord, to Thee.\nTake my moments and my days;\nLet them flow in ceaseless praise.",
+  "voice": "Frances Ridley Havergal",
+  "insight": "",
+  "witness": {
+   "voice": "Frances Ridley Havergal",
+   "work": "Kept for the Master's Use (1879)",
+   "source": "gutenberg.org/ebooks/31647",
+   "path": "gutenberg/pg31647.txt#Take my life",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-havergal-002",
+  "kind": "hymn",
+  "ref": "Take my life, and let it be (1874), st. 2",
+  "text": "Take my hands, and let them move\nAt the impulse of Thy love.\nTake my feet, and let them be\nSwift and 'beautiful' for Thee.",
+  "voice": "Frances Ridley Havergal",
+  "insight": "",
+  "witness": {
+   "voice": "Frances Ridley Havergal",
+   "work": "Kept for the Master's Use (1879)",
+   "source": "gutenberg.org/ebooks/31647",
+   "path": "gutenberg/pg31647.txt#Take my life",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-havergal-003",
+  "kind": "hymn",
+  "ref": "Take my life, and let it be (1874), st. 3",
+  "text": "Take my voice, and let me sing\nAlways, only, for my King.\nTake my lips and let them be\nFilled with messages from Thee.",
+  "voice": "Frances Ridley Havergal",
+  "insight": "",
+  "witness": {
+   "voice": "Frances Ridley Havergal",
+   "work": "Kept for the Master's Use (1879)",
+   "source": "gutenberg.org/ebooks/31647",
+   "path": "gutenberg/pg31647.txt#Take my life",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-havergal-004",
+  "kind": "hymn",
+  "ref": "Take my life, and let it be (1874), st. 4",
+  "text": "Take my silver and my gold;\nNot a mite would I withhold.\nTake my intellect, and use\nEvery power as Thou shalt choose.",
+  "voice": "Frances Ridley Havergal",
+  "insight": "",
+  "witness": {
+   "voice": "Frances Ridley Havergal",
+   "work": "Kept for the Master's Use (1879)",
+   "source": "gutenberg.org/ebooks/31647",
+   "path": "gutenberg/pg31647.txt#Take my life",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-havergal-005",
+  "kind": "hymn",
+  "ref": "Take my life, and let it be (1874), st. 5",
+  "text": "Take my will and make it Thine;\nIt shall be no longer mine.\nTake my heart; it is Thine own;\nIt shall be Thy royal throne.",
+  "voice": "Frances Ridley Havergal",
+  "insight": "",
+  "witness": {
+   "voice": "Frances Ridley Havergal",
+   "work": "Kept for the Master's Use (1879)",
+   "source": "gutenberg.org/ebooks/31647",
+   "path": "gutenberg/pg31647.txt#Take my life",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-havergal-006",
+  "kind": "hymn",
+  "ref": "Take my life, and let it be (1874), st. 6",
+  "text": "Take my love; my Lord, I pour\nAt Thy feet its treasure-store.\nTake myself, and I will be\nEver, only, ALL for Thee.",
+  "voice": "Frances Ridley Havergal",
+  "insight": "",
+  "witness": {
+   "voice": "Frances Ridley Havergal",
+   "work": "Kept for the Master's Use (1879)",
+   "source": "gutenberg.org/ebooks/31647",
+   "path": "gutenberg/pg31647.txt#Take my life",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-lyte-001",
+  "kind": "hymn",
+  "ref": "Abide With Me (1847), st. 7",
+  "text": "I fear no foe, with Thee at hand to bless;\nIlls have no weight, and tears no bitterness.\nWhere is death's sting? Where, grave, thy victory?\nI triumph still, if Thou abide with me.",
+  "voice": "Henry Francis Lyte",
+  "insight": "",
+  "witness": {
+   "voice": "Henry Francis Lyte",
+   "work": "Abide With Me (1847), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/Abide_With_Me/Abide_With_Me-Eventide.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-lyte-002",
+  "kind": "hymn",
+  "ref": "Abide With Me (1847), st. 8",
+  "text": "Hold Thou Thy cross before my closing eyes;\nShine through the gloom and point me to the skies.\nHeaven's morning breaks, and earth's vain shadows flee;\nIn life, in death, O Lord, abide with me.",
+  "voice": "Henry Francis Lyte",
+  "insight": "",
+  "witness": {
+   "voice": "Henry Francis Lyte",
+   "work": "Abide With Me (1847), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/Abide_With_Me/Abide_With_Me-Eventide.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-lyte-003",
+  "kind": "hymn",
+  "ref": "Abide With Me (1847), st. 6",
+  "text": "I need Thy presence every passing hour.\nWhat but Thy grace can foil the tempter's power?\nWho, like Thyself, my guide and stay can be?\nThrough cloud and sunshine, Lord, abide with me.",
+  "voice": "Henry Francis Lyte",
+  "insight": "",
+  "witness": {
+   "voice": "Henry Francis Lyte",
+   "work": "Abide With Me (1847), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/Abide_With_Me/Abide_With_Me-Eventide.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-rippon-001",
+  "kind": "hymn",
+  "ref": "How Firm A Foundation (1787), st. 7",
+  "text": "The soul that on Jesus has leaned for repose,\nI will not, I will not desert to its foes;\nThat soul, though all hell should endeavor to shake,\nI'll never, no never, no never forsake.",
+  "voice": "John Rippon",
+  "insight": "",
+  "witness": {
+   "voice": "John Rippon",
+   "work": "How Firm A Foundation (1787), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/How_Firm_A_Foundation/How_Firm_A_Foundation-Foundation-Protection.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-rippon-002",
+  "kind": "hymn",
+  "ref": "How Firm A Foundation (1787), st. 6",
+  "text": "Even down to old age all My people shall prove\nMy sovereign, eternal, unchangeable love;\nAnd when hoary hairs shall their temples adorn,\nLike lambs they shall still in My bosom be borne.",
+  "voice": "John Rippon",
+  "insight": "",
+  "witness": {
+   "voice": "John Rippon",
+   "work": "How Firm A Foundation (1787), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/How_Firm_A_Foundation/How_Firm_A_Foundation-Foundation-Protection.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-bernard-001",
+  "kind": "hymn",
+  "ref": "O Sacred Head, Now Wounded (1153), st. 6",
+  "text": "What language shall I borrow to thank Thee, dearest friend,\nFor this Thy dying sorrow, Thy pity without end?\nO make me Thine forever, and should I fainting be,\nLord, let me never, never outlive my love to Thee.",
+  "voice": "Bernard of Clairvaux (tr. James Waddell Alexander)",
+  "insight": "",
+  "witness": {
+   "voice": "Bernard of Clairvaux (tr. James Waddell Alexander)",
+   "work": "O Sacred Head, Now Wounded (1153), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/O_Sacred_Head_Now_Wounded/O_Sacred_Head_Now_Wounded-Passion_Chorale-Herzlich_Tut_Mich_Verlangen.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-bernard-002",
+  "kind": "hymn",
+  "ref": "O Sacred Head, Now Wounded (1153), st. 7",
+  "text": "My Shepherd, now receive me; my Guardian, own me Thine.\nGreat blessings Thou didst give me, O source of gifts divine.\nThy lips have often fed me with words of truth and love;\nThy Spirit oft hath led me to heavenly joys above.",
+  "voice": "Bernard of Clairvaux (tr. James Waddell Alexander)",
+  "insight": "",
+  "witness": {
+   "voice": "Bernard of Clairvaux (tr. James Waddell Alexander)",
+   "work": "O Sacred Head, Now Wounded (1153), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/O_Sacred_Head_Now_Wounded/O_Sacred_Head_Now_Wounded-Passion_Chorale-Herzlich_Tut_Mich_Verlangen.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-bernard-003",
+  "kind": "hymn",
+  "ref": "O Sacred Head, Now Wounded (1153), st. 11",
+  "text": "Be Thou my consolation, my shield when I must die;\nRemind me of Thy passion when my last hour draws nigh.\nMine eyes shall then behold Thee, upon Thy cross shall dwell,\nMy heart by faith enfolds Thee. Who dieth thus dies well.",
+  "voice": "Bernard of Clairvaux (tr. James Waddell Alexander)",
+  "insight": "",
+  "witness": {
+   "voice": "Bernard of Clairvaux (tr. James Waddell Alexander)",
+   "work": "O Sacred Head, Now Wounded (1153), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/O_Sacred_Head_Now_Wounded/O_Sacred_Head_Now_Wounded-Passion_Chorale-Herzlich_Tut_Mich_Verlangen.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-gerhardt-021",
+  "kind": "hymn",
+  "ref": "All My Heart This Night Rejoices (1656), st. 6",
+  "text": "Ye who pine in weary sadness, Weep no more, For the door\nNow is found of gladness. Cling to Him for He will guide you\nWhere no cross, Pain or loss, Can again betide you.",
+  "voice": "Paul Gerhardt (tr. Catherine Winkworth)",
+  "insight": "",
+  "witness": {
+   "voice": "Paul Gerhardt (tr. Catherine Winkworth)",
+   "work": "All My Heart This Night Rejoices (1656), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/All_My_Heart_This_Night_Rejoices/All_My_Heart_This_Night_Rejoices-Ebeling-Bonn-Warum_Sollt_Ich-All_My_Heart_This_Night.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-gerhardt-022",
+  "kind": "hymn",
+  "ref": "All My Heart This Night Rejoices (1656), st. 9",
+  "text": "Blessed Savior, let me find Thee! Keep Thou me Close to Thee,\nCast me not behind Thee! Life of life, my heart Thou stillest,\nCalm I rest On Thy breast, All this void Thou fillest.",
+  "voice": "Paul Gerhardt (tr. Catherine Winkworth)",
+  "insight": "",
+  "witness": {
+   "voice": "Paul Gerhardt (tr. Catherine Winkworth)",
+   "work": "All My Heart This Night Rejoices (1656), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/All_My_Heart_This_Night_Rejoices/All_My_Heart_This_Night_Rejoices-Ebeling-Bonn-Warum_Sollt_Ich-All_My_Heart_This_Night.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-gerhardt-023",
+  "kind": "hymn",
+  "ref": "All My Heart This Night Rejoices (1656), st. 7",
+  "text": "Hither come, ye heavy hearted, Who for sin Deep within,\nLong and sore have smarted; For the poison'd wounds you're feeling\nHelp is near, One is here Mighty for their healing!",
+  "voice": "Paul Gerhardt (tr. Catherine Winkworth)",
+  "insight": "",
+  "witness": {
+   "voice": "Paul Gerhardt (tr. Catherine Winkworth)",
+   "work": "All My Heart This Night Rejoices (1656), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/All_My_Heart_This_Night_Rejoices/All_My_Heart_This_Night_Rejoices-Ebeling-Bonn-Warum_Sollt_Ich-All_My_Heart_This_Night.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-gerhardt-024",
+  "kind": "hymn",
+  "ref": "All My Heart This Night Rejoices (1656), st. 8",
+  "text": "Hither come, ye poor and wretched; Know His will Is to fill\nEvery hand outstretched; Here are riches without measure,\nHere forget All regret, Fill your hearts with treasure.",
+  "voice": "Paul Gerhardt (tr. Catherine Winkworth)",
+  "insight": "",
+  "witness": {
+   "voice": "Paul Gerhardt (tr. Catherine Winkworth)",
+   "work": "All My Heart This Night Rejoices (1656), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/All_My_Heart_This_Night_Rejoices/All_My_Heart_This_Night_Rejoices-Ebeling-Bonn-Warum_Sollt_Ich-All_My_Heart_This_Night.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-ken-001",
+  "kind": "hymn",
+  "ref": "Awake, My Soul, And With The Sun (1674), st. 9",
+  "text": "Direct, control, suggest, this day,\nAll I design, or do, or say,\nThat all my powers, with all their might,\nIn Thy sole glory may unite.",
+  "voice": "Thomas Ken",
+  "insight": "",
+  "witness": {
+   "voice": "Thomas Ken",
+   "work": "Awake, My Soul, And With The Sun (1674), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/Awake_My_Soul_And_With_The_Sun/Awake_My_Soul_And_With_The_Sun-Old_100th.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-ken-002",
+  "kind": "hymn",
+  "ref": "Awake, My Soul, And With The Sun (1674), st. 11",
+  "text": "Praise God, from Whom all blessings flow;\nPraise Him, all creatures here below;\nPraise Him above, ye heavenly host;\nPraise Father, Son, and Holy Ghost.",
+  "voice": "Thomas Ken",
+  "insight": "",
+  "witness": {
+   "voice": "Thomas Ken",
+   "work": "Awake, My Soul, And With The Sun (1674), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/Awake_My_Soul_And_With_The_Sun/Awake_My_Soul_And_With_The_Sun-Old_100th.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-ken-003",
+  "kind": "hymn",
+  "ref": "Awake, My Soul, And With The Sun (1674), st. 6",
+  "text": "All praise to Thee, Who safe has kept\nAnd hast refreshed me while I slept\nGrant, Lord, when I from death shall wake\nI may of endless light partake.",
+  "voice": "Thomas Ken",
+  "insight": "",
+  "witness": {
+   "voice": "Thomas Ken",
+   "work": "Awake, My Soul, And With The Sun (1674), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/Awake_My_Soul_And_With_The_Sun/Awake_My_Soul_And_With_The_Sun-Old_100th.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-ken-004",
+  "kind": "hymn",
+  "ref": "Awake, My Soul, And With The Sun (1674), st. 8",
+  "text": "Lord, I my vows to Thee renew;\nDisperse my sins as morning dew.\nGuard my first springs of thought and will,\nAnd with Thyself my spirit fill.",
+  "voice": "Thomas Ken",
+  "insight": "",
+  "witness": {
+   "voice": "Thomas Ken",
+   "work": "Awake, My Soul, And With The Sun (1674), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/Awake_My_Soul_And_With_The_Sun/Awake_My_Soul_And_With_The_Sun-Old_100th.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-ken-005",
+  "kind": "hymn",
+  "ref": "All Praise To Thee, My God, This Night (1674), st. 6",
+  "text": "O when shall I, in endless day,\nFor ever chase dark sleep away,\nAnd hymns divine with angels sing,\nAll praise to thee, eternal King?",
+  "voice": "Thomas Ken",
+  "insight": "",
+  "witness": {
+   "voice": "Thomas Ken",
+   "work": "All Praise To Thee, My God, This Night (1674), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/All_Praise_To_Thee_My_God_This_Night/All_Praise_To_Thee_My_God_This_Night-Tallis_Canon.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-medley-001",
+  "kind": "hymn",
+  "ref": "I Know That My Redeemer Lives (1775), st. 6",
+  "text": "He lives, my kind, wise, heavenly Friend,\nHe lives and loves me to the end;\nHe lives, and while He lives, Ill sing;\nHe lives, my Prophet, Priest, and King.",
+  "voice": "Samuel Medley",
+  "insight": "",
+  "witness": {
+   "voice": "Samuel Medley",
+   "work": "I Know That My Redeemer Lives (1775), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/I_Know_That_My_Redeemer_Lives/I_Know_That_My_Redeemer_Lives-Duke_Street.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-medley-002",
+  "kind": "hymn",
+  "ref": "I Know That My Redeemer Lives (1775), st. 7",
+  "text": "He lives and grants me daily breath;\nHe lives, and I shall conquer death:\nHe lives my mansion to prepare;\nHe lives to bring me safely there.",
+  "voice": "Samuel Medley",
+  "insight": "",
+  "witness": {
+   "voice": "Samuel Medley",
+   "work": "I Know That My Redeemer Lives (1775), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/I_Know_That_My_Redeemer_Lives/I_Know_That_My_Redeemer_Lives-Duke_Street.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-medley-003",
+  "kind": "hymn",
+  "ref": "I Know That My Redeemer Lives (1775), st. 8",
+  "text": "He lives, all glory to His Name!\nHe lives, my Jesus, still the same.\nOh, the sweet joy this sentence gives,\nI know that my Redeemer lives!",
+  "voice": "Samuel Medley",
+  "insight": "",
+  "witness": {
+   "voice": "Samuel Medley",
+   "work": "I Know That My Redeemer Lives (1775), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/I_Know_That_My_Redeemer_Lives/I_Know_That_My_Redeemer_Lives-Duke_Street.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-montgomery-001",
+  "kind": "hymn",
+  "ref": "Angels From the Realms of Glory (1816), st. 7",
+  "text": "All creation, join in praising\nGod, the Father, Spirit, Son,\nEvermore your voices raising\nTo th'eternal Three in One.",
+  "voice": "James Montgomery",
+  "insight": "",
+  "witness": {
+   "voice": "James Montgomery",
+   "work": "Angels From the Realms of Glory (1816), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/Angels_From_The_Realms_Of_Glory/Angels_From_The_Realms_Of_Glory-Regent_Square.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-stone-001",
+  "kind": "hymn",
+  "ref": "The Church's One Foundation (1866), st. 6",
+  "text": "Yet she on earth hath union\nWith God the Three in One,\nAnd mystic sweet communion\nWith those whose rest is won,\nWith all her sons and daughters\nWho, by the Master's hand\nLed through the deathly waters,\nRepose in Eden land.",
+  "voice": "Samuel John Stone",
+  "insight": "",
+  "witness": {
+   "voice": "Samuel John Stone",
+   "work": "The Church's One Foundation (1866), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/The_Churchs_One_Foundation/The_Churchs_One_Foundation-Aurelia.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-stone-002",
+  "kind": "hymn",
+  "ref": "The Church's One Foundation (1866), st. 7",
+  "text": "O happy ones and holy!\nLord, give us grace that we\nLike them, the meek and lowly,\nOn high may dwell with Thee:\nThere, past the border mountains,\nWhere in sweet vales the Bride\nWith Thee by living fountains\nForever shall abide!",
+  "voice": "Samuel John Stone",
+  "insight": "",
+  "witness": {
+   "voice": "Samuel John Stone",
+   "work": "The Church's One Foundation (1866), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/The_Churchs_One_Foundation/The_Churchs_One_Foundation-Aurelia.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-how-001",
+  "kind": "hymn",
+  "ref": "For All The Saints (1864), st. 11",
+  "text": "From earth's wide bounds, from ocean's farthest coast,\nThrough gates of pearl streams in the countless host,\nAnd singing to Father, Son and Holy Ghost:",
+  "voice": "William Walsham How",
+  "insight": "",
+  "witness": {
+   "voice": "William Walsham How",
+   "work": "For All The Saints (1864), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/For_All_The_Saints/For_All_The_Saints-Sine_Nomine.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-how-002",
+  "kind": "hymn",
+  "ref": "We Give Thee But Thine Own (1864), st. 6",
+  "text": "And we believe Thy Word,\nThough dim our faith may be;\nWhate'er for Thine we do, O Lord,\nWe do it unto Thee.",
+  "voice": "William Walsham How",
+  "insight": "",
+  "witness": {
+   "voice": "William Walsham How",
+   "work": "We Give Thee But Thine Own (1864), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/We_Give_Thee_But_Thine_Own/We_Give_Thee_But_Thine_Own-Energy.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-fawcett-001",
+  "kind": "hymn",
+  "ref": "Blest Be The Tie That Binds (1782), st. 6",
+  "text": "From sorrow, toil and pain,\nAnd sin, we shall be free,\nAnd perfect love and friendship reign\nThrough all eternity.",
+  "voice": "John Fawcett",
+  "insight": "",
+  "witness": {
+   "voice": "John Fawcett",
+   "work": "Blest Be The Tie That Binds (1782), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/Blest_Be_The_Tie_That_Binds/Blest_Be_The_Tie_That_Binds-Boylston.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-luther-001",
+  "kind": "hymn",
+  "ref": "To Shepherds As They Watched By Night (1543), st. 6",
+  "text": "Ye shall and must at last prevail;\nGod's own ye are, ye cannot fail.\nTo God forever sing your praise\nWith joy and patience all your days.",
+  "voice": "Martin Luther (tr. Richard Massie)",
+  "insight": "",
+  "witness": {
+   "voice": "Martin Luther (tr. Richard Massie)",
+   "work": "To Shepherds As They Watched By Night (1543), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/To_Shepherds_as_They_Watched_By_Night/To_Shepherds_as_They_Watched_By_Night-Vom_Himmel_Hoch.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-luther-002",
+  "kind": "hymn",
+  "ref": "Look Down, O Lord, From Heaven Behold (1524), st. 6",
+  "text": "Thy truth thou wilt preserve, O Lord, From this vile generation;\nMake us to lean upon thy word, With calm anticipation.\nThe wicked walk on every side When, 'mid thy flock, the vile abide In pow'r and exaltation.",
+  "voice": "Martin Luther (tr. Frances Elizabeth Cox)",
+  "insight": "",
+  "witness": {
+   "voice": "Martin Luther (tr. Frances Elizabeth Cox)",
+   "work": "Look Down, O Lord, From Heaven Behold (1524), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/Look_Down_O_Lord_From_Heaven_Behold/Look_Down_O_Lord_From_Heaven_Behold-Ach_Gott_vom_Himmel.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-pierpoint-001",
+  "kind": "hymn",
+  "ref": "For The Beauty Of The Earth (1864), st. 8",
+  "text": "For each perfect gift of Thine,\nTo our race so freely given,\nGraces human and divine,\nFlowers of earth and buds of Heaven.",
+  "voice": "Folliott Sandford Pierpoint",
+  "insight": "",
+  "witness": {
+   "voice": "Folliott Sandford Pierpoint",
+   "work": "For The Beauty Of The Earth (1864), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/For_The_Beauty_Of_The_Earth/For_The_Beauty_Of_The_Earth-Dix.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-wordsworth-001",
+  "kind": "hymn",
+  "ref": "Sing, O Sing, This Blessed Morn (1865), st. 6",
+  "text": "God comes down that man may rise, Lifted far above the skies\nHe is Son of Man, that we Sons of God in Him may be;",
+  "voice": "Christopher Wordsworth",
+  "insight": "",
+  "witness": {
+   "voice": "Christopher Wordsworth",
+   "work": "Sing, O Sing, This Blessed Morn (1865), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/Sing_O_Sing_This_Blessed_Morn/Sing_O_Sing_This_Blessed_Morn-Nativity.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-wordsworth-002",
+  "kind": "hymn",
+  "ref": "Sing, O Sing, This Blessed Morn (1865), st. 11",
+  "text": "Sing, O sing this blessed Morn, Jesus Christ to-day is born;\nGlory to the Father give, Praise the Son in whom we live;\nGlory to the Spirit be, Godhead One, and Persons Three.",
+  "voice": "Christopher Wordsworth",
+  "insight": "",
+  "witness": {
+   "voice": "Christopher Wordsworth",
+   "work": "Sing, O Sing, This Blessed Morn (1865), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/Sing_O_Sing_This_Blessed_Morn/Sing_O_Sing_This_Blessed_Morn-Nativity.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-wordsworth-003",
+  "kind": "hymn",
+  "ref": "Sing, O Sing, This Blessed Morn (1865), st. 7",
+  "text": "Human flesh is now become Christ's abode, the Godhead's home;\nRoyal Palace, sacred shrine For the Majesty Divine;",
+  "voice": "Christopher Wordsworth",
+  "insight": "",
+  "witness": {
+   "voice": "Christopher Wordsworth",
+   "work": "Sing, O Sing, This Blessed Morn (1865), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/Sing_O_Sing_This_Blessed_Morn/Sing_O_Sing_This_Blessed_Morn-Nativity.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-wordsworth-004",
+  "kind": "hymn",
+  "ref": "The Winds and Billows Loudly Roar (1865), st. 7",
+  "text": "O never, never when distressed,\nTo doubtful means resort;\nChrist's Bark, when on the billow's crest,\nIs safe as in the port.",
+  "voice": "Christopher Wordsworth",
+  "insight": "",
+  "witness": {
+   "voice": "Christopher Wordsworth",
+   "work": "The Winds and Billows Loudly Roar (1865), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/The_Winds_And_Billows_Loudly_Roar/The_Winds_And_Billows_Loudly_Roar-Consolation-Morning_Song.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-barton-001",
+  "kind": "hymn",
+  "ref": "Lamp of Our Feet (1826), st. 9",
+  "text": "Word of the ever-living God!\nWill of His glorious Son!\nWithout Thee, how could earth be trod?\nOr Heaven itself be won?",
+  "voice": "Bernard Barton",
+  "insight": "",
+  "witness": {
+   "voice": "Bernard Barton",
+   "work": "Lamp of Our Feet (1826), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/Lamp_of_Our_Feet/Lamp_of_Our_Feet-St_Agnes.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-barton-002",
+  "kind": "hymn",
+  "ref": "Lamp of Our Feet (1826), st. 6",
+  "text": "Our shield and buckler in the fight!\nVict'ry's triumphant palm!\nComfort in grief! in weakness, might!\nIn sickness, Gilead's balm.",
+  "voice": "Bernard Barton",
+  "insight": "",
+  "witness": {
+   "voice": "Bernard Barton",
+   "work": "Lamp of Our Feet (1826), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/Lamp_of_Our_Feet/Lamp_of_Our_Feet-St_Agnes.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-synesius-001",
+  "kind": "hymn",
+  "ref": "Lord Jesus Think On Me (430), st. 6",
+  "text": "Lord Jesus, think on me\nThat, when the flood is past,\nI may th'eternal brightness see\nAnd share Thy joy at last.",
+  "voice": "Synesius of Cyrene (tr. Allen William Chatfield)",
+  "insight": "",
+  "witness": {
+   "voice": "Synesius of Cyrene (tr. Allen William Chatfield)",
+   "work": "Lord Jesus Think On Me (430), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/Lord_Jesus_Think_On_Me/Lord_Jesus_Think_On_Me-Southwell.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-synesius-002",
+  "kind": "hymn",
+  "ref": "Lord Jesus Think On Me (430), st. 7",
+  "text": "Lord Jesus, think on me\nThat I may sing above\nTo Father, Spirit, and to Thee\nThe strains of praise and love.",
+  "voice": "Synesius of Cyrene (tr. Allen William Chatfield)",
+  "insight": "",
+  "witness": {
+   "voice": "Synesius of Cyrene (tr. Allen William Chatfield)",
+   "work": "Lord Jesus Think On Me (430), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/Lord_Jesus_Think_On_Me/Lord_Jesus_Think_On_Me-Southwell.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-morison-001",
+  "kind": "hymn",
+  "ref": "The People That in Darkness Sat (1781), st. 7",
+  "text": "Lord Jesus, reign in us, we pray,\nAnd make us Thine alone,\nWho with the Father ever art\nAnd Holy Spirit, one.",
+  "voice": "John Morison",
+  "insight": "",
+  "witness": {
+   "voice": "John Morison",
+   "work": "The People That in Darkness Sat (1781), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/The_People_That_in_Darkness_Sat/The_People_That_in_Darkness_Sat-Lobt_Gott_Ihr_Christen_Allzugleich.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-plumptre-001",
+  "kind": "hymn",
+  "ref": "Rejoice, O Pilgrim Throng (1865), st. 7",
+  "text": "At last the march shall end; The wearied ones shall rest;\nThe pilgrims find their Father's house, Jerusalem the bless'd.",
+  "voice": "Edward Hayes Plumptre",
+  "insight": "",
+  "witness": {
+   "voice": "Edward Hayes Plumptre",
+   "work": "Rejoice, O Pilgrim Throng (1865), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/Rejoice_O_Pilgrim_Throng/Rejoice_O_Pilgrim_Throng-Marion.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-plumptre-002",
+  "kind": "hymn",
+  "ref": "Rejoice, O Pilgrim Throng (1865), st. 8",
+  "text": "Then on, ye pure in heart! Rejoice, give thanks and sing!\nYour festal banner wave on high, The cross of Christ your King.",
+  "voice": "Edward Hayes Plumptre",
+  "insight": "",
+  "witness": {
+   "voice": "Edward Hayes Plumptre",
+   "work": "Rejoice, O Pilgrim Throng (1865), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/Rejoice_O_Pilgrim_Throng/Rejoice_O_Pilgrim_Throng-Marion.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-plumptre-003",
+  "kind": "hymn",
+  "ref": "Rejoice, O Pilgrim Throng (1865), st. 6",
+  "text": "Yes onward, onward still With hymn, and chant and song,\nThrough gate, and porch and columned aisle, The hallowed pathways throng.",
+  "voice": "Edward Hayes Plumptre",
+  "insight": "",
+  "witness": {
+   "voice": "Edward Hayes Plumptre",
+   "work": "Rejoice, O Pilgrim Throng (1865), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/Rejoice_O_Pilgrim_Throng/Rejoice_O_Pilgrim_Throng-Marion.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-anon15c-001",
+  "kind": "hymn",
+  "ref": "O Love, How Deep, How Broad, How High (1500), st. 7",
+  "text": "For us He rose from death again;\nFor us He went on high to reign;\nFor us He sent His Spirit here,\nTo guide, to strengthen, and to cheer.",
+  "voice": "Anonymous (15th century) (tr. Benjamin Webb)",
+  "insight": "",
+  "witness": {
+   "voice": "Anonymous (15th century) (tr. Benjamin Webb)",
+   "work": "O Love, How Deep, How Broad, How High (1500), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/O_Love_How_Deep/O_Love_How_Deep-Deo_Gracias-Agincourt.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-anon15c-002",
+  "kind": "hymn",
+  "ref": "O Love, How Deep, How Broad, How High (1500), st. 8",
+  "text": "All honor, laud, and glory be,\nO Jesus, virgin-born to Thee!\nAll glory, as is ever meet\nTo Father and to Paraclete.",
+  "voice": "Anonymous (15th century) (tr. Benjamin Webb)",
+  "insight": "",
+  "witness": {
+   "voice": "Anonymous (15th century) (tr. Benjamin Webb)",
+   "work": "O Love, How Deep, How Broad, How High (1500), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/O_Love_How_Deep/O_Love_How_Deep-Deo_Gracias-Agincourt.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-everest-001",
+  "kind": "hymn",
+  "ref": "'Take Up Thy Cross', the Savior Said (1833), st. 6",
+  "text": "To Thee, great Lord, the One in Three,\nAll praise forevermore ascend:\nO grant us in our home to see\nThe heavenly life that knows no end.",
+  "voice": "Charles William Everest",
+  "insight": "",
+  "witness": {
+   "voice": "Charles William Everest",
+   "work": "'Take Up Thy Cross', the Savior Said (1833), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/Take_Up_Thy_Cross_The_Savior_Said/Take_Up_Thy_Cross_The_Savior_Said-Nun_Lasst_Uns_Den_Leib_Begraben.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-coffin-001",
+  "kind": "hymn",
+  "ref": "The Advent of Our God (1736), st. 6",
+  "text": "All glory to the Son\nWho comes to set us free,\nWith Father, Spirit, ever One,\nThrough all eternity.",
+  "voice": "Charles Coffin (tr. John Chandler)",
+  "insight": "",
+  "witness": {
+   "voice": "Charles Coffin (tr. John Chandler)",
+   "work": "The Advent of Our God (1736), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/The_Advent_of_Our_God/The_Advent_of_Our_God-St_Thomas.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ },
+ {
+  "id": "hym-march-001",
+  "kind": "hymn",
+  "ref": "Hark, the Voice of Jesus Calling (1868), st. 6",
+  "text": "Let none hear you idly saying, \"There is nothing I can do.\"\nWhile the lost of earth are dying, And the Master calls for you;\nTake the task He gives you gladly; Let His work your pleasure be;\nAnswer quickly when He calls you, \"Here am I, send me, send me.\"",
+  "voice": "Daniel March",
+  "insight": "",
+  "witness": {
+   "voice": "Daniel March",
+   "work": "Hark, the Voice of Jesus Calling (1868), Open Hymnal Project edition",
+   "source": "mzealey/openhymnal",
+   "path": "Complete/Hark_The_Voice_Of_Jesus_Calling/Hark_The_Voice_Of_Jesus_Calling-Galilean.abc",
+   "quote": ""
+  },
+  "themes": [],
+  "added": "0.6.0"
+ }
+]

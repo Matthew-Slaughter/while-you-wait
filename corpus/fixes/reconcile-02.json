@@ -1,0 +1,145 @@
+[
+  {
+    "id": "q-charles-wesley-0001",
+    "action": "edit",
+    "evidence": "hymnary.org's cached page opens on the hymn's landing view; the shipped witness.quote ('...an interest in the') straddles a wording variant between hymnals ('interest' vs. the original elision 'int'rest', and 'Saviour's' vs. 'Savior's' in this instance's Representative Text). The second sentence is identical in both: repointed the anchor there, same URL/page, no source change needed.",
+    "fields": {
+      "witness": {
+        "voice": "Charles Wesley", "work": "And Can It Be (1738)",
+        "source": "https://hymnary.org/text/and_can_it_be_that_i_should_gain",
+        "path": "and_can_it_be_that_i_should_gain",
+        "quote": "Died he for me, who caused his pain? For me, who him to death pursued?"
+      }
+    }
+  },
+  {
+    "id": "q-john-newton-0001",
+    "action": "edit",
+    "evidence": "the hymnary.org landing page cache has no fulltext for this hymn; repointed to the CCEL Olney Hymns text already vendored at sources/ccel/newton-olneyhymns.txt (Hymn 41), which prints the full lyric. Its first line uses the 1779 punctuation 'Amazing grace! (how sweet the sound)'; the second sentence ('I once was lost...') is identical to the shipped text, so the anchor moved there.",
+    "fields": {
+      "witness": {
+        "voice": "John Newton", "work": "Olney Hymns (1779), 'Amazing grace'",
+        "source": "https://ccel.org/ccel/newton/olneyhymns.txt",
+        "path": "ccel/newton-olneyhymns.txt",
+        "quote": "I once was lost, but now am found, was blind, but now I see."
+      }
+    }
+  },
+  {
+    "id": "q-william-cowper-0001",
+    "action": "edit",
+    "evidence": "same hymnary.org page and Representative Text section; the shipped witness.quote crossed into 'veins; and sinners,' where hymnary's text uses a semicolon and comma the shipped prose-ified text doesn't carry. Trimmed the anchor to end at 'veins', which is exact on both sides; no source change.",
+    "fields": {
+      "witness": {
+        "voice": "William Cowper", "work": "Olney Hymns (1779), 'Praise for the fountain opened'",
+        "source": "https://hymnary.org/text/there_is_a_fountain_filled_with_blood_dr",
+        "path": "there_is_a_fountain_filled_with_blood_dr",
+        "quote": "There is a fountain filled with blood drawn from Immanuel's veins"
+      }
+    }
+  },
+  {
+    "id": "q-fanny-crosby-0001",
+    "action": "edit",
+    "evidence": "same hymnary.org page and Representative Text section; hymnary's text has a comma ('O, what a foretaste') the shipped text doesn't. Moved the anchor past that single word to the clean, longer remainder of the same two sentences; no source change.",
+    "fields": {
+      "witness": {
+        "voice": "Fanny Crosby", "work": "Blessed Assurance (1873)",
+        "source": "https://hymnary.org/text/blessed_assurance_jesus_is_mine",
+        "path": "blessed_assurance_jesus_is_mine",
+        "quote": "what a foretaste of glory divine! Heir of salvation, purchase of God, born of his Spirit, washed in his blood."
+      }
+    }
+  },
+  {
+    "id": "q-horatio-spafford-0001",
+    "action": "edit",
+    "evidence": "same hymnary.org page and Representative Text section; hymnary's text has commas around 'like a river' the shipped prose-ified text drops, and a quotation mark before 'It is well' that isn't in the shipped text. Anchored on the clean middle clause instead; no source change.",
+    "fields": {
+      "witness": {
+        "voice": "Horatio Spafford", "work": "It Is Well with My Soul (1873)",
+        "source": "https://hymnary.org/text/when_peace_like_a_river_attendeth_my_way",
+        "path": "when_peace_like_a_river_attendeth_my_way",
+        "quote": "when sorrows like sea billows roll; whatever my lot, thou hast taught me to say,"
+      }
+    }
+  },
+  {
+    "id": "q-jonathan-edwards-0004",
+    "action": "edit",
+    "evidence": "wrong file: the CCEL 'works1.txt' cache (Works of Jonathan Edwards vol. 1, Memoirs) does not contain 'The End for Which God Created the World' at all (only two passing mentions of its title in the table of contents) -- the trigram search that produced the original witness landed nowhere. Repointed to the 1765 Boston first printing on archive.org (identifier twodissertations00edwa, 'Two Dissertations: I. Concerning the End for Which God Created the World; II. The Nature of True Virtue'), which does contain the passage (heavily OCR-garbled: 'is included in that one phrafe, the gk- Ys cf Gcd' for 'phrase, the glory of God'). Anchored the witness.quote on the clean run before that garbled word so the match is exact rather than relying on the fuzzy threshold.",
+    "fields": {
+      "witness": {
+        "voice": "Jonathan Edwards", "work": "The End for Which God Created the World",
+        "source": "https://archive.org/download/twodissertations00edwa/twodissertations00edwa_djvu.txt",
+        "path": "twodissertations00edwa_djvu.txt",
+        "quote": "an ultimate end of God's works, is included in that one"
+      }
+    }
+  },
+  {
+    "id": "q-jonathan-edwards-0006",
+    "action": "edit",
+    "evidence": "same CCEL Religious Affections cache, same passage (Part III, Sign XII, ~2/3 through the file); Edwards's actual sentence is 'Christian practice, or a holy life, is a great and distinguishing sign...' with commas the shipped prose text omits. Anchored past that clause on the identical remainder; no source change.",
+    "fields": {
+      "witness": {
+        "voice": "Jonathan Edwards", "work": "Religious Affections (1746), Part III, Sign XII",
+        "source": "https://ccel.org/ccel/s/edwards/affections/cache/affections.txt",
+        "path": "affections.txt",
+        "quote": "is a great and distinguishing sign of true and saving grace"
+      }
+    }
+  },
+  {
+    "id": "q-jonathan-edwards-0010",
+    "action": "edit",
+    "evidence": "the shipped witness.quote is 'There is an admirable conjunction of diverse excellencies in Jesus Christ. ...' -- a literal ellipsis token from the shipped `text` field's elision marker got carried into the quote by the ingest helper (which took the entry's first 12 words verbatim, ellipsis included). The source has no such characters at that point, so the exact match always failed. Dropped the trailing ellipsis; the sentence itself is verbatim in the CCEL works1.txt cache (found exactly, no OCR noise at this point). No source change.",
+    "fields": {
+      "witness": {
+        "voice": "Jonathan Edwards", "work": "The Excellency of Christ",
+        "source": "https://ccel.org/ccel/s/edwards/works1/cache/works1.txt",
+        "path": "works1.txt",
+        "quote": "There is an admirable conjunction of diverse excellencies in Jesus Christ."
+      }
+    }
+  },
+  {
+    "id": "q-geerhardus-vos-0003",
+    "action": "edit",
+    "evidence": "archive.org's djvu-text derivative for identifier graceglorysermon00vosg 500s consistently (confirmed on repeated direct fetches, including via the /stream/ URL, which serves an empty JS-only viewer with no embedded fulltext either). Repointed to a different, working archive.org scan of the same book (identifier graceglory0000jenn, 'Grace and glory: sermons preached in the chapel of Princeton Theological Seminary'), whose djvu.txt contains the quoted sentence exactly, unchanged.",
+    "fields": {
+      "witness": {
+        "voice": "Geerhardus Vos", "work": "Grace and Glory",
+        "source": "https://archive.org/download/graceglory0000jenn/graceglory0000jenn_djvu.txt",
+        "path": "graceglory0000jenn_djvu.txt",
+        "quote": "To be a child of God and a disciple of Jesus means"
+      }
+    }
+  },
+  {
+    "id": "q-j-gresham-machen-0001",
+    "action": "edit",
+    "evidence": "archive.org OCR noise ('Christianity for Paul\" / /.-\" was not only...') sits right at the front of the shipped 12-word witness.quote; the noise is a large enough fraction of a quote this short that even the fuzzy fallback (ratio ~0.94) can't clear the 0.95 bar. The clause after the noise is clean in the scan, so the anchor moved there instead; same file, exact match, no fuzzy needed.",
+    "fields": {
+      "witness": {
+        "voice": "J. Gresham Machen", "work": "Christianity and Liberalism",
+        "source": "https://archive.org/download/christianitylibe0000mach/christianitylibe0000mach_djvu.txt",
+        "path": "christianitylibe0000mach_djvu.txt",
+        "quote": "was not only a life, but also a doctrine, and logically the"
+      }
+    }
+  },
+  {
+    "id": "q-bb-warfield-0004",
+    "action": "edit",
+    "evidence": "archive.org OCR spliced a running page header ('Ee ee 24 THE THEOLOGY OF CALVIN') between 'The Calvinist' and 'is the man' near the very start of the shipped 12-word witness.quote; ~33 inserted characters against a ~65-character quote keeps the fuzzy ratio just under 0.95. Moved the anchor to start right after the header splice, where the scan is clean for the rest of the sentence; same file, exact match.",
+    "fields": {
+      "witness": {
+        "voice": "B.B. Warfield", "work": "Calvin as a Theologian and Calvinism To-day",
+        "source": "https://archive.org/download/calvin-as-a-theologian-and-calvinism-to-day/Calvin%20as%20a%20Theologian%20and%20Calvinism%20To-day_djvu.txt",
+        "path": "Calvin as a Theologian and Calvinism To-day_djvu.txt",
+        "quote": "is the man who sees God behind all phenomena and in all that occurs recognizes the hand of God, working out his will"
+      }
+    }
+  }
+]

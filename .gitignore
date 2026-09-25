@@ -3,3 +3,5 @@
 *.swo
 .idea/
 .vscode/
+sources/
+corpus/sources/esv-cache.json

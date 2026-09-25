@@ -1,17 +1,29 @@
 # while-you-wait — Codex CLI hook config
 #
-# Append the sections below to your ~/.codex/config.toml (create the file
-# if it doesn't exist), then restart Codex CLI. Replace the command path
-# with the absolute path to the cloned while-you-wait repo on your machine.
-
-# Required: enable the hooks subsystem.
-[features]
-hooks = true
+# Append the section below to your ~/.codex/config.toml (create the file if
+# it doesn't exist), then restart Codex CLI. Replace the command path with
+# the absolute path to the cloned while-you-wait repo on your machine.
+#
+# Shape verified against the Codex hooks docs (learn.chatgpt.com/docs/hooks)
+# and Codex CLI 0.153.x. Hooks are enabled by default in current builds, so
+# no `[features] hooks = true` line is needed. On older builds where the
+# `hooks` feature flag was still opt-in, add:
+#
+#   [features]
+#   hooks = true
+#
+# First run: Codex asks you to review/trust new hooks before they execute
+# ("Hooks need review" → "Trust all and continue"). Until you trust the
+# hook, it silently does not run.
 
 # UserPromptSubmit fires when you press enter on a Codex prompt.
+# No `matcher` = fire on every prompt.
 [[hooks.UserPromptSubmit]]
 
 [[hooks.UserPromptSubmit.hooks]]
 type = "command"
 command = "/ABSOLUTE/PATH/TO/while-you-wait/codex/scripts/show-devotional.sh"
+# Seconds (Codex default is 600). The renderer finishes in well under 1s.
 timeout = 5
+# Optional: short label Codex shows in the UI while the hook runs.
+statusMessage = "while you wait"
