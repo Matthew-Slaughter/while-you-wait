@@ -1,0 +1,772 @@
+[
+  {
+    "id": "q-anselm-of-canterbury-0003",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "Anselm of Canterbury",
+        "work": "Proslogion",
+        "source": "https://ccel.org/ccel/anselm/basic_works/cache/basic_works.txt",
+        "path": "web/anselm-basic-works.txt",
+        "quote": "For I do not seek to understand that I may believe, but"
+      }
+    }
+  },
+  {
+    "id": "q-anselm-of-canterbury-0004",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "Anselm of Canterbury",
+        "work": "Cur Deus Homo",
+        "source": "https://ccel.org/ccel/anselm/basic_works/cache/basic_works.txt",
+        "path": "web/anselm-basic-works.txt",
+        "quote": "You have not as yet estimated the great burden of sin."
+      }
+    }
+  },
+  {
+    "id": "q-anselm-of-canterbury-0005",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "Anselm of Canterbury",
+        "work": "Cur Deus Homo",
+        "source": "https://ccel.org/ccel/anselm/basic_works/cache/basic_works.txt",
+        "path": "web/anselm-basic-works.txt",
+        "quote": "If it be necessary, therefore, as it appears, that the heavenly kingdom"
+      }
+    }
+  },
+  {
+    "id": "q-anselm-of-canterbury-0006",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "Anselm of Canterbury",
+        "work": "Proslogion",
+        "source": "https://ccel.org/ccel/anselm/basic_works/cache/basic_works.txt",
+        "path": "web/anselm-basic-works.txt",
+        "quote": "Teach me to seek thee, and reveal thyself to me, when I"
+      }
+    }
+  },
+  {
+    "id": "q-athanasius-0001",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "Athanasius",
+        "work": "On the Incarnation",
+        "source": "https://ccel.org/ccel/schaff/npnf204/cache/npnf204.txt",
+        "path": "web/npnf204.txt",
+        "quote": "For He was made man that we might be made God"
+      }
+    }
+  },
+  {
+    "id": "q-augustine-0005",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "Augustine",
+        "work": "Contra Faustum",
+        "source": "https://ccel.org/ccel/schaff/npnf104/cache/npnf104.txt",
+        "path": "web/npnf104.txt",
+        "quote": "For to believe what you please, and not to believe what you"
+      }
+    }
+  },
+  {
+    "id": "q-augustine-0011",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "Augustine",
+        "work": "On Christian Doctrine",
+        "source": "https://ccel.org/ccel/schaff/npnf102/cache/npnf102.txt",
+        "path": "web/npnf102.txt",
+        "quote": "I mean by charity that affection of the mind which aims at"
+      }
+    }
+  },
+  {
+    "id": "q-cyprian-of-carthage-0001",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "Cyprian of Carthage",
+        "work": "On the Unity of the Church",
+        "source": "https://ccel.org/ccel/schaff/anf05/cache/anf05.txt",
+        "path": "web/anf05.txt",
+        "quote": "He can no longer have God for his Father, who has not"
+      }
+    }
+  },
+  {
+    "id": "q-cyprian-of-carthage-0003",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "Cyprian of Carthage",
+        "work": "On the Lord's Prayer",
+        "source": "https://ccel.org/ccel/schaff/anf05/cache/anf05.txt",
+        "path": "web/anf05.txt",
+        "quote": "And when we meet together with the brethren in one place, and"
+      }
+    }
+  },
+  {
+    "id": "q-cyprian-of-carthage-0004",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "Cyprian of Carthage",
+        "work": "On the Mortality",
+        "source": "https://ccel.org/ccel/schaff/anf05/cache/anf05.txt",
+        "path": "web/anf05.txt",
+        "quote": "That in the meantime we die, we are passing over to immortality"
+      }
+    }
+  },
+  {
+    "id": "q-gregory-of-nazianzus-0001",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "Gregory of Nazianzus",
+        "work": "Fifth Theological Oration",
+        "source": "https://ccel.org/ccel/schaff/npnf207/cache/npnf207.txt",
+        "path": "web/npnf207.txt",
+        "quote": "What then? Is the Spirit God? Most certainly. Well then, is He"
+      }
+    }
+  },
+  {
+    "id": "q-irenaeus-of-lyons-0001",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "Irenaeus of Lyons",
+        "work": "Against Heresies",
+        "source": "https://ccel.org/ccel/schaff/anf01/cache/anf01.txt",
+        "path": "web/anf01.txt",
+        "quote": "For the glory of God is a living man; and the life"
+      }
+    }
+  },
+  {
+    "id": "q-jeremiah-burroughs-0001",
+    "action": "edit",
+    "evidence": "archive.org OCR'd djvu.txt of the public-domain scan; verified fresh-checkout fetch finds the quote (exact or high-ratio fuzzy match for OCR noise).",
+    "fields": {
+      "witness": {
+        "voice": "Jeremiah Burroughs",
+        "work": "The Rare Jewel of Christian Contentment",
+        "source": "https://archive.org/download/JerimiahBurroughsTheRareJewelOfChristianContentment/Jerimiah%20Burroughs%20The%20Rare%20Jewel%20of%20Christian%20Contentment_djvu.txt",
+        "path": "web/burroughs-rare-jewel.txt",
+        "quote": "Christian contentment is that sweet, inward, quiet, gracious frame of spirit, which"
+      }
+    }
+  },
+  {
+    "id": "q-jeremiah-burroughs-0002",
+    "action": "edit",
+    "evidence": "archive.org OCR'd djvu.txt of the public-domain scan; verified fresh-checkout fetch finds the quote (exact or high-ratio fuzzy match for OCR noise).",
+    "fields": {
+      "witness": {
+        "voice": "Jeremiah Burroughs",
+        "work": "The Rare Jewel of Christian Contentment",
+        "source": "https://archive.org/download/JerimiahBurroughsTheRareJewelOfChristianContentment/Jerimiah%20Burroughs%20The%20Rare%20Jewel%20of%20Christian%20Contentment_djvu.txt",
+        "path": "web/burroughs-rare-jewel.txt",
+        "quote": "in every condition is a great art, a spiritual mystery. It is to be learned"
+      }
+    }
+  },
+  {
+    "id": "q-jeremiah-burroughs-0003",
+    "action": "edit",
+    "evidence": "archive.org OCR'd djvu.txt of the public-domain scan; verified fresh-checkout fetch finds the quote (exact or high-ratio fuzzy match for OCR noise).",
+    "fields": {
+      "witness": {
+        "voice": "Jeremiah Burroughs",
+        "work": "The Rare Jewel of Christian Contentment",
+        "source": "https://archive.org/download/JerimiahBurroughsTheRareJewelOfChristianContentment/Jerimiah%20Burroughs%20The%20Rare%20Jewel%20of%20Christian%20Contentment_djvu.txt",
+        "path": "web/burroughs-rare-jewel.txt",
+        "quote": "If God gives me an understanding of himself, and faith, and humility,"
+      }
+    }
+  },
+  {
+    "id": "q-john-bunyan-0004",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "John Bunyan",
+        "work": "Grace Abounding to the Chief of Sinners",
+        "source": "https://ccel.org/ccel/bunyan/grace/cache/grace.txt",
+        "path": "web/grace.txt",
+        "quote": "I also saw, moreover, that it was not my good frame of"
+      }
+    }
+  },
+  {
+    "id": "q-john-bunyan-0005",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "John Bunyan",
+        "work": "The Holy War",
+        "source": "https://ccel.org/ccel/bunyan/holy_war/cache/holy_war.txt",
+        "path": "web/holy_war.txt",
+        "quote": "Then he arose and entered Mansoul, he and all his servants. The"
+      }
+    }
+  },
+  {
+    "id": "q-john-calvin-0002",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "John Calvin",
+        "work": "Institutes",
+        "source": "https://ccel.org/ccel/calvin/institutes/cache/institutes.txt",
+        "path": "web/institutes.txt",
+        "quote": "Hence we may infer, that the human mind is, so to speak,"
+      }
+    }
+  },
+  {
+    "id": "q-john-chrysostom-0002",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "John Chrysostom",
+        "work": "Homilies on the Gospel of Matthew",
+        "source": "https://ccel.org/ccel/schaff/npnf110/cache/npnf110.txt",
+        "path": "web/npnf110.txt",
+        "quote": "For he who calls God Father, by him both remission of sins,"
+      }
+    }
+  },
+  {
+    "id": "q-john-chrysostom-0003",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "John Chrysostom",
+        "work": "Homily Against Publishing the Errors of the Brethren",
+        "source": "https://ccel.org/ccel/schaff/npnf109/cache/npnf109.txt",
+        "path": "web/npnf109.txt",
+        "quote": "Prayer is a strong piece of armour and a great security."
+      }
+    }
+  },
+  {
+    "id": "q-john-chrysostom-0005",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "John Chrysostom",
+        "work": "Homilies on the Gospel of John",
+        "source": "https://ccel.org/ccel/schaff/npnf114/cache/npnf114.txt",
+        "path": "web/npnf114.txt",
+        "quote": "in order that He might make the sons of men to be children of God"
+      }
+    }
+  },
+  {
+    "id": "q-john-owen-0001",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "John Owen",
+        "work": "The Mortification of Sin",
+        "source": "https://ccel.org/ccel/owen/mort/cache/mort.txt",
+        "path": "web/mort.txt",
+        "quote": "Be killing sin or it will be killing you."
+      }
+    }
+  },
+  {
+    "id": "q-john-owen-0002",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "John Owen",
+        "work": "The Mortification of Sin",
+        "source": "https://ccel.org/ccel/owen/mort/cache/mort.txt",
+        "path": "web/mort.txt",
+        "quote": "There is no death of sin without the death of Christ."
+      }
+    }
+  },
+  {
+    "id": "q-john-owen-0003",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "John Owen",
+        "work": "The Mortification of Sin",
+        "source": "https://ccel.org/ccel/owen/mort/cache/mort.txt",
+        "path": "web/mort.txt",
+        "quote": "A man may easier see without eyes, speak without a tongue, than"
+      }
+    }
+  },
+  {
+    "id": "q-john-owen-0004",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "John Owen",
+        "work": "The Mortification of Sin",
+        "source": "https://ccel.org/ccel/owen/mort/cache/mort.txt",
+        "path": "web/mort.txt",
+        "quote": "Set faith at work on Christ for the killing of thy sin."
+      }
+    }
+  },
+  {
+    "id": "q-john-owen-0005",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "John Owen",
+        "work": "The Glory of Christ",
+        "source": "https://ccel.org/ccel/owen/glory/cache/glory.txt",
+        "path": "web/glory.txt",
+        "quote": "Let us assure ourselves there is no better way for our healing"
+      }
+    }
+  },
+  {
+    "id": "q-john-owen-0006",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "John Owen",
+        "work": "The Death of Death in the Death of Christ",
+        "source": "https://ccel.org/ccel/owen/deathofdeath/cache/deathofdeath.txt",
+        "path": "web/deathofdeath.txt",
+        "quote": "Whatsoever is required for a complete and perfect saving of his peculiar"
+      }
+    }
+  },
+  {
+    "id": "q-john-owen-0007",
+    "action": "edit",
+    "evidence": "archive.org OCR'd djvu.txt of the public-domain scan; verified fresh-checkout fetch finds the quote (exact or high-ratio fuzzy match for OCR noise).",
+    "fields": {
+      "witness": {
+        "voice": "John Owen",
+        "work": "The Grace and Duty of Being Spiritually Minded",
+        "source": "https://archive.org/download/gracedutyof00owen/gracedutyof00owen_djvu.txt",
+        "path": "web/owen-spiritually-minded.txt",
+        "quote": "character of true believers from all unregenerate persons"
+      }
+    }
+  },
+  {
+    "id": "q-john-owen-0008",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "John Owen",
+        "work": "The Mortification of Sin",
+        "source": "https://ccel.org/ccel/owen/mort/cache/mort.txt",
+        "path": "web/mort.txt",
+        "quote": "Indwelling sin always abides whilst we are in this world; therefore it"
+      }
+    }
+  },
+  {
+    "id": "q-john-owen-0010",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "John Owen",
+        "work": "Communion with God",
+        "source": "https://ccel.org/ccel/owen/communion/cache/communion.txt",
+        "path": "web/communion.txt",
+        "quote": "Consider, hence, his eternal, free, unchangeable love. Were the love of Christ"
+      }
+    }
+  },
+  {
+    "id": "q-martin-luther-0003",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "Martin Luther",
+        "work": "Commentary on Galatians",
+        "source": "https://ccel.org/ccel/luther/galatians/cache/galatians.txt",
+        "path": "web/galatians.txt",
+        "quote": "The article of justification must be sounded in our ears incessantly because"
+      }
+    }
+  },
+  {
+    "id": "q-martin-luther-0004",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "Martin Luther",
+        "work": "The Bondage of the Will",
+        "source": "https://ccel.org/ccel/luther/bondage/cache/bondage.txt",
+        "path": "web/bondage.txt",
+        "quote": "Thus the human will is, as it were, a beast between the"
+      }
+    }
+  },
+  {
+    "id": "q-martin-luther-0007",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "Martin Luther",
+        "work": "Commentary on Galatians",
+        "source": "https://ccel.org/ccel/luther/galatians/cache/galatians.txt",
+        "path": "web/galatians.txt",
+        "quote": "He found in me no right mind and no good will. But"
+      }
+    }
+  },
+  {
+    "id": "q-richard-sibbes-0001",
+    "action": "edit",
+    "evidence": "bruisedreed0000sibb (Banner of Truth, 1998) is a lending-library scan whose djvu.txt returns 403; used the archive.org full-text search API instead, whose JSON highlight contains the sentence. The 1998 edition modernizes some wording/spelling versus the shipped quote, so witness.quote was narrowed to the sub-span that is verbatim in both the entry text and this edition.",
+    "fields": {
+      "witness": {
+        "voice": "Richard Sibbes",
+        "work": "The Bruised Reed",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22We+love+to+wander+from+ourselves+and+to+be+strangers+at+home%22+AND+identifier%3A(bruisedreed0000sibb)&size=1",
+        "path": "web/sibbes-bruised-reed-1.json",
+        "quote": "We love to wander from ourselves and to be strangers at home"
+      }
+    }
+  },
+  {
+    "id": "q-richard-sibbes-0002",
+    "action": "edit",
+    "evidence": "bruisedreed0000sibb (Banner of Truth, 1998) is a lending-library scan whose djvu.txt returns 403; used the archive.org full-text search API instead, whose JSON highlight contains the sentence. The 1998 edition modernizes some wording/spelling versus the shipped quote, so witness.quote was narrowed to the sub-span that is verbatim in both the entry text and this edition.",
+    "fields": {
+      "witness": {
+        "voice": "Richard Sibbes",
+        "work": "The Bruised Reed",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22more+mercy+in+Christ+than+sin+in+us%22+AND+identifier%3A(bruisedreed0000sibb)&size=1",
+        "path": "web/sibbes-bruised-reed-2.json",
+        "quote": "more mercy in Christ than sin in us"
+      }
+    }
+  },
+  {
+    "id": "q-richard-sibbes-0004",
+    "action": "edit",
+    "evidence": "bruisedreed0000sibb (Banner of Truth, 1998) is a lending-library scan whose djvu.txt returns 403; used the archive.org full-text search API instead, whose JSON highlight contains the sentence. The 1998 edition modernizes some wording/spelling versus the shipped quote, so witness.quote was narrowed to the sub-span that is verbatim in both the entry text and this edition.",
+    "fields": {
+      "witness": {
+        "voice": "Richard Sibbes",
+        "work": "The Bruised Reed",
+        "source": "https://be-api.us.archive.org/fts/v1/search?q=%22first+to+wound+then+to+heal+No+sound+whole+soul+shall+ever+enter+into+heaven%22+AND+identifier%3A(bruisedreed0000sibb)&size=1",
+        "path": "web/sibbes-bruised-reed-4.json",
+        "quote": "first to wound, then to heal. No sound, whole soul shall ever enter into heaven."
+      }
+    }
+  },
+  {
+    "id": "q-stephen-charnock-0001",
+    "action": "edit",
+    "evidence": "Gutenberg cache/epub plain-text edition; verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "Stephen Charnock",
+        "work": "The Existence and Attributes of God",
+        "source": "https://www.gutenberg.org/cache/epub/53527/pg53527.txt",
+        "path": "web/pg53527.txt",
+        "quote": "we cannot be totally ignorant of him; as he cannot be comprehended in his essence"
+      }
+    }
+  },
+  {
+    "id": "q-stephen-charnock-0002",
+    "action": "edit",
+    "evidence": "Gutenberg cache/epub plain-text edition; verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "Stephen Charnock",
+        "work": "The Existence and Attributes of God",
+        "source": "https://www.gutenberg.org/cache/epub/53527/pg53527.txt",
+        "path": "web/pg53527.txt",
+        "quote": "He cannot raze out the thoughts of a Deity, though he endeavors"
+      }
+    }
+  },
+  {
+    "id": "q-stephen-charnock-0003",
+    "action": "edit",
+    "evidence": "archive.org OCR'd djvu.txt of the public-domain scan; verified fresh-checkout fetch finds the quote (exact or high-ratio fuzzy match for OCR noise).",
+    "fields": {
+      "witness": {
+        "voice": "Stephen Charnock",
+        "work": "The Existence and Attributes of God",
+        "source": "https://archive.org/download/discoursesuponex02char_0/discoursesuponex02char_0_djvu.txt",
+        "path": "web/charnock-existence-v2.txt",
+        "quote": "Goodness is the brightness and loveliness of our majestical Creator"
+      }
+    }
+  },
+  {
+    "id": "q-stephen-charnock-0004",
+    "action": "edit",
+    "evidence": "archive.org OCR'd djvu.txt of the public-domain scan; verified fresh-checkout fetch finds the quote (exact or high-ratio fuzzy match for OCR noise).",
+    "fields": {
+      "witness": {
+        "voice": "Stephen Charnock",
+        "work": "The Existence and Attributes of God",
+        "source": "https://archive.org/download/discoursesuponex02char_0/discoursesuponex02char_0_djvu.txt",
+        "path": "web/charnock-existence-v2.txt",
+        "quote": "As sincerity is the lustre of every grace in a Christian"
+      }
+    }
+  },
+  {
+    "id": "q-tertullian-0001",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "Tertullian",
+        "work": "Apology",
+        "source": "https://ccel.org/ccel/schaff/anf03/cache/anf03.txt",
+        "path": "web/anf03.txt",
+        "quote": "The oftener we are mown down by you, the more in number"
+      }
+    }
+  },
+  {
+    "id": "q-tertullian-0003",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "Tertullian",
+        "work": "On Prayer",
+        "source": "https://ccel.org/ccel/schaff/anf03/cache/anf03.txt",
+        "path": "web/anf03.txt",
+        "quote": "But God is the hearer not of the voice, but of the"
+      }
+    }
+  },
+  {
+    "id": "q-thomas-boston-0001",
+    "action": "edit",
+    "evidence": "archive.org OCR'd djvu.txt of the public-domain scan; verified fresh-checkout fetch finds the quote (exact or high-ratio fuzzy match for OCR noise).",
+    "fields": {
+      "witness": {
+        "voice": "Thomas Boston",
+        "work": "Human Nature in its Fourfold State",
+        "source": "https://archive.org/download/humannaturein00bost/humannaturein00bost_djvu.txt",
+        "path": "web/boston-fourfold-state.txt",
+        "quote": "There are four things very necessary to be known by all that"
+      }
+    }
+  },
+  {
+    "id": "q-thomas-boston-0002",
+    "action": "edit",
+    "evidence": "archive.org OCR'd djvu.txt of the public-domain scan; verified fresh-checkout fetch finds the quote (exact or high-ratio fuzzy match for OCR noise).",
+    "fields": {
+      "witness": {
+        "voice": "Thomas Boston",
+        "work": "Human Nature in its Fourfold State",
+        "source": "https://archive.org/download/humannaturein00bost/humannaturein00bost_djvu.txt",
+        "path": "web/boston-fourfold-state.txt",
+        "quote": "Every natural man's heart and life is a mass of darkness, disorder,"
+      }
+    }
+  },
+  {
+    "id": "q-thomas-boston-0003",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "Thomas Boston",
+        "work": "The Crook in the Lot",
+        "source": "https://ccel.org/ccel/boston/crook/cache/crook.txt",
+        "path": "web/crook.txt",
+        "quote": "Whatever crook there is in our lot, it is of God's making."
+      }
+    }
+  },
+  {
+    "id": "q-thomas-goodwin-0001",
+    "action": "edit",
+    "evidence": "archive.org OCR'd djvu.txt of the public-domain scan; verified fresh-checkout fetch finds the quote (exact or high-ratio fuzzy match for OCR noise).",
+    "fields": {
+      "witness": {
+        "voice": "Thomas Goodwin",
+        "work": "The Heart of Christ in Heaven Towards Sinners on Earth",
+        "source": "https://archive.org/download/worksofthomasgoo04good/worksofthomasgoo04good_djvu.txt",
+        "path": "web/goodwin-works-v4.txt",
+        "quote": "The drift of this discourse is therefore to ascertain poor souls, that"
+      }
+    }
+  },
+  {
+    "id": "q-thomas-goodwin-0002",
+    "action": "edit",
+    "evidence": "archive.org OCR'd djvu.txt of the public-domain scan; verified fresh-checkout fetch finds the quote (exact or high-ratio fuzzy match for OCR noise).",
+    "fields": {
+      "witness": {
+        "voice": "Thomas Goodwin",
+        "work": "The Heart of Christ in Heaven Towards Sinners on Earth",
+        "source": "https://archive.org/download/worksofthomasgoo04good/worksofthomasgoo04good_djvu.txt",
+        "path": "web/goodwin-works-v4.txt",
+        "quote": "In all miseries and distresses you may be sure to know where"
+      }
+    }
+  },
+  {
+    "id": "q-thomas-goodwin-0003",
+    "action": "edit",
+    "evidence": "archive.org OCR'd djvu.txt of the public-domain scan; verified fresh-checkout fetch finds the quote (exact or high-ratio fuzzy match for OCR noise).",
+    "fields": {
+      "witness": {
+        "voice": "Thomas Goodwin",
+        "work": "Christ Set Forth",
+        "source": "https://archive.org/download/worksofthomasgoo04good/worksofthomasgoo04good_djvu.txt",
+        "path": "web/goodwin-works-v4.txt",
+        "quote": "So as by the same law, what he did for us is"
+      }
+    }
+  },
+  {
+    "id": "q-thomas-goodwin-0004",
+    "action": "edit",
+    "evidence": "archive.org OCR'd djvu.txt of the public-domain scan; verified fresh-checkout fetch finds the quote (exact or high-ratio fuzzy match for OCR noise).",
+    "fields": {
+      "witness": {
+        "voice": "Thomas Goodwin",
+        "work": "The Knowledge of God the Father",
+        "source": "https://archive.org/download/worksofthomasgoo04good/worksofthomasgoo04good_djvu.txt",
+        "path": "web/goodwin-works-v4.txt",
+        "quote": "As to the person of the Trinity, it must not be the"
+      }
+    }
+  },
+  {
+    "id": "q-thomas-manton-0001",
+    "action": "edit",
+    "evidence": "archive.org OCR'd djvu.txt of the public-domain scan; verified fresh-checkout fetch finds the quote (exact or high-ratio fuzzy match for OCR noise).",
+    "fields": {
+      "witness": {
+        "voice": "Thomas Manton",
+        "work": "Sermons on Psalm 119",
+        "source": "https://archive.org/download/completeworksoft06mant/completeworksoft06mant_djvu.txt",
+        "path": "web/manton-works-v6.txt",
+        "quote": "but the word doth nothing unless we join prayer"
+      }
+    }
+  },
+  {
+    "id": "q-thomas-manton-0002",
+    "action": "edit",
+    "evidence": "archive.org OCR'd djvu.txt of the public-domain scan; verified fresh-checkout fetch finds the quote (exact or high-ratio fuzzy match for OCR noise).",
+    "fields": {
+      "witness": {
+        "voice": "Thomas Manton",
+        "work": "Sermons on John 17",
+        "source": "https://archive.org/download/completeworksoft10mantuoft/completeworksoft10mantuoft_djvu.txt",
+        "path": "web/manton-works-v10.txt",
+        "quote": "This prayer is a standing monument of Christ's affection to the church"
+      }
+    }
+  },
+  {
+    "id": "q-thomas-manton-0003",
+    "action": "edit",
+    "evidence": "archive.org OCR'd djvu.txt of the public-domain scan; verified fresh-checkout fetch finds the quote (exact or high-ratio fuzzy match for OCR noise).",
+    "fields": {
+      "witness": {
+        "voice": "Thomas Manton",
+        "work": "Sermons on John 17",
+        "source": "https://archive.org/download/completeworksoft10mantuoft/completeworksoft10mantuoft_djvu.txt",
+        "path": "web/manton-works-v10.txt",
+        "quote": "Out of the whole, learn to see Christ in the word, to"
+      }
+    }
+  },
+  {
+    "id": "q-thomas-watson-0001",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "Thomas Watson",
+        "work": "A Body of Divinity",
+        "source": "https://ccel.org/ccel/watson/divinity/cache/divinity.txt",
+        "path": "web/divinity.txt",
+        "quote": "Sanctification is the first fruit of the Spirit; it is heaven begun"
+      }
+    }
+  },
+  {
+    "id": "q-thomas-watson-0002",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "Thomas Watson",
+        "work": "A Body of Divinity",
+        "source": "https://ccel.org/ccel/watson/divinity/cache/divinity.txt",
+        "path": "web/divinity.txt",
+        "quote": "The Book of God has no errata in it; it is a"
+      }
+    }
+  },
+  {
+    "id": "q-thomas-watson-0004",
+    "action": "edit",
+    "evidence": "CCEL cache .txt is the plain-text edition itself (not the landing page); verified fresh-checkout fetch finds the quote verbatim.",
+    "fields": {
+      "witness": {
+        "voice": "Thomas Watson",
+        "work": "All Things for Good",
+        "source": "https://ccel.org/ccel/watson/cordial/cache/cordial.txt",
+        "path": "web/cordial.txt",
+        "quote": "That which is by some called chance is nothing else but the"
+      }
+    }
+  }
+]

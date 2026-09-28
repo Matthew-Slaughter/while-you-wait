@@ -270,6 +270,13 @@ python3 scripts/validate-corpus.py
 python3 scripts/verify-witness.py plugins/while-you-wait/data/devotionals.json --fetch
 ```
 
+To check witnesses the way CI does, from an empty sources directory rather than your local clones:
+
+```bash
+T=$(mktemp -d); bash scripts/fetch-sources.sh "$T"
+python3 scripts/verify-witness.py plugins/while-you-wait/data/devotionals.json --sources "$T" --fetch
+```
+
 Corpus changes go in as patch files under `corpus/fixes/` (format at the top of `scripts/apply-fixes.py`), each operation with its evidence, so every change stays reviewable.
 
 ## License
