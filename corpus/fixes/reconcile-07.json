@@ -1,0 +1,16 @@
+[
+ {
+  "id": "q-robert-robinson-0001",
+  "action": "edit",
+  "fields": {
+   "witness": {
+    "voice": "Robert Robinson",
+    "work": "Come, Thou Fount of Every Blessing (1758)",
+    "source": "mzealey/openhymnal",
+    "path": "Complete/Come_Thou_Fount/Come_Thou_Fount-Nettleton.abc",
+    "quote": "Come, thou Fount of every blessing, tune my heart to sing thy"
+   }
+  },
+  "evidence": "CCEL Wesley index page lists only first lines; repointed to the Open Hymnal Project file (words public domain, Robinson 1758), fetched by scripts/fetch-sources.sh."
+ }
+]

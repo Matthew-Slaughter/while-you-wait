@@ -218,12 +218,37 @@ def _json_strings(obj, out):
 
 
 def _abc_lyrics(raw):
-    lines = []
-    for line in raw.splitlines():
-        if line.startswith("W:") or line.startswith("w:"):
-            lines.append(line[2:])
-    return "\n".join(lines)
+    """Lyric text of an ABC file.
 
+    `W:` lines are plain stanzas. `w:` lines are syllables aligned under the
+    notes and, when a tune carries several stanzas, are interleaved: each
+    musical phrase is followed by one `w:` line per stanza (stanza numbers
+    like "1.~" mark the first phrase). We rebuild each stanza by joining its
+    line from every phrase block, re-join hyphenated syllables, and drop the
+    alignment marks (~ * _)."""
+    def clean(t):
+        t = re.sub(r"^\s*\d+\.", " ", t)
+        t = t.replace("~", " ").replace("*", " ").replace("_", " ")
+        return re.sub(r"([A-Za-z])-\s+([a-z])", r"\1\2", t)
+
+    out, blocks, cur = [], [], []
+    for line in raw.splitlines():
+        if line.startswith("W:"):
+            out.append(clean(line[2:]))
+        elif line.startswith("w:"):
+            cur.append(clean(line[2:]))
+        else:
+            if cur:
+                blocks.append(cur); cur = []
+    if cur:
+        blocks.append(cur)
+    if blocks:
+        n = max(len(b) for b in blocks)
+        for k in range(n):                      # stanza k = its line from each phrase block
+            out.append(" ".join(b[k] for b in blocks if k < len(b)))
+        for b in blocks:                        # and the raw lines, for single-stanza files
+            out.extend(b)
+    return "\n".join(out)
 
 def _strip_html(raw):
     raw = re.sub(r"<(script|style)[^>]*>.*?</\1>", " ", raw, flags=re.S | re.I)

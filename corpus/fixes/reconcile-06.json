@@ -1,0 +1,100 @@
+[
+ {
+  "id": "q-isaac-watts-0001",
+  "action": "edit",
+  "fields": {
+   "witness": {
+    "voice": "Isaac Watts",
+    "work": "When I Survey the Wondrous Cross (1707)",
+    "source": "gutenberg.org/ebooks/13341",
+    "path": "gutenberg/pg13341.txt",
+    "quote": "Were the whole realm of nature mine, that were a present far"
+   }
+  },
+  "evidence": "hymnary.org returns 403 to GitHub runners; repointed to Watts, Hymns and Spiritual Songs (Gutenberg 13341), fetched by scripts/fetch-sources.sh; text verified verbatim there."
+ },
+ {
+  "id": "q-charles-wesley-0001",
+  "action": "edit",
+  "fields": {
+   "witness": {
+    "voice": "Charles Wesley",
+    "work": "And Can It Be (1738)",
+    "source": "ccel.org/w/wesley/hymn",
+    "path": "ccel/wesley/jwg0201.html",
+    "quote": "Died he for me, who caused his pain? For me, who him to death pursued?"
+   }
+  },
+  "evidence": "hymnary.org returns 403 to GitHub runners; repointed to Charles Wesley, 1780 Collection, hymn 201 (CCEL), fetched by scripts/fetch-sources.sh; text verified verbatim there."
+ },
+ {
+  "id": "q-robert-robinson-0001",
+  "action": "edit",
+  "fields": {
+   "witness": {
+    "voice": "Robert Robinson",
+    "work": "Come, Thou Fount of Every Blessing (1758)",
+    "source": "ccel.org/w/wesley/hymn",
+    "path": "ccel/wesley/jw.html",
+    "quote": "Come, thou Fount of every blessing, tune my heart to sing thy"
+   }
+  },
+  "evidence": "hymnary.org returns 403 to GitHub runners; repointed to CCEL Wesley hymn index page (contains the Robinson stanza), fetched by scripts/fetch-sources.sh; text verified verbatim there."
+ },
+ {
+  "id": "q-augustus-toplady-0001",
+  "action": "edit",
+  "fields": {
+   "witness": {
+    "voice": "Augustus Toplady",
+    "work": "Rock of Ages (1776)",
+    "source": "gutenberg.org/ebooks/26874",
+    "path": "gutenberg/pg26874.txt",
+    "quote": "Rock of Ages, cleft for me, let me hide myself in thee;"
+   }
+  },
+  "evidence": "hymnary.org returns 403 to GitHub runners; repointed to Toplady, Rock of Ages (Gutenberg 26874), fetched by scripts/fetch-sources.sh; text verified verbatim there."
+ },
+ {
+  "id": "q-william-cowper-0001",
+  "action": "edit",
+  "fields": {
+   "witness": {
+    "voice": "William Cowper",
+    "work": "Olney Hymns (1779), 'Praise for the fountain opened'",
+    "source": "ccel.org/ccel/newton/olneyhymns",
+    "path": "ccel/newton-olneyhymns.txt",
+    "quote": "There is a fountain filled with blood drawn from Immanuel's veins"
+   }
+  },
+  "evidence": "hymnary.org returns 403 to GitHub runners; repointed to Olney Hymns 1779 (CCEL cache txt), fetched by scripts/fetch-sources.sh; text verified verbatim there."
+ },
+ {
+  "id": "q-fanny-crosby-0001",
+  "action": "edit",
+  "fields": {
+   "witness": {
+    "voice": "Fanny Crosby",
+    "work": "Blessed Assurance (1873)",
+    "source": "mzealey/openhymnal",
+    "path": "Complete/Blessed_Assurance/Blessed_Assurance-Blessed_Assurance-Assurance.abc",
+    "quote": "what a foretaste of glory divine! Heir of salvation, purchase of God, born of his Spirit, washed in his blood."
+   }
+  },
+  "evidence": "hymnary.org returns 403 to GitHub runners; repointed to the Open Hymnal Project file (C: line says words public domain, 1873), fetched by scripts/fetch-sources.sh; stanza present as syllable-aligned w: lines."
+ },
+ {
+  "id": "q-horatio-spafford-0001",
+  "action": "edit",
+  "fields": {
+   "witness": {
+    "voice": "Horatio Spafford",
+    "work": "It Is Well with My Soul (1873)",
+    "source": "mzealey/openhymnal",
+    "path": "Complete/It_Is_Well_With_My_Soul/It_Is_Well_With_My_Soul-It_Is_Well-Ville_Du_Havre.abc",
+    "quote": "when sorrows like sea billows roll; whatever my lot, thou hast taught me to say,"
+   }
+  },
+  "evidence": "hymnary.org returns 403 to GitHub runners; repointed to the Open Hymnal Project file (C: line says words public domain, 1873), fetched by scripts/fetch-sources.sh; stanza present as syllable-aligned w: lines."
+ }
+]

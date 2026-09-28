@@ -2836,8 +2836,8 @@
     "witness": {
       "voice": "Isaac Watts",
       "work": "When I Survey the Wondrous Cross (1707)",
-      "source": "https://hymnary.org/text/when_i_survey_the_wondrous_cross_watts",
-      "path": "when_i_survey_the_wondrous_cross_watts",
+      "source": "gutenberg.org/ebooks/13341",
+      "path": "gutenberg/pg13341.txt",
       "quote": "Were the whole realm of nature mine, that were a present far"
     }
   },
@@ -2857,8 +2857,8 @@
     "witness": {
       "voice": "Charles Wesley",
       "work": "And Can It Be (1738)",
-      "source": "https://hymnary.org/text/and_can_it_be_that_i_should_gain",
-      "path": "and_can_it_be_that_i_should_gain",
+      "source": "ccel.org/w/wesley/hymn",
+      "path": "ccel/wesley/jwg0201.html",
       "quote": "Died he for me, who caused his pain? For me, who him to death pursued?"
     }
   },
@@ -2878,8 +2878,8 @@
     "witness": {
       "voice": "Robert Robinson",
       "work": "Come, Thou Fount of Every Blessing (1758)",
-      "source": "https://hymnary.org/text/come_thou_fount_of_every_blessing",
-      "path": "come_thou_fount_of_every_blessing",
+      "source": "mzealey/openhymnal",
+      "path": "Complete/Come_Thou_Fount/Come_Thou_Fount-Nettleton.abc",
       "quote": "Come, thou Fount of every blessing, tune my heart to sing thy"
     }
   },
@@ -2899,8 +2899,8 @@
     "witness": {
       "voice": "Augustus Toplady",
       "work": "Rock of Ages (1776)",
-      "source": "https://hymnary.org/text/rock_of_ages_cleft_for_me_let_me_hide",
-      "path": "rock_of_ages_cleft_for_me_let_me_hide",
+      "source": "gutenberg.org/ebooks/26874",
+      "path": "gutenberg/pg26874.txt",
       "quote": "Rock of Ages, cleft for me, let me hide myself in thee;"
     }
   },
@@ -2941,8 +2941,8 @@
     "witness": {
       "voice": "William Cowper",
       "work": "Olney Hymns (1779), 'Praise for the fountain opened'",
-      "source": "https://hymnary.org/text/there_is_a_fountain_filled_with_blood_dr",
-      "path": "there_is_a_fountain_filled_with_blood_dr",
+      "source": "ccel.org/ccel/newton/olneyhymns",
+      "path": "ccel/newton-olneyhymns.txt",
       "quote": "There is a fountain filled with blood drawn from Immanuel's veins"
     }
   },
@@ -2983,8 +2983,8 @@
     "witness": {
       "voice": "Fanny Crosby",
       "work": "Blessed Assurance (1873)",
-      "source": "https://hymnary.org/text/blessed_assurance_jesus_is_mine",
-      "path": "blessed_assurance_jesus_is_mine",
+      "source": "mzealey/openhymnal",
+      "path": "Complete/Blessed_Assurance/Blessed_Assurance-Blessed_Assurance-Assurance.abc",
       "quote": "what a foretaste of glory divine! Heir of salvation, purchase of God, born of his Spirit, washed in his blood."
     }
   },
@@ -3004,8 +3004,8 @@
     "witness": {
       "voice": "Horatio Spafford",
       "work": "It Is Well with My Soul (1873)",
-      "source": "https://hymnary.org/text/when_peace_like_a_river_attendeth_my_way",
-      "path": "when_peace_like_a_river_attendeth_my_way",
+      "source": "mzealey/openhymnal",
+      "path": "Complete/It_Is_Well_With_My_Soul/It_Is_Well_With_My_Soul-It_Is_Well-Ville_Du_Havre.abc",
       "quote": "when sorrows like sea billows roll; whatever my lot, thou hast taught me to say,"
     }
   },
