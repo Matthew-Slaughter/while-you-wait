@@ -26,7 +26,7 @@ jobs:
       - name: Verify every witness against its source (URL sources are fetched on demand)
         run: python3 scripts/verify-witness.py plugins/while-you-wait/data/devotionals.json --fetch
 
-      - name: Hook emits exactly {"systemMessage": <non-empty str>}
+      - name: "Hook emits exactly one JSON object with only systemMessage"
         run: |
           bash plugins/while-you-wait/scripts/show-devotional.sh </dev/null > /tmp/wyw-out.json
           python3 - <<'PY'
