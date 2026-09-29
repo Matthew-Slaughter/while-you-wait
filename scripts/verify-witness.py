@@ -401,6 +401,13 @@ def resolve(sources_dir, source, rel, fetch=False):
         if os.path.isfile(c):
             return c
     if source.startswith(("http://", "https://")):
+        # Committed snapshot (corpus/witness-cache/web/<sha1>.<ext>) of small
+        # API responses, currently archive.org full-text search, so CI does not
+        # depend on that service's uptime. The URL in witness.source remains the
+        # way to re-fetch and compare (use a fresh --sources dir with --fetch).
+        snap = _web_cache_find(os.path.join(ROOT, "corpus", "witness-cache"), source)
+        if snap:
+            return snap
         cached = _web_cache_find(sources_dir, source)
         if cached:
             return cached

@@ -60,7 +60,10 @@ Every entry that came through the new pipeline carries a `witness`:
 `scripts/verify-witness.py --fetch` downloads the source once into the
 git-ignored `sources/` directory and requires `quote` to appear in it. For
 scanned books it tolerates OCR noise with a similarity floor of 0.95 and reports
-those matches as fuzzy. For catechisms and hymns the whole `text` must appear in
+those matches as fuzzy. Witnesses that cite archive.org\'s full-text search API (OCR snippets of
+in-copyright modern books) are also snapshotted under `corpus/witness-cache/`, because
+that service fails in bursts; CI checks against the snapshot, and the URL in every witness
+is the way to re-fetch and compare. For catechisms and hymns the whole `text` must appear in
 the source. CI runs this on every push, so a quotation that cannot be re-fetched
 and re-found by a stranger cannot ship.
 
