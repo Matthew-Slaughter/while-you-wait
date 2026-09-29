@@ -20,6 +20,14 @@ jobs:
       - name: Validate corpus
         run: python3 scripts/validate-corpus.py
 
+      - name: Cache fetched witness sources between runs
+        uses: actions/cache@v4
+        with:
+          path: sources
+          key: witness-sources-${{ hashFiles('plugins/while-you-wait/data/devotionals.json', 'scripts/fetch-sources.sh') }}
+          restore-keys: |
+            witness-sources-
+
       - name: Fetch repository-style witness sources
         run: bash scripts/fetch-sources.sh
 

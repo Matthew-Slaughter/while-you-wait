@@ -338,21 +338,39 @@ def _fetch(url, dest=None, max_redirects=5):
     import urllib.request
     headers = {"User-Agent": "while-you-wait verify-witness (+https://github.com/Matthew-Slaughter/while-you-wait)"}
     content_type = None
+    import time
+    # Transient failures (archive.org's full-text API returns 502s in bursts;
+    # rate limits return 429) are retried with backoff before giving up.
+    _RETRY_DELAYS = (2, 5, 12, 30)
     for _ in range(max_redirects + 1):
         req = urllib.request.Request(url, headers=headers)
-        try:
-            with urllib.request.urlopen(req, timeout=60) as r:
-                data = r.read()
-                content_type = r.headers.get("Content-Type")
+        attempt = 0
+        while True:
+            try:
+                with urllib.request.urlopen(req, timeout=60) as r:
+                    data = r.read()
+                    content_type = r.headers.get("Content-Type")
+                redirected = False
+                break
+            except urllib.error.HTTPError as exc:
+                if exc.code in _REDIRECT_CODES:
+                    location = exc.headers.get("Location")
+                    if not location:
+                        raise
+                    url = urllib.parse.urljoin(url, location)
+                    redirected = True
+                    break
+                if (exc.code == 429 or exc.code >= 500) and attempt < len(_RETRY_DELAYS):
+                    time.sleep(_RETRY_DELAYS[attempt]); attempt += 1
+                    continue
+                raise
+            except (urllib.error.URLError, TimeoutError, OSError):
+                if attempt < len(_RETRY_DELAYS):
+                    time.sleep(_RETRY_DELAYS[attempt]); attempt += 1
+                    continue
+                raise
+        if not redirected:
             break
-        except urllib.error.HTTPError as exc:
-            if exc.code in _REDIRECT_CODES:
-                location = exc.headers.get("Location")
-                if not location:
-                    raise
-                url = urllib.parse.urljoin(url, location)
-                continue
-            raise
     else:
         raise RuntimeError("too many redirects for %s" % url)
     if dest:
