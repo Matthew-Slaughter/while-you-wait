@@ -27,6 +27,7 @@ jobs:
       - name: Assemble the site
         run: |
           cp -r site/. _site/
+          cp _site/while-you-wait-skill.zip _site/while-you-wait.skill
           cp plugins/while-you-wait/data/devotionals.json _site/devotionals.json
           cp LICENSES.md _site/LICENSES.md
       - uses: actions/upload-pages-artifact@v3

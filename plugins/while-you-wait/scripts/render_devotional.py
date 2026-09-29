@@ -314,6 +314,11 @@ def detect_surface(env=None):
     hook's systemMessage as a plain notification: ANSI codes print raw and
     each line may be prefixed with the event name, so they get `plain`."""
     env = os.environ if env is None else env
+    # Observed 2026-09-29: the desktop app's Code tab sets
+    # CLAUDE_CODE_ENTRYPOINT=claude-desktop and CLAUDE_CODE_DESKTOP_APP_VERSION,
+    # and no TERM; the terminal CLI sets CLAUDE_CODE_ENTRYPOINT=cli and TERM.
+    if env.get("CLAUDE_CODE_DESKTOP_APP_VERSION"):
+        return "app"
     entry = (env.get("CLAUDE_CODE_ENTRYPOINT") or "").lower()
     if entry and entry != "cli":
         return "app"
