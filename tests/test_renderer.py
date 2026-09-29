@@ -101,6 +101,9 @@ class Sandbox(unittest.TestCase):
         env = dict(os.environ)
         env.pop("WHILE_YOU_WAIT_MODE", None)
         env.pop("WHILE_YOU_WAIT_SOUND", None)
+        # These tests inspect the terminal box; pin it so a runner with no TERM
+        # (where auto-detection rightly picks plain) does not change the output.
+        env.setdefault("WHILE_YOU_WAIT_FORMAT", "box")
         env["WHILE_YOU_WAIT_STATE"] = self.state
         env["WHILE_YOU_WAIT_CONFIG"] = self.config
         env.update(extra)
@@ -338,15 +341,16 @@ class MalformedInputTests(Sandbox):
         renderer.DATA_PATH = self.corpus
         renderer.STATE_PATH = self.state
         renderer.CONFIG_PATH = self.config
-        real_render = renderer.render
-        renderer.render = lambda e, cfg: (_ for _ in ()).throw(AttributeError("bad entry"))
+        real_render, real_plain = renderer.render, renderer.render_plain
+        boom = lambda *a, **k: (_ for _ in ()).throw(AttributeError("bad entry"))
+        renderer.render, renderer.render_plain = boom, boom   # whichever format is chosen
         buf = io.StringIO()
         try:
             with redirect_stdout(buf):
                 with self.assertRaises(AttributeError):
                     renderer.main()
         finally:
-            renderer.render = real_render
+            renderer.render, renderer.render_plain = real_render, real_plain
         self.assertEqual(buf.getvalue(), "")
         self.assertEqual(self.read_state(), {"recent": ["sentinel"], "seen": {"sentinel": 1}})
 
