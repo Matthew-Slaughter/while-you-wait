@@ -141,6 +141,10 @@ verified in a live TUI session: whether ANSI color and box-drawing
 characters survive the warning renderer. If they don't, use
 `WHILE_YOU_WAIT_PLAIN=1` (above) and please file an issue with a screenshot.
 
+## Codex desktop app
+
+The Codex app shows hook messages as plain notifications. The renderer switches to a two-line, color-free `plain` format automatically when it detects no terminal; force it with `"format": "plain"` in `~/.codex/while-you-wait.json` or `WHILE_YOU_WAIT_FORMAT=plain` in the hook's environment.
+
 ## Non-interactive use
 
 `codex exec` also runs `UserPromptSubmit` hooks, but only trusted ones.

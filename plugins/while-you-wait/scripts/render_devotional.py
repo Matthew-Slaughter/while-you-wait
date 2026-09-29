@@ -51,7 +51,9 @@ def recent_window(n_entries):
     return max(MIN_RECENT_WINDOW, round(RECENT_FRACTION * n_entries))
 
 DEFAULTS = {
-    "mode": "rich",                 # minimal | rich | reverent
+    "mode": "rich",                 # minimal | rich | reverent (box style, terminal only)
+    "format": "auto",               # auto | box | plain  (plain: no color, no box; for desktop/IDE apps)
+    "debug": False,                 # write ~/.claude/while-you-wait.debug.json with env + hook input
     "sound": False,
     "sound_file": "/System/Library/Sounds/Glass.aiff",
     "sound_volume": 0.2,
@@ -122,6 +124,14 @@ def load_config():
         cfg["sound"] = env_sound.lower() in ("1", "true", "yes", "on")
     if cfg["mode"] not in ("minimal", "rich", "reverent"):
         cfg["mode"] = "rich"
+    env_format = os.environ.get("WHILE_YOU_WAIT_FORMAT")
+    if env_format in ("auto", "box", "plain"):
+        cfg["format"] = env_format
+    elif os.environ.get("WHILE_YOU_WAIT_PLAIN", "").lower() in ("1", "true", "yes", "on"):
+        cfg["format"] = "plain"     # legacy knob from the Codex wrapper
+    if cfg["format"] not in ("auto", "box", "plain"):
+        cfg["format"] = "auto"
+    cfg["debug"] = bool(cfg.get("debug"))
     width = _sane_width(cfg["width"])
     cfg["width"] = DEFAULTS["width"] if width is None else width
     return cfg
@@ -272,6 +282,89 @@ def wrap_block(s, w):
         out.extend(_wrap_line(raw, w))
     return out
 
+def read_hook_input():
+    """The hook-context JSON the client writes to stdin (session_id, cwd,
+    hook_event_name, prompt, ...). Empty dict when run by hand or if stdin
+    is a terminal. Capped so a runaway stdin can never stall the hook."""
+    try:
+        if sys.stdin is None or sys.stdin.isatty():
+            return {}
+        import select
+        chunks, deadline = [], 0.25          # seconds; clients write and close at once
+        fd = sys.stdin.buffer if hasattr(sys.stdin, "buffer") else sys.stdin
+        while deadline > 0:
+            ready, _, _ = select.select([fd], [], [], deadline)
+            if not ready:
+                break
+            data = os.read(fd.fileno(), 65536)
+            if not data:
+                break
+            chunks.append(data)
+            if sum(len(c) for c in chunks) > 1_000_000:
+                break
+            deadline = 0.05                  # got data; allow a brief tail
+        raw = b"".join(chunks).decode("utf-8", "replace")
+        return json.loads(raw) if raw.strip() else {}
+    except Exception:
+        return {}
+
+def detect_surface(env=None):
+    """'terminal' when a real terminal is driving the session, else 'app'
+    (Claude Code desktop, IDE extensions, Codex app). Those surfaces show a
+    hook's systemMessage as a plain notification: ANSI codes print raw and
+    each line may be prefixed with the event name, so they get `plain`."""
+    env = os.environ if env is None else env
+    entry = (env.get("CLAUDE_CODE_ENTRYPOINT") or "").lower()
+    if entry and entry != "cli":
+        return "app"
+    term = env.get("TERM") or ""
+    if not term or term == "dumb":
+        return "app"
+    return "terminal"
+
+def effective_format(cfg, env=None):
+    if cfg.get("format") in ("box", "plain"):
+        return cfg["format"]
+    return "plain" if detect_surface(env) == "app" else "box"
+
+def render_plain(e):
+    """Two short lines, no color, no rules: the text with its citation, then
+    the insight with its voice. Reads cleanly in any proportional-font
+    notification surface."""
+    kind = e.get("kind") or "scripture"
+    text = clean((e.get("text") or e.get("verse") or "").strip()).replace("\n", " / ")
+    ref = clean((e.get("ref") or "").strip())
+    translation = clean((e.get("translation") or "").strip())
+    insight = clean((e.get("insight") or "").strip())
+    voice = display_voice(clean((e.get("voice") or "").strip()))
+    citation = f"{ref} ({translation})" if (kind == "scripture" and translation) else ref
+    first = f"\u201c{text}\u201d" + (f" \u2014 {citation}" if citation else "")
+    if not insight:
+        return first
+    second = insight
+    if voice and kind != "scripture" and voice not in citation:
+        second += f" \u2014 {voice}"
+    return first + "\n" + second
+
+def write_debug(cfg, hook_input, fmt):
+    if not cfg.get("debug"):
+        return
+    try:
+        keys = [k for k in os.environ if k.startswith(("CLAUDE", "TERM", "COLORTERM", "CODEX", "LANG", "LC_"))]
+        info = {
+            "format_chosen": fmt,
+            "surface": detect_surface(),
+            "env": {k: os.environ[k] for k in sorted(keys) if "TOKEN" not in k and "KEY" not in k},
+            "stdin_is_tty": bool(sys.stdin and sys.stdin.isatty()),
+            "hook_input": hook_input,
+            "python": sys.version.split()[0],
+        }
+        path = os.path.join(os.path.dirname(CONFIG_PATH), "while-you-wait.debug.json")
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(info, f, indent=1, ensure_ascii=False)
+    except Exception:
+        pass
+
 def render(e, cfg):
     mode = cfg["mode"]
     width = cfg["width"]
@@ -322,6 +415,9 @@ def main():
     if not DATA_PATH or not os.path.isfile(DATA_PATH):
         return
     cfg = load_config()
+    hook_input = read_hook_input()
+    fmt = effective_format(cfg)
+    write_debug(cfg, hook_input, fmt)
     entries = load_entries()
     if not entries:
         return
@@ -331,7 +427,7 @@ def main():
 
     # Render and serialize *before* touching state or stdout: if anything
     # here raises, the state file is untouched and nothing is emitted.
-    message = render(e, cfg)
+    message = render_plain(e) if fmt == "plain" else render(e, cfg)
     if not isinstance(message, str) or not message.strip():
         return
     payload = json.dumps({"systemMessage": message})

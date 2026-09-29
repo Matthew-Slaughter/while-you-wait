@@ -23,8 +23,10 @@ RENDER="$ROOT/plugins/while-you-wait/scripts/render_devotional.py"
 [ -r "$RENDER" ] || exit 0
 command -v python3 >/dev/null 2>&1 || exit 0
 
-# Drain Codex's hook context JSON from stdin (we don't need it).
-cat >/dev/null
+# Codex's hook-context JSON on stdin is passed through to the renderer, which
+# reads it without blocking. Set WHILE_YOU_WAIT_FORMAT=plain (or the legacy
+# WHILE_YOU_WAIT_PLAIN=1) for the Codex desktop app; `auto` picks plain when
+# no terminal is detected.
 
 # Isolate config/state from the Claude Code plugin's ~/.claude paths.
 # Honors CODEX_HOME so multi-account setups (one CODEX_HOME per account)

@@ -570,3 +570,81 @@ class WorkflowTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class FormatTests(unittest.TestCase):
+    """`format` config: auto-detect app surfaces and render plain there."""
+
+    def _run(self, **env_over):
+        import subprocess, os, json
+        root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        env = dict(os.environ)
+        env["WHILE_YOU_WAIT_STATE"] = "/tmp/wyw-format-tests.state.json"
+        env.pop("WHILE_YOU_WAIT_FORMAT", None); env.pop("WHILE_YOU_WAIT_PLAIN", None)
+        for k, v in env_over.items():
+            if v is None:
+                env.pop(k, None)
+            else:
+                env[k] = v
+        out = subprocess.run(["bash", os.path.join(root, "plugins/while-you-wait/scripts/show-devotional.sh")],
+                             input=b'{"hook_event_name":"UserPromptSubmit","prompt":"x"}',
+                             capture_output=True, env=env, timeout=20).stdout
+        return json.loads(out)["systemMessage"]
+
+    def test_terminal_env_gets_box_with_color(self):
+        m = self._run(TERM="xterm-256color", CLAUDE_CODE_ENTRYPOINT="cli")
+        self.assertIn("\x1b[", m); self.assertIn("while you wait", m)
+
+    def test_app_like_env_gets_plain_two_lines(self):
+        m = self._run(TERM=None, CLAUDE_CODE_ENTRYPOINT=None)
+        self.assertNotIn("\x1b[", m); self.assertLessEqual(m.count("\n"), 1)
+        self.assertNotIn("╭", m); self.assertTrue(m.startswith("“"))
+
+    def test_non_cli_entrypoint_gets_plain_even_with_term(self):
+        m = self._run(TERM="xterm-256color", CLAUDE_CODE_ENTRYPOINT="desktop")
+        self.assertNotIn("\x1b[", m)
+
+    def test_explicit_format_overrides_detection(self):
+        self.assertNotIn("\x1b[", self._run(TERM="xterm-256color", CLAUDE_CODE_ENTRYPOINT="cli", WHILE_YOU_WAIT_FORMAT="plain"))
+        self.assertIn("\x1b[", self._run(TERM=None, CLAUDE_CODE_ENTRYPOINT=None, WHILE_YOU_WAIT_FORMAT="box"))
+
+    def test_legacy_plain_knob_still_works(self):
+        self.assertNotIn("\x1b[", self._run(TERM="xterm-256color", CLAUDE_CODE_ENTRYPOINT="cli", WHILE_YOU_WAIT_PLAIN="1"))
+
+    def test_open_stdin_never_hangs(self):
+        import subprocess, os, time
+        root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        env = dict(os.environ, WHILE_YOU_WAIT_STATE="/tmp/wyw-format-tests.state.json")
+        p = subprocess.Popen(["bash", os.path.join(root, "plugins/while-you-wait/scripts/show-devotional.sh")],
+                             stdin=subprocess.PIPE, stdout=subprocess.PIPE, env=env)
+        t = time.time()
+        p.wait(timeout=5)
+        self.assertLess(time.time() - t, 5); self.assertTrue(p.stdout.read().startswith(b"{"))
+
+
+class SkillTests(unittest.TestCase):
+    """The Chat/Cowork skill: builds, and its picker prints corpus text verbatim."""
+
+    def test_skill_zip_builds_and_picker_runs_from_it(self):
+        import subprocess, os, tempfile, zipfile, json
+        root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        out = os.path.join(tempfile.mkdtemp(), "skill.zip")
+        subprocess.run(["python3", os.path.join(root, "scripts/build-skill-zip.py"), "--out", out], check=True, capture_output=True)
+        d = tempfile.mkdtemp()
+        with zipfile.ZipFile(out) as z:
+            names = z.namelist(); z.extractall(d)
+        self.assertIn("while-you-wait/SKILL.md", names); self.assertIn("while-you-wait/data/devotionals.json", names)
+        pick = os.path.join(d, "while-you-wait/scripts/pick.py")
+        raw = json.loads(subprocess.run(["python3", pick, "--json", "--date", "2026-03-03"], capture_output=True, text=True).stdout)
+        txt = subprocess.run(["python3", pick, "--date", "2026-03-03"], capture_output=True, text=True).stdout
+        self.assertIn(raw["text"].replace("\n", " / "), txt); self.assertIn(raw["insight"], txt)
+        self.assertNotIn("\x1b[", txt)
+
+    def test_skill_frontmatter_limits(self):
+        import os, re
+        root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        s = open(os.path.join(root, "plugins/while-you-wait/skills/while-you-wait/SKILL.md"), encoding="utf-8").read()
+        fm = s.split("---")[1]
+        name = re.search(r"^name:\s*(.+)$", fm, re.M).group(1).strip()
+        desc = re.search(r"^description:\s*(.+)$", fm, re.M).group(1).strip()
+        self.assertLessEqual(len(name), 64); self.assertLessEqual(len(desc), 200)

@@ -16,18 +16,16 @@ ROOT="${CLAUDE_PLUGIN_ROOT:-$(cd "$(dirname "$0")/.." && pwd)}"
 DATA="$ROOT/data/devotionals.json"
 RENDER="$ROOT/scripts/render_devotional.py"
 
-# Drain the hook-context JSON Claude Code writes to stdin (we don't need it),
-# but never wait on a terminal if someone runs this by hand.
-if [ ! -t 0 ]; then
-  cat >/dev/null 2>&1 || true
-fi
+# The hook-context JSON Claude Code writes to stdin is passed straight through
+# to the renderer, which reads it without blocking (select with a short
+# timeout), so a stdin that never closes can never stall the hook.
 
 [ -r "$DATA" ] || exit 0
 [ -r "$RENDER" ] || exit 0
 command -v python3 >/dev/null 2>&1 || exit 0
 
 # Capture stdout only; stderr (tracebacks) is discarded, never forwarded.
-OUT="$(python3 "$RENDER" "$DATA" </dev/null 2>/dev/null)" || exit 0
+OUT="$(python3 "$RENDER" "$DATA" 2>/dev/null)" || exit 0
 [ -n "$OUT" ] || exit 0
 
 # Shape guard, independent of the renderer: parse as JSON, require a single

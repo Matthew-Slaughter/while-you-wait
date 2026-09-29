@@ -91,6 +91,8 @@ Each entry has a `kind` (`scripture` | `quote` | `creed` | `prayer` | `hymn`), a
 
 ## Install
 
+Everything below, with copy buttons, is on the landing page: [matthew-slaughter.github.io/while-you-wait](https://matthew-slaughter.github.io/while-you-wait/).
+
 ### Claude Code
 
 ```
@@ -105,6 +107,10 @@ To pull updates later:
 ```
 /plugin marketplace update while-you-wait
 ```
+
+### Claude Desktop: Chat and Cowork tabs
+
+Chat and Cowork have no per-prompt hook, so there the devotional is something Claude includes at the start of a conversation: one entry per day, chosen from the date, printed verbatim by a bundled script. Setup is three steps, once, on the landing page: [matthew-slaughter.github.io/while-you-wait](https://matthew-slaughter.github.io/while-you-wait/). In short: download the skill zip from that page and add it under Settings, Capabilities; paste one sentence into your personal preferences so Claude runs it in every conversation; optionally schedule a daily run in Cowork. The same skill ships inside the Claude Code plugin as `/while-you-wait:while-you-wait` for an on-demand entry.
 
 ### Codex CLI
 
@@ -144,6 +150,8 @@ Optional config file at `~/.claude/while-you-wait.json`:
 | `sound_file` | path to `.aiff` | `Glass.aiff` | Try `Tink.aiff`, `Ping.aiff`, `Submarine.aiff` |
 | `sound_volume` | `0.0`–`1.0` | `0.2` | Soft is good — this fires every prompt |
 | `width` | `40`–`100` | `64` | Box width in columns |
+| `format` | `auto` \| `box` \| `plain` | `auto` | `plain` is two lines, no color, no box: for the Claude Code desktop app, IDE extensions and the Codex app, which show hook messages as notifications. `auto` picks it when no terminal is detected |
+| `debug` | `true` \| `false` | `false` | Writes `~/.claude/while-you-wait.debug.json` (environment, hook input, chosen format) to diagnose rendering on a new client |
 
 **Modes** (border style only — no animation in any mode)
 - `minimal` — single-line top and bottom rules, no box corners
@@ -153,6 +161,9 @@ Optional config file at `~/.claude/while-you-wait.json`:
 **Env var overrides** (useful for one-off testing):
 - `WHILE_YOU_WAIT_MODE=reverent`
 - `WHILE_YOU_WAIT_SOUND=on`
+- `WHILE_YOU_WAIT_FORMAT=plain`
+
+**Desktop app and IDE extensions.** Those surfaces show a hook's message as a plain notification: terminal color codes print raw and each line can be prefixed with the event name. The plugin detects the absence of a terminal and switches to the two-line `plain` format automatically; set `"format": "plain"` in the config file if it guesses wrong.
 
 ## Customize the corpus
 
