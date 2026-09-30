@@ -95,6 +95,20 @@ Everything below, with copy buttons, is on the landing page: [matthew-slaughter.
 
 ### Claude Code
 
+One line in a terminal:
+
+```bash
+curl -fsSL https://matthew-slaughter.github.io/while-you-wait/install.sh | sh
+```
+
+The [script](site/install.sh) only runs Claude Code's own plugin commands, which you can run yourself instead:
+
+```bash
+claude plugin marketplace add Matthew-Slaughter/while-you-wait && claude plugin install while-you-wait@while-you-wait
+```
+
+Or inside any Claude Code session (terminal or desktop app):
+
 ```
 /plugin marketplace add Matthew-Slaughter/while-you-wait
 /plugin install while-you-wait@while-you-wait

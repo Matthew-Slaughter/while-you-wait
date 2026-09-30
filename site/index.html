@@ -51,7 +51,11 @@
   <p>Every entry is verbatim from a source you can open, and every reflection leads with a real human voice. <a href="https://github.com/Matthew-Slaughter/while-you-wait/blob/main/docs/CURATION.md">How the corpus is curated</a> explains what each entry has to pass. Nothing is sent anywhere; the corpus lives on your machine.</p>
 
   <h2>Claude Code (terminal) and Claude Desktop (Code tab)</h2>
-  <p>Type these two lines into any session, then start a new session. Same steps in the terminal and in the desktop app, which share one configuration.</p>
+  <p>One line in a terminal, then start a new session:</p>
+  <div class="copy"><pre id="one">curl -fsSL https://matthew-slaughter.github.io/while-you-wait/install.sh | sh</pre><button data-copy="one">Copy</button></div>
+  <p class="note">The <a href="install.sh">script</a> is forty lines and only runs Claude Code's own plugin commands. Prefer to type them yourself? Either of these does the same thing:</p>
+  <div class="copy"><pre id="cli">claude plugin marketplace add Matthew-Slaughter/while-you-wait &amp;&amp; claude plugin install while-you-wait@while-you-wait</pre><button data-copy="cli">Copy</button></div>
+  <p class="note">Or inside any Claude Code session, terminal or desktop app, which share one configuration:</p>
   <div class="copy"><pre id="cc">/plugin marketplace add Matthew-Slaughter/while-you-wait
 /plugin install while-you-wait@while-you-wait</pre><button data-copy="cc">Copy</button></div>
   <p class="note">To get new entries automatically: <code>/plugin</code>, Marketplaces, while-you-wait, Enable auto-update. Otherwise run <code>/plugin marketplace update while-you-wait</code> and <code>/plugin update while-you-wait@while-you-wait</code> now and then.</p>
