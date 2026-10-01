@@ -4,95 +4,104 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>while you wait</title>
-<meta name="description" content="A verse, a catechism answer, a hymn stanza or a theologian's line, every time you press enter. For Claude Code, Claude Desktop, Codex and Antigravity.">
+<meta name="description" content="A verse, a catechism answer, a hymn stanza or a theologian's line each time you press enter in Claude Code. Every word traceable to its source.">
 <style>
-  :root {
-    --bg: #faf8f3; --fg: #1f1d1a; --muted: #6b665d; --rule: #e3ded3; --accent: #7a5c1e; --box: #ffffff; --code: #f1ede4;
-  }
+  :root { --bg: #fff; --fg: #111; --mid: #555; --rule: #111; --soft: #ddd; }
   @media (prefers-color-scheme: dark) {
-    :root:not([data-theme="light"]) { --bg: #16150f; --fg: #ece7dc; --muted: #a39d90; --rule: #2d2b24; --accent: #d9b35a; --box: #1d1c15; --code: #24221a; }
+    :root:not([data-theme="light"]) { --bg: #111; --fg: #f2f2f2; --mid: #a8a8a8; --rule: #f2f2f2; --soft: #333; }
   }
-  :root[data-theme="dark"] { --bg: #16150f; --fg: #ece7dc; --muted: #a39d90; --rule: #2d2b24; --accent: #d9b35a; --box: #1d1c15; --code: #24221a; }
-  * { box-sizing: border-box; }
-  body { margin: 0; background: var(--bg); color: var(--fg); font: 17px/1.6 Georgia, "Iowan Old Style", "Times New Roman", serif; }
-  main { max-width: 720px; margin: 0 auto; padding: 48px 16px 80px; }
-  h1 { font-weight: normal; font-size: 2.2rem; margin: 0 0 4px; letter-spacing: .01em; }
-  .tag { color: var(--muted); margin: 0 0 32px; }
-  h2 { font-weight: normal; font-size: 1.35rem; margin: 44px 0 10px; border-top: 1px solid var(--rule); padding-top: 22px; }
-  h3 { font-weight: normal; font-size: 1.05rem; margin: 22px 0 6px; color: var(--accent); }
-  p { margin: 0 0 12px; }
-  .sample { background: var(--box); border: 1px solid var(--rule); border-radius: 10px; padding: 18px 20px; margin: 18px 0 26px; }
-  .sample .t { font-style: italic; }
-  .sample .c, .sample .i { color: var(--muted); font-size: .95rem; }
-  .sample .i { color: var(--fg); margin-top: 10px; font-size: 1rem; }
-  pre { background: var(--code); border-radius: 8px; padding: 12px 14px; overflow-x: auto; font: 14px/1.5 ui-monospace, SFMono-Regular, Menlo, monospace; margin: 8px 0 14px; }
-  code { font: 14px ui-monospace, SFMono-Regular, Menlo, monospace; background: var(--code); padding: 1px 5px; border-radius: 4px; }
-  ol, ul { padding-left: 22px; margin: 0 0 12px; }
-  li { margin: 4px 0; }
-  a { color: var(--accent); }
-  .btn { display: inline-block; background: var(--accent); color: var(--bg); text-decoration: none; padding: 10px 18px; border-radius: 8px; font-family: system-ui, sans-serif; font-size: .95rem; margin: 6px 0 14px; }
-  .note { color: var(--muted); font-size: .95rem; }
-  .copy { display: flex; gap: 8px; align-items: flex-start; }
-  .copy button { font: 13px system-ui, sans-serif; padding: 6px 10px; border: 1px solid var(--rule); background: var(--box); color: var(--fg); border-radius: 6px; cursor: pointer; margin-top: 8px; white-space: nowrap; }
-  footer { margin-top: 56px; color: var(--muted); font-size: .9rem; border-top: 1px solid var(--rule); padding-top: 18px; }
+  :root[data-theme="dark"] { --bg: #111; --fg: #f2f2f2; --mid: #a8a8a8; --rule: #f2f2f2; --soft: #333; }
+  html { background: var(--bg); }
+  body { margin: 0; color: var(--fg); background: var(--bg); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 17px; line-height: 1.45; -webkit-font-smoothing: antialiased; }
+  main { max-width: 680px; margin: 0 auto; padding: 56px 16px 72px; }
+  h1 { font-size: 44px; line-height: 1; font-weight: 700; letter-spacing: -0.02em; margin: 0 0 20px; }
+  .lede { font-size: 22px; line-height: 1.3; margin: 0 0 40px; max-width: 600px; }
+  h2 { font-size: 15px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; margin: 48px 0 12px; padding-top: 14px; border-top: 2px solid var(--rule); }
+  p { margin: 0 0 12px; max-width: 600px; }
+  ol { padding-left: 20px; margin: 0 0 12px; max-width: 600px; }
+  li { margin: 0 0 6px; }
+  a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
+  .entry { margin: 0 0 8px; padding: 0 0 0 16px; border-left: 2px solid var(--rule); max-width: 600px; }
+  .entry p { margin: 0 0 8px; }
+  .entry .ref { color: var(--mid); }
+  .cmd { position: relative; margin: 10px 0 16px; }
+  pre { margin: 0; padding: 12px 64px 12px 14px; border: 1px solid var(--rule); font-family: "SF Mono", Menlo, Consolas, monospace; font-size: 14px; line-height: 1.5; overflow-x: auto; white-space: pre; }
+  code { font-family: "SF Mono", Menlo, Consolas, monospace; font-size: 15px; }
+  .cmd button { position: absolute; top: 0; right: 0; height: 100%; padding: 0 12px; border: 0; border-left: 1px solid var(--rule); background: var(--bg); color: var(--fg); font: inherit; font-size: 13px; cursor: pointer; }
+  .cmd button:hover { background: var(--fg); color: var(--bg); }
+  .small { font-size: 15px; color: var(--mid); }
+  table { border-collapse: collapse; margin: 8px 0 16px; font-size: 15px; }
+  td { padding: 4px 24px 4px 0; vertical-align: top; border-top: 1px solid var(--soft); }
+  td:first-child { font-family: "SF Mono", Menlo, Consolas, monospace; font-size: 14px; white-space: nowrap; }
+  footer { margin-top: 56px; padding-top: 14px; border-top: 2px solid var(--rule); font-size: 15px; }
+  footer p { margin: 0 0 6px; }
 </style>
 </head>
 <body>
 <main>
   <h1>while you wait</h1>
-  <p class="tag">Devotional companionship for Christians who work with AI. A verse, a catechism answer, a hymn stanza or a theologian's line, every time you press enter.</p>
+  <p class="lede">A verse, a catechism answer, a hymn stanza or a theologian's line, each time you press enter in Claude Code.</p>
 
-  <div class="sample">
-    <div class="t">“Be still, and know that I am God. I will be exalted among the nations, I will be exalted in the earth!”</div>
-    <div class="c">— Psalm 46:10 (ESV)</div>
-    <div class="i">Calvin: stillness is not idleness but the soul&#x27;s posture before sovereignty. The Hebrew verb (rapha) means to let your hands drop, to cease striving — not absence of action but renouncement of self-rescue. While you wait, drop your hands; God runs the universe whether or not you are gripping the wheel.</div>
+  <div class="entry">
+    <p>“The LORD is my shepherd; I shall not want.”</p>
+    <p class="ref">Psalm 23:1 (ESV)</p>
+    <p>Spurgeon: &#x27;I shall not want&#x27; is the conclusion of a syllogism whose premise is the Shepherd. The Shepherd determines the supply, not your shortage. To want is to forget Whose flock you are in.</p>
   </div>
+  <p class="small">An entry from the corpus. 1,682 of them: 499 verses, 289 quotations, 701 creed and catechism answers, 193 hymn stanzas.</p>
 
-  <p>Every entry is verbatim from a source you can open, and every reflection leads with a real human voice. <a href="https://github.com/Matthew-Slaughter/while-you-wait/blob/main/docs/CURATION.md">How the corpus is curated</a> explains what each entry has to pass. Nothing is sent anywhere; the corpus lives on your machine.</p>
-
-  <h2>Claude Code (terminal) and Claude Desktop (Code tab)</h2>
-  <p>One line in a terminal, then start a new session:</p>
-  <div class="copy"><pre id="one">curl -fsSL https://matthew-slaughter.github.io/while-you-wait/install.sh | sh</pre><button data-copy="one">Copy</button></div>
-  <p class="note">The <a href="install.sh">script</a> is forty lines and only runs Claude Code's own plugin commands. Prefer to type them yourself? Either of these does the same thing:</p>
-  <div class="copy"><pre id="cli">claude plugin marketplace add Matthew-Slaughter/while-you-wait &amp;&amp; claude plugin install while-you-wait@while-you-wait</pre><button data-copy="cli">Copy</button></div>
-  <p class="note">Or inside any Claude Code session, terminal or desktop app, which share one configuration:</p>
-  <div class="copy"><pre id="cc">/plugin marketplace add Matthew-Slaughter/while-you-wait
+  <h2>Install</h2>
+  <p>One line in a terminal. Then start a new session.</p>
+  <div class="cmd"><pre id="one">curl -fsSL https://matthew-slaughter.github.io/while-you-wait/install.sh | sh</pre><button data-copy="one">Copy</button></div>
+  <p class="small">The <a href="install.sh">script</a> is forty lines. It checks for the <code>claude</code> command and runs the two plugin commands below. It downloads nothing itself.</p>
+  <p>Without the script:</p>
+  <div class="cmd"><pre id="cli">claude plugin marketplace add Matthew-Slaughter/while-you-wait &amp;&amp; claude plugin install while-you-wait@while-you-wait</pre><button data-copy="cli">Copy</button></div>
+  <p>Or inside a session, in the terminal or in the desktop app's Code tab. They share one configuration.</p>
+  <div class="cmd"><pre id="cc">/plugin marketplace add Matthew-Slaughter/while-you-wait
 /plugin install while-you-wait@while-you-wait</pre><button data-copy="cc">Copy</button></div>
-  <p class="note">To get new entries automatically: <code>/plugin</code>, Marketplaces, while-you-wait, Enable auto-update. Otherwise run <code>/plugin marketplace update while-you-wait</code> and <code>/plugin update while-you-wait@while-you-wait</code> now and then.</p>
+  <p class="small">New entries arrive when you update the plugin. To have that happen on its own: <code>/plugin</code>, Marketplaces, while-you-wait, Enable auto-update.</p>
 
-  <h2>Claude Desktop, Chat and Cowork tabs</h2>
-  <p>Chat and Cowork have no per-prompt hook, so here the devotional is something Claude includes at the start of a conversation. It is one entry per day, the same all day, chosen from the date. Three steps, once.</p>
-  <h3>1. Add the skill</h3>
-  <a class="btn" href="while-you-wait-skill.zip" download>Download the skill (zip)</a>
-  <p>In claude.ai or the desktop app: Settings, Capabilities (or Skills), <em>Add custom skill</em>, and upload the zip. The zip holds the same corpus as the plugin and a small script that picks the day's entry.</p>
-  <h3>2. Ask for it every conversation</h3>
-  <p>Add this sentence to Settings, Profile, personal preferences. Claude reads it in every conversation.</p>
-  <div class="copy"><pre id="pref">Begin each new conversation by running the while-you-wait skill and showing its entry, verbatim, before anything else.</pre><button data-copy="pref">Copy</button></div>
-  <h3>3. Optional: a daily one in Cowork</h3>
-  <p>In Cowork, schedule a recurring task with the prompt below. Each morning's run appears in the Scheduled list.</p>
-  <div class="copy"><pre id="cw">Run the while-you-wait skill and show today's entry verbatim. Then stop.</pre><button data-copy="cw">Copy</button></div>
-  <p class="note">Because Claude decides when a skill applies, an occasional conversation may open without it. Say “give me a verse” and it will.</p>
+  <h2>What it is</h2>
+  <p>A hook that runs when you submit a prompt. It picks one entry and prints it to your terminal. The entry is not sent to the model and does not change what Claude does. There is no network call and no account.</p>
+  <p>The text is never written by a model. Scripture is checked against the published translation. Every quotation, creed and hymn is copied from a source you can open, and a script proves the words are there before an entry can ship. The reflection under each entry is one or two sentences, written to be read in the time it takes Claude to answer. <a href="https://github.com/Matthew-Slaughter/while-you-wait/blob/main/docs/CURATION.md">How the corpus was built</a>, including the audit that found fabricated quotations in the first version and what was done about it.</p>
 
-  <h2>Codex CLI and the Codex app</h2>
-  <p>Clone the repo and add the hook from <a href="https://github.com/Matthew-Slaughter/while-you-wait/blob/main/codex/README.md">codex/README.md</a> to <code>~/.codex/config.toml</code>. The first time, Codex asks you to approve the new hook. The renderer switches to a plain two-line format in the app automatically.</p>
+  <h2>Claude Desktop: Chat and Cowork</h2>
+  <p>Those tabs have no hook. There, the devotional is something Claude includes at the start of a conversation: one entry per day, the same all day, printed by a small script. Three steps, once.</p>
+  <ol>
+    <li>Download the skill: <a href="while-you-wait-skill.zip">while-you-wait-skill.zip</a>. In the desktop app or claude.ai, go to Customize, Skills, Add, and upload it. Code execution must be on, under Settings, Capabilities.</li>
+    <li>Add one sentence to Settings, Profile, personal preferences, so Claude runs the skill in every conversation:</li>
+  </ol>
+  <div class="cmd"><pre id="pref">Begin each new conversation by running the while-you-wait skill and showing its entry, verbatim, before anything else.</pre><button data-copy="pref">Copy</button></div>
+  <ol start="3">
+    <li>For a daily one in Cowork, schedule a recurring task with this prompt. Each run appears in the Scheduled list.</li>
+  </ol>
+  <div class="cmd"><pre id="cw">Run the while-you-wait skill and show today's entry verbatim. Then stop.</pre><button data-copy="cw">Copy</button></div>
+  <p class="small">Claude decides when a skill applies, so a conversation may now and then open without one. Ask for a verse and it will.</p>
+
+  <h2>Codex</h2>
+  <p>Clone the repository and add the hook from <a href="https://github.com/Matthew-Slaughter/while-you-wait/blob/main/codex/README.md">codex/README.md</a> to <code>~/.codex/config.toml</code>. Codex asks you to approve the new hook once. In the Codex app the entry prints as two plain lines.</p>
 
   <h2>Antigravity and VS Code</h2>
-  <p>Build and sideload the extension from <a href="https://github.com/Matthew-Slaughter/while-you-wait/blob/main/antigravity/README.md">antigravity/README.md</a>. It adds a status-bar button and a <em>Show Devotional</em> command.</p>
+  <p>Build and install the extension from <a href="https://github.com/Matthew-Slaughter/while-you-wait/blob/main/antigravity/README.md">antigravity/README.md</a>. It adds a status bar button and a Show Devotional command.</p>
 
   <h2>Settings</h2>
-  <p>Optional file at <code>~/.claude/while-you-wait.json</code>:</p>
-  <pre>{ "mode": "rich", "format": "auto", "sound": false, "width": 64 }</pre>
-  <p class="note"><code>mode</code> is the box style in a terminal (minimal, rich, reverent). <code>format</code> is auto, box or plain; plain is used automatically where no terminal is detected, such as the desktop app.</p>
+  <p>Optional, in <code>~/.claude/while-you-wait.json</code>.</p>
+  <table>
+    <tr><td>mode</td><td>Box style in a terminal: minimal, rich or reverent.</td></tr>
+    <tr><td>format</td><td>auto, box or plain. Plain is two lines with no color. Auto uses it where there is no terminal, such as the desktop app.</td></tr>
+    <tr><td>width</td><td>Box width in columns, 40 to 100.</td></tr>
+    <tr><td>sound</td><td>true plays a quiet chime on macOS.</td></tr>
+  </table>
 
   <footer>
-    <p>MIT licensed. Source, corpus and the audit that started the re-sourcing: <a href="https://github.com/Matthew-Slaughter/while-you-wait">github.com/Matthew-Slaughter/while-you-wait</a>. Scripture credit lines and translation limits: <a href="LICENSES.md">LICENSES.md</a>.</p>
+    <p>MIT license. Source and corpus: <a href="https://github.com/Matthew-Slaughter/while-you-wait">github.com/Matthew-Slaughter/while-you-wait</a></p>
+    <p>Scripture credit lines and translation limits: <a href="LICENSES.md">LICENSES.md</a></p>
   </footer>
 </main>
 <script>
   document.querySelectorAll('button[data-copy]').forEach(function (b) {
     b.addEventListener('click', function () {
       var t = document.getElementById(b.getAttribute('data-copy')).textContent;
-      try { navigator.clipboard.writeText(t).then(function () { b.textContent = 'Copied'; setTimeout(function () { b.textContent = 'Copy'; }, 1500); }); } catch (e) {}
+      try { navigator.clipboard.writeText(t).then(function () { b.textContent = 'Copied'; setTimeout(function () { b.textContent = 'Copy'; }, 1200); }); } catch (e) {}
     });
   });
 </script>
